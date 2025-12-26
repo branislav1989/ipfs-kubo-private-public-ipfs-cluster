@@ -1,0 +1,10 @@
+# data directories (local paths in examples)
+/var/lib/ipfs/
+/var/lib/ipfs-cluster/
+/etc/ipfs/
+/etc/ipfs-cluster/
+/secrets/
+/logs/
+
+# Misc
+.DS_Store

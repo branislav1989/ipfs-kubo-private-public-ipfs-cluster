@@ -1,0 +1,15 @@
+[Unit]
+Description=IPFS Kubo (private) daemon
+After=network.target
+
+[Service]
+# Ensure IPFS_PATH points at the private repo and the swarm.key is present there
+Environment="IPFS_PATH=/var/lib/ipfs/private"
+ExecStart=/usr/local/bin/ipfs daemon --enable-gc
+User=ipfs
+Restart=on-failure
+RestartSec=10
+LimitNOFILE=65536
+
+[Install]
+WantedBy=multi-user.target
