@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Primary Meta Tags -->
+    <title>DataHosting.Company - Decentralized IPFS Storage with Bitcoin Payments | €0.07/GB</title>
+    <meta name="title" content="DataHosting.Company - Decentralized IPFS Storage with Bitcoin Payments | €0.07/GB">
+    <meta name="description" content="Privacy-focused IPFS hosting starting at €0.07/GB/month. Pay with Bitcoin. No KYC required. Public & private pinning, cluster backups with replica redundancy. 7-day grace period.">
+    <meta name="keywords" content="IPFS hosting, decentralized storage, Bitcoin payments, IPFS pinning, private IPFS, IPFS cluster, no KYC storage, cryptocurrency hosting, Web3 storage, distributed storage, cheap IPFS hosting, anonymous storage">
+    <meta name="author" content="DataHosting.Company">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="https://datahosting.company/">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://datahosting.company/">
+    <meta property="og:title" content="DataHosting.Company - Decentralized IPFS Storage with Bitcoin Payments">
+    <meta property="og:description" content="Privacy-focused IPFS hosting starting at €0.07/GB/month. Pay with Bitcoin. No KYC required. Public & private pinning, cluster backups with replica redundancy.">
+    <meta property="og:image" content="https://datahosting.company/og-image.png">
+    <meta property="og:site_name" content="DataHosting.Company">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://datahosting.company/">
+    <meta name="twitter:title" content="DataHosting.Company - Decentralized IPFS Storage with Bitcoin Payments">
+    <meta name="twitter:description" content="Privacy-focused IPFS hosting starting at €0.07/GB/month. Pay with Bitcoin. No KYC required.">
+    <meta name="twitter:image" content="https://datahosting.company/og-image.png">
+    
+    <!-- JSON-LD Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "DataHosting.Company",
+      "description": "Decentralized IPFS hosting service with Bitcoin payments",
+      "url": "https://datahosting.company",
+      "logo": "https://datahosting.company/logo.png",
+      "sameAs": [],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Customer Service",
+        "url": "https://datahosting.company"
+      },
+      "offers": {
+        "@type": "Offer",
+        "name": "IPFS Storage Services",
+        "price": "0.07",
+        "priceCurrency": "EUR",
+        "description": "Decentralized IPFS storage per GB per month"
+      }
+    }
+    </script>
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to datahosting.company Storage</h1>
+        <p>This guide explains how to get your credentials and use our two core services: the <strong>Public IPFS Pinning Service</strong> and the <strong>Private IPFS Backup Service</strong>.</p>
+
+        <hr>
+
+        <section id="get-credentials">
+            <h2>Step 1: Get Your API Credentials</h2>
+            <p>Generate your unique API credentials with a single command. <strong>Save these credentials in a secure password manager immediately.</strong></p>
+            <pre><code>curl -X POST https://api.datahosting.company/register</code></pre>
+            <p>This is the <strong>only time</strong> your `api_secret`, `dashboard_token`, and `ipfs_access_hash` will be shown.</p>
+            <pre><code>{
+  "api_key": "YOUR_UNIQUE_API_KEY",
+  "api_secret": "YOUR_UNIQUE_API_SECRET",
+  "dashboard_token": "YOUR_UNIQUE_DASHBOARD_TOKEN",
+  "ipfs_access_hash": "YOUR_UNIQUE_IPFS_ACCESS_HASH"
+}</code></pre>
+            <p><strong>Note:</strong> The `ipfs_access_hash` is used internally to prevent unauthorized access to your files. Keep it secure along with your other credentials.</p>
+        </section>
+
+        <hr>
+
+        <section id="billing">
+            <h2>Step 2: How Billing Works (Crucial Information)</h2>
+            <div class="critical-warning">
+                <p><strong>You must add credit before using any services.</strong> Your account is created with a zero balance.</p>
+            </div>
+            
+            <h3>Payment Method vs. Account Balance</h3>
+            <ul>
+                <li>We only accept <strong>Bitcoin (BTC)</strong> for payments.</li>
+                <li>Your account balance, all service prices, and costs are calculated and displayed in <strong>Euros (EUR)</strong>.</li>
+                <li>When you send a BTC payment, it is converted to EUR at the time of confirmation and added to your account credit balance.</li>
+            </ul>
+
+            <h3>Dashboard</h3>
+            <p>Use your `dashboard_token` to access your secure web portal at <strong>https://dashboard.datahosting.company</strong>. Here you can find your unique BTC deposit address, view your current EUR balance, and see your billing history.</p>
+        </section>
+
+        <hr>
+
+        <section id="ipfs-kubo">
+            <h2>Service 1: IPFS Kubo Pinning (Private & Public)</h2>
+            <p>This service pins files to IPFS with configurable privacy settings. Choose between <strong>private</strong> (internal access only) or <strong>public</strong> (gateway accessible) networks.</p>
+
+            <h3>Storage Pricing (PREPAID)</h3>
+            <div class="pricing-box">
+                <p><strong>Price:</strong> €0.07 per GB per month</p>
+                <p><strong>Applies to:</strong> Both Private and Public networks</p>
+            </div>
+            <ul>
+                <li>Choose retention period: <strong>1 or 2 months</strong></li>
+                <li><strong>Charged upfront:</strong> File_Size × €0.07 × Retention_Months</li>
+                <li>Example: 100 GB for 2 months = 100 × €0.07 × 2 = <strong>€14.00</strong></li>
+                <li>Files automatically unpinned after retention period expires</li>
+            </ul>
+
+            <h3>Bandwidth Pricing</h3>
+            <div class="pricing-box">
+                <p><strong>FREE:</strong> 1 GB per month (shared across all services)</p>
+                <p><strong>Private Network:</strong> €0.02 per GB (after free allowance)</p>
+                <p><strong>Public Network:</strong> €0.10 per GB (after free allowance)</p>
+            </div>
+            <ul>
+                <li>Each account receives <strong>1 GB free bandwidth</strong> every month</li>
+                <li>Bandwidth resets monthly</li>
+                <li>Charged immediately when files are accessed</li>
+            </ul>
+            
+            <h3>How to Pin a File</h3>
+            <pre><code>curl -X POST https://api.datahosting.company/api/pins \
+     -H "X-API-KEY: YOUR_API_KEY" \
+     -H "X-API-SECRET: YOUR_API_SECRET" \
+     -F "file=@/path/to/your/file.jpg" \
+     -F "retention_months=1" \
+     -F "private=true"</code></pre>
+            
+            <h3>Grace Period & Expiration</h3>
+            <div class="warning">
+                <p><strong>If your balance reaches €0:</strong></p>
+                <ul>
+                    <li>All pins immediately unpinned</li>
+                    <li><strong>7-day grace period</strong> begins</li>
+                    <li>Add credits within 7 days → pins restored automatically (free)</li>
+                    <li>After 7 days → <strong>Account and all data permanently deleted</strong></li>
+                </ul>
+                <p><strong>After retention period ends:</strong> Files automatically unpinned and deleted.</p>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="ipfs-cluster">
+            <h2>Service 2: IPFS Cluster Backups (Monthly Billing with Replicas)</h2>
+            <p>This service is for <strong>long-term backups with configurable redundancy</strong>. Choose 1, 2, or 3 replicas based on your availability needs.</p>
+            
+            <h3>Storage Pricing (Monthly Billing)</h3>
+            <div class="pricing-box">
+                <p><strong>Daily Rate:</strong> €0.0005125 per GB per day</p>
+                <p><strong>Monthly Rate:</strong> €0.0156 per GB per month (30.4375 days average)</p>
+            </div>
+            <p><strong>Formula:</strong> Storage_GB × Replicas × €0.0005125 × Days_Stored</p>
+
+            <h3>Replica Options</h3>
+            <div class="pricing-box">
+                <p><strong>1 Replica (Standard):</strong> Basic protection</p>
+                <p><strong>2 Replicas (High Availability):</strong> 2× cost, survives 1 node failure</p>
+                <p><strong>3 Replicas (Maximum Redundancy):</strong> 3× cost, survives 2 node failures</p>
+            </div>
+
+            <h4>Pricing Examples for 6,000 GB (Full Month):</h4>
+            <ul>
+                <li><strong>1 Replica:</strong> 6,000 × 1 × €0.0005125 × 30.4375 = <strong>€93.60/month</strong></li>
+                <li><strong>2 Replicas:</strong> 6,000 × 2 × €0.0005125 × 30.4375 = <strong>€187.20/month</strong></li>
+                <li><strong>3 Replicas:</strong> 6,000 × 3 × €0.0005125 × 30.4375 = <strong>€280.80/month</strong></li>
+            </ul>
+
+            <h4>Partial Month Example (15 days):</h4>
+            <ul>
+                <li><strong>1 Replica:</strong> 6,000 × 1 × €0.0005125 × 15 = <strong>€46.13</strong></li>
+            </ul>
+
+            <h4>Mid-Month Replica Change Example:</h4>
+            <ul>
+                <li><strong>Days 1-15:</strong> 6,000 GB × 1 replica × 15 days = €46.13</li>
+                <li><strong>Days 16-30:</strong> 6,000 GB × 3 replicas × 15.4375 days = €141.66</li>
+                <li><strong>Total:</strong> €187.79 (prorated by days)</li>
+            </ul>
+
+            <h3>How It Works</h3>
+            <ol>
+                <li><strong>Upload backup:</strong> No upfront charge, must have positive balance</li>
+                <li><strong>Dashboard shows estimate:</strong> Real-time cost calculation</li>
+                <li><strong>End of month:</strong> Charged for actual days × replicas</li>
+                <li><strong>Change replicas anytime:</strong> Cost prorated by days</li>
+            </ol>
+
+            <h3>How to Create a Backup</h3>
+            <pre><code>curl -X POST https://api.datahosting.company/api/cluster/backup \
+     -H "X-API-KEY: YOUR_API_KEY" \
+     -H "X-API-SECRET: YOUR_API_SECRET" \
+     -F "file=@/path/to/your/archive.zip" \
+     -F "replica_count=2" \
+     -F "retention_days=365"</code></pre>
+            <p><strong>Note:</strong> <code>retention_days</code> is required. Choose how many days to store (e.g., 30 for 1 month, 365 for 1 year, 730 for 2 years)</p>
+
+            <h3>Grace Period</h3>
+            <div class="critical-warning">
+                <p><strong>If your balance reaches €0:</strong></p>
+                <ul>
+                    <li><strong>7-day grace period</strong> begins</li>
+                    <li>Add credits to continue service</li>
+                    <li>After 7 days: <strong>All backups, replicas, and account permanently deleted</strong></li>
+                </ul>
+            </div>
+        </section>
+
+        <footer>
+            <p>Please manage your credits and backups responsibly.</p>
+        </footer>
+    </div>
+</body>
+</html>

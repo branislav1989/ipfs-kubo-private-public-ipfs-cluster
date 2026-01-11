@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - DataHosting.Company</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px 10px 0 0;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 40px;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+        
+        .content h2 {
+            color: #333;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 24px;
+        }
+        
+        .content h3 {
+            color: #555;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+        
+        .content p {
+            color: #666;
+            line-height: 1.8;
+            margin-bottom: 15px;
+        }
+        
+        .content ul {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+        
+        .content li {
+            color: #666;
+            line-height: 1.8;
+            margin-bottom: 8px;
+        }
+        
+        .warning-box {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .warning-box h3 {
+            color: #856404;
+            margin-top: 0;
+        }
+        
+        .warning-box p {
+            color: #856404;
+        }
+        
+        .footer {
+            padding: 30px 40px;
+            border-top: 1px solid #eee;
+            background: #f9f9f9;
+            border-radius: 0 0 10px 10px;
+        }
+        
+        .checkbox-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: white;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        
+        .checkbox-container:hover {
+            border-color: #667eea;
+        }
+        
+        .checkbox-container input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+            margin-right: 15px;
+            cursor: pointer;
+        }
+        
+        .checkbox-container label {
+            cursor: pointer;
+            color: #333;
+            font-size: 16px;
+        }
+        
+        .btn-container {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .btn {
+            flex: 1;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .btn-accept {
+            background: #667eea;
+            color: white;
+        }
+        
+        .btn-accept:hover:not(:disabled) {
+            background: #5568d3;
+        }
+        
+        .btn-accept:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        
+        .btn-decline {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .btn-decline:hover {
+            background: #5a6268;
+        }
+        
+        .last-updated {
+            color: #999;
+            font-size: 14px;
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📜 Terms of Service</h1>
+            <p>Please read carefully before using DataHosting.Company</p>
+        </div>
+        
+        <div class="content">
+            <p><strong>Last Updated:</strong> December 31, 2025</p>
+            
+            <h2>1. Acceptance of Terms</h2>
+            <p>By accessing or using DataHosting.Company services, you agree to be bound by these Terms of Service. If you do not agree to these terms, you must not use our services.</p>
+            
+            <h2>2. Service Description</h2>
+            
+            <h3>2.1 IPFS Kubo Storage Service</h3>
+            <p>Decentralized IPFS storage with flexible retention periods. Choose between private (authenticated) and public (open access) storage.</p>
+            <ul>
+                <li><strong>Access Methods:</strong></li>
+                <ul>
+                    <li><strong>Public Gateway:</strong> https://ipfs.datahosting.company/ipfs/CID</li>
+                    <li><strong>Private Gateway:</strong> https://private.datahosting.company/ipfs/CID (requires authentication)</li>
+                </ul>
+                <li><strong>Storage Type:</strong> Single node (no built-in replication)</li>
+                <li><strong>Total Capacity:</strong> 100TB available for general purposes</li>
+                <li><strong>Billing Method:</strong> Prepaid model with retention periods</li>
+            </ul>
+            
+            <h3>2.2 IPFS Cluster Service</h3>
+            <p><strong>NOW AVAILABLE!</strong> Multi-node replicated storage for high availability with distributed redundancy (1-3 replicas).</p>
+            <ul>
+                <li><strong>Replicas:</strong> Choose 1, 2, or 3 replicas for your data</li>
+                <li><strong>Storage Type:</strong> Distributed across multiple cluster nodes</li>
+                <li><strong>Billing Method:</strong> Monthly deductions from cluster balance</li>
+                <li><strong>High Availability:</strong> Your data remains accessible even if one node fails</li>
+            </ul>
+            
+            <h2>3. Pricing Structure</h2>
+            
+            <h3>3.1 IPFS Kubo Storage - Retention-Based Pricing</h3>
+            <p><strong>Both Private and Public access have the same storage pricing.</strong></p>
+            
+            <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+                <thead style="background: #007bff; color: white;">
+                    <tr>
+                        <th style="padding: 12px; border: 1px solid #ddd;">Retention Period</th>
+                        <th style="padding: 12px; border: 1px solid #ddd;">Price per GB per Month</th>
+                        <th style="padding: 12px; border: 1px solid #ddd;">Discount</th>
+                        <th style="padding: 12px; border: 1px solid #ddd;">Example: 100GB Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>1 Month</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€0.10/GB</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">-</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€10.00 upfront</td>
+                    </tr>
+                    <tr style="background: #f8f9fa;">
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>2 Months</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€0.09/GB</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">10% OFF</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€18.00 upfront</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>6 Months</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€0.07/GB</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>30% OFF ⭐</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€42.00 upfront</td>
+                    </tr>
+                    <tr style="background: #d4edda;">
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>12 Months</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€0.05/GB</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>50% OFF ⭐ BEST VALUE</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€60.00 upfront</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p><strong>Storage Pricing Details:</strong></p>
+            <ul>
+                <li><strong>€0.10 per GB per month</strong> for 1-month retention (flexible, no commitment)</li>
+                <li><strong>€0.09 per GB per month</strong> for 2-month retention (10% discount)</li>
+                <li><strong>€0.07 per GB per month</strong> for 6-month retention (30% discount)</li>
+                <li><strong>€0.05 per GB per month</strong> for 12-month retention (50% discount - Best Value!)</li>
+                <li><strong>Payment:</strong> Full amount paid upfront for entire retention period</li>
+                <li><strong>Example:</strong> 50GB for 6 months = 50 × €0.07 × 6 = €21.00 total</li>
+            </ul>
+            
+            <h3>3.2 IPFS Cluster Storage - Monthly Billing</h3>
+            <p><strong>Distributed storage with replica redundancy.</strong></p>
+            
+            <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+                <thead style="background: #007bff; color: white;">
+                    <tr>
+                        <th style="padding: 12px; border: 1px solid #ddd;">Replica Count</th>
+                        <th style="padding: 12px; border: 1px solid #ddd;">Price per GB per Month</th>
+                        <th style="padding: 12px; border: 1px solid #ddd;">Redundancy</th>
+                        <th style="padding: 12px; border: 1px solid #ddd;">Example: 100GB Monthly</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>1 Replica (Standard)</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€0.0156/GB</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">1×</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€1.56/month</td>
+                    </tr>
+                    <tr style="background: #fff3cd;">
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>2 Replicas (High Availability) ⭐</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€0.0312/GB</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">2×</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€3.12/month</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><strong>3 Replicas (Maximum Redundancy)</strong></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€0.0468/GB</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">3×</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">€4.68/month</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p><strong>Cluster Pricing Details:</strong></p>
+            <ul>
+                <li><strong>€0.0156 per GB per month</strong> for 1 replica (standard backup) <em>[€0.00052/GB/day]</em></li>
+                <li><strong>€0.0312 per GB per month</strong> for 2 replicas (recommended for production) <em>[€0.00104/GB/day]</em></li>
+                <li><strong>€0.0468 per GB per month</strong> for 3 replicas (maximum redundancy) <em>[€0.00156/GB/day]</em></li>
+                <li><strong>Maximum replicas:</strong> 3 (no 4 or 5 replicas available)</li>
+                <li><strong>Billing Type:</strong> Prepaid balance with monthly deductions
+                    <ul style="margin-top: 10px;">
+                        <li>You buy credits/balance upfront (e.g., €50, €100, €500)</li>
+                        <li>Upload files with your chosen replica count (1, 2, or 3)</li>
+                        <li>System automatically deducts at end of each month</li>
+                        <li>You decide when to add more credits (we don't force you to wait until end of month)</li>
+                        <li>Keep backups as long as you want - no time limits</li>
+                    </ul>
+                </li>
+                <li><strong>Formula (Monthly):</strong> Cost = Size (GB) × Replicas × €0.0156/month</li>
+                <li><strong>Formula (Daily):</strong> Cost = Size (GB) × Replicas × €0.00052/day <em>(€0.0156 ÷ 30 days)</em></li>
+                <li><strong>Example:</strong> 500GB with 2 replicas = 500 × 2 × €0.0156 = <strong>€15.60/month</strong> or <strong>€0.52/day</strong></li>
+                <li><strong>Billing Evasion Prevention:</strong> 
+                    <ul style="margin-top: 10px;">
+                        <li>If balance is insufficient at end of month → 7-day grace period starts</li>
+                        <li>You have 7 days to add more credits</li>
+                        <li>If balance still insufficient after 7 days → Files automatically deleted from cluster</li>
+                        <li>This prevents customers from evading the final month's bill</li>
+                        <li>All billing records are kept permanently for audit purposes</li>
+                    </ul>
+                </li>
+            </ul>
+            
+            <h3>3.3 Bandwidth Pricing</h3>
+            <p><strong>Free Bandwidth Included:</strong> 5 GB per month per account</p>
+            <ul>
+                <li>Applies to all services (IPFS Kubo and IPFS Cluster)</li>
+                <li>Resets monthly on account creation date</li>
+                <li>Shared across all your files</li>
+            </ul>
+            
+            <p><strong>Bandwidth Overage:</strong></p>
+            <ul>
+                <li><strong>Public Gateway:</strong> €0.08 per GB (after 5 GB free)</li>
+                <li><strong>Private Gateway:</strong> Contact for pricing</li>
+                <li>Charged only AFTER free allowance is used</li>
+                <li>Tracked monthly and billed separately</li>
+            </ul>
+            
+            <h3>3.4 Billing Model & Separate Balances</h3>
+            <p><strong>Two Separate Billing Systems:</strong></p>
+            <ul>
+                <li><strong>Kubo Balance:</strong> Separate balance for IPFS Kubo storage service (prepaid)</li>
+                <li><strong>Cluster Balance:</strong> Separate balance for IPFS Cluster service (monthly billing)</li>
+                <li><strong>Each service has its own:</strong> Payment address, invoice history, and balance tracking</li>
+                <li><strong>Dashboard Access:</strong> View both balances and invoices in your account dashboard</li>
+            </ul>
+            
+            <p><strong>Billing Methods:</strong></p>
+            <ul>
+                <li><strong>IPFS Kubo:</strong> Prepaid model - Pay upfront for entire retention period</li>
+                <li><strong>IPFS Cluster:</strong> Monthly billing - Balance deducted automatically each month</li>
+                <li><strong>Bandwidth:</strong> Charged from Kubo balance (after 5 GB free per month)</li>
+            </ul>
+            
+            <h2>4. Payment Terms</h2>
+            <ul>
+                <li>Bitcoin payments only (no credit cards)</li>
+                <li>Prepaid model: Add credits before use</li>
+                <li>Credits deducted based on actual usage</li>
+                <li>No refunds on Bitcoin payments</li>
+                <li>Credits valid for 12 months</li>
+            </ul>
+            
+            <h2>5. Grace Period & Data Deletion Policy</h2>
+            
+            <div class="warning-box">
+                <h3>⚠️ CRITICAL: 7-DAY GRACE PERIOD</h3>
+                
+                <h4>5.1 IPFS Cluster (With Replicas):</h4>
+                <p><strong>Timeline:</strong></p>
+                <ul>
+                    <li><strong>Day 0:</strong> Balance reaches €0 → Grace period starts</li>
+                    <li><strong>Days 1-7:</strong> Files remain accessible (grace period active)</li>
+                    <li><strong>Email warnings sent:</strong> Day 1, Day 3, Day 5, Day 7</li>
+                    <li><strong>Day 7 END:</strong> AUTOMATIC DELETION TRIGGERED</li>
+                    <li><strong>🚨 ACCOUNT + ALL CONTENT PERMANENTLY DELETED</strong></li>
+                    <li><strong>NOT RECOVERABLE:</strong> No backups kept, no recovery possible</li>
+                </ul>
+                
+                <p><strong>✅ TO CONTINUE SERVICE:</strong></p>
+                <ul>
+                    <li>Add credits/balance BEFORE Day 7 ends</li>
+                    <li>Billing continues automatically</li>
+                    <li>No interruption to service</li>
+                </ul>
+                
+                <p><strong>🔴 TO DISCONTINUE SERVICE:</strong></p>
+                <ul>
+                    <li><strong>DOWNLOAD ALL BACKUPS BEFORE DAY 7!</strong></li>
+                    <li>Account and all content will be automatically deleted on Day 7</li>
+                    <li>No manual cancellation needed</li>
+                </ul>
+                
+                <h4>5.2 IPFS Kubo (No Replicas):</h4>
+                <p><strong>Timeline:</strong></p>
+                <ul>
+                    <li><strong>Day 0:</strong> Balance reaches €0</li>
+                    <li><strong>Days 1-7:</strong> Files UNPINNED (not accessible, but records kept)</li>
+                    <li><strong>Day 7 END:</strong> Account + all pin records DELETED</li>
+                </ul>
+                
+                <p><strong>✅ SERVICE RESTORATION DURING GRACE PERIOD:</strong></p>
+                <ul>
+                    <li>If you add credits during Days 1-7:</li>
+                    <li>Files will be restored to service</li>
+                    <li>Service resumes automatically</li>
+                    <li>Standard billing applies for restored files</li>
+                </ul>
+                
+                <p style="margin-top: 20px; padding: 15px; background: #f8d7da; border: 2px solid #dc3545; border-radius: 5px; font-weight: bold; color: #721c24;">
+                    🚨 FINAL WARNING: DOWNLOAD YOUR BACKUPS BEFORE DAY 7 IF YOU DON'T PLAN TO ADD MORE CREDITS!<br>
+                    After Day 7, all data is PERMANENTLY DELETED and CANNOT BE RECOVERED.
+                </p>
+            </div>
+            
+            <div class="warning-box">
+                <h3>⚠️ IMPORTANT: Service Limitations & Liability</h3>
+                <p><strong>We are NOT responsible for data loss, service interruption, or damages caused by:</strong></p>
+                <ul>
+                    <li>🔌 <strong>Power outages</strong> - Loss of electricity to our servers</li>
+                    <li>🌐 <strong>Internet connectivity issues</strong> - ISP failures or network problems</li>
+                    <li>💾 <strong>Hardware failures</strong> - Disk failures, server crashes, or equipment malfunction</li>
+                    <li>☁️ <strong>Cloudflare outages</strong> - Third-party CDN/tunnel service disruptions</li>
+                    <li>🔥 <strong>Natural disasters</strong> - Floods, fires, earthquakes, or other acts of nature</li>
+                    <li>⚡ <strong>Force majeure events</strong> - War, terrorism, government actions, or other uncontrollable events</li>
+                    <li>🐛 <strong>Software bugs</strong> - IPFS, IPFS Cluster, or our application bugs</li>
+                    <li>🔧 <strong>Maintenance</strong> - Scheduled or emergency maintenance</li>
+                </ul>
+                <p><strong>SERVICE PROVIDED "AS IS" WITHOUT ANY WARRANTY. USE AT YOUR OWN RISK.</strong></p>
+            </div>
+            
+            <div class="warning-box" style="background: #fff3cd; border: 2px solid #ffc107;">
+                <h3>⚠️ STORAGE INFRASTRUCTURE DISCLAIMER</h3>
+                <p><strong>Total Server Storage Capacity:</strong> 100TB available for general purposes</p>
+                
+                <p><strong>Hardware Specifications:</strong></p>
+                <ul>
+                    <li><strong>Storage Type:</strong> HDD (Hard Disk Drives) - NOT SSD</li>
+                    <li><strong>Optimization:</strong> Optimized for fastest response times within HDD limitations</li>
+                    <li><strong>General Purpose Storage:</strong> Suitable for documents, archives, static files, websites</li>
+                </ul>
+                
+                <p><strong>⚠️ NOT RECOMMENDED FOR:</strong></p>
+                <ul>
+                    <li>🎵 <strong>Music streaming</strong> - HDD may cause buffering/latency issues</li>
+                    <li>🎬 <strong>Video streaming</strong> - High bandwidth + HDD speed limitations</li>
+                    <li>🖼️ <strong>NFT collections</strong> - Requires SSD for optimal performance</li>
+                    <li>🎮 <strong>Gaming assets</strong> - Requires low-latency SSD storage</li>
+                    <li>📱 <strong>Mobile app assets</strong> - Better suited for SSD/CDN</li>
+                </ul>
+                
+                <p><strong>✅ RECOMMENDED FOR:</strong></p>
+                <ul>
+                    <li>📄 Documents, PDFs, text files</li>
+                    <li>📦 Software packages and archives</li>
+                    <li>🌐 Static websites and HTML content</li>
+                    <li>🗄️ Backup and archival storage</li>
+                    <li>📊 Data sets and CSV files</li>
+                </ul>
+                
+                <p style="margin-top: 15px; padding: 12px; background: #e7f3ff; border-left: 4px solid #007bff;">
+                    <strong>🚀 FUTURE UPGRADE:</strong> SSD storage for high-performance use cases (music, video, NFTs) is planned for future implementation. We will notify all users when this becomes available.
+                </p>
+                
+                <p><strong>💡 Performance Expectations:</strong></p>
+                <ul>
+                    <li>HDD read speeds: ~100-200 MB/s (adequate for most files)</li>
+                    <li>First request may have slight delay (~100-500ms) due to HDD spin-up</li>
+                    <li>Subsequent requests cached for faster delivery</li>
+                    <li>Best performance for files under 100MB</li>
+                </ul>
+            </div>
+            
+            <h2>6. Service Capacity & Fair Use</h2>
+            <h3>6.1 Total Storage Capacity</h3>
+            <ul>
+                <li><strong>Available Capacity:</strong> 100TB for general purposes</li>
+                <li><strong>Allocation:</strong> First-come, first-served basis</li>
+                <li><strong>Fair Use:</strong> No single customer can exceed 10TB without prior approval</li>
+                <li><strong>Enterprise Needs:</strong> Contact us for dedicated capacity above 10TB</li>
+            </ul>
+            
+            <h3>6.2 Retention Period Changes</h3>
+            <ul>
+                <li><strong>Extending Retention:</strong> Contact support to extend before expiration</li>
+                <li><strong>Early Termination:</strong> No refunds on prepaid retention periods</li>
+                <li><strong>After Expiration:</strong> Files are automatically deleted unless renewed</li>
+            </ul>
+            
+            <h2>7. Acceptable Use Policy</h2>
+            <h3>7.1 Prohibited Content</h3>
+            <ul>
+                <li>Illegal content under EU or local laws</li>
+                <li>Child exploitation material (CSAM)</li>
+                <li>Malware, viruses, or harmful code</li>
+                <li>Copyright infringing content (DMCA violations)</li>
+                <li>Spam or phishing content</li>
+                <li>Content promoting violence or terrorism</li>
+            </ul>
+            
+            <h3>7.2 Prohibited Activities</h3>
+            <ul>
+                <li>API abuse or excessive requests</li>
+                <li>Attempting to hack or compromise the service</li>
+                <li>Reselling service without authorization</li>
+                <li>Circumventing payment systems</li>
+                <li>Creating multiple accounts to abuse free tiers</li>
+            </ul>
+            
+            <h2>8. Data Retention & Deletion</h2>
+            <ul>
+                <li>Active files: Kept as long as balance is positive</li>
+                <li>Grace period: 7 days after balance reaches zero</li>
+                <li>After grace period: Permanent deletion (no recovery)</li>
+                <li>GDPR compliance: Right to request data deletion anytime</li>
+            </ul>
+            
+            <h2>9. Service Availability</h2>
+            <p><strong>Target Uptime:</strong> 99.9% (best effort, not guaranteed)</p>
+            <p><strong>No SLA:</strong> We do not guarantee uninterrupted service</p>
+            <p><strong>Maintenance:</strong> May occur without advance notice for critical issues</p>
+            
+            <h2>10. Privacy & Data Protection</h2>
+            <ul>
+                <li>We collect minimal data: email, API keys, file metadata</li>
+                <li>File content is stored on IPFS (publicly accessible if CID known)</li>
+                <li>Bitcoin transactions are pseudonymous</li>
+                <li>No KYC required</li>
+                <li>GDPR compliant: Request data deletion anytime</li>
+            </ul>
+            
+            <h2>11. Limitation of Liability</h2>
+            <p><strong>MAXIMUM LIABILITY:</strong> Total amount paid in last 12 months</p>
+            <p><strong>NOT LIABLE FOR:</strong></p>
+            <ul>
+                <li>Lost profits or business interruption</li>
+                <li>Data loss or corruption</li>
+                <li>Indirect, incidental, or consequential damages</li>
+                <li>Third-party service failures (Cloudflare, ISP, etc.)</li>
+                <li>Infrastructure failures beyond our control</li>
+            </ul>
+            
+            <h2>12. Account Termination</h2>
+            <p><strong>We may terminate accounts for:</strong></p>
+            <ul>
+                <li>Violation of acceptable use policy</li>
+                <li>Non-payment or fraud</li>
+                <li>Abuse of service or resources</li>
+                <li>Legal requirements</li>
+            </ul>
+            <p><strong>You may terminate by:</strong> Stop using the service and let balance expire</p>
+            
+            <h2>13. Changes to Terms</h2>
+            <ul>
+                <li>We may update these terms at any time</li>
+                <li>Notice of changes via email</li>
+                <li>Continued use means acceptance of new terms</li>
+                <li>Major changes require re-acceptance</li>
+            </ul>
+            
+            <h2>14. Dispute Resolution</h2>
+            <ul>
+                <li>Governing law: European Union law</li>
+                <li>Disputes resolved through arbitration</li>
+                <li>Contact support for resolution attempts before formal proceedings</li>
+            </ul>
+            
+            <h2>15. Contact Information & Support</h2>
+            <p><strong>Service Provider:</strong> DataHosting.Company</p>
+            
+            <h3>15.1 Customer Support</h3>
+            <p><strong>📧 Email Support:</strong></p>
+            <ul>
+                <li><strong>Primary Support:</strong> <a href="mailto:branislavusjka1989@gmail.com">branislavusjka1989@gmail.com</a></li>
+                <li><strong>Response Time:</strong> Within 24-48 hours (business days)</li>
+                <li><strong>For:</strong> Technical issues, billing questions, account management</li>
+            </ul>
+            
+            <h3>15.2 Business & Professional Inquiries</h3>
+            <p><strong>💼 LinkedIn:</strong></p>
+            <ul>
+                <li><strong>Company Page:</strong> <a href="https://www.linkedin.com/company/branislavusjak/" target="_blank">linkedin.com/company/branislavusjak</a></li>
+                <li><strong>For:</strong> Partnerships, enterprise solutions, business inquiries</li>
+            </ul>
+            
+            <h3>15.3 Instant Messaging Support</h3>
+            <p><strong>📱 Viber & WhatsApp:</strong></p>
+            <ul>
+                <li><strong>Phone:</strong> <a href="tel:+421951044387">+421 951 044 387</a></li>
+                <li><strong>Available:</strong> For urgent technical issues and enterprise customers</li>
+                <li><strong>Hours:</strong> Monday-Friday, 9:00-17:00 CET (Central European Time)</li>
+            </ul>
+            
+            <h3>15.4 Support Channels Summary</h3>
+            <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+                <thead style="background: #007bff; color: white;">
+                    <tr>
+                        <th style="padding: 10px; border: 1px solid #ddd;">Channel</th>
+                        <th style="padding: 10px; border: 1px solid #ddd;">Contact</th>
+                        <th style="padding: 10px; border: 1px solid #ddd;">Best For</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Email</strong></td>
+                        <td style="padding: 8px; border: 1px solid #ddd;">branislavusjka1989@gmail.com</td>
+                        <td style="padding: 8px; border: 1px solid #ddd;">General support, billing, technical issues</td>
+                    </tr>
+                    <tr style="background: #f8f9fa;">
+                        <td style="padding: 8px; border: 1px solid #ddd;"><strong>LinkedIn</strong></td>
+                        <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/company/branislavusjak/" target="_blank">Company Page</a></td>
+                        <td style="padding: 8px; border: 1px solid #ddd;">Business inquiries, partnerships</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Viber</strong></td>
+                        <td style="padding: 8px; border: 1px solid #ddd;">+421 951 044 387</td>
+                        <td style="padding: 8px; border: 1px solid #ddd;">Urgent issues, quick questions</td>
+                    </tr>
+                    <tr style="background: #f8f9fa;">
+                        <td style="padding: 8px; border: 1px solid #ddd;"><strong>WhatsApp</strong></td>
+                        <td style="padding: 8px; border: 1px solid #ddd;">+421 951 044 387</td>
+                        <td style="padding: 8px; border: 1px solid #ddd;">Urgent issues, quick questions</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p style="padding: 12px; background: #e7f3ff; border-left: 4px solid #007bff; margin-top: 15px;">
+                <strong>💡 Support Tips:</strong><br>
+                • Include your API key (not secret) in support emails for faster resolution<br>
+                • For technical issues, describe the problem and steps to reproduce<br>
+                • For billing questions, include transaction details or payment information<br>
+                • Enterprise customers (>10TB): Contact via LinkedIn for dedicated support
+            </p>
+            
+            <p style="margin-top: 20px;"><strong>Website:</strong> <a href="https://datahosting.company" target="_blank">https://datahosting.company</a></p>
+        </div>
+        
+        <div class="footer">
+            <div class="checkbox-container">
+                <input type="checkbox" id="terms-checkbox" onchange="toggleAcceptButton()">
+                <label for="terms-checkbox" style="cursor: pointer;" onclick="document.getElementById('terms-checkbox').click()">
+                    I have read and agree to the Terms of Service, including the service limitations and liability disclaimers.
+                </label>
+            </div>
+            
+            <div class="btn-container">
+                <button class="btn btn-decline" onclick="declineTerms()">Decline</button>
+                <button class="btn btn-accept" id="accept-btn" disabled onclick="acceptTerms()">Accept & Continue</button>
+            </div>
+            
+            <p class="last-updated">
+                By clicking "Accept & Continue", you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
+            </p>
+        </div>
+    </div>
+    
+    <script>
+        function toggleAcceptButton() {
+            const checkbox = document.getElementById('terms-checkbox');
+            const acceptBtn = document.getElementById('accept-btn');
+            acceptBtn.disabled = !checkbox.checked;
+        }
+        
+        function acceptTerms() {
+            // Set cookie/localStorage to remember acceptance
+            localStorage.setItem('terms_accepted', 'true');
+            localStorage.setItem('terms_accepted_date', new Date().toISOString());
+            
+            // Redirect to main page or dashboard
+            window.location.href = '/';
+        }
+        
+        function declineTerms() {
+            alert('You must accept the Terms of Service to use DataHosting.Company');
+            window.location.href = 'https://google.com';
+        }
+        
+        // Check if already accepted
+        window.onload = function() {
+            if (localStorage.getItem('terms_accepted') === 'true') {
+                // Already accepted, show message
+                if (confirm('You have already accepted the Terms of Service. View them again or continue to site?')) {
+                    // Stay on page
+                } else {
+                    window.location.href = '/';
+                }
+            }
+        };
+    </script>
+</body>
+</html>
