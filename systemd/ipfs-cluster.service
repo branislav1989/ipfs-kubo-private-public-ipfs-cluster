@@ -1,0 +1,16 @@
+[Unit]
+Description=IPFS Cluster service
+After=network.target ipfs-kubo-public.service ipfs-kubo-private.service
+
+[Service]
+Environment="IPFS_CLUSTER_PATH=/var/lib/ipfs-cluster"
+# Example: point cluster at both IPFS HTTP endpoints (adjust if on different hosts)
+# Ensure service.secret is placed at /etc/ipfs-cluster/service.secret and config exists in IPFS_CLUSTER_PATH
+ExecStart=/usr/local/bin/ipfs-cluster-service daemon --config /var/lib/ipfs-cluster
+User=ipfs
+Restart=on-failure
+RestartSec=10
+LimitNOFILE=65536
+
+[Install]
+WantedBy=multi-user.target

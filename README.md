@@ -7,7 +7,9 @@
 
 ---
 
-## 🚀 Quick Start (Docker)
+## 🚀 Quick Start
+
+### Option 1: Docker Deployment (Easiest) ⭐
 
 Deploy the entire platform in 3 commands:
 
@@ -25,6 +27,31 @@ docker-compose up -d
 ```
 
 **Access:** http://localhost (or your server IP)
+
+---
+
+### Option 2: Manual/systemd Deployment
+
+For manual installation without Docker (production systemd setup):
+
+```bash
+# 1. Install IPFS and IPFS Cluster binaries
+# See: https://docs.ipfs.tech/install/
+
+# 2. Use helper scripts
+cd scripts
+./init_kubo_node.sh
+
+# 3. Install systemd services
+sudo cp systemd/*.service /etc/systemd/system/
+sudo systemctl daemon-reload
+sudo systemctl enable --now ipfs-kubo-public ipfs-kubo-private ipfs-cluster
+
+# 4. Verify services
+sudo systemctl status ipfs-kubo-public
+```
+
+See `systemd/` folder for example unit files and configuration.
 
 ---
 
