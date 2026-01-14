@@ -1,6 +1,42 @@
-__pycache__/
-*.pyc
+# Sensitive Files - NEVER COMMIT!
 .env
-dist/
-build/
-*.egg-info/
+*.key
+*.pem
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Database
+postgres_data/
+*.sql.backup
+
+# IPFS Data
+ipfs_public_data/
+ipfs_private_data/
+ipfs_cluster_data/
+
+# Temporary Files
+temp_uploads/
+tmp_*
+*.tmp
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local configs
+.env.local
+config.local.yml

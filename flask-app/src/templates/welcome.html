@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to DataHosting.Company! 🎉</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .alert {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 5px;
+        }
+        
+        .alert-success {
+            background: #d4edda;
+            border-left-color: #28a745;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+        }
+        
+        .section h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            display: flex;
+            align-items: center;
+        }
+        
+        .section h2::before {
+            content: "💰";
+            margin-right: 10px;
+        }
+        
+        .payment-box {
+            background: #f8f9fa;
+            border: 2px solid #667eea;
+            border-radius: 10px;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .qr-code {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+            margin: 20px 0;
+        }
+        
+        .bitcoin-address {
+            font-family: "Courier New", monospace;
+            font-size: 1.1em;
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            word-break: break-all;
+            margin: 15px 0;
+            border: 1px solid #ddd;
+        }
+        
+        .copy-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1em;
+            margin: 10px 5px;
+            transition: all 0.3s;
+        }
+        
+        .copy-btn:hover {
+            background: #218838;
+            transform: translateY(-2px);
+        }
+        
+        .copy-btn:active {
+            transform: translateY(0);
+        }
+        
+        .credentials-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .credential-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .credential-item label {
+            display: block;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+        
+        .credential-item .value {
+            font-family: "Courier New", monospace;
+            font-size: 0.9em;
+            word-break: break-all;
+            background: white;
+            padding: 10px;
+            border-radius: 3px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .mini-copy-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 5px 15px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 0.8em;
+            margin-left: 10px;
+            white-space: nowrap;
+        }
+        
+        .mini-copy-btn:hover {
+            background: #5568d3;
+        }
+        
+        .steps {
+            background: #e7f3ff;
+            padding: 30px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+        
+        .steps h3 {
+            color: #0066cc;
+            margin-bottom: 20px;
+        }
+        
+        .steps ol {
+            margin-left: 20px;
+        }
+        
+        .steps li {
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        
+        .pricing {
+            background: #fff9e6;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        
+        .pricing h3 {
+            color: #856404;
+            margin-bottom: 15px;
+        }
+        
+        .pricing ul {
+            list-style: none;
+        }
+        
+        .pricing li {
+            padding: 8px 0;
+            border-bottom: 1px solid #ffeaa7;
+        }
+        
+        .pricing li:last-child {
+            border-bottom: none;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 5px;
+            transition: all 0.3s;
+        }
+        
+        .btn:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+        }
+        
+        .btn-secondary {
+            background: #6c757d;
+        }
+        
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+        
+        .payment-status {
+            background: #fff;
+            border: 2px dashed #667eea;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            text-align: center;
+        }
+        
+        .status-indicator {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #ffc107;
+            margin-right: 10px;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .footer {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #6c757d;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+            
+            .bitcoin-address {
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎉 Welcome to DataHosting.Company!</h1>
+            <p>Your IPFS hosting account is ready!</p>
+        </div>
+        
+        <div class="content">
+            <div class="alert alert-success">
+                <strong>✅ Account Created Successfully!</strong><br>
+                Your credentials are displayed below. <strong>Save them now - they cannot be recovered!</strong>
+            </div>
+            
+            <!-- Bitcoin Payment Section -->
+            <div class="section">
+                <h2>Step 1: Add Credits with Bitcoin</h2>
+                <div class="payment-box">
+                    <p style="font-size: 1.2em; margin-bottom: 20px;">
+                        <strong>Send Bitcoin to this address to add credits:</strong>
+                    </p>
+                    
+                    <div class="qr-code" id="qr-container">
+                        <div style="font-size: 0.9em; color: #666; margin-bottom: 10px;">Loading payment address...</div>
+                    </div>
+                    
+                    <div class="bitcoin-address" id="btc-address">
+                        Loading...
+                    </div>
+                    
+                    <button class="copy-btn" onclick="copyBitcoinAddress()">
+                        📋 Copy Bitcoin Address
+                    </button>
+                    
+                    <div style="margin-top: 20px; color: #666;">
+                        <p>💡 <strong>Recommended:</strong> Send €10-20 to start</p>
+                        <p>⚡ Minimum: €5 (0.00005 BTC approximately)</p>
+                        <p>⏱️ Confirmation time: Usually 10-60 minutes</p>
+                    </div>
+                    
+                    <div class="payment-status">
+                        <span class="status-indicator"></span>
+                        <strong>Waiting for payment...</strong>
+                        <p style="margin-top: 10px; color: #666;">
+                            This page will auto-update when payment is received
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Credentials Section -->
+            <div class="section">
+                <h2 style="color: #dc3545;">🔐 Save Your Credentials</h2>
+                <div class="alert">
+                    <strong>⚠️ IMPORTANT:</strong> These credentials are shown only once and cannot be recovered. 
+                    Save them in a password manager now!
+                </div>
+                
+                <div class="credentials-grid">
+                    <div class="credential-item">
+                        <label>API Key:</label>
+                        <div class="value">
+                            <span id="api-key">Loading...</span>
+                            <button class="mini-copy-btn" onclick="copyText('api-key')">Copy</button>
+                        </div>
+                    </div>
+                    
+                    <div class="credential-item">
+                        <label>API Secret:</label>
+                        <div class="value">
+                            <span id="api-secret">Loading...</span>
+                            <button class="mini-copy-btn" onclick="copyText('api-secret')">Copy</button>
+                        </div>
+                    </div>
+                    
+                    <div class="credential-item">
+                        <label>Dashboard Token:</label>
+                        <div class="value">
+                            <span id="dashboard-token">{{ token }}</span>
+                            <button class="mini-copy-btn" onclick="copyText('dashboard-token')">Copy</button>
+                        </div>
+                    </div>
+                    
+                    <div class="credential-item">
+                        <label>IPFS Access Hash:</label>
+                        <div class="value">
+                            <span id="ipfs-hash">Loading...</span>
+                            <button class="mini-copy-btn" onclick="copyText('ipfs-hash')">Copy</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Next Steps -->
+            <div class="steps">
+                <h3>📝 Next Steps:</h3>
+                <ol>
+                    <li><strong>Send Bitcoin</strong> to the address above (€10+ recommended)</li>
+                    <li><strong>Wait for confirmation</strong> (usually 10-60 minutes)</li>
+                    <li><strong>Visit your dashboard</strong> to check balance and payment status</li>
+                    <li><strong>Start uploading</strong> files via API once payment confirms!</li>
+                    <li><strong>Read the documentation</strong> for API usage examples</li>
+                </ol>
+            </div>
+            
+            <!-- Pricing Info -->
+            <div class="pricing">
+                <h3>💰 Pricing Information:</h3>
+                <ul>
+                    <li><strong>Storage (1 month):</strong> €0.10/GB</li>
+                    <li><strong>Storage (12 months):</strong> €0.05/GB (50% discount!)</li>
+                    <li><strong>Free bandwidth:</strong> 5 GB per month</li>
+                    <li><strong>Bandwidth overage:</strong> €0.08/GB</li>
+                    <li><strong>We're 64% cheaper than Pinata!</strong> 🎉</li>
+                </ul>
+            </div>
+            
+            <!-- Action Buttons -->
+            <div style="text-align: center; margin-top: 40px;">
+                <a href="/dashboard?token={{ token }}" class="btn">
+                    📊 Go to Dashboard
+                </a>
+                <a href="/" class="btn btn-secondary">
+                    📚 View Documentation
+                </a>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Need help? Email: support@datahosting.company</p>
+            <p style="margin-top: 10px;">
+                <a href="/terms" style="color: #667eea;">Terms of Service</a> | 
+                <a href="/" style="color: #667eea;">Homepage</a>
+            </p>
+        </div>
+    </div>
+    
+    <script>
+        const dashboardToken = "{{ token }}";
+        let bitcoinAddress = null;
+        let userCredentials = null;
+        
+        // Load user data and payment address
+        async function loadUserData() {
+            try {
+                const response = await fetch(`/api/welcome-data?token=${dashboardToken}`);
+                const data = await response.json();
+                
+                if (data.credentials) {
+                    userCredentials = data.credentials;
+                    document.getElementById('api-key').textContent = data.credentials.api_key;
+                    document.getElementById('api-secret').textContent = data.credentials.api_secret;
+                    document.getElementById('ipfs-hash').textContent = data.credentials.ipfs_access_hash;
+                }
+                
+                if (data.payment && data.payment.bitcoin_address) {
+                    bitcoinAddress = data.payment.bitcoin_address;
+                    document.getElementById('btc-address').textContent = bitcoinAddress;
+                    
+                    // Load QR code
+                    if (data.payment.qr_code_url) {
+                        document.getElementById('qr-container').innerHTML = 
+                            `<img src="${data.payment.qr_code_url}" alt="Bitcoin QR Code" style="max-width: 250px;">`;
+                    }
+                }
+            } catch (error) {
+                console.error('Error loading user data:', error);
+                document.getElementById('btc-address').textContent = 
+                    'Error loading payment address. Please visit dashboard.';
+            }
+        }
+        
+        // Copy bitcoin address to clipboard
+        function copyBitcoinAddress() {
+            if (bitcoinAddress) {
+                copyToClipboard(bitcoinAddress);
+                showCopyNotification('Bitcoin address copied!');
+            }
+        }
+        
+        // Copy any text to clipboard
+        function copyText(elementId) {
+            const element = document.getElementById(elementId);
+            const text = element.textContent;
+            copyToClipboard(text);
+            showCopyNotification('Copied!');
+        }
+        
+        function copyToClipboard(text) {
+            if (navigator.clipboard) {
+                navigator.clipboard.writeText(text);
+            } else {
+                // Fallback for older browsers
+                const textarea = document.createElement('textarea');
+                textarea.value = text;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+            }
+        }
+        
+        function showCopyNotification(message) {
+            const notification = document.createElement('div');
+            notification.textContent = message;
+            notification.style.cssText = `
+                position: fixed;
+                top: 20px;
+                right: 20px;
+                background: #28a745;
+                color: white;
+                padding: 15px 25px;
+                border-radius: 5px;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                z-index: 9999;
+                animation: slideIn 0.3s ease-out;
+            `;
+            document.body.appendChild(notification);
+            
+            setTimeout(() => {
+                notification.style.animation = 'slideOut 0.3s ease-out';
+                setTimeout(() => notification.remove(), 300);
+            }, 2000);
+        }
+        
+        // Check payment status periodically
+        async function checkPaymentStatus() {
+            try {
+                const response = await fetch(`/api/balance?token=${dashboardToken}`);
+                const data = await response.json();
+                
+                if (data.balance && parseFloat(data.balance) > 0) {
+                    // Payment received!
+                    document.querySelector('.payment-status').innerHTML = `
+                        <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: #28a745; margin-right: 10px;"></span>
+                        <strong style="color: #28a745;">✅ Payment Received!</strong>
+                        <p style="margin-top: 10px; color: #666;">
+                            Balance: €${data.balance} - You can start uploading now!
+                        </p>
+                    `;
+                }
+            } catch (error) {
+                console.error('Error checking payment status:', error);
+            }
+        }
+        
+        // Initialize
+        loadUserData();
+        
+        // Check payment status every 30 seconds
+        setInterval(checkPaymentStatus, 30000);
+        
+        // Add CSS animations
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideIn {
+                from { transform: translateX(100%); opacity: 0; }
+                to { transform: translateX(0); opacity: 1; }
+            }
+            @keyframes slideOut {
+                from { transform: translateX(0); opacity: 1; }
+                to { transform: translateX(100%); opacity: 0; }
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - DataHosting.Company</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 10px;
+            max-width: 600px;
+            width: 100%;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px 10px 0 0;
+            text-align: center;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .content h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        .content p {
+            color: #666;
+            line-height: 1.8;
+            margin-bottom: 15px;
+        }
+        
+        .code-box {
+            background: #f5f5f5;
+            padding: 20px;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+        
+        .btn:hover {
+            background: #5568d3;
+        }
+        
+        .note {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 20px 0;
+            color: #856404;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📝 Register Account</h1>
+            <p>Create your IPFS storage account</p>
+        </div>
+        
+        <div class="content">
+            <h2>Register via Terminal/API</h2>
+            
+            <p>To create an account, send a POST request to our registration endpoint:</p>
+            
+            <div class="code-box">
+# Email is OPTIONAL (for privacy)
+curl -X POST https://datahosting.company/register
+
+# Or with email (optional):
+curl -X POST https://datahosting.company/register \
+  -H "Content-Type: application/json" \
+  -d '{"email":"your@email.com"}'
+            </div>
+            
+            <div class="note" style="background: #d1ecf1; border-color: #17a2b8; color: #0c5460;">
+                <strong>🔐 IMPORTANT: Save Your Credentials!</strong><br>
+                After registration, you'll receive:<br>
+                • <strong>API Key</strong> - Your username<br>
+                • <strong>API Secret</strong> - Your password (never shown again!)<br>
+                • <strong>Dashboard Token</strong> - Access your billing dashboard<br>
+                <br>
+                <strong>⚠️ We CANNOT recover these if lost!</strong> No email = no recovery possible.
+            </div>
+            
+            <p>You will receive:</p>
+            <ul style="margin-left: 30px; margin-bottom: 20px; line-height: 1.8;">
+                <li><strong>API Key</strong> - Your authentication key</li>
+                <li><strong>API Secret</strong> - Keep this secure!</li>
+                <li><strong>Dashboard Token</strong> - Access your dashboard</li>
+                <li><strong>IPFS Access Hash</strong> - For private files</li>
+            </ul>
+            
+            <div class="note">
+                <strong>⚠️ Important:</strong> By registering and using our API, you automatically agree to our 
+                <a href="/terms" target="_blank" style="color: #667eea;">Terms of Service</a>, 
+                including service limitations and prohibited content policies.
+            </div>
+            
+            <h2 style="margin-top: 30px;">Terms Summary</h2>
+            <ul style="margin-left: 30px; line-height: 1.8; color: #666;">
+                <li>Bitcoin payments only</li>
+                <li>7-day grace period when balance = €0</li>
+                <li>No liability for outages (power, internet, Cloudflare, hardware)</li>
+                <li>Prohibited: Copyrighted content, CSAM, malware, terrorism, pornography, spam</li>
+                <li>DMCA compliance: 3 strikes = termination</li>
+            </ul>
+            
+            <p style="margin-top: 30px; text-align: center;">
+                <a href="/terms" class="btn" target="_blank">Read Full Terms of Service</a>
+            </p>
+            
+            <p style="margin-top: 20px; text-align: center; color: #999; font-size: 14px;">
+                <a href="/" style="color: #667eea;">← Back to Homepage</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

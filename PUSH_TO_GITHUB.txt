@@ -1,0 +1,41 @@
+═══════════════════════════════════════════════════════════
+ TO PUSH SDK TO GITHUB - RUN THESE COMMANDS:
+═══════════════════════════════════════════════════════════
+
+cd ~/datahosting-sdk
+
+git config pull.rebase false
+git pull origin main --allow-unrelated-histories
+git branch -M main
+git push origin main
+
+When prompted:
+  Username: branislav1989
+  Password: [Your GitHub token]
+
+═══════════════════════════════════════════════════════════
+ WHAT'S IN THE SDK:
+═══════════════════════════════════════════════════════════
+
+✅ datahosting/ - Python package
+✅ examples/ - Usage examples  
+✅ README.md - Customer documentation
+✅ setup.py - For pip install
+✅ Works with YOUR existing API endpoints
+✅ Customers register at datahosting.company/register
+
+═══════════════════════════════════════════════════════════
+ AFTER PUSHING - CUSTOMERS CAN INSTALL:
+═══════════════════════════════════════════════════════════
+
+pip install git+https://github.com/branislav1989/ipfs-kubo-private-public-ipfs-cluster.git#subdirectory=datahosting-sdk
+
+═══════════════════════════════════════════════════════════
+ YES - YOU CAN ADD TO GITHUB MARKETPLACE!
+═══════════════════════════════════════════════════════════
+
+1. Push this SDK ✅
+2. Create action.yml file (I can help)
+3. Publish to GitHub Marketplace
+4. Users install as GitHub Action
+

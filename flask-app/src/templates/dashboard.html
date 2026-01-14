@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Dashboard - DataHosting.Company</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #666;
+        }
+        
+        .balance-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .balance-amount {
+            font-size: 48px;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        
+        .balance-label {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .stat-card h3 {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+        
+        .stat-value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            color: #999;
+            font-size: 14px;
+        }
+        
+        .section {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .section h2 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+        
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .table th {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 2px solid #eee;
+            color: #666;
+            font-weight: 600;
+        }
+        
+        .table td {
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .table tr:hover {
+            background: #f9f9f9;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        
+        .badge-success {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .badge-warning {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .badge-danger {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #5568d3;
+        }
+        
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .api-key {
+            font-family: 'Courier New', monospace;
+            background: #f5f5f5;
+            padding: 10px;
+            border-radius: 5px;
+            word-break: break-all;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #eee;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s;
+        }
+        
+        .alert {
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        
+        .alert-warning {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            color: #856404;
+        }
+        
+        .alert-info {
+            background: #d1ecf1;
+            border: 1px solid #17a2b8;
+            color: #0c5460;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>📊 Customer Dashboard</h1>
+            <p>Welcome to your DataHosting.Company account</p>
+        </div>
+
+        <!-- Balance Card -->
+        <div class="balance-card">
+            <div class="balance-label">CURRENT BALANCE</div>
+            <div class="balance-amount">€{{ "%.2f"|format(user.credit_balance_eur|float) }}</div>
+            {% if user.credit_balance_eur|float < 1.0 %}
+            <div style="color: #ffeb3b; margin-top: 10px; font-size: 14px;">
+                ⚠️ Low balance! Add credits below to continue using services.
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Bitcoin Payment Section -->
+        <div class="section" style="margin-top: 20px;">
+            <h2>💰 Add Credits via Bitcoin</h2>
+            
+            {% if btc_address and btc_address != "Service temporarily unavailable. Please try refreshing the page." and btc_address != "Error generating payment address" %}
+            <div style="background: #f8f9fa; padding: 25px; border-radius: 10px; margin-top: 15px;">
+                <p style="color: #666; margin-bottom: 15px;">
+                    <strong>Send Bitcoin to this address to add €{{ payment_amount }} to your account:</strong>
+                </p>
+                
+                <div style="background: white; padding: 20px; border-radius: 8px; border: 2px solid #667eea; margin-bottom: 20px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <code id="btc-address" style="font-size: 16px; word-break: break-all; flex: 1; color: #333;">{{ btc_address }}</code>
+                        <button onclick="copyAddress()" style="margin-left: 15px; padding: 10px 20px; background: #667eea; color: white; border: none; border-radius: 5px; cursor: pointer; white-space: nowrap;">
+                            📋 Copy
+                        </button>
+                    </div>
+                </div>
+                
+                {% if btc_qr_url %}
+                <div style="text-align: center; margin: 20px 0;">
+                    <p style="color: #666; margin-bottom: 10px;"><strong>Or scan QR code:</strong></p>
+                    <img src="{{ btc_qr_url }}" alt="Bitcoin QR Code" style="max-width: 200px; border: 2px solid #ddd; border-radius: 8px; padding: 10px; background: white;">
+                </div>
+                {% endif %}
+                
+                <div style="background: #e3f2fd; padding: 15px; border-radius: 5px; border-left: 4px solid #2196f3;">
+                    <h3 style="color: #1976d2; margin-bottom: 10px; font-size: 16px;">📝 How it works:</h3>
+                    <ol style="color: #666; margin-left: 20px; line-height: 1.8;">
+                        <li>Send any amount of Bitcoin to the address above</li>
+                        <li>Wait for blockchain confirmation (typically 10-60 minutes)</li>
+                        <li>Your balance will be automatically updated</li>
+                        <li>BTC is converted to EUR at the current exchange rate</li>
+                        <li>You can then upload files and use all services</li>
+                    </ol>
+                </div>
+                
+                <div style="background: #fff3cd; padding: 15px; border-radius: 5px; border-left: 4px solid #ffc107; margin-top: 15px;">
+                    <p style="color: #856404; margin: 0;">
+                        <strong>💡 Tip:</strong> Send more than €{{ payment_amount }} to have credits for multiple uploads!
+                        Storage costs only €0.07 per GB per month.
+                    </p>
+                </div>
+            </div>
+            {% else %}
+            <div style="background: #ffebee; padding: 20px; border-radius: 8px; border-left: 4px solid #f44336; margin-top: 15px;">
+                <p style="color: #c62828; margin: 0;">
+                    <strong>⚠️ Payment system temporarily unavailable.</strong><br>
+                    Please refresh the page or try again in a few moments.
+                </p>
+            </div>
+            {% endif %}
+        </div>
+
+        <script>
+        function copyAddress() {
+            const address = document.getElementById('btc-address').textContent;
+            navigator.clipboard.writeText(address).then(function() {
+                alert('✅ Bitcoin address copied to clipboard!');
+            }, function(err) {
+                alert('Failed to copy address. Please copy manually.');
+            });
+        }
+        </script>
+
+        <!-- Low Balance Warning -->
+        {% if user.credit_balance_eur|float < 1.0 %}
+        <div class="alert alert-warning">
+            ⚠️ Your balance is low. Add credits to continue using the service.
+        </div>
+        {% endif %}
+
+        <!-- Stats Grid -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Storage Used</h3>
+                <div class="stat-value">{{ "%.2f"|format(total_storage_gb) }}</div>
+                <div class="stat-label">GB</div>
+                <div class="progress-bar">
+                    <div class="progress-fill" style="width: {% if total_storage_gb < 100 %}{{ (total_storage_gb / 100) * 100 }}{% else %}100{% endif %}%;"></div>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <h3>Bandwidth (Private)</h3>
+                <div class="stat-value">{{ "%.2f"|format(user.bandwidth_used_private_gb|float) }}</div>
+                <div class="stat-label">GB this month</div>
+                <div class="progress-bar">
+                    {% set private_percent = (user.bandwidth_used_private_gb|float / user.bandwidth_allowance_gb|float) * 100 %}
+                    <div class="progress-fill" style="width: {% if private_percent < 100 %}{{ private_percent }}{% else %}100{% endif %}%;"></div>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <h3>Bandwidth (Public)</h3>
+                <div class="stat-value">{{ "%.2f"|format(user.bandwidth_used_public_gb|float) }}</div>
+                <div class="stat-label">GB this month</div>
+                <div class="progress-bar">
+                    {% set public_percent = (user.bandwidth_used_public_gb|float / user.bandwidth_allowance_gb|float) * 100 %}
+                    <div class="progress-fill" style="width: {% if public_percent < 100 %}{{ public_percent }}{% else %}100{% endif %}%;"></div>
+                </div>
+            </div>
+            
+            <div class="stat-card">
+                <h3>Total Files</h3>
+                <div class="stat-value">{{ total_files }}</div>
+                <div class="stat-label">Pinned on IPFS</div>
+            </div>
+        </div>
+
+        <!-- API Credentials -->
+        <div class="section">
+            <h2>🔑 API Credentials</h2>
+            <p style="margin-bottom: 15px; color: #666;">Use these credentials to access the API</p>
+            
+            <div style="margin-bottom: 15px;">
+                <strong>API Key:</strong>
+                <div class="api-key">{{ user.api_key }}</div>
+            </div>
+            
+            <div style="margin-bottom: 15px;">
+                <strong>API Secret:</strong>
+                <div class="api-key">Your secret is securely stored (not displayed)</div>
+            </div>
+            
+            <div style="margin-bottom: 15px;">
+                <strong>Dashboard Token:</strong>
+                <div class="api-key">{{ user.dashboard_token }}</div>
+            </div>
+            
+            <div class="alert alert-info" style="margin-top: 15px;">
+                ℹ️ Keep your credentials secure. Never share them publicly.
+            </div>
+        </div>
+
+        <!-- Recent Files -->
+        <div class="section">
+            <h2>📁 Recent Files</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>File Name</th>
+                        <th>Size</th>
+                        <th>Type</th>
+                        <th>Status</th>
+                        <th>Created</th>
+                        <th>CID</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for pin in recent_pins %}
+                    <tr>
+                        <td>{{ pin.file_name or 'Unnamed' }}</td>
+                        <td>{{ "%.2f"|format(pin.size_bytes / 1024 / 1024) }} MB</td>
+                        <td>
+                            {% if pin.is_private %}
+                            <span class="badge badge-warning">Private</span>
+                            {% else %}
+                            <span class="badge badge-success">Public</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if pin.status == 'pinned' %}
+                            <span class="badge badge-success">Pinned</span>
+                            {% else %}
+                            <span class="badge badge-warning">{{ pin.status }}</span>
+                            {% endif %}
+                        </td>
+                        <td>{{ pin.created_at.strftime('%Y-%m-%d') }}</td>
+                        <td>
+                            <a href="https://ipfs.datahosting.company/ipfs/{{ pin.cid }}" target="_blank" style="color: #667eea;">
+                                {{ pin.cid[:12] }}...
+                            </a>
+                        </td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="6" style="text-align: center; color: #999;">No files uploaded yet</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Payment History -->
+        <div class="section">
+            <h2>💳 Payment History</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Transaction ID</th>
+                        <th>Amount (€)</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for payment in recent_payments %}
+                    <tr>
+                        <td>{{ payment.created_at.strftime('%Y-%m-%d %H:%M') }}</td>
+                        <td style="font-family: monospace;">{{ payment.tx_id[:20] }}...</td>
+                        <td>€{{ "%.2f"|format(payment.amount|float) }}</td>
+                        <td>
+                            <span class="badge badge-success">{{ payment.status }}</span>
+                        </td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="4" style="text-align: center; color: #999;">No payments yet</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Pricing Info -->
+        <div class="section">
+            <h2>💰 Current Pricing</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Service</th>
+                        <th>Price</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Storage (IPFS Pinning)</td>
+                        <td><strong>€0.07/GB/month</strong></td>
+                        <td>Files stored on IPFS Cluster</td>
+                    </tr>
+                    <tr>
+                        <td>Bandwidth (Private)</td>
+                        <td><strong>€0.02/GB</strong></td>
+                        <td>Private file downloads</td>
+                    </tr>
+                    <tr>
+                        <td>Bandwidth (Public)</td>
+                        <td><strong>€0.10/GB</strong></td>
+                        <td>Public file downloads</td>
+                    </tr>
+                    <tr>
+                        <td>Free Bandwidth</td>
+                        <td><strong>1 GB/month</strong></td>
+                        <td>No charge for first 1 GB</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- API Usage Example -->
+        <div class="section">
+            <h2>🚀 API Usage Example</h2>
+            <pre style="background: #f5f5f5; padding: 15px; border-radius: 5px; overflow-x: auto;"><code># Upload a file
+curl -X POST https://datahosting.company/api/pins \
+  -H "X-API-Key: {{ user.api_key }}" \
+  -H "X-API-Secret: YOUR_SECRET" \
+  -F "file=@myfile.txt"
+
+# List your files
+curl https://datahosting.company/api/pins \
+  -H "X-API-Key: {{ user.api_key }}" \
+  -H "X-API-Secret: YOUR_SECRET"
+
+# Access your file
+https://ipfs.datahosting.company/ipfs/YOUR_CID
+</code></pre>
+        </div>
+    </div>
+</body>
+</html>
