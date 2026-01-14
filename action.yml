@@ -1,0 +1,64 @@
+name: 'DataHosting IPFS Deploy'
+description: 'Deploy files to IPFS via DataHosting.company hosting service'
+author: 'Branislav Usjak'
+branding:
+  icon: 'upload-cloud'
+  color: 'blue'
+
+inputs:
+  api_key:
+    description: 'Your DataHosting API key'
+    required: true
+  api_secret:
+    description: 'Your DataHosting API secret'
+    required: true
+  file_path:
+    description: 'Path to file or directory to upload'
+    required: true
+  network:
+    description: 'IPFS network: public or private'
+    required: false
+    default: 'public'
+  retention_months:
+    description: 'Retention period: 1, 2, 6, or 12 months'
+    required: false
+    default: '1'
+
+outputs:
+  cid:
+    description: 'IPFS CID of uploaded content'
+  cost:
+    description: 'Upload cost in EUR'
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Install DataHosting SDK
+      shell: bash
+      run: |
+        pip install requests
+        
+    - name: Upload to IPFS
+      shell: bash
+      run: |
+        python3 << 'PYTHON'
+        import os
+        import sys
+        sys.path.insert(0, '${{ github.action_path }}')
+        from datahosting import DataHostingClient
+        
+        client = DataHostingClient(
+            api_key='${{ inputs.api_key }}',
+            api_secret='${{ inputs.api_secret }}'
+        )
+        
+        result = client.upload_kubo(
+            file_path='${{ inputs.file_path }}',
+            is_private='${{ inputs.network }}' == 'private',
+            retention_months=int('${{ inputs.retention_months }}')
+        )
+        
+        print(f"::set-output name=cid::{result['cid']}")
+        print(f"::set-output name=cost::{result['cost']}")
+        print(f"✅ Uploaded! CID: {result['cid']}, Cost: €{result['cost']}")
+        PYTHON
