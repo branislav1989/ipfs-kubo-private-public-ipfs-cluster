@@ -1049,6 +1049,116 @@ curl https://api.datahosting.company/api/gitea/status \
         </section>
         <!-- End Gitea Hosting Section -->
         
+        <!-- Rclone Hosting Section -->
+        <section class="service-section">
+            <h2>☁️ Rclone Hosting Services</h2>
+            
+            <h3>Rclone Plan Upgrades</h3>
+            <p>Upgrade your Rclone hosting plan at any time using our command-line tool or web interface.</p>
+            
+            <h4>Quick Upgrade Command</h4>
+            <pre><code>export API_KEY="your_api_key"
+export API_SECRET="your_api_secret"
+
+bash rclone-upgrade-plan.sh</code></pre>
+            
+            <h4>Available Plans</h4>
+            <table class="pricing-table">
+                <thead>
+                    <tr>
+                        <th>Plan</th>
+                        <th>Monthly Cost</th>
+                        <th>Storage</th>
+                        <th>Cloud Remotes</th>
+                        <th>Support</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Starter</strong></td>
+                        <td>€8</td>
+                        <td>10GB</td>
+                        <td>5</td>
+                        <td>Email</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Professional</strong></td>
+                        <td>€20</td>
+                        <td>50GB</td>
+                        <td>20</td>
+                        <td>Priority</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Enterprise</strong></td>
+                        <td>€60</td>
+                        <td>200GB</td>
+                        <td>Unlimited</td>
+                        <td>24/7 Dedicated</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <h4>Payment Methods</h4>
+            <ul>
+                <li><strong>Bitcoin:</strong> Instant activation within 1-2 minutes (Recommended)</li>
+                <li><strong>Bank Transfer:</strong> Direct EUR payment for enterprise customers</li>
+                <li><strong>Credit Card:</strong> Coming soon</li>
+            </ul>
+            
+            <h4>API Reference</h4>
+            <p>Upgrade plans programmatically using our API:</p>
+            
+            <pre><code># Check available plans
+curl https://api.datahosting.company/api/rclone/packages
+
+# Upgrade to a new plan
+curl -X POST https://api.datahosting.company/api/rclone/upgrade-plan \
+  -H "X-API-KEY: your_api_key" \
+  -H "X-API-SECRET: your_api_secret" \
+  -H "Content-Type: application/json" \
+  -d '{"package": "professional"}'
+
+# Check current plan status
+curl https://api.datahosting.company/api/rclone/status \
+  -H "X-API-KEY: your_api_key" \
+  -H "X-API-SECRET: your_api_secret"</code></pre>
+            
+            <h4>Rclone Cloud Providers & Resources</h4>
+            <p>We maintain a curated list of high-impact Rclone resources updated daily:</p>
+            <ul>
+                <li><a href="https://github.com/branislav1989/datahosting-ipfs-kubo-cluster/tree/main/rclone-hosting/links" target="_blank">View Curated Links</a> - 18 SEO-optimized resources</li>
+                <li><a href="https://github.com/branislav1989/datahosting-ipfs-kubo-cluster/raw/main/rclone-hosting/links/rclone_ecosystem_links_feed.xml" target="_blank">Subscribe to RSS Feed</a> - Daily updates</li>
+                <li><a href="https://github.com/branislav1989/datahosting-ipfs-kubo-cluster/tree/main/rclone-hosting" target="_blank">View on GitHub</a> - Complete documentation</li>
+            </ul>
+            
+            <h3>Billing & Upgrades</h3>
+            <ul>
+                <li>Plans can be upgraded at any time</li>
+                <li>Downgrades take effect on the next billing cycle</li>
+                <li>Proration applied for mid-cycle upgrades</li>
+                <li>Annual plans include 25% discount</li>
+                <li>Bulk discounts available for 5+ accounts</li>
+            </ul>
+            
+            <h3>Cloud Provider Support</h3>
+            <p>Rclone supports 40+ cloud storage providers including:</p>
+            <ul>
+                <li>🌐 Google Drive, Dropbox, OneDrive, Box</li>
+                <li>☁️ AWS S3, Backblaze B2, DigitalOcean Spaces</li>
+                <li>🔒 Encrypted storage with built-in crypt</li>
+                <li>📦 FTP, SFTP, WebDAV, SMB support</li>
+            </ul>
+            
+            <h3>Support</h3>
+            <p>For Rclone hosting support:</p>
+            <ul>
+                <li>📧 Email: branislavusjak1989@gmail.com</li>
+                <li>📚 Documentation: <a href="https://github.com/branislav1989/datahosting-ipfs-kubo-cluster/tree/main/rclone-hosting" target="_blank">rclone-hosting on GitHub</a></li>
+                <li>💻 API Docs: Available in rclone-hosting/PRICING.md</li>
+            </ul>
+        </section>
+        <!-- End Rclone Hosting Section -->
+        
         <div class="footer">
             <div class="checkbox-container">
                 <input type="checkbox" id="terms-checkbox" onchange="toggleAcceptButton()">

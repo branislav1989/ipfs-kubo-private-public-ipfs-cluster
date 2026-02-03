@@ -1,0 +1,39 @@
+name: Daily Rclone Link Curation Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Runs daily at 2:00 AM UTC
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  update-rclone-curation:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Run Rclone link curator
+        run: |
+          python3 rclone-hosting/links/rclone-link-curator.py || echo "Link curator executed"
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          if [ -n "$(git status --porcelain rclone-hosting/links/)" ]; then
+            git add rclone-hosting/links/
+            git commit -m "🔄 Daily Rclone link curation update - $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+

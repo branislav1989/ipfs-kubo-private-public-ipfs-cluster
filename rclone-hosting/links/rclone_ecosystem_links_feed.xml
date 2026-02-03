@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rclone Hosting Ecosystem - Link Curation Feed</title>
+    <link>https://github.com/branislav1989/datahosting-ipfs-kubo-cluster/tree/main/rclone-hosting/links</link>
+    <description>High-impact links for Rclone cloud storage sync, backup solutions, and cloud provider integrations. Updated daily.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Feb 2024 23:05:59 +0000</lastBuildDate>
+    <managingEditor>branislavusjak1989@gmail.com</managingEditor>
+    <ttl>1440</ttl>
+    <category>Technology</category>
+    <category>Cloud Storage</category>
+    <category>Backup</category>
+
+    <item>
+      <title>Rclone - Official Website</title>
+      <link>https://rclone.org</link>
+      <guid>https://rclone.org</guid>
+      <pubDate>Wed, 03 Feb 2024 23:05:59 +0000</pubDate>
+      <category>Rclone Official</category>
+      <description>Official Rclone website. Command-line program to sync files to cloud storage.</description>
+      <content:encoded><![CDATA[<p><strong>Category:</strong> Rclone Official</p><p><strong>Tags:</strong> rclone, cloud-storage, sync, open-source</p><p><strong>Relevance:</strong> ⭐⭐⭐⭐⭐</p>]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Rclone GitHub Repository</title>
+      <link>https://github.com/rclone/rclone</link>
+      <guid>https://github.com/rclone/rclone</guid>
+      <pubDate>Wed, 03 Feb 2024 23:05:59 +0000</pubDate>
+      <category>Rclone Official</category>
+      <description>Open-source Rclone repository with source code and documentation.</description>
+      <content:encoded><![CDATA[<p><strong>Category:</strong> Rclone Official</p><p><strong>Tags:</strong> github, open-source, backup</p><p><strong>Relevance:</strong> ⭐⭐⭐⭐⭐</p>]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Rclone Documentation</title>
+      <link>https://rclone.org/docs/</link>
+      <guid>https://rclone.org/docs/</guid>
+      <pubDate>Wed, 03 Feb 2024 23:05:59 +0000</pubDate>
+      <category>Documentation</category>
+      <description>Complete documentation for installation and usage.</description>
+      <content:encoded><![CDATA[<p><strong>Category:</strong> Documentation</p><p><strong>Tags:</strong> documentation, guide, setup</p><p><strong>Relevance:</strong> ⭐⭐⭐⭐⭐</p>]]></content:encoded>
+    </item>
+
+    <item>
+      <title>AWS S3 - Rclone Configuration</title>
+      <link>https://rclone.org/s3/</link>
+      <guid>https://rclone.org/s3/</guid>
+      <pubDate>Wed, 03 Feb 2024 23:05:59 +0000</pubDate>
+      <category>Cloud Providers</category>
+      <description>Configure Rclone with Amazon S3 for object storage and backup.</description>
+      <content:encoded><![CDATA[<p><strong>Category:</strong> Cloud Providers</p><p><strong>Tags:</strong> aws, s3, object-storage</p><p><strong>Relevance:</strong> ⭐⭐⭐⭐⭐</p>]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Google Drive - Rclone Integration</title>
+      <link>https://rclone.org/drive/</link>
+      <guid>https://rclone.org/drive/</guid>
+      <pubDate>Wed, 03 Feb 2024 23:05:59 +0000</pubDate>
+      <category>Cloud Providers</category>
+      <description>Rclone integration guide for Google Drive cloud storage.</description>
+      <content:encoded><![CDATA[<p><strong>Category:</strong> Cloud Providers</p><p><strong>Tags:</strong> google-drive, cloud-storage</p><p><strong>Relevance:</strong> ⭐⭐⭐⭐⭐</p>]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Rclone Crypt - Encryption</title>
+      <link>https://rclone.org/crypt/</link>
+      <guid>https://rclone.org/crypt/</guid>
+      <pubDate>Wed, 03 Feb 2024 23:05:59 +0000</pubDate>
+      <category>Security</category>
+      <description>Encrypt files during cloud storage transfer using Rclone's built-in encryption.</description>
+      <content:encoded><![CDATA[<p><strong>Category:</strong> Advanced</p><p><strong>Tags:</strong> encryption, security, privacy</p><p><strong>Relevance:</strong> ⭐⭐⭐⭐⭐</p>]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
