@@ -1,0 +1,50 @@
+name: Daily Link Curation Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Runs daily at 2:00 AM UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-curation:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      
+      - name: Run link curator
+        run: |
+          python3 link_curator.py || echo "Link curator script not found, skipping"
+      
+      - name: Copy files to rss_curation
+        run: |
+          mkdir -p rss_curation
+          cp curated_links.json rss_curation/ 2>/dev/null || true
+          cp curated_links.md rss_curation/ 2>/dev/null || true
+          cp curated_links.html rss_curation/ 2>/dev/null || true
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git add rss_curation/ curated_links.*
+            git commit -m "🔄 Daily RSS curation update - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
