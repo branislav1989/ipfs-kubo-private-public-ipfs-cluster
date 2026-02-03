@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>IPFS Hosting Ecosystem - Link Curation Feed</title>
+    <link>https://github.com/branislav1989/datahosting-ipfs-kubo-cluster/tree/main/ipfs-hosting/links</link>
+    <description>18 curated links for IPFS, distributed storage, Web3, and decentralized web. Updated daily.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Feb 2024 23:05:59 +0000</lastBuildDate>
+    <ttl>1440</ttl>
+    
+    <item>
+      <title>IPFS - Official Website</title>
+      <link>https://ipfs.io</link>
+      <guid>https://ipfs.io</guid>
+      <pubDate>Wed, 04 Feb 2024 23:05:59 +0000</pubDate>
+      <category>IPFS Official</category>
+      <description>Official IPFS website. The InterPlanetary File System for distributed web.</description>
+    </item>
+    
+    <item>
+      <title>IPFS Documentation</title>
+      <link>https://docs.ipfs.io</link>
+      <guid>https://docs.ipfs.io</guid>
+      <pubDate>Wed, 04 Feb 2024 23:05:59 +0000</pubDate>
+      <category>Documentation</category>
+      <description>Complete IPFS documentation and guides.</description>
+    </item>
+    
+    <item>
+      <title>Filecoin - IPFS Storage Network</title>
+      <link>https://filecoin.io</link>
+      <guid>https://filecoin.io</guid>
+      <pubDate>Wed, 04 Feb 2024 23:05:59 +0000</pubDate>
+      <category>Distributed Storage</category>
+      <description>Decentralized storage network powered by IPFS.</description>
+    </item>
+    
+  </channel>
+</rss>
