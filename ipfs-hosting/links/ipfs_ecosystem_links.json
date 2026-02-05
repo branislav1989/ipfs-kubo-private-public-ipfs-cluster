@@ -1,30 +1,136 @@
 {
   "metadata": {
     "title": "IPFS Hosting Ecosystem - Curated Links & Resources",
-    "description": "High-impact links for IPFS, distributed storage, Web3, and decentralized web solutions",
-    "keywords": "ipfs, distributed storage, web3, decentralized, pinning, content addressing",
-    "updated": "2024-02-04T23:05:59Z",
-    "total_links": 18,
-    "categories": ["IPFS Official", "Distributed Storage", "Web3 & Blockchain", "DevOps & Tools", "Guides"]
+    "description": "High-impact links for IPFS, distributed storage, Web3, and decentralized web",
+    "updated": "2026-02-05T03:14:03.733374Z",
+    "total_links": 18
   },
   "links": [
-    {"id": 1, "title": "IPFS - Official Website", "url": "https://ipfs.io", "description": "Official IPFS website. The InterPlanetary File System for distributed web.", "category": "IPFS Official", "tags": ["ipfs", "distributed", "web3"], "keywords": ["ipfs", "distributed storage"], "relevance_score": 10, "indexed": true},
-    {"id": 2, "title": "IPFS GitHub Repository", "url": "https://github.com/ipfs/go-ipfs", "description": "Go-IPFS source code and documentation on GitHub.", "category": "IPFS Official", "tags": ["github", "open-source"], "keywords": ["ipfs source"], "relevance_score": 10, "indexed": true},
-    {"id": 3, "title": "IPFS Documentation", "url": "https://docs.ipfs.io", "description": "Complete IPFS documentation and guides.", "category": "IPFS Official", "tags": ["docs", "guide"], "keywords": ["ipfs docs"], "relevance_score": 10, "indexed": true},
-    {"id": 4, "title": "IPFS Kubo - Go Implementation", "url": "https://github.com/ipfs/kubo", "description": "Kubo is the Go implementation of IPFS.", "category": "IPFS Official", "tags": ["kubo", "go"], "keywords": ["ipfs kubo"], "relevance_score": 10, "indexed": true},
-    {"id": 5, "title": "IPFS Cluster", "url": "https://cluster.ipfs.io", "description": "Collaborative pinning and IPFS cluster coordination.", "category": "IPFS Official", "tags": ["cluster", "pinning"], "keywords": ["ipfs cluster"], "relevance_score": 9, "indexed": true},
-    {"id": 6, "title": "Filecoin - IPFS Storage Network", "url": "https://filecoin.io", "description": "Filecoin is a decentralized storage network powered by IPFS.", "category": "Distributed Storage", "tags": ["filecoin", "storage"], "keywords": ["filecoin storage"], "relevance_score": 9, "indexed": true},
-    {"id": 7, "title": "Pinata - IPFS Pinning Service", "url": "https://pinata.cloud", "description": "Premium IPFS pinning service for reliable content hosting.", "category": "Distributed Storage", "tags": ["pinning", "service"], "keywords": ["pinata ipfs"], "relevance_score": 8, "indexed": true},
-    {"id": 8, "title": "Web3.Storage - Decentralized Storage", "url": "https://web3.storage", "description": "Web3.Storage provides easy IPFS and Filecoin integration.", "category": "Distributed Storage", "tags": ["web3", "storage"], "keywords": ["web3 storage"], "relevance_score": 8, "indexed": true},
-    {"id": 9, "title": "Fleek - Web3 Hosting", "url": "https://fleek.co", "description": "Fleek enables deploying sites and apps to IPFS.", "category": "Web3 & Blockchain", "tags": ["web3", "hosting"], "keywords": ["fleek ipfs"], "relevance_score": 8, "indexed": true},
-    {"id": 10, "title": "Ethereum - Web3 Foundation", "url": "https://ethereum.org", "description": "Ethereum blockchain and Web3 ecosystem.", "category": "Web3 & Blockchain", "tags": ["ethereum", "web3"], "keywords": ["ethereum web3"], "relevance_score": 8, "indexed": true},
-    {"id": 11, "title": "IPFS Companion - Browser Extension", "url": "https://github.com/ipfs/ipfs-companion", "description": "Browser extension for easier IPFS access.", "category": "DevOps & Tools", "tags": ["browser", "extension"], "keywords": ["ipfs companion"], "relevance_score": 7, "indexed": true},
-    {"id": 12, "title": "OrbitDB - Distributed Database", "url": "https://orbitdb.org", "description": "Peer-to-peer database on top of IPFS.", "category": "DevOps & Tools", "tags": ["database", "distributed"], "keywords": ["orbitdb ipfs"], "relevance_score": 7, "indexed": true},
-    {"id": 13, "title": "Textile - IPFS & Blockchain Tools", "url": "https://www.textile.io", "description": "Textile provides developer tools for IPFS and Web3.", "category": "DevOps & Tools", "tags": ["developer", "tools"], "keywords": ["textile ipfs"], "relevance_score": 7, "indexed": true},
-    {"id": 14, "title": "Docker IPFS - Container Deployment", "url": "https://hub.docker.com/r/ipfs/go-ipfs", "description": "Official Docker image for running IPFS nodes.", "category": "DevOps & Tools", "tags": ["docker", "container"], "keywords": ["docker ipfs"], "relevance_score": 8, "indexed": true},
-    {"id": 15, "title": "IPFS Content Addressing", "url": "https://docs.ipfs.io/concepts/content-addressing/", "description": "Understanding IPFS content addressing and CIDs.", "category": "Guides", "tags": ["concept", "guide"], "keywords": ["content addressing"], "relevance_score": 8, "indexed": true},
-    {"id": 16, "title": "IPFS Gateway Guide", "url": "https://docs.ipfs.io/how-to/address-ipfs-on-web/", "description": "How to use IPFS gateways for web access.", "category": "Guides", "tags": ["gateway", "guide"], "keywords": ["ipfs gateway"], "relevance_score": 8, "indexed": true},
-    {"id": 17, "title": "IPFS Security Best Practices", "url": "https://docs.ipfs.io/how-to/security-best-practices/", "description": "Security considerations for IPFS deployment.", "category": "Guides", "tags": ["security", "guide"], "keywords": ["ipfs security"], "relevance_score": 8, "indexed": true},
-    {"id": 18, "title": "Protocol Labs - IPFS Creator", "url": "https://protocol.ai", "description": "Protocol Labs, the company behind IPFS and Filecoin.", "category": "IPFS Official", "tags": ["protocol", "labs"], "keywords": ["protocol labs"], "relevance_score": 9, "indexed": true}
+    {
+      "id": 1,
+      "title": "IPFS - Official Website",
+      "url": "https://ipfs.io",
+      "category": "IPFS Official",
+      "relevance_score": 10
+    },
+    {
+      "id": 2,
+      "title": "IPFS GitHub Repository",
+      "url": "https://github.com/ipfs/go-ipfs",
+      "category": "IPFS Official",
+      "relevance_score": 10
+    },
+    {
+      "id": 3,
+      "title": "IPFS Documentation",
+      "url": "https://docs.ipfs.io",
+      "category": "IPFS Official",
+      "relevance_score": 10
+    },
+    {
+      "id": 4,
+      "title": "IPFS Kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "category": "IPFS Official",
+      "relevance_score": 10
+    },
+    {
+      "id": 5,
+      "title": "IPFS Cluster",
+      "url": "https://cluster.ipfs.io",
+      "category": "IPFS Official",
+      "relevance_score": 9
+    },
+    {
+      "id": 6,
+      "title": "Filecoin",
+      "url": "https://filecoin.io",
+      "category": "Distributed Storage",
+      "relevance_score": 9
+    },
+    {
+      "id": 7,
+      "title": "Pinata",
+      "url": "https://pinata.cloud",
+      "category": "Distributed Storage",
+      "relevance_score": 8
+    },
+    {
+      "id": 8,
+      "title": "Web3.Storage",
+      "url": "https://web3.storage",
+      "category": "Distributed Storage",
+      "relevance_score": 8
+    },
+    {
+      "id": 9,
+      "title": "Fleek",
+      "url": "https://fleek.co",
+      "category": "Web3 & Blockchain",
+      "relevance_score": 8
+    },
+    {
+      "id": 10,
+      "title": "Ethereum",
+      "url": "https://ethereum.org",
+      "category": "Web3 & Blockchain",
+      "relevance_score": 8
+    },
+    {
+      "id": 11,
+      "title": "IPFS Companion",
+      "url": "https://github.com/ipfs/ipfs-companion",
+      "category": "DevOps & Tools",
+      "relevance_score": 7
+    },
+    {
+      "id": 12,
+      "title": "OrbitDB",
+      "url": "https://orbitdb.org",
+      "category": "DevOps & Tools",
+      "relevance_score": 7
+    },
+    {
+      "id": 13,
+      "title": "Textile",
+      "url": "https://www.textile.io",
+      "category": "DevOps & Tools",
+      "relevance_score": 7
+    },
+    {
+      "id": 14,
+      "title": "Docker IPFS",
+      "url": "https://hub.docker.com/r/ipfs/go-ipfs",
+      "category": "DevOps & Tools",
+      "relevance_score": 8
+    },
+    {
+      "id": 15,
+      "title": "Content Addressing",
+      "url": "https://docs.ipfs.io/concepts/content-addressing/",
+      "category": "Guides",
+      "relevance_score": 8
+    },
+    {
+      "id": 16,
+      "title": "IPFS Gateway Guide",
+      "url": "https://docs.ipfs.io/how-to/address-ipfs-on-web/",
+      "category": "Guides",
+      "relevance_score": 8
+    },
+    {
+      "id": 17,
+      "title": "IPFS Security",
+      "url": "https://docs.ipfs.io/how-to/security-best-practices/",
+      "category": "Guides",
+      "relevance_score": 8
+    },
+    {
+      "id": 18,
+      "title": "Protocol Labs",
+      "url": "https://protocol.ai",
+      "category": "IPFS Official",
+      "relevance_score": 9
+    }
   ]
 }

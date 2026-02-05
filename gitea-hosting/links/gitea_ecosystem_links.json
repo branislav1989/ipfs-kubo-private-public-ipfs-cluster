@@ -3,244 +3,338 @@
     "title": "Gitea Hosting Ecosystem - Curated Links & Resources",
     "description": "High-impact links for self-hosted Git repositories, Gitea instances, version control tools, and DevOps solutions",
     "keywords": "gitea, self-hosted git, version control, git hosting, devops, ci/cd, open source",
-    "updated": "2024-02-03T23:05:59Z",
+    "updated": "2026-02-05T03:14:03.593644Z",
     "total_links": 18,
-    "categories": ["Gitea", "Self-Hosting", "Git Tools", "CI/CD", "DevOps", "Version Control"]
+    "categories": [
+      "Gitea",
+      "Self-Hosting",
+      "Git Tools",
+      "CI/CD",
+      "DevOps",
+      "Version Control"
+    ]
   },
   "links": [
     {
       "id": 1,
       "title": "Gitea - Painless Self-Hosted Git Service",
       "url": "https://gitea.io",
-      "description": "Official Gitea website. A lightweight Git service written in Go with focus on simplicity and minimal resource usage. Perfect for self-hosted Git repositories.",
+      "description": "Official Gitea website. Lightweight Git service written in Go.",
       "category": "Gitea",
-      "tags": ["gitea", "self-hosted", "git", "open-source"],
-      "keywords": ["gitea", "self-hosted git", "lightweight git service"],
-      "seo_tags": ["gitea-official", "git-service", "self-hosting"],
+      "tags": [
+        "gitea",
+        "self-hosted",
+        "git",
+        "open-source"
+      ],
+      "keywords": [
+        "gitea",
+        "self-hosted git",
+        "lightweight git service"
+      ],
       "relevance_score": 10,
-      "indexed": true,
-      "rss_category": "Gitea Official"
+      "indexed": true
     },
     {
       "id": 2,
       "title": "Gitea GitHub Repository",
       "url": "https://github.com/go-gitea/gitea",
-      "description": "Open-source Gitea repository on GitHub. Source code, issues, documentation, and community contributions for self-hosted Git service.",
+      "description": "Open-source Gitea repository with source code and documentation.",
       "category": "Gitea",
-      "tags": ["gitea", "github", "open-source", "repository"],
-      "keywords": ["gitea source code", "git hosting", "open source"],
-      "seo_tags": ["gitea-repo", "open-source-code"],
+      "tags": [
+        "gitea",
+        "github",
+        "open-source",
+        "repository"
+      ],
+      "keywords": [
+        "gitea source code",
+        "git hosting",
+        "open source"
+      ],
       "relevance_score": 10,
-      "indexed": true,
-      "rss_category": "Gitea Official"
+      "indexed": true
     },
     {
       "id": 3,
-      "title": "Gitea Docker Hub - Official Images",
-      "url": "https://hub.docker.com/r/gitea/gitea",
-      "description": "Official Gitea Docker images for containerized deployment. Quick setup for self-hosted Git repositories with Docker.",
+      "title": "Gitea Documentation - Installation",
+      "url": "https://docs.gitea.io/en-us/installation/",
+      "description": "Complete Gitea installation guide for all platforms.",
       "category": "Self-Hosting",
-      "tags": ["docker", "gitea", "containers", "deployment"],
-      "keywords": ["gitea docker", "container deployment", "self-hosting"],
-      "seo_tags": ["docker-deployment", "containerized"],
-      "relevance_score": 9,
-      "indexed": true,
-      "rss_category": "Deployment"
+      "tags": [
+        "documentation",
+        "installation",
+        "setup"
+      ],
+      "keywords": [
+        "gitea installation",
+        "setup",
+        "deployment"
+      ],
+      "relevance_score": 10,
+      "indexed": true
     },
     {
       "id": 4,
-      "title": "Gitea Documentation - Installation Guide",
-      "url": "https://docs.gitea.io/en-us/installation/",
-      "description": "Complete Gitea installation guide covering binary, Docker, Kubernetes, and package manager installations for different platforms.",
-      "category": "Self-Hosting",
-      "tags": ["documentation", "installation", "setup", "guide"],
-      "keywords": ["gitea installation", "setup guide", "deployment"],
-      "seo_tags": ["docs", "installation-guide"],
+      "title": "Gitea Actions - GitHub Compatible",
+      "url": "https://docs.gitea.io/en-us/usage/actions/",
+      "description": "GitHub Actions compatible CI/CD for Gitea.",
+      "category": "CI/CD",
+      "tags": [
+        "gitea",
+        "github-actions",
+        "ci/cd"
+      ],
+      "keywords": [
+        "gitea actions",
+        "workflow automation"
+      ],
       "relevance_score": 9,
-      "indexed": true,
-      "rss_category": "Documentation"
+      "indexed": true
     },
     {
       "id": 5,
-      "title": "Gitea Kubernetes Helm Chart",
-      "url": "https://github.com/gitea/helm-chart",
-      "description": "Official Helm chart for deploying Gitea on Kubernetes clusters. Enterprise-grade self-hosted Git service deployment.",
+      "title": "Gitea Docker Hub Images",
+      "url": "https://hub.docker.com/r/gitea/gitea",
+      "description": "Official Gitea Docker images for containerized deployment.",
       "category": "Self-Hosting",
-      "tags": ["kubernetes", "helm", "k8s", "devops"],
-      "keywords": ["gitea kubernetes", "helm chart", "k8s deployment"],
-      "seo_tags": ["k8s-deployment", "helm"],
-      "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "DevOps"
+      "tags": [
+        "docker",
+        "containers",
+        "deployment"
+      ],
+      "keywords": [
+        "gitea docker",
+        "container deployment"
+      ],
+      "relevance_score": 9,
+      "indexed": true
     },
     {
       "id": 6,
-      "title": "Drone CI - CI/CD for Gitea",
-      "url": "https://www.drone.io",
-      "description": "Drone is a popular CI/CD platform that integrates perfectly with Gitea. Lightweight continuous integration for self-hosted Git.",
-      "category": "CI/CD",
-      "tags": ["ci/cd", "gitea", "automation", "testing"],
-      "keywords": ["drone ci", "gitea ci/cd", "continuous integration"],
-      "seo_tags": ["cicd-platform", "automation"],
+      "title": "Gitea Kubernetes Helm Chart",
+      "url": "https://github.com/gitea/helm-chart",
+      "description": "Official Helm chart for Kubernetes deployment.",
+      "category": "Self-Hosting",
+      "tags": [
+        "kubernetes",
+        "helm",
+        "devops"
+      ],
+      "keywords": [
+        "gitea kubernetes",
+        "helm chart"
+      ],
       "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "CI/CD Integration"
+      "indexed": true
     },
     {
       "id": 7,
-      "title": "Gitea Actions - GitHub Actions Compatible",
-      "url": "https://docs.gitea.io/en-us/usage/actions/",
-      "description": "Gitea Actions brings GitHub Actions compatibility to self-hosted Gitea. Run CI/CD pipelines with familiar workflow syntax.",
+      "title": "Drone CI",
+      "url": "https://www.drone.io",
+      "description": "CI/CD platform that integrates with Gitea.",
       "category": "CI/CD",
-      "tags": ["gitea", "github-actions", "ci/cd", "automation"],
-      "keywords": ["gitea actions", "workflow automation", "github compatible"],
-      "seo_tags": ["github-actions-compatible", "cicd"],
-      "relevance_score": 9,
-      "indexed": true,
-      "rss_category": "CI/CD Features"
+      "tags": [
+        "ci/cd",
+        "automation"
+      ],
+      "keywords": [
+        "drone ci",
+        "gitea ci/cd"
+      ],
+      "relevance_score": 8,
+      "indexed": true
     },
     {
       "id": 8,
-      "title": "Woodpecker CI - Self-Hosted CI/CD",
+      "title": "Woodpecker CI",
       "url": "https://woodpecker-ci.org",
-      "description": "Woodpecker is a community-driven CI/CD platform for self-hosted environments. Works great with Gitea for automated testing and deployment.",
+      "description": "Community-driven self-hosted CI/CD platform.",
       "category": "CI/CD",
-      "tags": ["woodpecker", "ci/cd", "automation", "devops"],
-      "keywords": ["woodpecker ci", "self-hosted ci/cd", "automation"],
-      "seo_tags": ["cicd-platform", "self-hosted"],
+      "tags": [
+        "ci/cd",
+        "automation",
+        "devops"
+      ],
+      "keywords": [
+        "woodpecker ci",
+        "self-hosted"
+      ],
       "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "CI/CD Integration"
+      "indexed": true
     },
     {
       "id": 9,
-      "title": "Git - Official Version Control System",
+      "title": "Git Official",
       "url": "https://git-scm.com",
-      "description": "Official Git website. Learn Git fundamentals, download the tool, and access complete documentation for version control.",
+      "description": "Official Git version control system.",
       "category": "Version Control",
-      "tags": ["git", "version-control", "scm"],
-      "keywords": ["git version control", "distributed scm", "version control"],
-      "seo_tags": ["official-vcs", "scm-tool"],
-      "relevance_score": 9,
-      "indexed": true,
-      "rss_category": "Fundamentals"
+      "tags": [
+        "git",
+        "vcs",
+        "scm"
+      ],
+      "keywords": [
+        "git version control"
+      ],
+      "relevance_score": 10,
+      "indexed": true
     },
     {
       "id": 10,
-      "title": "GitHub - Git Hosting Platform",
+      "title": "GitHub",
       "url": "https://github.com",
-      "description": "GitHub - World's leading Git hosting platform. Compare with self-hosted Gitea for understanding cloud vs. self-hosted trade-offs.",
+      "description": "Leading Git hosting platform.",
       "category": "Version Control",
-      "tags": ["github", "git", "hosting", "platform"],
-      "keywords": ["github", "git hosting", "repository hosting"],
-      "seo_tags": ["cloud-hosting", "platform-comparison"],
+      "tags": [
+        "github",
+        "hosting"
+      ],
+      "keywords": [
+        "github",
+        "git hosting"
+      ],
       "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "Platforms"
+      "indexed": true
     },
     {
       "id": 11,
-      "title": "GitLab - Enterprise Git Platform",
+      "title": "GitLab",
       "url": "https://gitlab.com",
-      "description": "GitLab - Full DevOps platform with Git hosting. Alternative to Gitea for teams needing more built-in features.",
+      "description": "Enterprise Git platform with DevOps.",
       "category": "Version Control",
-      "tags": ["gitlab", "git", "devops", "enterprise"],
-      "keywords": ["gitlab", "devops platform", "git enterprise"],
-      "seo_tags": ["enterprise-platform", "devops-suite"],
+      "tags": [
+        "gitlab",
+        "devops",
+        "enterprise"
+      ],
+      "keywords": [
+        "gitlab",
+        "devops platform"
+      ],
       "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "Platforms"
+      "indexed": true
     },
     {
       "id": 12,
-      "title": "Gitolite - Git Access Control",
-      "url": "http://gitolite.com",
-      "description": "Gitolite provides fine-grained access control for Git repositories. Often paired with Gitea for advanced permission management.",
-      "category": "Git Tools",
-      "tags": ["gitolite", "access-control", "permissions", "git"],
-      "keywords": ["gitolite", "git access control", "permission management"],
-      "seo_tags": ["access-control", "security"],
+      "title": "Gogs",
+      "url": "https://gogs.io",
+      "description": "Lightweight self-hosted Git service.",
+      "category": "Version Control",
+      "tags": [
+        "gogs",
+        "lightweight",
+        "self-hosted"
+      ],
+      "keywords": [
+        "gogs",
+        "lightweight git"
+      ],
       "relevance_score": 7,
-      "indexed": true,
-      "rss_category": "Security & Access"
+      "indexed": true
     },
     {
       "id": 13,
-      "title": "Forgejo - Gitea Fork for Community",
-      "url": "https://forgejo.org",
-      "description": "Forgejo is a community-driven fork of Gitea. Emphasizes federation and decentralization for Git hosting.",
-      "category": "Gitea",
-      "tags": ["forgejo", "gitea-fork", "federation", "community"],
-      "keywords": ["forgejo", "gitea fork", "federated git"],
-      "seo_tags": ["community-fork", "federation"],
-      "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "Gitea Ecosystem"
+      "title": "Gitolite",
+      "url": "http://gitolite.com",
+      "description": "Git access control and permissions.",
+      "category": "Git Tools",
+      "tags": [
+        "access-control",
+        "permissions"
+      ],
+      "keywords": [
+        "gitolite",
+        "access control"
+      ],
+      "relevance_score": 7,
+      "indexed": true
     },
     {
       "id": 14,
-      "title": "Gogs - Lightweight Git Service",
-      "url": "https://gogs.io",
-      "description": "Gogs is a lightweight, painless self-hosted Git service. Similar to Gitea but with slightly different philosophy.",
-      "category": "Git Tools",
-      "tags": ["gogs", "git", "lightweight", "self-hosted"],
-      "keywords": ["gogs", "lightweight git", "self-hosted"],
-      "seo_tags": ["lightweight-alternative", "self-hosted-git"],
-      "relevance_score": 7,
-      "indexed": true,
-      "rss_category": "Alternatives"
+      "title": "Forgejo",
+      "url": "https://forgejo.org",
+      "description": "Community-driven Gitea fork.",
+      "category": "Gitea",
+      "tags": [
+        "forgejo",
+        "gitea-fork",
+        "federation"
+      ],
+      "keywords": [
+        "forgejo",
+        "gitea fork"
+      ],
+      "relevance_score": 8,
+      "indexed": true
     },
     {
       "id": 15,
-      "title": "Prometheus - Monitoring for Gitea",
+      "title": "Prometheus",
       "url": "https://prometheus.io",
-      "description": "Prometheus monitoring system for tracking Gitea server metrics, health, and performance.",
+      "description": "Monitoring system for Gitea metrics.",
       "category": "DevOps",
-      "tags": ["prometheus", "monitoring", "metrics", "observability"],
-      "keywords": ["prometheus monitoring", "metrics", "observability"],
-      "seo_tags": ["monitoring", "observability"],
+      "tags": [
+        "prometheus",
+        "monitoring"
+      ],
+      "keywords": [
+        "prometheus",
+        "monitoring"
+      ],
       "relevance_score": 7,
-      "indexed": true,
-      "rss_category": "Monitoring"
+      "indexed": true
     },
     {
       "id": 16,
-      "title": "Let's Encrypt - Free SSL Certificates",
-      "url": "https://letsencrypt.org",
-      "description": "Let's Encrypt provides free SSL/TLS certificates for securing your self-hosted Gitea instance with HTTPS.",
+      "title": "Nginx",
+      "url": "https://nginx.org",
+      "description": "Reverse proxy for Gitea.",
       "category": "DevOps",
-      "tags": ["ssl", "tls", "certificates", "https"],
-      "keywords": ["lets encrypt", "ssl certificates", "https security"],
-      "seo_tags": ["security", "ssl-tls"],
+      "tags": [
+        "nginx",
+        "proxy"
+      ],
+      "keywords": [
+        "nginx",
+        "reverse proxy"
+      ],
       "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "Security"
+      "indexed": true
     },
     {
       "id": 17,
-      "title": "Nginx - Reverse Proxy for Gitea",
-      "url": "https://nginx.org",
-      "description": "Nginx web server commonly used as reverse proxy for Gitea. Excellent for load balancing and SSL termination.",
+      "title": "Let's Encrypt",
+      "url": "https://letsencrypt.org",
+      "description": "Free SSL certificates.",
       "category": "DevOps",
-      "tags": ["nginx", "reverse-proxy", "webserver"],
-      "keywords": ["nginx", "reverse proxy", "web server"],
-      "seo_tags": ["proxy", "webserver"],
+      "tags": [
+        "ssl",
+        "certificates"
+      ],
+      "keywords": [
+        "ssl",
+        "https"
+      ],
       "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "Infrastructure"
+      "indexed": true
     },
     {
       "id": 18,
-      "title": "PostgreSQL - Database for Gitea",
+      "title": "PostgreSQL",
       "url": "https://www.postgresql.org",
-      "description": "PostgreSQL is the recommended database backend for production Gitea deployments. Reliable, scalable, and feature-rich.",
+      "description": "Database backend for Gitea.",
       "category": "DevOps",
-      "tags": ["postgresql", "database", "sql"],
-      "keywords": ["postgresql", "database", "sql"],
-      "seo_tags": ["database", "backend"],
+      "tags": [
+        "postgresql",
+        "database"
+      ],
+      "keywords": [
+        "postgresql",
+        "database"
+      ],
       "relevance_score": 8,
-      "indexed": true,
-      "rss_category": "Infrastructure"
+      "indexed": true
     }
   ]
 }
