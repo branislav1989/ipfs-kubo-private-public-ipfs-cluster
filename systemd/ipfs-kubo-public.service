@@ -1,0 +1,14 @@
+[Unit]
+Description=IPFS Kubo (public) daemon
+After=network.target
+
+[Service]
+Environment="IPFS_PATH=/var/lib/ipfs/public"
+ExecStart=/usr/local/bin/ipfs daemon --enable-gc
+User=ipfs
+Restart=on-failure
+RestartSec=10
+LimitNOFILE=65536
+
+[Install]
+WantedBy=multi-user.target
