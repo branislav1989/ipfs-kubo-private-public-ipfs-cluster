@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataHosting - Decentralized IPFS Hosting with Bitcoin Payments</title>
+    <meta name="description" content="Privacy-first decentralized cloud storage on IPFS. Git hosting, backups, and mobile sync. Pay with Bitcoin. No tracking. No middleman.">
+    <meta name="keywords" content="IPFS hosting, Bitcoin payments, decentralized storage, privacy, cryptocurrency, Gitea, Rclone, mobile backup">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, #0066cc 0%, #003366 100%);
+            color: white;
+            padding: 20px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+
+        nav {
+            display: flex;
+            gap: 30px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: opacity 0.3s;
+        }
+
+        nav a:hover {
+            opacity: 0.8;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(135deg, #0066cc 0%, #003366 100%);
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+        }
+
+        .hero-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .hero h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+            font-weight: 800;
+        }
+
+        .hero .tagline {
+            font-size: 24px;
+            margin-bottom: 30px;
+            opacity: 0.95;
+        }
+
+        .hero-features {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 40px;
+            font-size: 16px;
+        }
+
+        .hero-features span {
+            background: rgba(255,255,255,0.2);
+            padding: 8px 16px;
+            border-radius: 20px;
+        }
+
+        /* Sections */
+        section {
+            padding: 80px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        section h2 {
+            font-size: 36px;
+            margin-bottom: 50px;
+            text-align: center;
+            color: #0066cc;
+        }
+
+        /* Problem Section */
+        .problem {
+            background: white;
+        }
+
+        .problems-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .problem-card {
+            background: #fff3cd;
+            border-left: 4px solid #ff9800;
+            padding: 30px;
+            border-radius: 8px;
+            transition: transform 0.3s;
+        }
+
+        .problem-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .problem-card h3 {
+            font-size: 20px;
+            margin-bottom: 15px;
+            color: #d84315;
+        }
+
+        .problem-card p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #555;
+        }
+
+        /* Solution Section */
+        .solution {
+            background: #f0f7ff;
+        }
+
+        .solutions-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+        }
+
+        .solution-card {
+            background: white;
+            border-left: 4px solid #0066cc;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+
+        .solution-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .solution-card h3 {
+            font-size: 20px;
+            margin-bottom: 15px;
+            color: #0066cc;
+        }
+
+        .solution-icon {
+            font-size: 36px;
+            margin-bottom: 15px;
+        }
+
+        .solution-card p {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #666;
+        }
+
+        .solution-card ul {
+            margin-top: 15px;
+            margin-left: 20px;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .solution-card li {
+            margin-bottom: 8px;
+        }
+
+        /* Features Section */
+        .features {
+            background: white;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+
+        .feature {
+            text-align: center;
+            padding: 30px;
+        }
+
+        .feature-icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+
+        .feature h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+            color: #0066cc;
+        }
+
+        .feature p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        /* Pricing Section */
+        .pricing {
+            background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%);
+        }
+
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 50px;
+        }
+
+        .price-card {
+            background: white;
+            border: 2px solid #ddd;
+            border-radius: 12px;
+            padding: 40px 30px;
+            text-align: center;
+            transition: all 0.3s;
+        }
+
+        .price-card:hover {
+            border-color: #0066cc;
+            box-shadow: 0 10px 30px rgba(0, 102, 204, 0.2);
+            transform: translateY(-10px);
+        }
+
+        .price-card.featured {
+            border-color: #0066cc;
+            background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%);
+            transform: scale(1.05);
+        }
+
+        .price-card h3 {
+            font-size: 24px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .price-tag {
+            font-size: 36px;
+            color: #0066cc;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+
+        .price-tag .period {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .price-features {
+            list-style: none;
+            margin: 30px 0;
+            text-align: left;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .price-features li {
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .price-features li:before {
+            content: "✓ ";
+            color: #0066cc;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        .cta-button {
+            background: linear-gradient(135deg, #0066cc 0%, #0052a3 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 102, 204, 0.4);
+        }
+
+        /* Action Section */
+        .action {
+            background: linear-gradient(135deg, #0066cc 0%, #003366 100%);
+            color: white;
+            text-align: center;
+        }
+
+        .action h2 {
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .action p {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .action-btn {
+            padding: 15px 40px;
+            font-size: 16px;
+            font-weight: bold;
+            border: 2px solid white;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .action-btn.primary {
+            background: white;
+            color: #0066cc;
+        }
+
+        .action-btn.secondary {
+            background: transparent;
+            color: white;
+        }
+
+        .action-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+
+        /* Footer */
+        footer {
+            background: #1a1a1a;
+            color: #aaa;
+            padding: 40px 20px;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer-links {
+            margin-bottom: 20px;
+        }
+
+        .footer-links a {
+            color: #aaa;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        .footer-links a:hover {
+            color: #0066cc;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 32px;
+            }
+
+            nav {
+                gap: 15px;
+                font-size: 14px;
+            }
+
+            section {
+                padding: 50px 20px;
+            }
+
+            section h2 {
+                font-size: 28px;
+            }
+
+            .price-card.featured {
+                transform: scale(1);
+            }
+
+            .action-buttons {
+                flex-direction: column;
+            }
+        }
+
+        /* Testimonial */
+        .testimonials {
+            background: white;
+        }
+
+        .testimonial-card {
+            background: #f8f9fa;
+            border-left: 4px solid #0066cc;
+            padding: 30px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .testimonial-text {
+            font-style: italic;
+            margin-bottom: 15px;
+            color: #555;
+        }
+
+        .testimonial-author {
+            font-weight: bold;
+            color: #0066cc;
+        }
+
+        /* Trust Badges */
+        .trust-section {
+            background: #f0f7ff;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .trust-badges {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            margin-top: 30px;
+        }
+
+        .badge {
+            text-align: center;
+        }
+
+        .badge-icon {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        .badge-text {
+            font-weight: bold;
+            color: #0066cc;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-content">
+            <div class="logo">🚀 DataHosting</div>
+            <nav>
+                <a href="#problem">Problem</a>
+                <a href="#solution">Solution</a>
+                <a href="#pricing">Pricing</a>
+                <a href="#action">Get Started</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Decentralized Cloud Storage</h1>
+            <p class="tagline">Privacy-First IPFS Hosting with Bitcoin Payments</p>
+            <div class="hero-features">
+                <span>📊 IPFS Hosting</span>
+                <span>🔐 Bitcoin Payments</span>
+                <span>🌐 Decentralized</span>
+                <span>🚀 No Middleman</span>
+            </div>
+            <button class="cta-button" onclick="document.getElementById('action').scrollIntoView({behavior: 'smooth'})">Start Free Trial</button>
+        </div>
+    </section>
+
+    <!-- Problem Section -->
+    <section id="problem" class="problem">
+        <h2>🔴 The Problem</h2>
+        <div class="problems-grid">
+            <div class="problem-card">
+                <h3>❌ Centralized & Tracking</h3>
+                <p>Big cloud providers track your data, sell your information, and control access. Your privacy is the product.</p>
+            </div>
+            <div class="problem-card">
+                <h3>❌ Vendor Lock-in</h3>
+                <p>Can't use your data without the provider. One policy change and you lose everything.</p>
+            </div>
+            <div class="problem-card">
+                <h3>❌ No Privacy Options</h3>
+                <p>No way to pay anonymously. Credit cards leak your identity. Payment processors track everything.</p>
+            </div>
+            <div class="problem-card">
+                <h3>❌ Expensive & Inflexible</h3>
+                <p>Fixed plans with storage you don't need. No option to pay per GB. Monthly subscriptions you can't cancel.</p>
+            </div>
+            <div class="problem-card">
+                <h3>❌ Limited to Desktop</h3>
+                <p>No mobile backup solution. Backups require manual intervention. No automatic scheduling.</p>
+            </div>
+            <div class="problem-card">
+                <h3>❌ Unreliable</h3>
+                <p>Single point of failure. Server goes down = data gone. No redundancy or recovery options.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solution Section -->
+    <section id="solution" class="solution">
+        <h2>✅ The Solution</h2>
+        <div class="solutions-grid">
+            <div class="solution-card">
+                <div class="solution-icon">📊</div>
+                <h3>IPFS Hosting</h3>
+                <p>Your files stored on IPFS - a distributed, peer-to-peer network. No single point of failure.</p>
+                <ul>
+                    <li>✓ Redundant storage</li>
+                    <li>✓ Immutable backups</li>
+                    <li>✓ Content-addressed</li>
+                </ul>
+            </div>
+
+            <div class="solution-card">
+                <div class="solution-icon">₿</div>
+                <h3>Bitcoin Payments</h3>
+                <p>Pay anonymously with Bitcoin. No credit cards. No tracking. No identity required.</p>
+                <ul>
+                    <li>✓ Privacy-first</li>
+                    <li>✓ No intermediaries</li>
+                    <li>✓ Instant payments</li>
+                </ul>
+            </div>
+
+            <div class="solution-card">
+                <div class="solution-icon">🔐</div>
+                <h3>Your Data, Your Rules</h3>
+                <p>End-to-end encryption. We cannot access your files. You control everything.</p>
+                <ul>
+                    <li>✓ AES-256 encryption</li>
+                    <li>✓ You hold keys</li>
+                    <li>✓ Open source</li>
+                </ul>
+            </div>
+
+            <div class="solution-card">
+                <div class="solution-icon">📱</div>
+                <h3>Mobile Backups</h3>
+                <p>Automatic backups from Android and HarmonyOS. Schedule, encrypt, and restore anywhere.</p>
+                <ul>
+                    <li>✓ Auto-sync</li>
+                    <li>✓ Multi-device</li>
+                    <li>✓ Cross-platform</li>
+                </ul>
+            </div>
+
+            <div class="solution-card">
+                <div class="solution-icon">💰</div>
+                <h3>Pay Only What You Use</h3>
+                <p>No fixed plans. Scale up or down instantly. Only pay for storage you actually use.</p>
+                <ul>
+                    <li>✓ Per-GB pricing</li>
+                    <li>✓ No commitments</li>
+                    <li>✓ Flexible tiers</li>
+                </ul>
+            </div>
+
+            <div class="solution-card">
+                <div class="solution-icon">🌐</div>
+                <h3>Decentralized</h3>
+                <p>Built on IPFS and Ethereum. No centralized authority. Community-powered.</p>
+                <ul>
+                    <li>✓ No single entity</li>
+                    <li>✓ Censorship-resistant</li>
+                    <li>✓ Community governed</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features -->
+    <section class="features">
+        <h2>⭐ What You Get</h2>
+        <div class="features-grid">
+            <div class="feature">
+                <div class="feature-icon">🗂️</div>
+                <h3>IPFS File Hosting</h3>
+                <p>Pin files to IPFS with automatic redundancy and global CDN access</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🔄</div>
+                <h3>Cluster Backups</h3>
+                <p>Replicate across multiple nodes for maximum reliability and speed</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🐙</div>
+                <h3>Git Hosting (Gitea)</h3>
+                <p>Self-hosted Git repositories. Full control over your code</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">☁️</div>
+                <h3>Cloud Sync (Rclone)</h3>
+                <p>Sync with S3, Dropbox, Drive, B2, and 40+ cloud providers</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">📱</div>
+                <h3>Mobile Backups</h3>
+                <p>Automatic Android/HarmonyOS backups with encryption</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">💻</div>
+                <h3>Developer API</h3>
+                <p>Full REST API for integration into your applications</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trust Section -->
+    <section class="trust-section">
+        <h2>🛡️ Why Trust DataHosting?</h2>
+        <div class="trust-badges">
+            <div class="badge">
+                <div class="badge-icon">🔓</div>
+                <div class="badge-text">Open Source</div>
+            </div>
+            <div class="badge">
+                <div class="badge-icon">🔒</div>
+                <div class="badge-text">Encrypted</div>
+            </div>
+            <div class="badge">
+                <div class="badge-icon">⚡</div>
+                <div class="badge-text">Reliable</div>
+            </div>
+            <div class="badge">
+                <div class="badge-icon">🌍</div>
+                <div class="badge-text">Decentralized</div>
+            </div>
+            <div class="badge">
+                <div class="badge-icon">💎</div>
+                <div class="badge-text">Privacy-First</div>
+            </div>
+            <div class="badge">
+                <div class="badge-icon">₿</div>
+                <div class="badge-text">Bitcoin Native</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing">
+        <h2>💰 Simple, Transparent Pricing</h2>
+        <p style="text-align: center; color: #666; margin-bottom: 30px;">
+            Pay only for what you use. No hidden fees. Cancel anytime.
+        </p>
+        <div class="pricing-grid">
+            <div class="price-card">
+                <h3>🆓 Free</h3>
+                <div class="price-tag">€0<span class="period">/month</span></div>
+                <ul class="price-features">
+                    <li>5 GB Storage</li>
+                    <li>1 Device</li>
+                    <li>Manual Backups</li>
+                    <li>Community Support</li>
+                </ul>
+                <button class="cta-button">Get Started</button>
+            </div>
+
+            <div class="price-card featured">
+                <h3>⭐ Starter</h3>
+                <div class="price-tag">€4.99<span class="period">/month</span></div>
+                <ul class="price-features">
+                    <li>50 GB Storage</li>
+                    <li>2 Devices</li>
+                    <li>Auto-sync Daily</li>
+                    <li>Version History</li>
+                    <li>Priority Support</li>
+                </ul>
+                <button class="cta-button">Most Popular</button>
+            </div>
+
+            <div class="price-card">
+                <h3>🚀 Pro</h3>
+                <div class="price-tag">€14.99<span class="period">/month</span></div>
+                <ul class="price-features">
+                    <li>500 GB Storage</li>
+                    <li>5 Devices</li>
+                    <li>Hourly Sync</li>
+                    <li>Advanced Analytics</li>
+                    <li>Dedicated Support</li>
+                </ul>
+                <button class="cta-button">Upgrade Now</button>
+            </div>
+
+            <div class="price-card">
+                <h3>🏆 Enterprise</h3>
+                <div class="price-tag">€49.99<span class="period">/month</span></div>
+                <ul class="price-features">
+                    <li>Unlimited Storage</li>
+                    <li>10+ Devices</li>
+                    <li>Real-time Sync</li>
+                    <li>API Access</li>
+                    <li>24/7 Support</li>
+                </ul>
+                <button class="cta-button">Contact Sales</button>
+            </div>
+        </div>
+        <p style="text-align: center; color: #666; margin-top: 40px; font-size: 14px;">
+            All plans include: End-to-end encryption • Bitcoin payments • IPFS storage • Cloud sync • Mobile backups
+        </p>
+    </section>
+
+    <!-- Call to Action -->
+    <section id="action" class="action">
+        <h2>Ready to Reclaim Your Privacy?</h2>
+        <p>Start with our free tier. No credit card required. No tracking. Ever.</p>
+        <div class="action-buttons">
+            <a href="https://datahosting.company" class="action-btn primary">🚀 Start Free Trial</a>
+            <a href="https://github.com/datahosting" class="action-btn secondary">📖 View on GitHub</a>
+            <a href="https://docs.datahosting.company" class="action-btn secondary">📚 Read Docs</a>
+        </div>
+        <p style="margin-top: 30px; font-size: 14px; opacity: 0.9;">
+            Questions? Contact us at support@datahosting.company or chat on our community Discord
+        </p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="/">Home</a>
+                <a href="/pricing">Pricing</a>
+                <a href="/docs">Documentation</a>
+                <a href="/blog">Blog</a>
+                <a href="/privacy">Privacy Policy</a>
+                <a href="/terms">Terms of Service</a>
+            </div>
+            <p>&copy; 2026 DataHosting. Built with ❤️ for privacy and decentralization.</p>
+            <p style="margin-top: 10px; font-size: 12px;">
+                Follow us: 
+                <a href="https://twitter.com/datahosting">Twitter</a> • 
+                <a href="https://github.com/datahosting">GitHub</a> • 
+                <a href="https://discord.gg/datahosting">Discord</a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scroll for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+
+        // Track button clicks
+        document.querySelectorAll('.cta-button, .action-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                console.log('User interested in:', this.textContent);
+            });
+        });
+    </script>
+</body>
+</html>

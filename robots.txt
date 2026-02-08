@@ -1,0 +1,52 @@
+# DataHosting.Company - Robots.txt
+# Updated: 2025-12-27
+
+User-agent: *
+Allow: /
+Allow: /register
+Allow: /pricing
+Allow: /terms
+Allow: /privacy
+Allow: /docs
+
+# Block sensitive areas
+Disallow: /api/
+Disallow: /admin/
+Disallow: /.git/
+Disallow: /config/
+
+# Sitemap
+Sitemap: https://datahosting.company/sitemap.xml
+
+# External Resources
+# GitHub Repository: Articles, Videos, Blogs, Podcasts about IPFS
+# https://github.com/branislav1989/ipfs-kubo-private-public-ipfs-cluster
+
+# Crawl delay for aggressive bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: DotBot
+Crawl-delay: 10
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
