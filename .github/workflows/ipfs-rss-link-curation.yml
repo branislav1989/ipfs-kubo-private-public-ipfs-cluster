@@ -22,15 +22,15 @@ jobs:
       
       - name: Run IPFS RSS link curator
         run: |
-          python3 link_curator.py --category ipfs --output ipfs-hosting/links/rss_links.json
+          python3 ipfs-hosting/links/ipfs-link-curator.py
       
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "rovo-dev-bot"
           
-          if [ -n "$(git status --porcelain ipfs-hosting/links/rss_links.json)" ]; then
-            git add ipfs-hosting/links/rss_links.json
+          if [ -n "$(git status --porcelain ipfs-hosting/links/)" ]; then
+            git add ipfs-hosting/links/
             git commit -m "🔄 Daily IPFS RSS link curation - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
             git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }} 2>/dev/null || git push
           fi

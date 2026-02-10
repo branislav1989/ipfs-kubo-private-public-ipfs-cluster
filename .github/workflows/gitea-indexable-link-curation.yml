@@ -22,15 +22,15 @@ jobs:
       
       - name: Run Gitea indexable link curator
         run: |
-          python3 link_curator.py --category gitea --output gitea-hosting/links/indexable_links.json
+          python3 gitea-hosting/links/gitea-link-curator.py
       
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "rovo-dev-bot"
           
-          if [ -n "$(git status --porcelain gitea-hosting/links/indexable_links.json)" ]; then
-            git add gitea-hosting/links/indexable_links.json
+          if [ -n "$(git status --porcelain gitea-hosting/links/)" ]; then
+            git add gitea-hosting/links/
             git commit -m "🔄 Daily Gitea indexable link curation - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
             git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }} 2>/dev/null || git push
           fi
