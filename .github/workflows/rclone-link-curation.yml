@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -20,17 +22,9 @@ jobs:
       
       - name: Run Rclone link curator
         run: |
-          python3 rclone-hosting/links/rclone-link-curator.py || echo "Running curator..."
+          python3 rclone-hosting/links/rclone-link-curator.py
       
-      - name: Generate RSS and indexable links
-        run: |
-          mkdir -p rclone-hosting/links
-          [ -f rclone-hosting/links/rclone_ecosystem_links.json ] && echo "✓ JSON"
-          [ -f rclone-hosting/links/rclone_ecosystem_links.md ] && echo "✓ Markdown"
-          [ -f rclone-hosting/links/rclone_ecosystem_links.html ] && echo "✓ HTML"
-          [ -f rclone-hosting/links/rclone_ecosystem_links_feed.xml ] && echo "✓ RSS"
-      
-      - name: Commit and push
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "rovo-dev-bot"
@@ -40,4 +34,3 @@ jobs:
             git commit -m "🔄 Daily Rclone link curation update - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
             git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }} 2>/dev/null || git push
           fi
-

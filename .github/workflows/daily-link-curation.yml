@@ -22,14 +22,11 @@ jobs:
       
       - name: Run RSS link curator
         run: |
-          python3 rss_curator.py || echo "Generating RSS links..."
-          mkdir -p rss_curation/links
-          ls -la rss_curation/ 2>/dev/null || true
+          python3 rss_curator.py
       
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git config --local user.name "rovo-dev-bot"
           
           if [ -n "$(git status --porcelain rss_curation/)" ]; then
@@ -39,4 +36,3 @@ jobs:
           else
             echo "No changes in RSS curation"
           fi
-

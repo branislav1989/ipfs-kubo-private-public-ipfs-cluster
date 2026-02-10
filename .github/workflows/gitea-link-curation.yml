@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -20,16 +22,7 @@ jobs:
       
       - name: Run Gitea link curator
         run: |
-          python3 gitea-hosting/links/gitea-link-curator.py || echo "Running curator..."
-      
-      - name: Generate RSS and indexable links
-        run: |
-          mkdir -p gitea-hosting/links
-          # Ensure all formats exist
-          [ -f gitea-hosting/links/gitea_ecosystem_links.json ] && echo "✓ JSON exists"
-          [ -f gitea-hosting/links/gitea_ecosystem_links.md ] && echo "✓ Markdown exists"
-          [ -f gitea-hosting/links/gitea_ecosystem_links.html ] && echo "✓ HTML exists"
-          [ -f gitea-hosting/links/gitea_ecosystem_links_feed.xml ] && echo "✓ RSS feed exists"
+          python3 gitea-hosting/links/gitea-link-curator.py
       
       - name: Commit and push changes
         run: |
@@ -41,4 +34,3 @@ jobs:
             git commit -m "🔄 Daily Gitea link curation update - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
             git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }} 2>/dev/null || git push
           fi
-
