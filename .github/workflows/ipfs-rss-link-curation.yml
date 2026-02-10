@@ -1,0 +1,36 @@
+name: Daily IPFS RSS Link Curation
+
+on:
+  schedule:
+    - cron: '45 2 * * *'  # Runs daily at 2:45 AM UTC
+  workflow_dispatch:
+
+jobs:
+  ipfs-rss-curation:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Run IPFS RSS link curator
+        run: |
+          python3 link_curator.py --category ipfs --output ipfs-hosting/links/rss_links.json
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "rovo-dev-bot"
+          
+          if [ -n "$(git status --porcelain ipfs-hosting/links/rss_links.json)" ]; then
+            git add ipfs-hosting/links/rss_links.json
+            git commit -m "🔄 Daily IPFS RSS link curation - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
+            git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }} 2>/dev/null || git push
+          fi

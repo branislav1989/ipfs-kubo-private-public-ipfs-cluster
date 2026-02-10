@@ -1,0 +1,36 @@
+name: Daily Gitea Indexable Link Curation
+
+on:
+  schedule:
+    - cron: '30 2 * * *'  # Runs daily at 2:30 AM UTC
+  workflow_dispatch:
+
+jobs:
+  gitea-indexable-curation:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Run Gitea indexable link curator
+        run: |
+          python3 link_curator.py --category gitea --output gitea-hosting/links/indexable_links.json
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "rovo-dev-bot"
+          
+          if [ -n "$(git status --porcelain gitea-hosting/links/indexable_links.json)" ]; then
+            git add gitea-hosting/links/indexable_links.json
+            git commit -m "🔄 Daily Gitea indexable link curation - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
+            git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }} 2>/dev/null || git push
+          fi
