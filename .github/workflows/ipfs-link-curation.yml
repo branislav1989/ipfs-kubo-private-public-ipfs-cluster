@@ -1,34 +1,35 @@
-name: Daily IPFS Link Curation Update
+name: IPFS Link Curation
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Runs daily at 2:00 AM UTC
+    - cron: '0 2 * * *'  # 2:00 AM UTC daily
   workflow_dispatch:
 
 jobs:
-  update-ipfs-curation:
+  curate:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v3
       
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       
-      - name: Run IPFS link curator
+      - name: Install dependencies
         run: |
-          python3 ipfs-hosting/links/ipfs-link-curator.py
+          python -m pip install --upgrade pip
+          pip install requests feedparser beautifulsoup4
       
-      - name: Check for changes
+      - name: Run IPFS Link Curator
+        run: python3 ipfs-hosting/links/ipfs-link-curator.py
+      
+      - name: Verify output
         run: |
-          if [ -n "$(git status --porcelain ipfs-hosting/links/)" ]; then
-            echo "✅ IPFS ecosystem links updated successfully"
+          if [ -f ipfs-hosting/links/ipfs_ecosystem_links.json ]; then
+            echo "✅ IPFS ecosystem links generated"
             ls -lh ipfs-hosting/links/ipfs_ecosystem_links.json
           else
-            echo "No changes detected"
+            echo "❌ Output file not found"
+            exit 1
           fi
