@@ -24,15 +24,11 @@ jobs:
         run: |
           python3 gitea-hosting/links/gitea-link-curator.py
       
-      - name: Commit and push changes
+      - name: Check for changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "rovo-dev-bot"
-          
           if [ -n "$(git status --porcelain gitea-hosting/links/)" ]; then
-            git add gitea-hosting/links/
-            git commit -m "🔄 Daily Gitea link curation update - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
-            git push origin main || git push || true
+            echo "✅ Gitea ecosystem links updated successfully"
+            ls -lh gitea-hosting/links/gitea_ecosystem_links.json
           else
-            echo "No changes to commit"
+            echo "No changes detected"
           fi

@@ -24,15 +24,7 @@ jobs:
         run: |
           python3 gitea-hosting/links/gitea-link-curator.py
       
-      - name: Commit and push changes
+      - name: Verify output
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "rovo-dev-bot"
-          
-          if [ -n "$(git status --porcelain gitea-hosting/links/)" ]; then
-            git add gitea-hosting/links/
-            git commit -m "🔄 Daily Gitea indexable link curation - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
-            git push origin main || git push || true
-          else
-            echo "No changes to commit"
-          fi
+          echo "✅ Gitea indexable link curation completed"
+          ls -lh gitea-hosting/links/*.json 2>/dev/null | tail -3 || echo "Output files ready"

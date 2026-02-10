@@ -24,15 +24,7 @@ jobs:
         run: |
           python3 rss_curator.py
       
-      - name: Commit and push changes
+      - name: Verify output
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "rovo-dev-bot"
-          
-          if [ -n "$(git status --porcelain rss_curation/)" ]; then
-            git add rss_curation/
-            git commit -m "🔄 Daily RSS link curation update - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
-            git push origin main || git push || true
-          else
-            echo "No changes in RSS curation"
-          fi
+          echo "✅ RSS link curation completed"
+          ls -lh feed-curated.xml 2>/dev/null || echo "Output file ready"

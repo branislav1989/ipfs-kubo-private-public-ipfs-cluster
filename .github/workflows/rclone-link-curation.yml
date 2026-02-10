@@ -24,15 +24,11 @@ jobs:
         run: |
           python3 rclone-hosting/links/rclone-link-curator.py
       
-      - name: Commit and push changes
+      - name: Check for changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "rovo-dev-bot"
-          
           if [ -n "$(git status --porcelain rclone-hosting/links/)" ]; then
-            git add rclone-hosting/links/
-            git commit -m "🔄 Daily Rclone link curation update - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
-            git push origin main || git push || true
+            echo "✅ Rclone ecosystem links updated successfully"
+            ls -lh rclone-hosting/links/rclone_ecosystem_links.json
           else
-            echo "No changes to commit"
+            echo "No changes detected"
           fi

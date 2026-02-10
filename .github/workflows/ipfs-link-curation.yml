@@ -24,15 +24,11 @@ jobs:
         run: |
           python3 ipfs-hosting/links/ipfs-link-curator.py
       
-      - name: Commit and push changes
+      - name: Check for changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "rovo-dev-bot"
-          
           if [ -n "$(git status --porcelain ipfs-hosting/links/)" ]; then
-            git add ipfs-hosting/links/
-            git commit -m "🔄 Daily IPFS link curation update - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
-            git push origin main || git push || true
+            echo "✅ IPFS ecosystem links updated successfully"
+            ls -lh ipfs-hosting/links/ipfs_ecosystem_links.json
           else
-            echo "No changes to commit"
+            echo "No changes detected"
           fi
