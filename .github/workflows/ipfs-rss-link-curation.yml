@@ -32,5 +32,7 @@ jobs:
           if [ -n "$(git status --porcelain ipfs-hosting/links/)" ]; then
             git add ipfs-hosting/links/
             git commit -m "🔄 Daily IPFS RSS link curation - $(date '+%Y-%m-%d %H:%M:%S UTC')" || true
-            git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }} 2>/dev/null || git push
+            git push origin main || git push || true
+          else
+            echo "No changes to commit"
           fi
