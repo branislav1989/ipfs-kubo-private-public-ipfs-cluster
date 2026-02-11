@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 23:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 22:37:36 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,33 +59,159 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>World Tokenomics Championship</title>
-      <link>https://www.reddit.com/r/web3/comments/1r1b2b4/world_tokenomics_championship/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1r1b2b4/world_tokenomics_championship/</guid>
-      <pubDate>2026-02-10T19:49:16+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone,&lt;/p&gt; &lt;p&gt;Would you ever like to participate in an online tokenomics championship?&lt;/p&gt; &lt;p&gt;Expand your answer as much as possible. If you would like to participate, please explain why; if you don't, please explain why.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AutomaticSun9416&quot;&gt; /u/AutomaticSun9416 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1r1b2b4/world_tokenomics_championship/&quot;&gt;[li...</description>
+      <title>Scalable Go Service for Canonical Ethereum Block Streaming and Event Pipelines</title>
+      <link>https://www.reddit.com/r/web3/comments/1r29www/scalable_go_service_for_canonical_ethereum_block/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1r29www/scalable_go_service_for_canonical_ethereum_block/</guid>
+      <pubDate>2026-02-11T21:16:57+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone!&lt;/p&gt; &lt;p&gt;I’ve been working on an open-source project called &lt;strong&gt;blockscan-ethereum-service&lt;/strong&gt;, written in Go:&lt;br /&gt; &lt;a href=&quot;https://github.com/pancudaniel7/blockscan-ethereum-service&quot;&gt;https://github.com/pancudaniel7/blockscan-ethereum-service&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What it does&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;It’s a production-grade microservice that ingests Ethereum blocks in real time and streams them into Kafka as canonical block events. It’s built with pe...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>What is the salary of a junior contract developer or a quantative trader?</title>
-      <link>https://www.reddit.com/r/web3/comments/1r19dnt/what_is_the_salary_of_a_junior_contract_developer/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1r19dnt/what_is_the_salary_of_a_junior_contract_developer/</guid>
-      <pubDate>2026-02-10T18:49:14+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am kinda new to both web3 career and web2 career. I got my Bachelor's degree in EE about two years ago from a top-tier university in my country, ranked within the top 1% nationally and positioned around 500 in the QS. And worked in a company for about half a year where I developed quantitative strategies for crypto futures and options and established a backend system for the strategies. &lt;/p&gt; &lt;p&gt;I have been involved in web3 for 7 years, mostly in market and a l...</description>
+      <title>Blog post on IPFS + Fipsy: decentral IPNS key discovery</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1r28m5u/blog_post_on_ipfs_fipsy_decentral_ipns_key/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1r28m5u/blog_post_on_ipfs_fipsy_decentral_ipns_key/</guid>
+      <pubDate>2026-02-11T20:28:07+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just got my hands dirty with IPFS and wrote up an intro blog post ipns://k2k4r8nrj3ghk8ymc70o9vvkzusiyncbmflw85ctv3j1ktrhddwh7nvu / &lt;a href=&quot;https://seanpedersen.github.io/posts/ipfs/&quot;&gt;https://seanpedersen.github.io/posts/ipfs/&lt;/a&gt; - check it out!&lt;/p&gt; &lt;p&gt;Also I wrote &lt;a href=&quot;https://github.com/SeanPedersen/fipsy&quot;&gt;https://github.com/SeanPedersen/fipsy&lt;/a&gt; a CLI tool using IPFS to share and discover content decentralized:&lt;/p&gt; &lt;p&gt;Fipsy defines the content of your ...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>UK Central Bank taps firms to test elements of distributed-ledger settlement infrastructure</title>
-      <link>https://cointelegraph.com/news/bank-of-england-selects-chainlink-for-synchronisation-lab-to-test-onchain-settlement-with-central-bank-money?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/bank-of-england-selects-chainlink-for-synchronisation-lab-to-test-onchain-settlement-with-central-bank-money?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 10 Feb 2026 18:44:39 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;UK Central Bank taps firms to test elements of distributed-ledger settlement infrastructure&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ5MzYtMmY2MC03NDkyLTgwZjUtMTMxOTI2MjliODlhLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The six-month central bank pilot brings together market infrastructure providers, banks and Web3 companies to assess how core UK ...</description>
+      <title>IPNS Links unreliable / often breaking website</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1r28hyu/ipns_links_unreliable_often_breaking_website/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1r28hyu/ipns_links_unreliable_often_breaking_website/</guid>
+      <pubDate>2026-02-11T20:23:51+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://ipfs.io/ipns&quot;&gt;ipfs.io/ipns&lt;/a&gt; links work though (using IPFS Companion extension on Chrome)&lt;/p&gt; &lt;p&gt;Example:&lt;/p&gt; &lt;p&gt;Pasting ipns://k2k4r8nrj3ghk8ymc70o9vvkzusiyncbmflw85ctv3j1ktrhddwh7nvu into the browser sometimes results in broken website (images and sublinks do not load)&lt;/p&gt; &lt;p&gt;While &lt;a href=&quot;https://ipfs.io/ipns/k2k4r8nrj3ghk8ymc70o9vvkzusiyncbmflw85ctv3j1ktrhddwh7nvu&quot;&gt;https://ipfs.io/ipns/k2k4r8nrj3ghk8ymc70o9vvkzusiyncbmflw85ctv3j1ktrhddwh7n...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Uniswap Token Jumps Following BlackRock Investment as BUIDL Goes DeFi</title>
+      <link>https://decrypt.co/357749/uniswap-token-jumps-blackrock-investment-buidl-defi</link>
+      <guid>https://decrypt.co/357749/uniswap-token-jumps-blackrock-investment-buidl-defi</guid>
+      <pubDate>Wed, 11 Feb 2026 16:57:20 +0000</pubDate>
+      <description>Uniswap’s governance token jumped after the decentralized exchange’s creators announced an integration with BlackRock's tokenized fund.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Wed, 11 Feb 2026 14:53:39 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Why blockchain TPS numbers often collapse in the real world</title>
+      <link>https://cointelegraph.com/news/blockchain-tps-numbers-collapse-real-world?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/blockchain-tps-numbers-collapse-real-world?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Wed, 11 Feb 2026 13:43:26 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Why blockchain TPS numbers often collapse in the real world&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRjY2UtY2U4NC03NGNmLWJlOWMtZTRhODQ3ODdjOGRmLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;High TPS figures promise scale, but every additional transaction increases the burden on the very nodes meant to keep networks decentralized.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Morning Minute: Layer Zero Debuts Most Impressive Blockchain Tech Upgrade in Years</title>
+      <link>https://decrypt.co/357706/morning-minute-layer-zero-debuts-most-impressive-blockchain-tech-upgrade-in-years</link>
+      <guid>https://decrypt.co/357706/morning-minute-layer-zero-debuts-most-impressive-blockchain-tech-upgrade-in-years</guid>
+      <pubDate>Wed, 11 Feb 2026 13:28:12 +0000</pubDate>
+      <description>They're promising speeds 500x Solana and 100,000x that of Ethereum, and some of the biggest financial players in the world have taken note.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Arkham Exchange pivoting to fully decentralized platform, CEO says</title>
+      <link>https://cointelegraph.com/news/arkham-exchange-pivots-to-decentralized-dex?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/arkham-exchange-pivots-to-decentralized-dex?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Wed, 11 Feb 2026 13:00:38 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Arkham Exchange pivoting to fully decentralized platform, CEO says&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRjOGMtNDJhZS03N2RjLWFiY2YtMmYyY2M0MmZkZWQxLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Arkham CEO denies shutdown reports as the exchange pivots from a CEX to a fully decentralized model amid record DEX derivatives growth.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Data Sovereignty</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1r1vxch/data_sovereignty/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1r1vxch/data_sovereignty/</guid>
+      <pubDate>2026-02-11T12:21:45+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;blockquote&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/&quot;&gt;https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Its an open secret that though the companies provide all form of supposedly data security and privacy, while at the same time they are themselves utilizing or selling our data or a derivative of the...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>This Week Proved Infrastructure Matters More Than Hype</title>
+      <link>https://www.reddit.com/r/web3/comments/1r1rl8f/this_week_proved_infrastructure_matters_more_than/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1r1rl8f/this_week_proved_infrastructure_matters_more_than/</guid>
+      <pubDate>2026-02-11T08:09:09+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Base crossed 100M transactions in a single month at under a penny average cost. Arbitrum’s Stylus is running Rust smart contracts with genuinely better gas efficiency. Multiple intent protocols including Anoma’s Optimism launch are coordinating billions in volume through solver competition. CowSwap and UniswapX executing cross-chain atomic settlements that would have been impossible a year ago.&lt;/p&gt; &lt;p&gt;Meanwhile the SEC dropped hints about approving ETH staking f...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Wondering if IPFS is a good foundation for a video platform.</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1r1qjnp/wondering_if_ipfs_is_a_good_foundation_for_a/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1r1qjnp/wondering_if_ipfs_is_a_good_foundation_for_a/</guid>
+      <pubDate>2026-02-11T07:05:56+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Title. I have been working with plenty of filmmakers, actors, writers and others in the film industry and I have settled on IPFS as the core tech for a streaming platform. &lt;/p&gt; &lt;p&gt;AFAIK IPFS puts everything on IPFS blockchain. If that's true then it's perfect for my specific needs. I know I don't yet have the manpower or technology infrastructure to go head to head with Youtube though I definitely will try. Youtube and so many others are competitors. &lt;/p&gt; &lt;p&gt;The...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Yo guys need advice, Lighthouse just launched there NFTs, what's you POV in that? Buy or not?</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1r1q1af/yo_guys_need_advice_lighthouse_just_launched/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1r1q1af/yo_guys_need_advice_lighthouse_just_launched/</guid>
+      <pubDate>2026-02-11T06:35:49+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Link : &lt;a href=&quot;https://lighthouse.storage/turby&quot;&gt;https://lighthouse.storage/turby&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Expensive-Frame-3976&quot;&gt; /u/Expensive-Frame-3976 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1r1q1af/yo_guys_need_advice_lighthouse_just_launched/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1r1q1af/yo_guys_need_advice_lighthouse_just_la...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>New to crypto. Looking for chains focused on innovation.</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1r1kc6l/new_to_crypto_looking_for_chains_focused_on/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1r1kc6l/new_to_crypto_looking_for_chains_focused_on/</guid>
+      <pubDate>2026-02-11T01:57:21+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone. I don’t know a ton about crypto, still learning, but I’m trying to understand which blockchains are actually pushing innovation instead of just riding hype.&lt;/p&gt; &lt;p&gt;From what I understand there are a bunch of bottlenecks in crypto — scalability, fees, speed, decentralization tradeoffs, etc. I’m curious which projects are genuinely trying to solve those problems. Which coins do you personally like and why? What makes them different? And are the “best...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Citadel Securities Teams Up With LayerZero on New Blockchain Push</title>
+      <link>https://decrypt.co/357682/citadel-securities-layerzero-new-blockchain-push</link>
+      <guid>https://decrypt.co/357682/citadel-securities-layerzero-new-blockchain-push</guid>
+      <pubDate>Wed, 11 Feb 2026 01:32:27 +0000</pubDate>
+      <description>The new permissionless chain aims to fix scale and coordination limits that have kept other institutional efforts constrained.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -116,18 +242,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 10 Feb 2026 14:18:07 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>We are building a remote marketing team for web3 companies</title>
       <link>https://www.reddit.com/r/web3/comments/1r0wp2m/we_are_building_a_remote_marketing_team_for_web3/</link>
       <guid>https://www.reddit.com/r/web3/comments/1r0wp2m/we_are_building_a_remote_marketing_team_for_web3/</guid>
@@ -155,52 +269,6 @@
       <guid>https://www.reddit.com/r/web3/comments/1r09q9c/looking_to_form_a_team/</guid>
       <pubDate>2026-02-09T17:02:18+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m almost finished building a #Web3 store. Currently, we’re partnered with #gift card suppliers, and we’re now looking for suppliers of physical products who accept #cryptocurrency payments. Are you one of them, or would you be interested in collaborating with us? &lt;/p&gt; &lt;p&gt;We believe in the future of Web3, and our vision is to make this project the #1 Web3 Store — offering everything from $5 Starbucks gift cards to #supercars &amp;amp; yacht rentals, and even privat...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>What Is Farcaster? The Decentralized Social Media Protocol</title>
-      <link>https://decrypt.co/resources/farcaster-explained-the-blockchain-powered-decentralized-social-media-protocol</link>
-      <guid>https://decrypt.co/resources/farcaster-explained-the-blockchain-powered-decentralized-social-media-protocol</guid>
-      <pubDate>Mon, 09 Feb 2026 16:20:27 +0000</pubDate>
-      <description>Farcaster is a social media protocol that lets multiple applications share data while giving users control over identity and content.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Strategy Buys More Bitcoin as $50 Billion BTC Stash Remains Underwater</title>
-      <link>https://decrypt.co/357459/strategy-buys-more-bitcoin-50-billion-btc-stash-underwater</link>
-      <guid>https://decrypt.co/357459/strategy-buys-more-bitcoin-50-billion-btc-stash-underwater</guid>
-      <pubDate>Mon, 09 Feb 2026 16:20:05 +0000</pubDate>
-      <description>Bitcoin giant Strategy spent another $90 million on BTC last week, but the leading cryptocurrency's decline has put its holdings underwater.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Playnance Makes First Public Announcement After Operating Web2-to-Web3 Ecosystem at Scale</title>
-      <link>https://www.reddit.com/r/NFT/comments/1r06cyj/playnance_makes_first_public_announcement_after/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1r06cyj/playnance_makes_first_public_announcement_after/</guid>
-      <pubDate>2026-02-09T14:57:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/NFT/comments/1r06cyj/playnance_makes_first_public_announcement_after/&quot;&gt; &lt;img alt=&quot;Playnance Makes First Public Announcement After Operating Web2-to-Web3 Ecosystem at Scale&quot; src=&quot;https://external-preview.redd.it/6Gn6F48lA_QY017jHJ9p6vJEB2bl0c13aRrOOzEFr1E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b4719762fc5b67468ad23460970454f18ffffbcc&quot; title=&quot;Playnance Makes First Public Announcement After Operating Web2-to-Web3 Ecosystem at Scale&quot; /&gt; &lt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>I’m 21 and building a browser-based 1/4 mile Drag Racing game. Looking for feedback on game economy and Crypto integration!</title>
-      <link>https://www.reddit.com/r/NFT/comments/1r03zpp/im_21_and_building_a_browserbased_14_mile_drag/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1r03zpp/im_21_and_building_a_browserbased_14_mile_drag/</guid>
-      <pubDate>2026-02-09T13:18:42+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;My name is Mate, I’m 21 years old, and I’ve recently started working on a passion project. I’ve always been a huge fan of cars and the old-school flash games (like Drag Racer v3), so I decided to build my own &lt;strong&gt;Drag Racing Webgame&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;🏎️ The Concept&lt;/strong&gt; The game is a classic 1/4 mile drag racer running directly in the browser. It’s not just an &amp;quot;idle clicker&amp;quot; — the focus is on mechanics and tuning:&lt;/p&gt;...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -542,72 +610,6 @@
       <guid>https://www.reddit.com/r/web3/comments/1qo933e/increasing_transparency_for_crypto_donations_how/</guid>
       <pubDate>2026-01-27T09:20:35+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Our organization has started accepting cryptocurrency donations, and while it's opened up a new donor base, it's created a transparency challenge. Donors want to see their funds go to the right place, but pointing them to a confusing Etherscan transaction hash isn't ideal. We want to show a clear, verifiable trail from donation to deployment of funds. Beyond just publishing wallet addresses, how are other nonprofits making their crypto treasuries more transparen...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Do you need to know about DAG as an end--user? i.e. someone hosting/accessing content?</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1qno6xz/do_you_need_to_know_about_dag_as_an_enduser_ie/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1qno6xz/do_you_need_to_know_about_dag_as_an_enduser_ie/</guid>
-      <pubDate>2026-01-26T18:22:59+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If my use-case is to make available one new dataset a day, e.g. a hypothetical JSON file documenting the temperature at a given point in earth every hour for 23 hours. Do I need to know anything about what a DAG is? Does a DAG impact it's eventual retrieval? &lt;/p&gt; &lt;p&gt;My assumption is I need to maintain my own index of CIDs and I can access that data as I like over time. I can also make it available to others. Is there come connection between DAG and those dataset...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>How do you handle web3 information overload?</title>
-      <link>https://www.reddit.com/r/web3/comments/1qmrkmu/how_do_you_handle_web3_information_overload/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1qmrkmu/how_do_you_handle_web3_information_overload/</guid>
-      <pubDate>2026-01-25T18:47:01+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you’re in crypto, you know the drill: 50+ Telegram groups, a Twitter feed moving at light speed, and 99% of it is either shills, bot-generated noise, or &amp;quot;noise&amp;quot; from the AI explosion itself. We’re all hunting for that 1% of real signal/Alpha, but who has 12 hours a day to scan every report?&lt;/p&gt; &lt;p&gt;Almost all my friends in both AI and web3, including myself, have vibe coded his/her own information aggregator. But it is far more than enough.&lt;/p&gt; &lt;p&gt;Ho...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>We’re experimenting with a GameFi-style onboarding inside Telegram — does this approach make sense?</title>
-      <link>https://www.reddit.com/r/web3/comments/1qmlogu/were_experimenting_with_a_gamefistyle_onboarding/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1qmlogu/were_experimenting_with_a_gamefistyle_onboarding/</guid>
-      <pubDate>2026-01-25T15:14:00+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most Web3 products still onboard users the same way:&lt;/p&gt; &lt;p&gt;connect wallet → sign → swap → leave.&lt;/p&gt; &lt;p&gt;We’re experimenting with a different approach inside Telegram.&lt;/p&gt; &lt;p&gt;Instead of starting with wallet actions, users begin with a lightweight game loop.&lt;/p&gt; &lt;p&gt;They collect in-game shards, earn points, and only later interact with wallet and swap features.&lt;/p&gt; &lt;p&gt;The idea is to reduce friction and cognitive load, especially for non-crypto-native users,&lt;/p&gt; &lt;p...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Technical advice needed: Best database for millions of trade rows?</title>
-      <link>https://www.reddit.com/r/web3/comments/1qlfd19/technical_advice_needed_best_database_for/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1qlfd19/technical_advice_needed_best_database_for/</guid>
-      <pubDate>2026-01-24T06:16:25+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am building a tool to track trades and price charts (OHLCV) on Injective. I expect to have millions of rows of data very quickly. For those who have built similar dashboards: How do you store this much data while keeping the query speed very fast? What database strategy or tools are you using to handle millions of rows without the app lagging? I am currently only tracking swaps and liquidity events. Any advice on the architecture would be helpful.&lt;/p&gt; &lt;/div&gt;&lt;!...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Question: How many of you guys are sick of extensions at this point?</title>
-      <link>https://www.reddit.com/r/web3/comments/1qkx134/question_how_many_of_you_guys_are_sick_of/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1qkx134/question_how_many_of_you_guys_are_sick_of/</guid>
-      <pubDate>2026-01-23T17:26:48+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Its a bit annoying to me to constantly switch between multiple wallet extensions in my browser to get across all of my accounts. Also each one has dozen of accounts that I need to search through.&lt;/p&gt; &lt;p&gt;Is there a better solution in existence that I don't know about? I mean it kinda sucks that I have to keep a track of which account I used for some web3 login, then search among my extension profiles where that account actually is.&lt;/p&gt; &lt;p&gt;Sometimes I don't have m...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>2026 Web3 Vibes: Intent-Centric Magic, Privacy Layers, and the Quiet Builders Leveling Up the Stack</title>
-      <link>https://www.reddit.com/r/web3/comments/1qktqm9/2026_web3_vibes_intentcentric_magic_privacy/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1qktqm9/2026_web3_vibes_intentcentric_magic_privacy/</guid>
-      <pubDate>2026-01-23T15:25:42+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;2026 is feeling like the year Web3 stops yelling about “the future” and actually starts delivering smoother, smarter infrastructure. We’re past the hype cycles of pure speculation, and the spotlight is shifting to projects that make onchain life feel less like debugging a spaceship and more like using a polished app. Here’s a quick roundup of some of the most intriguing ones bubbling up right now. Mix of privacy plays, interoperability wizards, and intent-driven...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
