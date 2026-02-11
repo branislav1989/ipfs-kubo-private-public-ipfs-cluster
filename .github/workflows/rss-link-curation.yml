@@ -1,12 +1,12 @@
-name: IPFS Link Curation
+name: Daily RSS Link Curation
 
 on:
   schedule:
-    - cron: '10 0 * * *'  # Runs daily at 00:10 UTC
+    - cron: '30 0 * * *'  # Runs daily at 00:30 UTC
   workflow_dispatch:
 
 jobs:
-  ipfs-curation:
+  rss-curation:
     runs-on: ubuntu-latest
     
     steps:
@@ -23,13 +23,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       
-      - name: Run IPFS Link Curation
-        run: python3 link_curator.py --category ipfs --output ipfs_ecosystem_links.json
+      - name: Run RSS Link Curation
+        run: python3 rss_curator.py --output feed-curated.xml
       
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ipfs_ecosystem_links.json
-          git commit -m "chore: update ipfs ecosystem links" || echo "No changes to commit"
+          git add feed-curated.xml
+          git commit -m "chore: update curated rss feed" || echo "No changes to commit"
           git push origin main
