@@ -32,4 +32,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add ipfs_ecosystem_links.json
           git commit -m "chore: update ipfs ecosystem links" || echo "No changes to commit"
-          git push origin main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
