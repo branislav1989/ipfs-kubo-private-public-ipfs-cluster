@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Feb 2026 03:29:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 03:13:58 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,14 +59,51 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>Is Dubai actually turning into a legit Web3 hub or is it just good PR?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1r332on/is_dubai_actually_turning_into_a_legit_web3_hub/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1r332on/is_dubai_actually_turning_into_a_legit_web3_hub/</guid>
-      <pubDate>2026-02-12T19:34:58+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been noticing more blockchain advisors and Web3 mentors talking about the Dubai startup ecosystem lately, and it feels like the region is trying hard to position itself as a serious crypto hub.&lt;/p&gt; &lt;p&gt;You see people like Evan Luthra, Balaji Srinivasan, and even builders connected to Vitalik Buterin circles showing up at events, summits, and startup meetups. A lot of them are being framed as Web3 thought leaders or blockchain advisors for startups, especiall...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
+      <title>Publicly Traded Blockchain Lender Figure Confirms Customer Data Breach</title>
+      <link>https://decrypt.co/358096/blockchain-lender-figure-confirms-customer-data-breach</link>
+      <guid>https://decrypt.co/358096/blockchain-lender-figure-confirms-customer-data-breach</guid>
+      <pubDate>Sat, 14 Feb 2026 00:04:45 +0000</pubDate>
+      <description>Blockchain lender Figure said hackers accessed customer data after an employee was targeted in a social engineering attack.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 13 Feb 2026 20:14:37 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto use in human trafficking networks surged in 2025: Chainalysis</title>
+      <link>https://cointelegraph.com/news/crypto-use-in-human-trafficking-networks-surged-in-2025-chainalysis?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/crypto-use-in-human-trafficking-networks-surged-in-2025-chainalysis?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 13 Feb 2026 05:21:28 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Crypto use in human trafficking networks surged in 2025: Chainalysis&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzU1NTMtOTU3Yi03MTc5LWJjYmItNTgwMjVkNDY5N2FiLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Chainalysis says that despite the rising use of crypto in trafficking networks, the transparency of blockchain may give visibility into the operations, ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Bitcoin loses $2.3B in biggest crash since 2021 as capitulation intensifies: Analyst</title>
+      <link>https://cointelegraph.com/news/bitcoin-suffers-losses-rivaling-2021-crash-as-capitulation-continues?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/bitcoin-suffers-losses-rivaling-2021-crash-as-capitulation-continues?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 13 Feb 2026 03:29:23 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin loses $2.3B in biggest crash since 2021 as capitulation intensifies: Analyst&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzU0YTItMTliMS03ODM5LThmNWQtNWNjODU1MjNlM2FmLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Bitcoin has seen record realized losses in one of the cryptocurrency’s largest-ever capitulation events as short-term holders sold at st...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -81,41 +118,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 12 Feb 2026 14:07:08 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Sovereign Mohawk Proto</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1r2u05s/sovereign_mohawk_proto/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1r2u05s/sovereign_mohawk_proto/</guid>
-      <pubDate>2026-02-12T13:53:22+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;MOHAWK Runtime &amp;amp; Reference Node Agent&lt;/strong&gt; A tiny Federated Learning (FL) pipeline built to prove the security model for decentralized spatial intelligence. This repo serves as the secure execution skeleton (Go + Wasmtime + TPM) for the broader Sovereign Map ecosystem.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Famous_Aardvark_8595&quot;&gt; /u/Famous_Aardvark_8595 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit....</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>UK government appoints HSBC for tokenized bond pilot</title>
-      <link>https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 12 Feb 2026 10:25:58 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;UK government appoints HSBC for tokenized bond pilot&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmJiN2UtMjdhYS03YTc4LThlMzAtZGExODgzNTQ0ZDQ5LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The UK appointed HSBC Orion for its DIGIT pilot to explore blockchain bonds, aiming to improve efficiency, cut costs and boost security.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Midnight (Cardano partner chain) proposes “confidential by default” TXs with selective ZK disclosure</title>
       <link>https://www.reddit.com/r/CryptoTechnology/comments/1r2lmvw/midnight_cardano_partner_chain_proposes/</link>
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1r2lmvw/midnight_cardano_partner_chain_proposes/</guid>
@@ -124,30 +126,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Uniswap Token Jumps Following BlackRock Investment as BUIDL Goes DeFi</title>
-      <link>https://decrypt.co/357749/uniswap-token-jumps-blackrock-investment-buidl-defi</link>
-      <guid>https://decrypt.co/357749/uniswap-token-jumps-blackrock-investment-buidl-defi</guid>
-      <pubDate>Wed, 11 Feb 2026 16:57:20 +0000</pubDate>
-      <description>Uniswap’s governance token jumped after the decentralized exchange’s creators announced an integration with BlackRock's tokenized fund.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Morning Minute: Layer Zero Debuts Most Impressive Blockchain Tech Upgrade in Years</title>
-      <link>https://decrypt.co/357706/morning-minute-layer-zero-debuts-most-impressive-blockchain-tech-upgrade-in-years</link>
-      <guid>https://decrypt.co/357706/morning-minute-layer-zero-debuts-most-impressive-blockchain-tech-upgrade-in-years</guid>
-      <pubDate>Wed, 11 Feb 2026 13:28:12 +0000</pubDate>
-      <description>They're promising speeds 500x Solana and 100,000x that of Ethereum, and some of the biggest financial players in the world have taken note.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -244,6 +222,17 @@
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1qu4w7s/will_quantum_spell_the_end_of_crypto/</guid>
       <pubDate>2026-02-02T19:26:36+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I'd like for the members of this sub to please steelman the case for me that quantum computing won't be a huge problem for crypto. I'm legitimately curious and would love to hear your takes!&lt;/p&gt; &lt;p&gt;My current understanding (which again, may well be wrong, I'm here to learn!) is that when quantum computing becomes more feasible at scale, it will break most cryptography. This is a huge problem for anyone which uses cryptography, including banks, secure messaging, ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Looking for books that will help me gain deeper knowledge for blockchain</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1qqbwmy/looking_for_books_that_will_help_me_gain_deeper/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1qqbwmy/looking_for_books_that_will_help_me_gain_deeper/</guid>
+      <pubDate>2026-01-29T15:39:11+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey, I am a web2 developer &amp;amp; security researcher who is looking to transition into the web3 world. Please share any books that would help me get started on how the tech works. For the record I've been a crypto power user since '21 but it's only just now that I've developed an interest for diving deeper. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Interesting-Honey253&quot;&gt; /u/Interesting-Honey253 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a h...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -639,6 +628,18 @@
       <guid>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</guid>
       <pubDate>Tue, 28 Jul 2020 00:00:00 GMT</pubDate>
       <description>Ethereum can be simple enough to understand from a bird's-eye view: Decentralized applications powered by the same sort of crypto-economic guarantees that underpin Bitcoin. But once you've zoomed in to, say, a street-level view, things get complicated rapidly.  Even assuming one has a strong grasp on proof-of-work, it's not...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing World Trade Francs: The Official Ethereum Stablecoin</title>
+      <link>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</link>
+      <guid>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</guid>
+      <pubDate>Sun, 01 Apr 2018 15:35:26 GMT</pubDate>
+      <description>We have long recognized that in order for cryptocurrency to reach mass adoption, a form of cryptocurrency that has higher price stability than existing cryptocurrencies like BTC and ETH would be needed so that people can use the currency to store funds and engage in commerce without worrying about their...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
