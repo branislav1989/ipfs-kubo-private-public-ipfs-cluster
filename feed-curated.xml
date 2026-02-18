@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Feb 2026 03:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 03:24:16 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,10 +59,21 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Goop² – self-hosted ephemeral P2P web, built on libp2p</title>
+      <link>https://www.reddit.com/r/selfhosted/comments/1r7n02k/goop²_selfhosted_ephemeral_p2p_web_built_on_libp2p/</link>
+      <guid>https://www.reddit.com/r/selfhosted/comments/1r7n02k/goop²_selfhosted_ephemeral_p2p_web_built_on_libp2p/</guid>
+      <pubDate>2026-02-17T23:51:52+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been building Goop² - a self-hosted tool that lets you run a personal website that only exists while your node is online, discoverable by peers on your LAN or WAN through a rendezvous server you also self-host. &lt;/p&gt; &lt;p&gt;What it does: - Each node serves a small personal site to its peers over libp2p - Peer discovery via mDNS (LAN) and a rendezvous server (WAN) - NAT traversal via circuit relay v2 + DCUtR hole-punching - no port forwarding needed for most setu...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 16 Feb 2026 21:45:46 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 14:29:42 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -71,15 +82,37 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Paradigm reframes Bitcoin mining as grid asset, not energy drain</title>
-      <link>https://cointelegraph.com/news/paradigm-bitcoin-mining-ai-data-centers-grid-demand?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/paradigm-bitcoin-mining-ai-data-centers-grid-demand?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 16 Feb 2026 20:39:29 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Paradigm reframes Bitcoin mining as grid asset, not energy drain&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY3OGQtNDY5OC03ZTJiLWIxMmYtYWQ2NzgwNTQyMDE1LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The cryptocurrency investment firm says Bitcoin mining is being unfairly lumped with AI data centers, arguing miners act as flexible grid demand, not consta...</description>
+      <title>Monad hires former FalconX, BVNK and Optimism executives</title>
+      <link>https://cointelegraph.com/news/monad-hires-ex-falconx-bvnk-and-optimism-executives-to-drive-institutional-expansion-post-mainnet-embargo-feb-17?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/monad-hires-ex-falconx-bvnk-and-optimism-executives-to-drive-institutional-expansion-post-mainnet-embargo-feb-17?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 17 Feb 2026 14:00:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Monad hires former FalconX, BVNK and Optimism executives&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY3ZjctMmY4Yi03M2U1LWExZGUtMTkzMDQwMTZiNmRiLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The appointments add traditional finance and institutional crypto experience as the layer-1 blockchain scales its post-launch strategy.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Gelato automation is closing down. What next?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1r7633d/gelato_automation_is_closing_down_what_next/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1r7633d/gelato_automation_is_closing_down_what_next/</guid>
+      <pubDate>2026-02-17T13:31:56+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I recently found out that Gelato is shutting down their automation (Web3 Functions) on March 31, 2026.&lt;/p&gt; &lt;p&gt;They’ve been powering automation for years and were basically the industry standard for cron jobs, event triggers, conditional execution, etc., so this feels like a big deal.&lt;/p&gt; &lt;p&gt;From what I understand, they’re doubling down on their RaaS business since it’s growing fast, which makes sense, but it leaves a gap in the market.&lt;/p&gt; &lt;p&gt;I’ve been looking i...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Buy a ledger in Dubai</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1r72s3k/buy_a_ledger_in_dubai/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1r72s3k/buy_a_ledger_in_dubai/</guid>
+      <pubDate>2026-02-17T10:45:38+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello guys, just for curiosity, of course I would never do something illegal in my life, but I'm deeply curious to know more about the world and cryptocurrency world. I was wondering if in Dubai there is the chance to buy a Ledger (Phisical crypto wallet) without KYC, and then obtain public and private keys in a aninomous way. Is this possible? Or even in Dubai is everything under the &amp;quot;Big Brother&amp;quot; eye? I dont know what to write because I asked the que...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -102,18 +135,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Publicly Traded Blockchain Lender Figure Confirms Customer Data Breach</title>
-      <link>https://decrypt.co/358096/blockchain-lender-figure-confirms-customer-data-breach</link>
-      <guid>https://decrypt.co/358096/blockchain-lender-figure-confirms-customer-data-breach</guid>
-      <pubDate>Sat, 14 Feb 2026 00:04:45 +0000</pubDate>
-      <description>Blockchain lender Figure said hackers accessed customer data after an employee was targeted in a social engineering attack.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -199,39 +220,6 @@
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1qyzfvo/reliable_dex_for_swapping_between_chains_like/</guid>
       <pubDate>2026-02-08T04:33:15+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m trying to find a user-friendly DEX that handles swaps across major blockchains smoothly. Some platforms work well on one chain but struggle on another, or have complicated steps that slow things down.&lt;/p&gt; &lt;p&gt;What DEX are you using right now for cross-chain swaps between networks like Ethereum, Solana, and L2s? I’m looking for something with consistent liquidity, a clear interface, and predictable execution. Experiences from the past few months would be reall...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1qw027s/reframing_layer_2s_spectrum_of_trust_models/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1qw027s/reframing_layer_2s_spectrum_of_trust_models/</guid>
-      <pubDate>2026-02-04T20:33:22+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Vitalik’s comments on L2s highlight something that’s been quietly true for a while: L2 is no longer a single technical model.&lt;/p&gt; &lt;p&gt;Security assumptions, data availability, decentralization stages, and execution environments vary widely. Treating all L2s as equivalent “Ethereum scaling” obscures important differences in trust and design.&lt;/p&gt; &lt;p&gt;The interesting part is how different teams responded — some arguing L1 scaling isn’t enough, others welcoming special...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>CLI tool for pulling historical Binance OHLCV data for backtesting</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1qvqpsv/cli_tool_for_pulling_historical_binance_ohlcv/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1qvqpsv/cli_tool_for_pulling_historical_binance_ohlcv/</guid>
-      <pubDate>2026-02-04T14:56:53+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/varshithkarkera/cryptofetch&quot;&gt;https://github.com/varshithkarkera/cryptofetch&lt;/a&gt;&lt;/p&gt; &lt;p&gt;CryptoFetch is a powerful command-line tool that downloads historical cryptocurrency price data from Binance. It features a clean terminal interface with real-time progress tracking and supports all USDT trading pairs available on Binance.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/FusionArtsClub&quot;&gt; /u/Fusi...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Will Quantum Spell the End of Crypto?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1qu4w7s/will_quantum_spell_the_end_of_crypto/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1qu4w7s/will_quantum_spell_the_end_of_crypto/</guid>
-      <pubDate>2026-02-02T19:26:36+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I'd like for the members of this sub to please steelman the case for me that quantum computing won't be a huge problem for crypto. I'm legitimately curious and would love to hear your takes!&lt;/p&gt; &lt;p&gt;My current understanding (which again, may well be wrong, I'm here to learn!) is that when quantum computing becomes more feasible at scale, it will break most cryptography. This is a huge problem for anyone which uses cryptography, including banks, secure messaging, ...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -641,6 +629,18 @@ RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formall
       <guid>https://blog.ethereum.org/en/2023/11/15/beyond-borders-nb</guid>
       <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
       <description>Crisis is a cruel teacher. It can draw us together in our shared fragility, but paradoxically it can also distance us from our shared humanity. In times of great crisis, the institutions and structures of society that are supposed to protect and support us may become twisted, corrupted, or rendered...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Scouting for the Future: Technology and the Scouting Movement</title>
+      <link>https://blog.ethereum.org/en/2023/05/01/scouting-future-movement</link>
+      <guid>https://blog.ethereum.org/en/2023/05/01/scouting-future-movement</guid>
+      <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+      <description>Hello everyone! My name is Mihajlo, and over the past six months as part of my Next Billion Fellowship, I’ve been working to bring the benefits of Web3 to the World Scouting Movement.  Growing up in Serbia in the '90s, I experienced firsthand the devastating effects that wars and...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
