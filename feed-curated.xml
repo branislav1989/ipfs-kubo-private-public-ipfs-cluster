@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Mar 2026 03:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 03:16:58 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,11 +59,22 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>Looking for builders- free speech forum on Bitcoin</title>
-      <link>https://www.reddit.com/r/web3/comments/1rhjx43/looking_for_builders_free_speech_forum_on_bitcoin/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1rhjx43/looking_for_builders_free_speech_forum_on_bitcoin/</guid>
-      <pubDate>2026-03-01T01:19:04+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;ocdn.vercel.app reads/writes to Bitcoin.&lt;/p&gt; &lt;p&gt;anything- shit posting, whatever.&lt;/p&gt; &lt;p&gt;I'm building a forum that lives directly on Bitcoin.&lt;/p&gt; &lt;p&gt;Core idea:&lt;/p&gt; &lt;p&gt;Every post = a Bitcoin transaction&lt;/p&gt; &lt;p&gt;Every &amp;quot;upvote&amp;quot; = real sats&lt;/p&gt; &lt;p&gt;Nothing can be edited or deleted at the protocol level&lt;/p&gt; &lt;p&gt;The interface is just a lens over permanent data&lt;/p&gt; &lt;p&gt;Ranking is based on economic conviction, not moderation&lt;/p&gt; &lt;p&gt;Spam becomes a pricing problem.&lt;...</description>
+      <title>An IPLD based project I've been working on that uses links in an interesting way</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1ri71kp/an_ipld_based_project_ive_been_working_on_that/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1ri71kp/an_ipld_based_project_ive_been_working_on_that/</guid>
+      <pubDate>2026-03-01T19:48:40+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Fantastic_Leek1476&quot;&gt; /u/Fantastic_Leek1476 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://codeberg.org/COPSRPiGS/copsrpigs-ipso&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ri71kp/an_ipld_based_project_ive_been_working_on_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Today is digital Independence day!</title>
+      <link>https://www.reddit.com/r/selfhosted/comments/1ri6k8q/today_is_digital_independence_day/</link>
+      <guid>https://www.reddit.com/r/selfhosted/comments/1ri6k8q/today_is_digital_independence_day/</guid>
+      <pubDate>2026-03-01T19:30:34+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/selfhosted/comments/1ri6k8q/today_is_digital_independence_day/&quot;&gt; &lt;img alt=&quot;Today is digital Independence day!&quot; src=&quot;https://preview.redd.it/z9tn3q6ijhmg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e2c8947e6455ae0d0109f8f5e4340c7e864fa965&quot; title=&quot;Today is digital Independence day!&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Social media is one of the most valuable data points, that is collected about us, so it's time to fundamental...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -73,12 +84,34 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 28 Feb 2026 22:04:50 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2026 12:59:09 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Blockchain for Democracy and Voting Integrity</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rhaask/blockchain_for_democracy_and_voting_integrity/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rhaask/blockchain_for_democracy_and_voting_integrity/</guid>
+      <pubDate>2026-02-28T18:38:53+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As I understand it, with blockchain technology we have the most reliable ledger in human history. I am wondering if any protocols exist to create an actually reliable voting system for say.. a country whose government has gone rogue and is rigging elections. If any are in progress? And if not, why has there been no incentive to yet?&lt;/p&gt; &lt;p&gt;Edit: Even if not to replace an election at least have a second blockchain election in tandem, or several for greater verifi...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Is blockchain-verified authorship the most underrated use case in Web3?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rh9jfi/is_blockchainverified_authorship_the_most/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rh9jfi/is_blockchainverified_authorship_the_most/</guid>
+      <pubDate>2026-02-28T18:09:40+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Everyone talks about DeFi, NFT speculation, and tokenizing real-world assets. But there's a use case that gets almost no attention: using blockchain to permanently verify who wrote something and when.&lt;/p&gt; &lt;p&gt;Think about the actual problem. Right now, an article on Medium can be deleted. A Wikipedia edit can erase history. A research paper can be altered after publication. None of these platforms offer any cryptographic proof that content existed at a specific da...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -121,30 +154,6 @@
       <guid>https://cointelegraph.com/news/alchemy-ai-agents-pay-access-blockchain-data-usdc?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
       <pubDate>Fri, 27 Feb 2026 20:15:31 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Alchemy introduces autonomous payment rails for AI agents on Base&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Y2EwNzktYmJkMS03YTE3LWE1MmUtNGNlYjBlZGY4MTFmLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The system enables AI agents to automatically pay for blockchain data and compute credits in USDC, as autonomous crypto applications gain traction.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Figure Technology stock crashes 20% following mixed Q4 earnings</title>
-      <link>https://cointelegraph.com/news/figure-technology-solutions-stock-post-earnings?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/figure-technology-solutions-stock-post-earnings?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 27 Feb 2026 17:44:27 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Figure Technology stock crashes 20% following mixed Q4 earnings&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlmZjEtNzhhMS03ZTc5LTg1NGQtOTczMDM3YzE5ODViLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The blockchain-based lending platform beat revenue estimates but fell short on earnings, even as annual profit reached $134 million.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Barclays probes blockchain for banking functions like payments, deposits: Report</title>
-      <link>https://cointelegraph.com/news/barclays-blockchain-payments-deposits-stablecoins-bloomberg?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/barclays-blockchain-payments-deposits-stablecoins-bloomberg?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 27 Feb 2026 16:00:05 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Barclays probes blockchain for banking functions like payments, deposits: Report&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlmYjctOGE2MC03Y2EwLTgyOWUtMzkyYjliMzliZGUwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The UK lender is reportedly seeking a technology partner to support blockchain-based payments and deposits as stablecoin adoption accelerate...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -220,6 +229,17 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>Are On-Chain Prediction Markets Becoming Core Crypto Infrastructure?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1repikx/are_onchain_prediction_markets_becoming_core/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1repikx/are_onchain_prediction_markets_becoming_core/</guid>
+      <pubDate>2026-02-25T20:53:02+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Prediction markets get written off as “betting,” but the underlying tech is far more interesting. I’ve been digging into prediction markets recently, not from a gambling angle, but from an infrastructure perspective. &lt;/p&gt; &lt;p&gt;At a technical level, prediction markets are distributed signal aggregation systems. Participants submit forecasts, stake on them, and the system aggregates those signals into a probability feed. When this is built on-chain, you get transpar...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Tried adding web3 gaming infrastructure to my app and wallet UX destroyed everything</title>
       <link>https://www.reddit.com/r/web3/comments/1refvbm/tried_adding_web3_gaming_infrastructure_to_my_app/</link>
       <guid>https://www.reddit.com/r/web3/comments/1refvbm/tried_adding_web3_gaming_infrastructure_to_my_app/</guid>
@@ -264,11 +284,55 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>Why so few pool resistant/solo mining only cryptocurrencys</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rcpmhg/why_so_few_pool_resistantsolo_mining_only/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rcpmhg/why_so_few_pool_resistantsolo_mining_only/</guid>
+      <pubDate>2026-02-23T18:32:20+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Why so few pool resistant/solo mining only cryptocurrencys like Wownero? People complain about pools centralising hashpower, this is obvious solution. The main downside is that miners will need to wait for weeks/months before catching a block, but this can be mitigated with frequent block emission, with modern tech you can make crypto with 1 second block time or even less.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kra...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>stake-based decentralized moderation for social media</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rcga8d/stakebased_decentralized_moderation_for_social/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rcga8d/stakebased_decentralized_moderation_for_social/</guid>
+      <pubDate>2026-02-23T12:36:31+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello,&lt;/p&gt; &lt;p&gt;I'm interested in decentralization and I'm working on the architecture of an anti-censorship social network with distributed moderation.&lt;/p&gt; &lt;p&gt;The main idea are:&lt;/p&gt; &lt;p&gt;- Messages are stored off-chain, while their hashes are anchored on-chain to guarantee their integrity.&lt;/p&gt; &lt;p&gt;- Any user can report content by placing a stake in order to discourage spam and false reports.&lt;/p&gt; &lt;p&gt;- Each report is reviewed by a small, randomly selected panel, chose...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>New IPFS learning resource</title>
       <link>https://www.reddit.com/r/ipfs/comments/1rcfupt/new_ipfs_learning_resource/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1rcfupt/new_ipfs_learning_resource/</guid>
       <pubDate>2026-02-23T12:14:31+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I created a new resource to go through some IPFS basics (basically capturing a bunch of knowledge I have been trying to put together myself the last few weeks researching it).&lt;/p&gt; &lt;p&gt;And if you find it useful, great!&lt;/p&gt; &lt;p&gt;If you have comments and feedback, it's appreciated!&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://ross-spencer.github.io/learn-ipfs/&quot;&gt;https://ross-spencer.github.io/learn-ipfs/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://ww...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>What are the problem that you have in Web3, that need to solved ?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rcfly3/what_are_the_problem_that_you_have_in_web3_that/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rcfly3/what_are_the_problem_that_you_have_in_web3_that/</guid>
+      <pubDate>2026-02-23T12:01:42+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey, I’m Abhiram Sakaray, a Bachelor of Technology student specializing in Cyber Security and Blockchain.&lt;/p&gt; &lt;p&gt;I’m actively exploring real-world problems in the Web3 ecosystem and looking to turn meaningful challenges into impactful products. I’d love to hear from you what problems or inefficiencies are you currently facing that you think could be solved through Web3? &lt;/p&gt; &lt;p&gt;Your insights would really help shape what I build next.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#3...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Modular blockchain stacks are separating execution, data availability and settlement into distinct infrastructure layers</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1ra93ri/modular_blockchain_stacks_are_separating/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1ra93ri/modular_blockchain_stacks_are_separating/</guid>
+      <pubDate>2026-02-20T22:07:05+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Blockchain architecture is increasingly shifting from monolithic chains toward modular stacks where execution, data availability (DA) and settlement are handled by specialized layers.&lt;/p&gt; &lt;p&gt;In this model:&lt;/p&gt; &lt;p&gt;• rollups (Optimism, Arbitrum) externalize execution&lt;br /&gt; • Ethereum acts as a settlement/consensus anchor&lt;br /&gt; • dedicated DA networks like Celestia provide scalable data availability&lt;/p&gt; &lt;p&gt;The separation allows each layer to optimize independently ...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -544,72 +608,6 @@
       <guid>https://www.reddit.com/r/web3/comments/1qvxfi4/devressources_needed_for_autonomous_treasury/</guid>
       <pubDate>2026-02-04T18:59:04+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I run a small e-comm operation that does a decent amount of cross-chain stablecoin payments. Right now we’re manually bridging and swapping stuff and it’s honestly a nightmare. Waking up at 3am to check gas prices or move funds because a bridge is clogged is exhausting.&lt;/p&gt; &lt;p&gt;I want to build or maybe buy an AI agent that can actually think before it acts. It should:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;check gas fees, liquidity, and bridge status across 2-3 chains (Arb, Opt, Base) and...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>La IA es un aliado o un freno para el ideal de WEB3 que es el individuo soberano?</title>
-      <link>https://www.reddit.com/r/web3/comments/1qvwvck/la_ia_es_un_aliado_o_un_freno_para_el_ideal_de/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1qvwvck/la_ia_es_un_aliado_o_un_freno_para_el_ideal_de/</guid>
-      <pubDate>2026-02-04T18:39:22+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hace tiempo que llevo dándole vueltas a un debate filosófico sobre sobre una contradicción que me resulta más que evidente.&lt;/p&gt; &lt;p&gt;Web3 y la descentralización nace como una evolución de web2, devolver el poder al individuo quitandoselo a las plataformas centralizadas y fomentar la soberanía digital.&lt;/p&gt; &lt;p&gt;Sin embargo la IA cada vez está más presente en nuestras vidas como herramienta central para casi todo. La IA nos hace la vida mucho más fácil, pero introduce...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Rethinking Censorship Resistance After Tornado Cash</title>
-      <link>https://www.reddit.com/r/web3/comments/1qvngc3/rethinking_censorship_resistance_after_tornado/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1qvngc3/rethinking_censorship_resistance_after_tornado/</guid>
-      <pubDate>2026-02-04T12:38:19+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been reading Mastering Ethereum and in the DApp chapter I came across Tornado Cash.&lt;br /&gt; The idea really clicked for me, a smart contract that enables private transactions on a public blockchain without revealing sender/receiver details. Very aligned with the “permissionless” ethos.&lt;/p&gt; &lt;p&gt;But when I dug deeper, things got confusing.&lt;/p&gt; &lt;p&gt;In 2022, the US Treasury’s OFAC sanctioned the Tornado Cash smart contract addresses themselves. US persons were proh...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>I'm working on distributed search engine compatible with IPFS</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1qv4eu4/im_working_on_distributed_search_engine/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1qv4eu4/im_working_on_distributed_search_engine/</guid>
-      <pubDate>2026-02-03T21:11:49+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1qv4eu4/im_working_on_distributed_search_engine/&quot;&gt; &lt;img alt=&quot;I'm working on distributed search engine compatible with IPFS&quot; src=&quot;https://b.thumbs.redditmedia.com/ViAJVOXvwsrtv8s9ioC0MK4Vw39rQqpNNpqtZh5eP2Y.jpg&quot; title=&quot;I'm working on distributed search engine compatible with IPFS&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I'm working on a distributed database supporting deep JSON-search on &lt;a href=&quot;http://Schema.org&quot;&gt;Schem...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Introducing Filebase Sites: Simplified IPFS Websites with IPNS</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1qpk8nr/introducing_filebase_sites_simplified_ipfs/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1qpk8nr/introducing_filebase_sites_simplified_ipfs/</guid>
-      <pubDate>2026-01-28T18:50:33+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1qpk8nr/introducing_filebase_sites_simplified_ipfs/&quot;&gt; &lt;img alt=&quot;Introducing Filebase Sites: Simplified IPFS Websites with IPNS&quot; src=&quot;https://external-preview.redd.it/fQASGC_DyrwawAMIABmeFSHzZ82Xl24JfDGdQgq013A.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=efb73172b38bccf3b314cae3de5497400c009e4f&quot; title=&quot;Introducing Filebase Sites: Simplified IPFS Websites with IPNS&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a hre...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Launched an IPFS typa site</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1qp2djq/launched_an_ipfs_typa_site/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1qp2djq/launched_an_ipfs_typa_site/</guid>
-      <pubDate>2026-01-28T05:17:04+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey all, &lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://nowslice.org&quot;&gt;nowslice.org&lt;/a&gt; is live! I launched it to be able to store videos as people upload them to the web and broadcast them. You claim a timelsot to be able to broadcast with. They are currently valued at 5 cents and are free to claim. &lt;/p&gt; &lt;p&gt;Check it out!&lt;/p&gt; &lt;p&gt;Looking for ways to make it more decentralized in the future. but yeah decentralized video storage is the key here&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Do you need to know about DAG as an end--user? i.e. someone hosting/accessing content?</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1qno6xz/do_you_need_to_know_about_dag_as_an_enduser_ie/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1qno6xz/do_you_need_to_know_about_dag_as_an_enduser_ie/</guid>
-      <pubDate>2026-01-26T18:22:59+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If my use-case is to make available one new dataset a day, e.g. a hypothetical JSON file documenting the temperature at a given point in earth every hour for 23 hours. Do I need to know anything about what a DAG is? Does a DAG impact it's eventual retrieval? &lt;/p&gt; &lt;p&gt;My assumption is I need to maintain my own index of CIDs and I can access that data as I like over time. I can also make it available to others. Is there come connection between DAG and those dataset...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
