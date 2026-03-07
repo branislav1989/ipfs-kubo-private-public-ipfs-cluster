@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 03:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 03:03:31 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,15 +59,71 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>Construction begins at quantum facility big enough to break Bitcoin</title>
-      <link>https://cointelegraph.com/news/construction-quantum-facility-1m-qubits-begins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/construction-quantum-facility-1m-qubits-begins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 06 Mar 2026 01:08:56 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Construction begins at quantum facility big enough to break Bitcoin&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JmZmItNGM1Ny03OGEzLTgzZDItMDFlOTc0NmQ1NmI4LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;PsiQuantum co-founder Terry Rudolph said in July it has no plans to attack Bitcoin, even if its upcoming facility becomes powerful enough to break the bl...</description>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 06 Mar 2026 20:23:43 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Finally found a web3 app that isn't trying to sell me a jpeg or a token. It's a casino.</title>
+      <link>https://www.reddit.com/r/web3/comments/1rmm19k/finally_found_a_web3_app_that_isnt_trying_to_sell/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1rmm19k/finally_found_a_web3_app_that_isnt_trying_to_sell/</guid>
+      <pubDate>2026-03-06T18:31:39+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know, I know &amp;quot;crypto casino&amp;quot; sounds like the most degen thing ever. But hear me out because the architecture is actually interesting from a web3 perspective.&lt;/p&gt; &lt;p&gt;I've been playing around with a platform that runs entirely on Solana smart contracts. Not &amp;quot;accepts crypto payments&amp;quot; actually runs the game logic on chain. When you play a round of Crash, it's a Solana transaction. The randomness comes from on chain sources. The payout executes ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Why is cross-chain still so confusing for normal users?</title>
+      <link>https://www.reddit.com/r/web3/comments/1rmibwp/why_is_crosschain_still_so_confusing_for_normal/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1rmibwp/why_is_crosschain_still_so_confusing_for_normal/</guid>
+      <pubDate>2026-03-06T16:17:19+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;One thing many teams underestimate is that cross-chain UX is not just a technical problem, it's a state management problem.&lt;/p&gt; &lt;p&gt;Users don’t really care which chain they’re on , they care about asset availability and transaction certainty. Most bridges expose chain mechanics directly to the user (switch network, wrap asset, confirm on another chain, etc.), which creates friction.&lt;/p&gt; &lt;p&gt;The better direction seems to be intent-based systems where users express ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Where to learn Web3?</title>
+      <link>https://www.reddit.com/r/web3/comments/1rmeyb9/where_to_learn_web3/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1rmeyb9/where_to_learn_web3/</guid>
+      <pubDate>2026-03-06T14:08:29+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, I have started exploring Web3 a month back. Have tried doing some courses on blockchain and web3, some courses on crypto and AI. Still unable to gt full picture of Web 3. I would really appreciate if the community can guide me to sources where I can read about or listen to basic of web 3 and improve my understanding to have a meaningful discussion with a layman. TIA&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/us...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Morning Minute: The NYSE Just Bought Into A Major Crypto Exchange</title>
+      <link>https://decrypt.co/360237/morning-minute-the-nyse-just-bought-into-a-major-crypto-exchange</link>
+      <guid>https://decrypt.co/360237/morning-minute-the-nyse-just-bought-into-a-major-crypto-exchange</guid>
+      <pubDate>Fri, 06 Mar 2026 13:09:46 +0000</pubDate>
+      <description>The institutions continue to pile into crypto and blockchain projects, and end users stand to benefit.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>SmartAgentKit — policy-governed smart wallets for AI agents (ERC-4337 + ERC-7579)</title>
+      <link>https://www.reddit.com/r/web3/comments/1rmdjjm/smartagentkit_policygoverned_smart_wallets_for_ai/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1rmdjjm/smartagentkit_policygoverned_smart_wallets_for_ai/</guid>
+      <pubDate>2026-03-06T13:09:02+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I just open-sourced a project called SmartAgentKit and wanted to share it with the ethdev community.&lt;/p&gt; &lt;p&gt;The goal is to give AI agents wallets that operate under on-chain policies instead of unrestricted private keys.&lt;/p&gt; &lt;p&gt;SmartAgentKit uses:&lt;/p&gt; &lt;p&gt;• ERC-4337 smart accounts&lt;/p&gt; &lt;p&gt;• Safe smart accounts&lt;/p&gt; &lt;p&gt;• ERC-7579 modular account hooks&lt;/p&gt; &lt;p&gt;• Rhinestone ModuleKit + Smart Sessions&lt;/p&gt; &lt;p&gt;• Pimlico bundler + permissionless.js&lt;/p&gt; &lt;p&gt;Policies are impl...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -129,18 +185,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 05 Mar 2026 14:35:37 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>[D] I have an idea for a decentralized, minimalist, text-based forum database. Looking for feedback and collaborators.</title>
       <link>https://www.reddit.com/r/web3/comments/1rliyhu/d_i_have_an_idea_for_a_decentralized_minimalist/</link>
       <guid>https://www.reddit.com/r/web3/comments/1rliyhu/d_i_have_an_idea_for_a_decentralized_minimalist/</guid>
@@ -164,15 +208,14 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>UAE central bank says financial system stable amid missile and drone attacks</title>
-      <link>https://cointelegraph.com/news/uae-central-bank-banks-operational-regional-tensions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/uae-central-bank-banks-operational-regional-tensions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 05 Mar 2026 11:16:39 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;UAE central bank says financial system stable amid missile and drone attacks&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JkNzAtYTg5My03NDZmLTllMDgtMWE2ZWNkMThjNzk1LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;More than 1,800 crypto businesses operate in the UAE, with over 600 Web3 companies based in Dubai’s DMCC free zone.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>The most powerful tier in CooBook isn't the rarest one. It's the one with 25,000 seats.</title>
+      <link>https://www.reddit.com/r/NFT/comments/1rktsar/the_most_powerful_tier_in_coobook_isnt_the_rarest/</link>
+      <guid>https://www.reddit.com/r/NFT/comments/1rktsar/the_most_powerful_tier_in_coobook_isnt_the_rarest/</guid>
+      <pubDate>2026-03-04T18:44:42+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/NFT/comments/1rktsar/the_most_powerful_tier_in_coobook_isnt_the_rarest/&quot;&gt; &lt;img alt=&quot;The most powerful tier in CooBook isn't the rarest one. It's the one with 25,000 seats.&quot; src=&quot;https://preview.redd.it/wcs4ucdbo2ng1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=eebb9a7394e06ab8c94591ce128cd6cfcd854300&quot; title=&quot;The most powerful tier in CooBook isn't the rarest one. It's the one with 25,000 seats.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;m...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -247,6 +290,17 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1ri71kp/an_ipld_based_project_ive_been_working_on_that/</guid>
       <pubDate>2026-03-01T19:48:40+00:00</pubDate>
       <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Fantastic_Leek1476&quot;&gt; /u/Fantastic_Leek1476 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://codeberg.org/COPSRPiGS/copsrpigs-ipso&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ri71kp/an_ipld_based_project_ive_been_working_on_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>What makes an NFT membership actually useful? Built one for a knowledge platform and learned a lot</title>
+      <link>https://www.reddit.com/r/NFT/comments/1rh7pg6/what_makes_an_nft_membership_actually_useful/</link>
+      <guid>https://www.reddit.com/r/NFT/comments/1rh7pg6/what_makes_an_nft_membership_actually_useful/</guid>
+      <pubDate>2026-02-28T16:59:07+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/NFT/comments/1rh7pg6/what_makes_an_nft_membership_actually_useful/&quot;&gt; &lt;img alt=&quot;What makes an NFT membership actually useful? Built one for a knowledge platform and learned a lot&quot; src=&quot;https://preview.redd.it/lhgqwb6vm9mg1.png?width=140&amp;amp;height=140&amp;amp;auto=webp&amp;amp;s=6e6508441826c3c31173aa88f71e58fc9fc1f7fe&quot; title=&quot;What makes an NFT membership actually useful? Built one for a knowledge platform and learned a lot&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -496,17 +550,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>This Week Proved Infrastructure Matters More Than Hype</title>
-      <link>https://www.reddit.com/r/web3/comments/1r1rl8f/this_week_proved_infrastructure_matters_more_than/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1r1rl8f/this_week_proved_infrastructure_matters_more_than/</guid>
-      <pubDate>2026-02-11T08:09:09+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Base crossed 100M transactions in a single month at under a penny average cost. Arbitrum’s Stylus is running Rust smart contracts with genuinely better gas efficiency. Multiple intent protocols including Anoma’s Optimism launch are coordinating billions in volume through solver competition. CowSwap and UniswapX executing cross-chain atomic settlements that would have been impossible a year ago.&lt;/p&gt; &lt;p&gt;Meanwhile the SEC dropped hints about approving ETH staking f...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Yo guys need advice, Lighthouse just launched there NFTs, what's you POV in that? Buy or not?</title>
       <link>https://www.reddit.com/r/ipfs/comments/1r1q1af/yo_guys_need_advice_lighthouse_just_launched/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1r1q1af/yo_guys_need_advice_lighthouse_just_launched/</guid>
@@ -518,44 +561,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>We are building a remote marketing team for web3 companies</title>
-      <link>https://www.reddit.com/r/web3/comments/1r0wp2m/we_are_building_a_remote_marketing_team_for_web3/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1r0wp2m/we_are_building_a_remote_marketing_team_for_web3/</guid>
-      <pubDate>2026-02-10T09:55:38+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Okay, two things happened recently:&lt;/p&gt; &lt;p&gt;1) My European friend has been building engineering teams for the last 14 years (focused on web2 projects). We were discussing how building a remote marketing team for web3 is crucial.&lt;/p&gt; &lt;p&gt;2) My crypto founder friend is aligned with this idea. End of the day, he wants everything to be taken care of. Doesn't matter how it gets done... as long as it gets done.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What &amp;quot;everything&amp;quot; means:&lt;/strong&gt;&lt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Looking to form a team</title>
-      <link>https://www.reddit.com/r/web3/comments/1r09q9c/looking_to_form_a_team/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1r09q9c/looking_to_form_a_team/</guid>
-      <pubDate>2026-02-09T17:02:18+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m almost finished building a #Web3 store. Currently, we’re partnered with #gift card suppliers, and we’re now looking for suppliers of physical products who accept #cryptocurrency payments. Are you one of them, or would you be interested in collaborating with us? &lt;/p&gt; &lt;p&gt;We believe in the future of Web3, and our vision is to make this project the #1 Web3 Store — offering everything from $5 Starbucks gift cards to #supercars &amp;amp; yacht rentals, and even privat...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Is IPFS secure....?</title>
       <link>https://www.reddit.com/r/ipfs/comments/1qzn1g5/is_ipfs_secure/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1qzn1g5/is_ipfs_secure/</guid>
       <pubDate>2026-02-08T22:32:16+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I was thinking: is IPFS really decentralized? Because if you think about it, most of the time we rely on third-party services like Pinata to host (pin) our files. But that means we’re only one step away from our file disappearing—for example, if Pinata stops pinning it. Is that really decentralization?&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://pink-delicate-dinosaur-221.mypinata.cloud/ipfs/bafybeig6fqc26np5umel5olz33bt6x3k2zdvd63nnqycjj3hetuenmfeqm&quot;&gt;https://pink-delicate-dinosaur...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>What separates a useful Web3 whitepaper from pure marketing?</title>
-      <link>https://www.reddit.com/r/web3/comments/1qy6dtc/what_separates_a_useful_web3_whitepaper_from_pure/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1qy6dtc/what_separates_a_useful_web3_whitepaper_from_pure/</guid>
-      <pubDate>2026-02-07T06:23:01+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve noticed that many Web3 whitepapers spend a lot of time on vision and tokenomics, but very little on how systems actually behave in practice.&lt;/p&gt; &lt;p&gt;From your experience, what makes a whitepaper genuinely useful?&lt;/p&gt; &lt;p&gt;Some things I personally look for:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Clear &amp;amp; no hidden fee logic&lt;/li&gt; &lt;li&gt;Incentive alignment over time&lt;/li&gt; &lt;li&gt;Governance mechanics explained simply&lt;/li&gt; &lt;li&gt;Explicit trade-offs or risks&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Curious how others evalu...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -600,17 +610,6 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1qp2djq/launched_an_ipfs_typa_site/</guid>
       <pubDate>2026-01-28T05:17:04+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey all, &lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://nowslice.org&quot;&gt;nowslice.org&lt;/a&gt; is live! I launched it to be able to store videos as people upload them to the web and broadcast them. You claim a timelsot to be able to broadcast with. They are currently valued at 5 cents and are free to claim. &lt;/p&gt; &lt;p&gt;Check it out!&lt;/p&gt; &lt;p&gt;Looking for ways to make it more decentralized in the future. but yeah decentralized video storage is the key here&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Do you need to know about DAG as an end--user? i.e. someone hosting/accessing content?</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1qno6xz/do_you_need_to_know_about_dag_as_an_enduser_ie/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1qno6xz/do_you_need_to_know_about_dag_as_an_enduser_ie/</guid>
-      <pubDate>2026-01-26T18:22:59+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If my use-case is to make available one new dataset a day, e.g. a hypothetical JSON file documenting the temperature at a given point in earth every hour for 23 hours. Do I need to know anything about what a DAG is? Does a DAG impact it's eventual retrieval? &lt;/p&gt; &lt;p&gt;My assumption is I need to maintain my own index of CIDs and I can access that data as I like over time. I can also make it available to others. Is there come connection between DAG and those dataset...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
