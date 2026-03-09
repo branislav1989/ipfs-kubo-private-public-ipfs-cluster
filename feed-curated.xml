@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 03:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 03:20:59 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,18 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>AI agent attempts unauthorized crypto mining during training, reseachers say</title>
+      <link>https://cointelegraph.com/news/ai-agent-attempts-crypto-mining-during-training-researchers-say?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/ai-agent-attempts-crypto-mining-during-training-researchers-say?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sun, 08 Mar 2026 12:01:20 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;AI agent attempts unauthorized crypto mining during training, reseachers say&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I0MjgtOWVkOS03NDQ0LWI4NmYtMGQ1OThmM2NjYWRjLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Researchers say the experimental AI agent ROME attempted unauthorized cryptocurrency mining during training after diverting GPU resources and op...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -92,6 +104,17 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ancient Rome built governance around grain + legitimacy — DAOs are re-learning the same systems problem</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rm2xq4/ancient_rome_built_governance_around_grain/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rm2xq4/ancient_rome_built_governance_around_grain/</guid>
+      <pubDate>2026-03-06T03:28:09+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Ancient Rome wasn’t just “law and armies.” It survived (and sometimes failed) on systems — especially the grain supply. When grain stopped flowing, stability collapsed quickly. Legitimacy didn’t come from ideology; it came from whether the system kept people fed and calm.&lt;/p&gt; &lt;p&gt;What’s interesting is how modern the failure modes sound:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;• Concentration risk: a small number of actors can choke critical pathways • Low participation: most people stay ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -143,6 +166,83 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>A 1970s cybernetic governance experiment predicted some of the problems modern DAOs face</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rlbaqn/a_1970s_cybernetic_governance_experiment/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rlbaqn/a_1970s_cybernetic_governance_experiment/</guid>
+      <pubDate>2026-03-05T07:30:51+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In the early 1970s Chile attempted something that feels strangely similar to what many DAO builders are exploring today.&lt;/p&gt; &lt;p&gt;It was called Project Cybersyn.&lt;/p&gt; &lt;p&gt;The idea was to run parts of the economy using cybernetics and real-time feedback systems rather than slow bureaucratic planning.&lt;/p&gt; &lt;p&gt;Factories across the country sent daily production data through a network of telex machines to a central system in Santiago. Statistical models monitored the data...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I think I finally understood why Web3 still feels broken and why I decided to build instead of wait</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rkij7q/i_think_i_finally_understood_why_web3_still_feels/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rkij7q/i_think_i_finally_understood_why_web3_still_feels/</guid>
+      <pubDate>2026-03-04T11:00:51+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been in Web3 for years, and honestly, something always felt… off&lt;/p&gt; &lt;p&gt;Everyone talks about decentralization, freedom, trustless systems, but every time I actually &lt;em&gt;use&lt;/em&gt; Web3, I open Chrome, go to a .com website, connect a wallet extension, hope the RPC works, hope the frontend isn’t compromised, and pretend this is the future of the internet&lt;/p&gt; &lt;p&gt;At some point I realized: we didn’t build Web3&lt;br /&gt; We built Web3 on top of Web2 permission layers&lt;/...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Q day is fast approaching, blockchain might not make it</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rkhz49/q_day_is_fast_approaching_blockchain_might_not/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rkhz49/q_day_is_fast_approaching_blockchain_might_not/</guid>
+      <pubDate>2026-03-04T10:27:33+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Quantum threat is closing in fast. &lt;/p&gt; &lt;p&gt;I’ve been thinking about it a lot lately, especially with how fast the narrative shifts from we’re decades away to crypto is doomed. The truth, like always, is somewhere in the middle.&lt;/p&gt; &lt;p&gt;The quantum threat isn’t about someone waking up tomorrow and draining every wallet. It’s about math. Bitcoin and most major chains rely on elliptic curve cryptography. If large scale, fault tolerant quantum computers become viable...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>What architecture would be most efficient for a truly cross-chain DEX?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rjl1ou/what_architecture_would_be_most_efficient_for_a/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rjl1ou/what_architecture_would_be_most_efficient_for_a/</guid>
+      <pubDate>2026-03-03T09:37:08+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;What architecture would be most efficient for a truly cross-chain DEX that lets users trade across multiple blockchains without bridges or asset migration, while still preserving strong security guarantees, shared liquidity, low latency execution, and verifiable settlement/finality on each chain?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/badplayz99&quot;&gt; /u/badplayz99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Cr...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Scaling Federated Learning to $10^8$ Nodes: A Byzantine-Tolerant Neural Mesh with zk-SNARK Verification</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rj9apy/scaling_federated_learning_to_108_nodes_a/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rj9apy/scaling_federated_learning_to_108_nodes_a/</guid>
+      <pubDate>2026-03-02T23:42:37+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been developing a decentralized federated learning (FL) framework called &lt;a href=&quot;https://rwilliamspbg-ops.github.io/sovereign-map-website/&quot;&gt;Sovereign Map&lt;/a&gt; that addresses the scaling and security bottlenecks of traditional FL.&lt;/p&gt; &lt;p&gt;Most existing protocols struggle with linear communication overhead ($O(dn)$) and lack robust protection against poisoned updates. This architecture implements a hierarchical synthesis approach to achieve $O(d \log n)$ compl...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Blockchain for Democracy and Voting Integrity</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rhaask/blockchain_for_democracy_and_voting_integrity/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rhaask/blockchain_for_democracy_and_voting_integrity/</guid>
+      <pubDate>2026-02-28T18:38:53+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As I understand it, with blockchain technology we have the most reliable ledger in human history. I am wondering if any protocols exist to create an actually reliable voting system for say.. a country whose government has gone rogue and is rigging elections. If any are in progress? And if not, why has there been no incentive to yet?&lt;/p&gt; &lt;p&gt;Edit: Even if not to replace an election at least have a second blockchain election in tandem, or several for greater verifi...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Is blockchain-verified authorship the most underrated use case in Web3?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rh9jfi/is_blockchainverified_authorship_the_most/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rh9jfi/is_blockchainverified_authorship_the_most/</guid>
+      <pubDate>2026-02-28T18:09:40+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Everyone talks about DeFi, NFT speculation, and tokenizing real-world assets. But there's a use case that gets almost no attention: using blockchain to permanently verify who wrote something and when.&lt;/p&gt; &lt;p&gt;Think about the actual problem. Right now, an article on Medium can be deleted. A Wikipedia edit can erase history. A research paper can be altered after publication. None of these platforms offer any cryptographic proof that content existed at a specific da...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>This Is Fine (Until the Grant Runs Out)</title>
       <link>https://blog.ethereum.org/en/2026/02/27/project-odin</link>
       <guid>https://blog.ethereum.org/en/2026/02/27/project-odin</guid>
@@ -176,18 +276,6 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Datahosting.company ipfs cryptocurency cloud storage ipfs kubo, ipfs cluster #ipfs #web3 #nft #p2p</title>
-      <link>https://www.youtube.com/shorts/B4XRhAT3wyw</link>
-      <guid>https://www.youtube.com/shorts/B4XRhAT3wyw</guid>
-      <pubDate>2026-01-02T17:06:21+00:00</pubDate>
-      <description/>
-      <category>DataHosting.Company</category>
-      <category>our content</category>
-      <category>original content</category>
-      <category>company updates</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -556,102 +644,6 @@
       <guid>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</guid>
       <pubDate>Sun, 01 Apr 2018 15:35:26 GMT</pubDate>
       <description>We have long recognized that in order for cryptocurrency to reach mass adoption, a form of cryptocurrency that has higher price stability than existing cryptocurrencies like BTC and ETH would be needed so that people can use the currency to store funds and engage in commerce without worrying about their...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing Beneficiaries of the Ethereum Foundation Grants</title>
-      <link>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</link>
-      <guid>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</guid>
-      <pubDate>Wed, 07 Mar 2018 17:54:33 GMT</pubDate>
-      <description>We’re excited to share the results of the first wave of grants from the Ethereum Foundation.  As a reminder, the Ethereum project seeks to support useful dapps and smart contracts on the Ethereum blockchain, and the goal of the Ethereum Foundation is to empower developers with best-in-class R&amp;amp;D, developer...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum scalability research and development subsidy programs</title>
-      <link>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</link>
-      <guid>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</guid>
-      <pubDate>Tue, 02 Jan 2018 17:42:21 GMT</pubDate>
-      <description>The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Q4 Roundup</title>
-      <link>https://blog.ethereum.org/en/2018/01/02/q4-roundup</link>
-      <guid>https://blog.ethereum.org/en/2018/01/02/q4-roundup</guid>
-      <pubDate>Tue, 02 Jan 2018 15:27:18 GMT</pubDate>
-      <description>Ethereum has grown very rapidly in the last few months. Transaction volume on the blockchain has more than doubled, surpassing 10 transactions per second for days at a time. The number of new accounts created per day passed 100,000&lt;span style=&quot;font-w...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum JS Ecosystem Updates</title>
-      <link>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</link>
-      <guid>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</guid>
-      <pubDate>Tue, 21 Mar 2017 03:11:39 GMT</pubDate>
-      <description>It's been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay's excellent write up here.  Also, during this time Aaron Davis (Kumavis) made s...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>An Update on Integrating Zcash on Ethereum (ZoE)</title>
-      <link>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</link>
-      <guid>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</guid>
-      <pubDate>Thu, 19 Jan 2017 17:57:54 GMT</pubDate>
-      <description>Members of the Ethereum R&amp;amp;D team and the Zcash Company are collaborating on a research project addressing the combination of programmability and privacy in blockchains. This joint post is being concurrently posted on the Zcash blog, and is coauthored by Ariel Gabizon (Zcash) and Christian Reitwiessner (Ethereum).  Ethereum’s flexible smart...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Uncle Rate and Transaction Fee Analysis</title>
-      <link>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</link>
-      <guid>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</guid>
-      <pubDate>Mon, 31 Oct 2016 03:52:04 GMT</pubDate>
-      <description>One of the important indicators of how much load the Ethereum blockchain can safely handle is how the uncle rate responds to the gas usage of a transaction. In all blockchains of the Satoshian proof-of-work variety, any block that is published has the risk of howbecoming a &quot;stale&quot;, ie. not...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>On Inflation, Transaction Fees and Cryptocurrency Monetary Policy</title>
-      <link>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</link>
-      <guid>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</guid>
-      <pubDate>Wed, 27 Jul 2016 17:00:00 GMT</pubDate>
-      <description>The primary expense that must be paid by a blockchain is that of security. The blockchain must pay miners or validators to economically participate in its consensus protocol, whether proof of work or proof of stake, and this inevitably incurs some cost. There are two ways to pay for this...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Taylor’s Summer Update</title>
-      <link>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</link>
-      <guid>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</guid>
-      <pubDate>Mon, 11 Jul 2016 16:05:58 GMT</pubDate>
-      <description>Hey everyone, I spent some time with our Canadian friends in Toronto after presenting &quot;Ethereum: The World Computer&quot; at Blockchain Training Conference last month and I wanted to provide a quick update on some of the exciting happenings in the Ethereum dev ecosystem. Lots of things are brewing behinds the...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
