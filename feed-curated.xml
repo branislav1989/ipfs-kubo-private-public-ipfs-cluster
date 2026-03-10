@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 03:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 03:12:22 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,22 +59,10 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>AI agent attempts unauthorized crypto mining during training, reseachers say</title>
-      <link>https://cointelegraph.com/news/ai-agent-attempts-crypto-mining-during-training-researchers-say?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/ai-agent-attempts-crypto-mining-during-training-researchers-say?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sun, 08 Mar 2026 12:01:20 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;AI agent attempts unauthorized crypto mining during training, reseachers say&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I0MjgtOWVkOS03NDQ0LWI4NmYtMGQ1OThmM2NjYWRjLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Researchers say the experimental AI agent ROME attempted unauthorized cryptocurrency mining during training after diverting GPU resources and op...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 07 Mar 2026 22:32:13 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 22:09:20 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -83,11 +71,95 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Trump’s National Cyber Strategy pledges to support crypto and blockchain</title>
-      <link>https://cointelegraph.com/news/crypto-blockchain-priority-national-cyber-strategy-us-donald-trump?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/crypto-blockchain-priority-national-cyber-strategy-us-donald-trump?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 07 Mar 2026 05:06:17 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Trump’s National Cyber Strategy pledges to support crypto and blockchain&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2M2OTEtMzc2NC03ZDBlLWIyNjMtYzY0YWE4MGZiYTk2LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Mixers, privacy coins and the threat quantum computing could pose to Bitcoin were all points of speculation across the industry following the releas...</description>
+      <title>Moldova's Anticorruption Center Alleges $107M Crypto Scheme to Influence Elections</title>
+      <link>https://decrypt.co/360396/moldova-107m-crypto-scheme-influence-elections</link>
+      <guid>https://decrypt.co/360396/moldova-107m-crypto-scheme-influence-elections</guid>
+      <pubDate>Mon, 09 Mar 2026 21:50:27 +0000</pubDate>
+      <description>Blockchain analysis firm TRM Labs identified links to a Russia-backed influence operation paying agitators in cryptocurrency.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Nasdaq links EU markets to Boerse Stuttgart's tokenized settlement venue</title>
+      <link>https://cointelegraph.com/news/nasdaq-partners-with-boerse-stuttgart-s-seturion-to-advance-tokenized-securities-settlement-in-europe?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/nasdaq-partners-with-boerse-stuttgart-s-seturion-to-advance-tokenized-securities-settlement-in-europe?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 09 Mar 2026 21:23:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Nasdaq links EU markets to Boerse Stuttgart's tokenized settlement venue&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Q0NDAtNGViZC03MDIyLThkN2ItNDhiOGY3YjU4ZTA4LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The partnership aims to reduce fragmentation in European capital markets by enabling blockchain-based settlement of tokenized securities.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Aon tests stablecoin payments for insurance premiums with Paxos, Coinbase</title>
+      <link>https://cointelegraph.com/news/aon-stablecoin-payments-insurance-premiums-paxos-coinbase?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/aon-stablecoin-payments-insurance-premiums-paxos-coinbase?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 09 Mar 2026 20:55:47 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Aon tests stablecoin payments for insurance premiums with Paxos, Coinbase&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Q0MmYtNmEwYi03MGFlLWE3ZmItOGUwNzE4OTA3MzZjLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The insurance broker is piloting stablecoin payments for premiums using USDC and PYUSD, testing blockchain settlement rails for faster payments in ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Blockchain.com expands into Ghana after 700% trading growth in Nigeria</title>
+      <link>https://cointelegraph.com/news/blockchain-com-expands-into-ghana-after-700-trading-growth-in-nigeria?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/blockchain-com-expands-into-ghana-after-700-trading-growth-in-nigeria?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 09 Mar 2026 17:48:01 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Blockchain.com expands into Ghana after 700% trading growth in Nigeria&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QzNjAtOWJiYy03ZmFjLWEyZGYtNjJkNzUxYjY1ZTUwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The crypto brokerage said increasing demand across West Africa is driving its expansion as user activity grows across the Sub-Saharan region.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Nigel Farage Backs Bitcoin Treasury Firm Chaired By Former Chancellor</title>
+      <link>https://decrypt.co/360431/nigel-farage-backs-bitcoin-treasury-firm-chaired-by-former-chancellor</link>
+      <guid>https://decrypt.co/360431/nigel-farage-backs-bitcoin-treasury-firm-chaired-by-former-chancellor</guid>
+      <pubDate>Mon, 09 Mar 2026 17:41:23 +0000</pubDate>
+      <description>Reform UK leader Nigel Farage has joined the $333,000 fundraising round for Stack BTC alongside Blockchain.com.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>EU’s regulated blockchain securities market adds first bank participant</title>
+      <link>https://cointelegraph.com/news/amina-bank-eu-blockchain-securities-market-21x?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/amina-bank-eu-blockchain-securities-market-21x?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 09 Mar 2026 15:58:58 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;EU’s regulated blockchain securities market adds first bank participant&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QzMWItMjQzYy03Y2I0LThiMmYtOGIzZWI2MjE2NjU5LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Swiss crypto bank Amina has joined 21X as a regulated banking participant, linking traditional financial institutions with a blockchain-based market ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>How United Nations Development Programme is using blockchains for public infrastructure</title>
+      <link>https://cointelegraph.com/news/how-united-nations-development-programme-is-using-blockchains-for-public-infrastructure?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/how-united-nations-development-programme-is-using-blockchains-for-public-infrastructure?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;How United Nations Development Programme is using blockchains for public infrastructure&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QyYTItNThlYS03NmI5LWEzNzctNTcxOTIxZDg1M2NkLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;A new United Nations Development Programme report outlines how blockchain can support public systems.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Banks will run RWAs on two blockchain rails, says RedStone co-founder</title>
+      <link>https://cointelegraph.com/news/banks-rwas-two-blockchain-rails-redstone?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/banks-rwas-two-blockchain-rails-redstone?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 09 Mar 2026 13:00:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Banks will run RWAs on two blockchain rails, says RedStone co-founder&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JkZmQtZDRjNC03MWY4LWEwYjQtNjUyOWZhNjAyMzg2LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;RedStone co-founder Marcin Kaźmierczak says banks are splitting RWA infrastructure between private networks like Canton and public chains such as Ether...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -104,142 +176,6 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ancient Rome built governance around grain + legitimacy — DAOs are re-learning the same systems problem</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rm2xq4/ancient_rome_built_governance_around_grain/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rm2xq4/ancient_rome_built_governance_around_grain/</guid>
-      <pubDate>2026-03-06T03:28:09+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Ancient Rome wasn’t just “law and armies.” It survived (and sometimes failed) on systems — especially the grain supply. When grain stopped flowing, stability collapsed quickly. Legitimacy didn’t come from ideology; it came from whether the system kept people fed and calm.&lt;/p&gt; &lt;p&gt;What’s interesting is how modern the failure modes sound:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;• Concentration risk: a small number of actors can choke critical pathways • Low participation: most people stay ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Iran Regime's Crypto Activity Topped $3 Billion as Illicit Transactions Surged in 2025: Report</title>
-      <link>https://decrypt.co/360146/iran-regime-crypto-activity-topped-3-billion-illicit-transactions-2025</link>
-      <guid>https://decrypt.co/360146/iran-regime-crypto-activity-topped-3-billion-illicit-transactions-2025</guid>
-      <pubDate>Thu, 05 Mar 2026 21:00:22 +0000</pubDate>
-      <description>Iran, Russia, North Korea, and other sanctioned countries boosted their use of cryptocurrency last year, according to Chainalysis.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Cardano's ADA Token Now Accepted at Spar Supermarkets in Switzerland</title>
-      <link>https://decrypt.co/360122/cardano-ada-token-accepted-spar-supermarkets-switzerland</link>
-      <guid>https://decrypt.co/360122/cardano-ada-token-accepted-spar-supermarkets-switzerland</guid>
-      <pubDate>Thu, 05 Mar 2026 16:45:40 +0000</pubDate>
-      <description>Brick-and-mortar retail payments in Swiss Spar stores are enabled through the Cardano blockchain’s integration with DFX.swiss.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Federal Contractor’s Son Arrested, Charged With Stealing $46 Million From US Crypto Stockpile</title>
-      <link>https://decrypt.co/360120/federal-contractors-son-arrested-charged-with-stealing-46-million-from-us-crypto-stockpile</link>
-      <guid>https://decrypt.co/360120/federal-contractors-son-arrested-charged-with-stealing-46-million-from-us-crypto-stockpile</guid>
-      <pubDate>Thu, 05 Mar 2026 16:08:42 +0000</pubDate>
-      <description>John Daghita was publicly accused of the crime by blockchain sleuth ZachXBT in January.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>FATF Flags Peer-to-Peer Stablecoin Transfers as Top Money Laundering Risk</title>
-      <link>https://decrypt.co/360087/fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk</link>
-      <guid>https://decrypt.co/360087/fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk</guid>
-      <pubDate>Thu, 05 Mar 2026 11:44:53 +0000</pubDate>
-      <description>The Financial Action Task Force wants issuers to embed freeze and deny-list controls directly into smart contracts.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>A 1970s cybernetic governance experiment predicted some of the problems modern DAOs face</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rlbaqn/a_1970s_cybernetic_governance_experiment/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rlbaqn/a_1970s_cybernetic_governance_experiment/</guid>
-      <pubDate>2026-03-05T07:30:51+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In the early 1970s Chile attempted something that feels strangely similar to what many DAO builders are exploring today.&lt;/p&gt; &lt;p&gt;It was called Project Cybersyn.&lt;/p&gt; &lt;p&gt;The idea was to run parts of the economy using cybernetics and real-time feedback systems rather than slow bureaucratic planning.&lt;/p&gt; &lt;p&gt;Factories across the country sent daily production data through a network of telex machines to a central system in Santiago. Statistical models monitored the data...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>I think I finally understood why Web3 still feels broken and why I decided to build instead of wait</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rkij7q/i_think_i_finally_understood_why_web3_still_feels/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rkij7q/i_think_i_finally_understood_why_web3_still_feels/</guid>
-      <pubDate>2026-03-04T11:00:51+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been in Web3 for years, and honestly, something always felt… off&lt;/p&gt; &lt;p&gt;Everyone talks about decentralization, freedom, trustless systems, but every time I actually &lt;em&gt;use&lt;/em&gt; Web3, I open Chrome, go to a .com website, connect a wallet extension, hope the RPC works, hope the frontend isn’t compromised, and pretend this is the future of the internet&lt;/p&gt; &lt;p&gt;At some point I realized: we didn’t build Web3&lt;br /&gt; We built Web3 on top of Web2 permission layers&lt;/...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Q day is fast approaching, blockchain might not make it</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rkhz49/q_day_is_fast_approaching_blockchain_might_not/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rkhz49/q_day_is_fast_approaching_blockchain_might_not/</guid>
-      <pubDate>2026-03-04T10:27:33+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Quantum threat is closing in fast. &lt;/p&gt; &lt;p&gt;I’ve been thinking about it a lot lately, especially with how fast the narrative shifts from we’re decades away to crypto is doomed. The truth, like always, is somewhere in the middle.&lt;/p&gt; &lt;p&gt;The quantum threat isn’t about someone waking up tomorrow and draining every wallet. It’s about math. Bitcoin and most major chains rely on elliptic curve cryptography. If large scale, fault tolerant quantum computers become viable...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>What architecture would be most efficient for a truly cross-chain DEX?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rjl1ou/what_architecture_would_be_most_efficient_for_a/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rjl1ou/what_architecture_would_be_most_efficient_for_a/</guid>
-      <pubDate>2026-03-03T09:37:08+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;What architecture would be most efficient for a truly cross-chain DEX that lets users trade across multiple blockchains without bridges or asset migration, while still preserving strong security guarantees, shared liquidity, low latency execution, and verifiable settlement/finality on each chain?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/badplayz99&quot;&gt; /u/badplayz99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Cr...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Scaling Federated Learning to $10^8$ Nodes: A Byzantine-Tolerant Neural Mesh with zk-SNARK Verification</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rj9apy/scaling_federated_learning_to_108_nodes_a/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rj9apy/scaling_federated_learning_to_108_nodes_a/</guid>
-      <pubDate>2026-03-02T23:42:37+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been developing a decentralized federated learning (FL) framework called &lt;a href=&quot;https://rwilliamspbg-ops.github.io/sovereign-map-website/&quot;&gt;Sovereign Map&lt;/a&gt; that addresses the scaling and security bottlenecks of traditional FL.&lt;/p&gt; &lt;p&gt;Most existing protocols struggle with linear communication overhead ($O(dn)$) and lack robust protection against poisoned updates. This architecture implements a hierarchical synthesis approach to achieve $O(d \log n)$ compl...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Blockchain for Democracy and Voting Integrity</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rhaask/blockchain_for_democracy_and_voting_integrity/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rhaask/blockchain_for_democracy_and_voting_integrity/</guid>
-      <pubDate>2026-02-28T18:38:53+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As I understand it, with blockchain technology we have the most reliable ledger in human history. I am wondering if any protocols exist to create an actually reliable voting system for say.. a country whose government has gone rogue and is rigging elections. If any are in progress? And if not, why has there been no incentive to yet?&lt;/p&gt; &lt;p&gt;Edit: Even if not to replace an election at least have a second blockchain election in tandem, or several for greater verifi...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Is blockchain-verified authorship the most underrated use case in Web3?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rh9jfi/is_blockchainverified_authorship_the_most/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rh9jfi/is_blockchainverified_authorship_the_most/</guid>
-      <pubDate>2026-02-28T18:09:40+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Everyone talks about DeFi, NFT speculation, and tokenizing real-world assets. But there's a use case that gets almost no attention: using blockchain to permanently verify who wrote something and when.&lt;/p&gt; &lt;p&gt;Think about the actual problem. Right now, an article on Medium can be deleted. A Wikipedia edit can erase history. A research paper can be altered after publication. None of these platforms offer any cryptographic proof that content existed at a specific da...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -276,6 +212,18 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Datahosting.company ipfs cryptocurency cloud storage ipfs kubo, ipfs cluster #ipfs #web3 #nft #p2p</title>
+      <link>https://www.youtube.com/shorts/B4XRhAT3wyw</link>
+      <guid>https://www.youtube.com/shorts/B4XRhAT3wyw</guid>
+      <pubDate>2026-01-02T17:06:21+00:00</pubDate>
+      <description/>
+      <category>DataHosting.Company</category>
+      <category>our content</category>
+      <category>original content</category>
+      <category>company updates</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -644,6 +592,66 @@
       <guid>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</guid>
       <pubDate>Sun, 01 Apr 2018 15:35:26 GMT</pubDate>
       <description>We have long recognized that in order for cryptocurrency to reach mass adoption, a form of cryptocurrency that has higher price stability than existing cryptocurrencies like BTC and ETH would be needed so that people can use the currency to store funds and engage in commerce without worrying about their...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing Beneficiaries of the Ethereum Foundation Grants</title>
+      <link>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</link>
+      <guid>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</guid>
+      <pubDate>Wed, 07 Mar 2018 17:54:33 GMT</pubDate>
+      <description>We’re excited to share the results of the first wave of grants from the Ethereum Foundation.  As a reminder, the Ethereum project seeks to support useful dapps and smart contracts on the Ethereum blockchain, and the goal of the Ethereum Foundation is to empower developers with best-in-class R&amp;amp;D, developer...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum scalability research and development subsidy programs</title>
+      <link>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</link>
+      <guid>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</guid>
+      <pubDate>Tue, 02 Jan 2018 17:42:21 GMT</pubDate>
+      <description>The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Q4 Roundup</title>
+      <link>https://blog.ethereum.org/en/2018/01/02/q4-roundup</link>
+      <guid>https://blog.ethereum.org/en/2018/01/02/q4-roundup</guid>
+      <pubDate>Tue, 02 Jan 2018 15:27:18 GMT</pubDate>
+      <description>Ethereum has grown very rapidly in the last few months. Transaction volume on the blockchain has more than doubled, surpassing 10 transactions per second for days at a time. The number of new accounts created per day passed 100,000&lt;span style=&quot;font-w...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum JS Ecosystem Updates</title>
+      <link>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</link>
+      <guid>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</guid>
+      <pubDate>Tue, 21 Mar 2017 03:11:39 GMT</pubDate>
+      <description>It's been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay's excellent write up here.  Also, during this time Aaron Davis (Kumavis) made s...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>An Update on Integrating Zcash on Ethereum (ZoE)</title>
+      <link>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</link>
+      <guid>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</guid>
+      <pubDate>Thu, 19 Jan 2017 17:57:54 GMT</pubDate>
+      <description>Members of the Ethereum R&amp;amp;D team and the Zcash Company are collaborating on a research project addressing the combination of programmability and privacy in blockchains. This joint post is being concurrently posted on the Zcash blog, and is coauthored by Ariel Gabizon (Zcash) and Christian Reitwiessner (Ethereum).  Ethereum’s flexible smart...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
