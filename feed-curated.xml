@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 03:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 03:14:46 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,21 +59,32 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>Show HN: s@: decentralized social networking over static sites</title>
-      <link>http://satproto.org/</link>
-      <guid>http://satproto.org/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:22:19 +0000</pubDate>
-      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=47344548&quot;&gt;Comments&lt;/a&gt;</description>
-      <category>distributed systems</category>
-      <category>decentralization</category>
-      <category>cryptography</category>
+      <title>Nextcloud Just added a new killer feature “user data migration”</title>
+      <link>https://www.reddit.com/r/selfhosted/comments/1rsa9n2/nextcloud_just_added_a_new_killer_feature_user/</link>
+      <guid>https://www.reddit.com/r/selfhosted/comments/1rsa9n2/nextcloud_just_added_a_new_killer_feature_user/</guid>
+      <pubDate>2026-03-13T01:47:57+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/selfhosted/comments/1rsa9n2/nextcloud_just_added_a_new_killer_feature_user/&quot;&gt; &lt;img alt=&quot;Nextcloud Just added a new killer feature “user data migration”&quot; src=&quot;https://preview.redd.it/i5ei3t3pwpog1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=902de3037762af3ec9d9a0f9baad45d3839ffe14&quot; title=&quot;Nextcloud Just added a new killer feature “user data migration”&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I haven't seen anyone mentioned this y...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>[Open Source] Locmind - Self-host your own 2D virtual office or hangout space</title>
+      <link>https://www.reddit.com/r/selfhosted/comments/1rs6q0x/open_source_locmind_selfhost_your_own_2d_virtual/</link>
+      <guid>https://www.reddit.com/r/selfhosted/comments/1rs6q0x/open_source_locmind_selfhost_your_own_2d_virtual/</guid>
+      <pubDate>2026-03-12T23:18:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/selfhosted/comments/1rs6q0x/open_source_locmind_selfhost_your_own_2d_virtual/&quot;&gt; &lt;img alt=&quot;[Open Source] Locmind - Self-host your own 2D virtual office or hangout space&quot; src=&quot;https://preview.redd.it/wu442spc6pog1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=529f2d8bba4419e3a90ff33ffb7ac0cc82089b8b&quot; title=&quot;[Open Source] Locmind - Self-host your own 2D virtual office or hangout space&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello! I...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 11 Mar 2026 21:56:54 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 22:14:04 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -82,11 +93,45 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Mastercard launches crypto partner program with a 'who's who' of industry</title>
-      <link>https://cointelegraph.com/news/mastercard-launches-crypto-partner-program-with-more-than-85-industry-participants?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/mastercard-launches-crypto-partner-program-with-more-than-85-industry-participants?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 11 Mar 2026 20:52:19 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Mastercard launches crypto partner program with a 'who's who' of industry&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RlNzctMDY3MC03OWIzLTgzNDAtZDQyMjUwYzEwYzczLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The program connects crypto companies, banks and payment providers to explore blockchain-based payment and settlement infrastructure.&lt;/p&gt;</description>
+      <title>QIE Blockchain Hackathon 2026: Calling Builders Ready to Launch Real Web3 Projects</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rs21lq/qie_blockchain_hackathon_2026_calling_builders/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rs21lq/qie_blockchain_hackathon_2026_calling_builders/</guid>
+      <pubDate>2026-03-12T20:22:56+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The next generation of decentralized applications will not be built on hype.&lt;/p&gt; &lt;p&gt;They will be built by developers who want real infrastructure, real users, and real products.&lt;/p&gt; &lt;p&gt;That is the vision behind the QIE Blockchain Hackathon 2026, launching March 16, 2026, and running through May 2026.&lt;/p&gt; &lt;p&gt;With a $20,000 prize pool, milestone-based rewards, and full developer support, the hackathon invites builders from around the world to create production-rea...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>HugCoin (2016): An infinite-supply token that permanently records every hug on-chain</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rs0a83/hugcoin_2016_an_infinitesupply_token_that/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rs0a83/hugcoin_2016_an_infinitesupply_token_that/</guid>
+      <pubDate>2026-03-12T19:19:35+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been doing compiler archaeology on early Ethereum contracts and just cracked HugCoin — a token deployed on August 23, 2016 by Jon Romero.&lt;/p&gt; &lt;p&gt;The concept is simple and kind of charming: everyone has unlimited HugCoins. Calling &lt;code&gt;transfer()&lt;/code&gt; mints exactly 1 token to whoever you want to hug. But the real magic is &lt;code&gt;giveHugTo(string name, address)&lt;/code&gt; — it mints a HugCoin AND permanently records the recipient's name and timestamp in an on-c...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto accounting startup Cryptio lands $45M as institutions move onchain</title>
+      <link>https://cointelegraph.com/news/cryptio-raises-45m-crypto-accounting-tokenized-finance?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/cryptio-raises-45m-crypto-accounting-tokenized-finance?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 12 Mar 2026 18:45:10 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Crypto accounting startup Cryptio lands $45M as institutions move onchain&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UyYWYtOTg1OC03OGM1LTg4N2MtN2QwNTE1MTAyOWU1LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;A surge in tokenized finance is driving demand for systems that reconcile blockchain transactions for audits and reporting, pushing digital asset a...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Perp DEXs become the latest battleground for blockchains</title>
+      <link>https://cointelegraph.com/news/perp-dexs-become-the-latest-battleground-for-blockchains?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/perp-dexs-become-the-latest-battleground-for-blockchains?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 12 Mar 2026 12:42:03 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Perp DEXs become the latest battleground for blockchains&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMxODYtMjE1NC03YzYxLWFlMzUtZTQ4MmJjZWQ0OWNkLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Chains are launching perp DEXs to capture trading activity, but history suggests liquidity will consolidate around only a handful of platforms.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -105,39 +150,14 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>SlowMist introduces Web3 security stack for autonomous AI agents</title>
-      <link>https://cointelegraph.com/news/slowmist-security-framework-autonomous-ai-agents-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/slowmist-security-framework-autonomous-ai-agents-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 11 Mar 2026 14:15:18 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;SlowMist introduces Web3 security stack for autonomous AI agents&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RjZmMtOTUyZC03NjE3LWI0NjQtZDI5ODQ5ZWIwZDZlLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;SlowMist introduced a layered security framework for Web3 AI agents as autonomous tools handle more onchain actions and digital assets.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Scaling next generation AI is making it riskier, not better</title>
-      <link>https://cointelegraph.com/news/scaling-ai-makes-riskier?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/scaling-ai-makes-riskier?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 11 Mar 2026 12:30:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Scaling next generation AI is making it riskier, not better&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzMyNzAtZmFiOS03ZjhmLTk5NTUtYmYwMzg5NWE4NDZmLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;AI scaling drains trillions in energy while amplifying errors. Neurosymbolic reasoning and decentralized cognitive systems deliver reliable intelligence without ...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Wells Fargo files WFUSD trademark for crypto payments and trading</title>
-      <link>https://cointelegraph.com/news/wells-fargo-files-trademark-crypto-trading-payments-wfusd?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/wells-fargo-files-trademark-crypto-trading-payments-wfusd?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 11 Mar 2026 12:12:15 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Wells Fargo files WFUSD trademark for crypto payments and trading&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RjYmYtZWEyNy03YzAyLWIwMTYtOWQ3MDhkZGI1YmRlLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The US banking giant seeks trademark protection for “WFUSD,” covering crypto trading, payments, staking software and blockchain-based financial services.&lt;/...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Apple Pay and Google Pay funded by crypto, can we talk about how underrated this actually is</title>
+      <link>https://www.reddit.com/r/web3/comments/1rqngfh/apple_pay_and_google_pay_funded_by_crypto_can_we/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1rqngfh/apple_pay_and_google_pay_funded_by_crypto_can_we/</guid>
+      <pubDate>2026-03-11T07:46:59+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I feel like this doesn't get nearly enough attention in the crypto space relative to how big a deal it actually is. Everyone's talking about layer 2 scaling, ETF inflows, the next halving cycle and meanwhile there's a genuinely functional way to spend crypto using the wallet app already on your phone that most people either don't know about or have written off as complicated.&lt;/p&gt; &lt;p&gt;Here's how it actually works for anyone who's confused. There's a virtual card t...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -174,15 +194,14 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>UK Government’s Fraud Strategy Paints Crypto as ‘Growing Risk’</title>
-      <link>https://decrypt.co/360548/uk-governments-fraud-strategy-paints-crypto-as-growing-risk</link>
-      <guid>https://decrypt.co/360548/uk-governments-fraud-strategy-paints-crypto-as-growing-risk</guid>
-      <pubDate>Tue, 10 Mar 2026 12:07:44 +0000</pubDate>
-      <description>Blockchain analysis firm Chainalysis argued that crypto’s transparency creates a “powerful flywheel” of fraud disruption.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Looking for resources to learn User Growth for DWeb / Web3 projects</title>
+      <link>https://www.reddit.com/r/web3/comments/1rprgut/looking_for_resources_to_learn_user_growth_for/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1rprgut/looking_for_resources_to_learn_user_growth_for/</guid>
+      <pubDate>2026-03-10T08:36:27+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I’m new to the decentralized web space and want to learn &lt;strong&gt;user growth for DWeb and Web3 applications&lt;/strong&gt;—things like user acquisition, retention, and growth strategies for decentralized projects.&lt;/p&gt; &lt;p&gt;I’m not here to promote anything. I just want to study the real, technical/practical side of growing genuine user bases for Web3, not superficial marketing.&lt;/p&gt; &lt;p&gt;If you have any recommended articles, tools, frameworks, or persona...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -194,6 +213,29 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Web3 tipping: practical or overhyped?</title>
+      <link>https://www.reddit.com/r/web3/comments/1roprqv/web3_tipping_practical_or_overhyped/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1roprqv/web3_tipping_practical_or_overhyped/</guid>
+      <pubDate>2026-03-09T03:47:26+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Web3 community, are crypto donations for creators becoming mainstream? I’m seeing more discussion around global donations and creator monetization via blockchain.&lt;/p&gt; &lt;p&gt;is Web3 tipping delivering measurable streamers’ support??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Quick_Hold4556&quot;&gt; /u/Quick_Hold4556 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1roprqv/web3_tipping_practical_or_overhyped/&quot;&gt;[li...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPIP-0499: Updating IPFS Standards for Consistent, Reproducible CIDs</title>
+      <link>https://blog.ipfs.tech/2026-03-reproducible-cids/</link>
+      <guid>https://blog.ipfs.tech/2026-03-reproducible-cids/</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+      <description>IPIP-0499 makes IPFS CIDs deterministic and consistent across all implementations.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -296,17 +338,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>A 1970s cybernetic governance experiment predicted some of the problems modern DAOs face</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rlbaqn/a_1970s_cybernetic_governance_experiment/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rlbaqn/a_1970s_cybernetic_governance_experiment/</guid>
-      <pubDate>2026-03-05T07:30:51+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In the early 1970s Chile attempted something that feels strangely similar to what many DAO builders are exploring today.&lt;/p&gt; &lt;p&gt;It was called Project Cybersyn.&lt;/p&gt; &lt;p&gt;The idea was to run parts of the economy using cybernetics and real-time feedback systems rather than slow bureaucratic planning.&lt;/p&gt; &lt;p&gt;Factories across the country sent daily production data through a network of telex machines to a central system in Santiago. Statistical models monitored the data...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>The most powerful tier in CooBook isn't the rarest one. It's the one with 25,000 seats.</title>
       <link>https://www.reddit.com/r/NFT/comments/1rktsar/the_most_powerful_tier_in_coobook_isnt_the_rarest/</link>
       <guid>https://www.reddit.com/r/NFT/comments/1rktsar/the_most_powerful_tier_in_coobook_isnt_the_rarest/</guid>
@@ -323,28 +354,6 @@
       <guid>https://www.reddit.com/r/web3/comments/1rkswyg/layer_2_scaling_solutions_ranked_by_growth_rate/</guid>
       <pubDate>2026-03-04T18:14:02+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Remember when vitalik first started talking about a rollup centric roadmap for ethereum and most people dismissed it as years away? We're already living in that future and the pace is accelerating in ways that have serious investment implications. Counted over 200 active rollups on ethereum as of this month. Two years ago that number was maybe 15 to 20 and it's not just the big names everyone knows about. There are specialized chains for gaming studios, defi pro...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>I think I finally understood why Web3 still feels broken and why I decided to build instead of wait</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rkij7q/i_think_i_finally_understood_why_web3_still_feels/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rkij7q/i_think_i_finally_understood_why_web3_still_feels/</guid>
-      <pubDate>2026-03-04T11:00:51+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been in Web3 for years, and honestly, something always felt… off&lt;/p&gt; &lt;p&gt;Everyone talks about decentralization, freedom, trustless systems, but every time I actually &lt;em&gt;use&lt;/em&gt; Web3, I open Chrome, go to a .com website, connect a wallet extension, hope the RPC works, hope the frontend isn’t compromised, and pretend this is the future of the internet&lt;/p&gt; &lt;p&gt;At some point I realized: we didn’t build Web3&lt;br /&gt; We built Web3 on top of Web2 permission layers&lt;/...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Q day is fast approaching, blockchain might not make it</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1rkhz49/q_day_is_fast_approaching_blockchain_might_not/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1rkhz49/q_day_is_fast_approaching_blockchain_might_not/</guid>
-      <pubDate>2026-03-04T10:27:33+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Quantum threat is closing in fast. &lt;/p&gt; &lt;p&gt;I’ve been thinking about it a lot lately, especially with how fast the narrative shifts from we’re decades away to crypto is doomed. The truth, like always, is somewhere in the middle.&lt;/p&gt; &lt;p&gt;The quantum threat isn’t about someone waking up tomorrow and draining every wallet. It’s about math. Bitcoin and most major chains rely on elliptic curve cryptography. If large scale, fault tolerant quantum computers become viable...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -456,17 +465,6 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1rewv3h/kubo_v0400/</guid>
       <pubDate>2026-02-26T01:40:29+00:00</pubDate>
       <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1rewv3h/kubo_v0400/&quot;&gt; &lt;img alt=&quot;Kubo v0.40.0&quot; src=&quot;https://external-preview.redd.it/QkWS4QKjiEHivpzmUCvL_jfflEbowFzMPeMfXXUDqf8.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b327a7ae84312203ae103d54c73cf830c2ef64f1&quot; title=&quot;Kubo v0.40.0&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;🔢 IPIP-499: CID Profiles for reproducible imports&lt;/p&gt; &lt;p&gt;🔀 IPIP-523 + IPIP-524: Gateway format handling&lt;/p&gt; &lt;p&gt;🧹 Flatfs auto-cleans interrupted...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Tried adding web3 gaming infrastructure to my app and wallet UX destroyed everything</title>
-      <link>https://www.reddit.com/r/web3/comments/1refvbm/tried_adding_web3_gaming_infrastructure_to_my_app/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1refvbm/tried_adding_web3_gaming_infrastructure_to_my_app/</guid>
-      <pubDate>2026-02-25T15:13:22+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built a productivity app with about 80k active users and wanted to add blockchain features for token rewards and giving users ownership. Seemed straightforward. It was not. Turns out asking normal people to use crypto wallets is... not cool at all.&lt;/p&gt; &lt;p&gt;My users aren't crypto people. They track their habits and want the app to just work so when I added a feature that required them to download metamask, write down a seed phrase, buy ETH for gas, sign transactio...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -605,11 +603,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Where to Learn web3 Security?</title>
-      <link>https://www.reddit.com/r/web3/comments/1r3g7gh/where_to_learn_web3_security/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1r3g7gh/where_to_learn_web3_security/</guid>
-      <pubDate>2026-02-13T04:59:13+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As the title says i want to learn web3 security for bug bounty program can anyone give me links, resources or any path from where i should check and learn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Cucumber_Feeling&quot;&gt; /u/Cucumber_Feeling &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1r3g7gh/where_to_learn_web3_security/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1...</description>
+      <title>Blog post on IPFS + Fipsy: decentral IPNS key discovery</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1r28m5u/blog_post_on_ipfs_fipsy_decentral_ipns_key/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1r28m5u/blog_post_on_ipfs_fipsy_decentral_ipns_key/</guid>
+      <pubDate>2026-02-11T20:28:07+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just got my hands dirty with IPFS and wrote up an intro blog post ipns://k2k4r8nrj3ghk8ymc70o9vvkzusiyncbmflw85ctv3j1ktrhddwh7nvu / &lt;a href=&quot;https://seanpedersen.github.io/posts/ipfs/&quot;&gt;https://seanpedersen.github.io/posts/ipfs/&lt;/a&gt; - check it out!&lt;/p&gt; &lt;p&gt;Also I wrote &lt;a href=&quot;https://github.com/SeanPedersen/fipsy&quot;&gt;https://github.com/SeanPedersen/fipsy&lt;/a&gt; a CLI tool using IPFS to share and discover content decentralized:&lt;/p&gt; &lt;p&gt;Fipsy defines the content of your ...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
