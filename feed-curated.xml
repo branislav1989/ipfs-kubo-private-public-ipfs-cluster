@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 03:34:50 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,10 +59,22 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat</title>
+      <link>https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum</link>
+      <guid>https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum</guid>
+      <pubDate>Thu, 02 Apr 2026 23:00:05 +0000</pubDate>
+      <description>Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 01 Apr 2026 20:37:31 +0100</pubDate>
+      <pubDate>Thu, 02 Apr 2026 22:47:20 +0100</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -71,11 +83,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Drift Protocol warns users to pause deposits amid 'unusual' trading activity</title>
-      <link>https://cointelegraph.com/news/drift-protocol-pause-deposit-unusual-activity?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/drift-protocol-pause-deposit-unusual-activity?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 01 Apr 2026 19:42:50 +0100</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Drift Protocol warns users to pause deposits amid 'unusual' trading activity&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhNTItMmZmNS03YTUyLWIwYTUtODJlODMxN2JhNWIyLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The reported incident could be a $200 million exploit of the decentralized crypto exchange due to a leak of a crypto wallet private key.&lt;/p&gt;</description>
+      <title>Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security</title>
+      <link>https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security</link>
+      <guid>https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security</guid>
+      <pubDate>Thu, 02 Apr 2026 19:04:39 +0000</pubDate>
+      <description>A blockchain security expert compared Drift’s lapse in security to Ethereum network Ronin's $625 million loss in 2022.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -83,11 +95,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Naoris launches post-quantum blockchain as quantum security risks gain attention</title>
-      <link>https://cointelegraph.com/news/naoris-post-quantum-blockchain-quantum-security-risks-gain-attention?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/naoris-post-quantum-blockchain-quantum-security-risks-gain-attention?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 01 Apr 2026 18:12:33 +0100</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Naoris launches post-quantum blockchain as quantum security risks gain attention&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDQ5ZDEtNDA2MS03MDYzLWIyODctNWZhM2VjMDU0ZmE5LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Naoris Protocol has launched a post-quantum layer-1 blockchain designed to protect transactions against future cryptographic vulnerabilities...</description>
+      <title>Lise to host tokenized IPO for French defense supplier ST Group</title>
+      <link>https://cointelegraph.com/news/lise-host-tokenized-ipo-french-defense-supplier-st-group?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/lise-host-tokenized-ipo-french-defense-supplier-st-group?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 02 Apr 2026 15:36:28 +0100</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Lise to host tokenized IPO for French defense supplier ST Group&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRlNjYtY2RhNi03ZWI0LWFiOWYtN2E1NWNmZmI0OTkyLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;French blockchain-based stock exchange Lise plans to host what it describes as a fully onchain IPO for ST Group.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -100,18 +112,6 @@
       <guid>https://decrypt.co/362977/crypto-startup-polymarket-bet-fundraise-blindsiding-backers</guid>
       <pubDate>Tue, 31 Mar 2026 21:07:24 +0000</pubDate>
       <description>P2P.me was established to push boundaries, but the startup admitted that wagering on itself via Polymarket may have been a bridge too far.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Uniblock Raises $5.2M to Unify Blockchain Infrastructure</title>
-      <link>https://decrypt.co/362842/uniblock-raises-5-2m-to-unify-blockchain-infrastructure</link>
-      <guid>https://decrypt.co/362842/uniblock-raises-5-2m-to-unify-blockchain-infrastructure</guid>
-      <pubDate>Tue, 31 Mar 2026 13:01:04 +0000</pubDate>
-      <description>The platform handles routing and failover for 3,000 projects across more than 300 chains through a single API.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
