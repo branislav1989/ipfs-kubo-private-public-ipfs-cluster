@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 03:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 03:47:20 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,7 +62,7 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 04 Apr 2026 22:41:18 +0100</pubDate>
+      <pubDate>Sun, 05 Apr 2026 22:46:22 +0100</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -71,23 +71,33 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>Friendica – A Decentralized Social Network</title>
+      <link>https://friendi.ca/</link>
+      <guid>https://friendi.ca/</guid>
+      <pubDate>Sun, 05 Apr 2026 10:41:06 +0000</pubDate>
+      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=47648048&quot;&gt;Comments&lt;/a&gt;</description>
+      <category>distributed systems</category>
+      <category>decentralization</category>
+      <category>cryptography</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>A Bitcoin wallet lives on a music album cover</title>
+      <link>https://www.reddit.com/r/NFT/comments/1scedfg/a_bitcoin_wallet_lives_on_a_music_album_cover/</link>
+      <guid>https://www.reddit.com/r/NFT/comments/1scedfg/a_bitcoin_wallet_lives_on_a_music_album_cover/</guid>
+      <pubDate>2026-04-04T16:55:57+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;“Protowaves - Decentralized P2P Network ビットコイン Systems Corp. – The Bitcoin Album.”&lt;br /&gt; I stumbled upon this music album recently, and apparently the artist managed to sneak a Bitcoin wallet into the cover art. Isn’t that illegal? 🤔&lt;/p&gt; &lt;p&gt;I always thought personal info—phones, emails, accounts—was strictly prohibited from being shared like this. They seem to have bypassed every barrier, because it’s on all stores and platforms.&lt;/p&gt; &lt;p&gt;Has anyone ever seen some...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Decentralized Email Service Dmail to Shut Down, Token Hits New Low</title>
       <link>https://decrypt.co/363289/decentralized-email-service-dmail-shut-down-token-new-low</link>
       <guid>https://decrypt.co/363289/decentralized-email-service-dmail-shut-down-token-new-low</guid>
       <pubDate>Fri, 03 Apr 2026 17:28:08 +0000</pubDate>
       <description>Dmail’s team said it struggled with infrastructure costs and failed monetization attempts despite five years of development.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Decentralized email platform Dmail to cease services on May 15</title>
-      <link>https://cointelegraph.com/news/dmail-network-shutdown-decentralized-email-costs-funding-failure?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/dmail-network-shutdown-decentralized-email-costs-funding-failure?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 03 Apr 2026 14:05:35 +0100</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Decentralized email platform Dmail to cease services on May 15&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwYjQtMWFkNC03ODYxLTllZTgtYTJlOTk0YjgwNjJi.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Dmail Network will shut down on May 15 after citing high infrastructure costs, failed fundraising and weak token utility.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -116,6 +126,39 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Why the UAE’s &quot;Trapped Equity&quot; is the next major Frontier for Real World Assets (RWA)</title>
+      <link>https://www.reddit.com/r/NFT/comments/1sabuib/why_the_uaes_trapped_equity_is_the_next_major/</link>
+      <guid>https://www.reddit.com/r/NFT/comments/1sabuib/why_the_uaes_trapped_equity_is_the_next_major/</guid>
+      <pubDate>2026-04-02T08:42:52+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I wrote a deep dive analysis on LinkedIn that identifies a massive structural inefficiency in the Abu Dhabi prestige market.&lt;/p&gt; &lt;p&gt;Most global funds are entering the UAE to raise capital, but they are ignoring a Billion asset class sitting in plain sight: &lt;strong&gt;Prestige License Plates.&lt;/strong&gt; In the Emirates, these aren't just automotive accessories; they are the equivalent of high-end Fine Art, where individuals park millions in capital.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Hey there!!! I need to know, has the number of Web3 projects decreased due to the war?</title>
+      <link>https://www.reddit.com/r/NFT/comments/1s7r59o/hey_there_i_need_to_know_has_the_number_of_web3/</link>
+      <guid>https://www.reddit.com/r/NFT/comments/1s7r59o/hey_there_i_need_to_know_has_the_number_of_web3/</guid>
+      <pubDate>2026-03-30T13:50:19+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I wanted to know whether the ongoing wars have affected the Web3 industry. Has the number of new Web3 projects decreased because of it, or are projects still launching as usual? Also curious to know if this situation has impacted funding or development timelines.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Ok-Narwhal2433&quot;&gt; /u/Ok-Narwhal2433 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/NFT/comments/1s7r59o/hey_the...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>JokeVip Why so Famous? — 3,690 hand-drawn JokeVipized icons. JokeVip N°12 is live.</title>
+      <link>https://www.reddit.com/r/NFT/comments/1ryqxr8/jokevip_why_so_famous_3690_handdrawn_jokevipized/</link>
+      <guid>https://www.reddit.com/r/NFT/comments/1ryqxr8/jokevip_why_so_famous_3690_handdrawn_jokevipized/</guid>
+      <pubDate>2026-03-20T08:43:05+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/NFT/comments/1ryqxr8/jokevip_why_so_famous_3690_handdrawn_jokevipized/&quot;&gt; &lt;img alt=&quot;JokeVip Why so Famous? — 3,690 hand-drawn JokeVipized icons. JokeVip N°12 is live.&quot; src=&quot;https://preview.redd.it/mezgucbgx5qg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0cb3978a110f629a16749397f9ff4c551aeef724&quot; title=&quot;JokeVip Why so Famous? — 3,690 hand-drawn JokeVipized icons. JokeVip N°12 is live.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;They...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -606,54 +649,6 @@ RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formall
       <guid>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</guid>
       <pubDate>Wed, 07 Mar 2018 17:54:33 GMT</pubDate>
       <description>We’re excited to share the results of the first wave of grants from the Ethereum Foundation.  As a reminder, the Ethereum project seeks to support useful dapps and smart contracts on the Ethereum blockchain, and the goal of the Ethereum Foundation is to empower developers with best-in-class R&amp;amp;D, developer...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum scalability research and development subsidy programs</title>
-      <link>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</link>
-      <guid>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</guid>
-      <pubDate>Tue, 02 Jan 2018 17:42:21 GMT</pubDate>
-      <description>The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Q4 Roundup</title>
-      <link>https://blog.ethereum.org/en/2018/01/02/q4-roundup</link>
-      <guid>https://blog.ethereum.org/en/2018/01/02/q4-roundup</guid>
-      <pubDate>Tue, 02 Jan 2018 15:27:18 GMT</pubDate>
-      <description>Ethereum has grown very rapidly in the last few months. Transaction volume on the blockchain has more than doubled, surpassing 10 transactions per second for days at a time. The number of new accounts created per day passed 100,000&lt;span style=&quot;font-w...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum JS Ecosystem Updates</title>
-      <link>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</link>
-      <guid>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</guid>
-      <pubDate>Tue, 21 Mar 2017 03:11:39 GMT</pubDate>
-      <description>It's been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay's excellent write up here.  Also, during this time Aaron Davis (Kumavis) made s...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>An Update on Integrating Zcash on Ethereum (ZoE)</title>
-      <link>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</link>
-      <guid>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</guid>
-      <pubDate>Thu, 19 Jan 2017 17:57:54 GMT</pubDate>
-      <description>Members of the Ethereum R&amp;amp;D team and the Zcash Company are collaborating on a research project addressing the combination of programmability and privacy in blockchains. This joint post is being concurrently posted on the Zcash blog, and is coauthored by Ariel Gabizon (Zcash) and Christian Reitwiessner (Ethereum).  Ethereum’s flexible smart...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
