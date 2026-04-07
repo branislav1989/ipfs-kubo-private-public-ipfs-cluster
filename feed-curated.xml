@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 03:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:38:18 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,7 +62,7 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sun, 05 Apr 2026 22:46:22 +0100</pubDate>
+      <pubDate>Mon, 06 Apr 2026 22:51:42 +0100</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -71,22 +71,128 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Friendica – A Decentralized Social Network</title>
-      <link>https://friendi.ca/</link>
-      <guid>https://friendi.ca/</guid>
-      <pubDate>Sun, 05 Apr 2026 10:41:06 +0000</pubDate>
-      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=47648048&quot;&gt;Comments&lt;/a&gt;</description>
-      <category>distributed systems</category>
-      <category>decentralization</category>
-      <category>cryptography</category>
+      <title>JPMorgan's Jamie Dimon sees ‘new competitors’ from blockchain,  stablecoins</title>
+      <link>https://cointelegraph.com/news/jpmorgan-dimon-blockchain-competitors-kinexys-ai?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/jpmorgan-dimon-blockchain-competitors-kinexys-ai?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 06 Apr 2026 19:48:29 +0100</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;JPMorgan's Jamie Dimon sees ‘new competitors’ from blockchain,  stablecoins&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDYzYjEtYWEyMy03MTY0LTgwMDAtZTRjMjliZDk4NTYyLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The CEO's annual shareholder letter warned that new tech is reshaping finance, with tokenization and blockchain competitors gaining as the bank s...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>A Bitcoin wallet lives on a music album cover</title>
-      <link>https://www.reddit.com/r/NFT/comments/1scedfg/a_bitcoin_wallet_lives_on_a_music_album_cover/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1scedfg/a_bitcoin_wallet_lives_on_a_music_album_cover/</guid>
-      <pubDate>2026-04-04T16:55:57+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;“Protowaves - Decentralized P2P Network ビットコイン Systems Corp. – The Bitcoin Album.”&lt;br /&gt; I stumbled upon this music album recently, and apparently the artist managed to sneak a Bitcoin wallet into the cover art. Isn’t that illegal? 🤔&lt;/p&gt; &lt;p&gt;I always thought personal info—phones, emails, accounts—was strictly prohibited from being shared like this. They seem to have bypassed every barrier, because it’s on all stores and platforms.&lt;/p&gt; &lt;p&gt;Has anyone ever seen some...</description>
+      <title>Need of opinions for using crypto in payroll</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1se4czi/need_of_opinions_for_using_crypto_in_payroll/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1se4czi/need_of_opinions_for_using_crypto_in_payroll/</guid>
+      <pubDate>2026-04-06T16:50:19+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Take me back down to earth for a second, I need honest feedback.&lt;/p&gt; &lt;p&gt;I built a blockchain-based payroll tool. It’s completely free and (almost) tax compliant, but I’m struggling to get any traction.&lt;/p&gt; &lt;p&gt;I know companies like Coinbase pay employees in crypto, but do you realistically see other companies following that path anytime soon? Or is fiat payroll just too deeply ingrained?&lt;/p&gt; &lt;p&gt;Would love blunt opinions, whether this has real potential or if I’m ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Circle’s Arc Network Reveals Quantum Resistance Plans as Bitcoin, Ethereum Face Threat</title>
+      <link>https://decrypt.co/363395/circle-arc-network-quantum-resistance-bitcoin-ethereum-face-threat</link>
+      <guid>https://decrypt.co/363395/circle-arc-network-quantum-resistance-bitcoin-ethereum-face-threat</guid>
+      <pubDate>Mon, 06 Apr 2026 15:44:55 +0000</pubDate>
+      <description>Circle’s upcoming Arc blockchain is gearing up for quantum resilience, revealing a multi-step roadmap to prepare for the looming threat.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>China Orders Jack Dorsey's Bitchat Pulled from Apple App Store</title>
+      <link>https://decrypt.co/363367/china-orders-jack-dorseys-bitchat-pulled-from-apple-app-store</link>
+      <guid>https://decrypt.co/363367/china-orders-jack-dorseys-bitchat-pulled-from-apple-app-store</guid>
+      <pubDate>Mon, 06 Apr 2026 11:42:00 +0000</pubDate>
+      <description>The decentralized peer-to-peer messaging app has been used by protestors in countries including Nepal, Madagascar and Iran.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>China's tax authority urges banks to implement blockchain for lending services</title>
+      <link>https://cointelegraph.com/news/china-tax-authority-banks-implement-blockchain-lending?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/china-tax-authority-banks-implement-blockchain-lending?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 06 Apr 2026 11:10:35 +0100</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;China's tax authority urges banks to implement blockchain for lending services&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDYxZmQtNThmYy03MTQ1LWI2MWEtZmJlMWI0NzAxMmQ0LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;China’s leading tax and financial authorities are urging banks to incorporate blockchain technology to bolster their credit facilities and dat...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>ELI5: Cross-chain swap aggregators. Most explanations overcomplicate this.</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1sdrp27/eli5_crosschain_swap_aggregators_most/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1sdrp27/eli5_crosschain_swap_aggregators_most/</guid>
+      <pubDate>2026-04-06T07:06:14+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I see people use &amp;quot;bridge,&amp;quot; &amp;quot;aggregator,&amp;quot; and &amp;quot;DEX&amp;quot; interchangeably and they're actually pretty different things. Quick breakdown:&lt;/p&gt; &lt;p&gt;Bridge: Moves tokens from one blockchain to another. That's it. Usually does one thing.&lt;/p&gt; &lt;p&gt;DEX: Lets you swap tokens within the same chain. Uniswap, Curve, etc.&lt;/p&gt; &lt;p&gt;Aggregator:Checks multiple bridges and DEXs simultaneously and picks the route that gets you the best rate. So instead of manua...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Circle unveils quantum-resistant roadmap for its layer-1 blockchain Arc</title>
+      <link>https://cointelegraph.com/news/circle-quantum-proof-roadmap-layer-1-arc?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/circle-quantum-proof-roadmap-layer-1-arc?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 06 Apr 2026 07:09:38 +0100</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Circle unveils quantum-resistant roadmap for its layer-1 blockchain Arc&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDYwZjUtMDE3Mi03NDYzLTg0MjctMTg4YjljYjRlYzc4LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Circle’s plan to make Arc quantum-resistant comes amid increasing fears that &quot;Q-Day&quot; may come sooner than anticipated.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>North Korean workers have been infiltrating DeFi for 7 years: Researcher</title>
+      <link>https://cointelegraph.com/news/dprk-workers-have-worked-on-countless-protocols-since-defi-summer-cybersec-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/dprk-workers-have-worked-on-countless-protocols-since-defi-summer-cybersec-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 06 Apr 2026 07:04:46 +0100</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;North Korean workers have been infiltrating DeFi for 7 years: Researcher&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDYxMDYtZTU3Ny03YjAxLWI1ZWQtYmU0NmM4YTVjNmI5LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Security researcher Taylor Monahan listed at least 40 decentralized finance platforms she claims have been infiltrated by North Korean IT workers at...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Rwanda swats Bybit’s P2P platform offering franc-to-crypto trading</title>
+      <link>https://cointelegraph.com/news/rwanda-swats-bybit-p2p-platform-offering-franc-to-crypto-trading?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/rwanda-swats-bybit-p2p-platform-offering-franc-to-crypto-trading?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 06 Apr 2026 04:06:34 +0100</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Rwanda swats Bybit’s P2P platform offering franc-to-crypto trading&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzc2MTEtMWE0NC03OTQzLThmYTQtYzJhMmY5YjI5MTc2LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The Rwanda central bank's warning came after Bybit added the Rwandan franc to its list of assets that its peer-to-peer platform can use to trade for crypt...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Have Bitcoin and Altcoin lost that idea of practical decentralisation</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1scwsj8/have_bitcoin_and_altcoin_lost_that_idea_of/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1scwsj8/have_bitcoin_and_altcoin_lost_that_idea_of/</guid>
+      <pubDate>2026-04-05T06:54:23+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If we really follow this line of thought, Bitcoin has slowly lost much of its original relationship with cypherpunks and laptop miners. That is not a criticism of its success. A system at trillion-dollar scale is solving a very different problem now. But it does change the kind of participation the system permits in practice.&lt;/p&gt; &lt;p&gt;On the altcoin side, a different problem has emerged: &lt;strong&gt;trust and sameness&lt;/strong&gt;. Many projects now look structurally iden...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Open-sourcing a constitutional governance framework for decentralized AI training: on-chain verification, staking, and alignment pricing</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1sbq732/opensourcing_a_constitutional_governance/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1sbq732/opensourcing_a_constitutional_governance/</guid>
+      <pubDate>2026-04-03T21:20:06+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We're open-sourcing Autonet on April 6, a framework for decentralized AI model training and inference where verification, rewards, and governance happen on-chain.&lt;/p&gt; &lt;p&gt;The core thesis: alignment is an economic coordination problem, not a constraint problem. Instead of defining &amp;quot;aligned&amp;quot; centrally and baking it into models, the protocol lets communities publish their own values as semantic embeddings, and the network prices operations based on alignme...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -102,6 +208,17 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>CryptEX: A C++ SHA3-512 Proof-of-Work System with Per-Block Adaptive Difficulty for Hash-Rate Volatility</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1sb95mm/cryptex_a_c_sha3512_proofofwork_system_with/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1sb95mm/cryptex_a_c_sha3512_proofofwork_system_with/</guid>
+      <pubDate>2026-04-03T09:48:32+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been working on a personal project called &lt;strong&gt;CryptEX&lt;/strong&gt;, where I implemented a full proof-of-work cryptocurrency system from scratch in C++.&lt;/p&gt; &lt;p&gt;This isn’t a token or a fork — it’s a ground-up implementation focused on how proof-of-work networks behave under unstable hash-rate conditions.&lt;/p&gt; &lt;p&gt;Instead of using fixed retarget intervals like Bitcoin (every 2016 blocks), this system adjusts difficulty per block using a hybrid model.&lt;/p&gt; &lt;p&gt;Key ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -129,33 +246,77 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Why the UAE’s &quot;Trapped Equity&quot; is the next major Frontier for Real World Assets (RWA)</title>
-      <link>https://www.reddit.com/r/NFT/comments/1sabuib/why_the_uaes_trapped_equity_is_the_next_major/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1sabuib/why_the_uaes_trapped_equity_is_the_next_major/</guid>
-      <pubDate>2026-04-02T08:42:52+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I wrote a deep dive analysis on LinkedIn that identifies a massive structural inefficiency in the Abu Dhabi prestige market.&lt;/p&gt; &lt;p&gt;Most global funds are entering the UAE to raise capital, but they are ignoring a Billion asset class sitting in plain sight: &lt;strong&gt;Prestige License Plates.&lt;/strong&gt; In the Emirates, these aren't just automotive accessories; they are the equivalent of high-end Fine Art, where individuals park millions in capital.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The...</description>
+      <title>Executive Summary — Neutralising the Advantage of Parallel Mining and Sybil Identities From Blockchain (Proof-of-Work Focused)</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1sags1u/executive_summary_neutralising_the_advantage_of/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1sags1u/executive_summary_neutralising_the_advantage_of/</guid>
+      <pubDate>2026-04-02T13:02:08+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;Project&lt;/strong&gt; — &lt;a href=&quot;/r/GrahamBell&quot;&gt;r/GrahamBell&lt;/a&gt; &lt;/p&gt; &lt;p&gt;Most Proof-of-Work systems reward parallelism. More hardware = more influence.&lt;/p&gt; &lt;p&gt;Proof-of-Stake systems reward capital concentration. More tokens = more influence.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This paper introduces a third model:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Influence scales only linearly with admitted subnet participation share and time under a fixed global issuance cap. Proof of Endurance (PoEnd), Proof of ...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Hey there!!! I need to know, has the number of Web3 projects decreased due to the war?</title>
-      <link>https://www.reddit.com/r/NFT/comments/1s7r59o/hey_there_i_need_to_know_has_the_number_of_web3/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1s7r59o/hey_there_i_need_to_know_has_the_number_of_web3/</guid>
-      <pubDate>2026-03-30T13:50:19+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I wanted to know whether the ongoing wars have affected the Web3 industry. Has the number of new Web3 projects decreased because of it, or are projects still launching as usual? Also curious to know if this situation has impacted funding or development timelines.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Ok-Narwhal2433&quot;&gt; /u/Ok-Narwhal2433 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/NFT/comments/1s7r59o/hey_the...</description>
+      <title>Building an Blockchain with native Coin with AI?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1sadbvm/building_an_blockchain_with_native_coin_with_ai/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1sadbvm/building_an_blockchain_with_native_coin_with_ai/</guid>
+      <pubDate>2026-04-02T10:11:28+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;is it ​possible to create an own Blockchain​ with Coin using AI for example Claude Code or Gemini CLI If I cant really ​Code myself? I would probably use Geth and just adjust it and Supplement IT with the Things that i need for ​my own Coin. For example a ​wallet and Web Shop.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Updowntheories&quot;&gt; /u/Updowntheories &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoTechnolo...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>JokeVip Why so Famous? — 3,690 hand-drawn JokeVipized icons. JokeVip N°12 is live.</title>
-      <link>https://www.reddit.com/r/NFT/comments/1ryqxr8/jokevip_why_so_famous_3690_handdrawn_jokevipized/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1ryqxr8/jokevip_why_so_famous_3690_handdrawn_jokevipized/</guid>
-      <pubDate>2026-03-20T08:43:05+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/NFT/comments/1ryqxr8/jokevip_why_so_famous_3690_handdrawn_jokevipized/&quot;&gt; &lt;img alt=&quot;JokeVip Why so Famous? — 3,690 hand-drawn JokeVipized icons. JokeVip N°12 is live.&quot; src=&quot;https://preview.redd.it/mezgucbgx5qg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0cb3978a110f629a16749397f9ff4c551aeef724&quot; title=&quot;JokeVip Why so Famous? — 3,690 hand-drawn JokeVipized icons. JokeVip N°12 is live.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;They...</description>
+      <title>Why is there no primitive for verified off-chain data?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1s9c3oy/why_is_there_no_primitive_for_verified_offchain/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1s9c3oy/why_is_there_no_primitive_for_verified_offchain/</guid>
+      <pubDate>2026-04-01T05:58:31+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Oracles solved the problem of getting market data on-chain. Price feeds, weather data, sports results -- we have well established infrastructure for that.&lt;/p&gt; &lt;p&gt;But there's no equivalent for human data.&lt;/p&gt; &lt;p&gt;There's no way for a person to prove a fact about themselves on-chain without either doxxing themselves completely or trusting a centralised intermediary that becomes a single point of failure.&lt;/p&gt; &lt;p&gt;Think about what that actually blocks:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;In...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum frontier era (2015): researchers are cracking 10-year-old contracts byte-for-byte</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1s87ogr/ethereum_frontier_era_2015_researchers_are/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1s87ogr/ethereum_frontier_era_2015_researchers_are/</guid>
+      <pubDate>2026-03-31T00:00:29+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In the early months of Ethereum (mid-2015), developers were writing contracts in pre-release Solidity before stable versions, before ERC-20, before any of the tooling we take for granted today.&lt;/p&gt; &lt;p&gt;Some of those contracts have sat on-chain, unverified, for a decade. No source code. Just bytecode.&lt;/p&gt; &lt;p&gt;A team has been doing archaeological bytecode cracking: reconstructing the original Solidity source by finding exact compiler versions, optimizer settings, an...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>the release</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1s6v111/the_release/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1s6v111/the_release/</guid>
+      <pubDate>2026-03-29T13:25:04+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, I’ve been working on a new decentralized transaction-confirmation mechanism that removes the need for miners, validators, PoW, and PoS entirely. I am releasing the whitepaper publicly for open discussion and early feedback. Whitepaper (v1.1 PDF): &lt;a href=&quot;https://drive.google.com/file/d/1E3h5kKI1qkf0mVVXDk_hhaKyorBewdAN/view?usp=drivesdk&quot;&gt;https://drive.google.com/file/d/1E3h5kKI1qkf0mVVXDk_hhaKyorBewdAN/view?usp=drivesdk&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The original vers...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I made visual mind maps to understand Blockchain &amp; Web3”</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1s6py8k/i_made_visual_mind_maps_to_understand_blockchain/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1s6py8k/i_made_visual_mind_maps_to_understand_blockchain/</guid>
+      <pubDate>2026-03-29T08:47:58+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I created a collection of blockchain mind maps to make learning blockchain and Web3 easier.&lt;/p&gt; &lt;p&gt;When I was learning blockchain, most resources were long and confusing, so I started turning topics into visual mind maps like:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Blockchain basics&lt;/li&gt; &lt;li&gt;Web3&lt;/li&gt; &lt;li&gt;Crypto exchanges&lt;/li&gt; &lt;li&gt;DAOs&lt;/li&gt; &lt;li&gt;Blockchain for business&lt;/li&gt; &lt;li&gt;Security&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I put them all into one awesome list here:&lt;br /&gt; &lt;a href=&quot;https://github.com/ExMapo/aweso...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The first lottery ever deployed on a blockchain - cracking Ethereum day 3 bytecode</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1s1wbrj/the_first_lottery_ever_deployed_on_a_blockchain/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1s1wbrj/the_first_lottery_ever_deployed_on_a_blockchain/</guid>
+      <pubDate>2026-03-23T22:49:23+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Three days after Ethereum mainnet launched in August 2015, someone deployed what may be the first lottery contract in blockchain history.&lt;/p&gt; &lt;p&gt;The developer's first attempt self-destructed. Forty-two minutes later, they tried again.&lt;/p&gt; &lt;p&gt;We've been reverse-engineering the bytecode (no source code was ever published) and here's what we found:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The contract: 0x7af6af3d4491a161670837d0737bada43ffbb992&lt;/strong&gt; - Deployed: August 9, 2015 (block 56,...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -186,30 +347,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!</title>
-      <link>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</link>
-      <guid>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</guid>
-      <pubDate>Fri, 23 Jan 2026 16:40:55 +0000</pubDate>
-      <description>Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) led top movers. Ledger is preparing for a $4B IPO, enlisting Goldman Sachs, Jefferies and Barclays for support. Ripple CEO Brad Garlinghouse predicted crypto could hit new highs in 2026, pointing to regulatory momentum and institutional participation as key drivers. President Trump sued JPMorgan for $5 billion,...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!</title>
-      <link>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</link>
-      <guid>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</guid>
-      <pubDate>Thu, 22 Jan 2026 16:14:50 +0000</pubDate>
-      <description>Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers. Crypto markets saw more than $1B in liquidations as Bitcoin rebounded sharply after President Trump signaled a retreat from proposed tariff measures. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, signaling continued protocol-level experimentation...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Content-Addressing: A Year In Review</title>
       <link>https://blog.ipfs.tech/2026-01-year-in-review/</link>
       <guid>https://blog.ipfs.tech/2026-01-year-in-review/</guid>
@@ -222,56 +359,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Pump &amp; Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed</title>
-      <link>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</link>
-      <guid>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</guid>
-      <pubDate>Wed, 14 Jan 2026 16:01:53 +0000</pubDate>
-      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink</title>
-      <link>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</link>
-      <guid>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</guid>
-      <pubDate>Tue, 13 Jan 2026 18:12:27 +0000</pubDate>
-      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!</title>
-      <link>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</link>
-      <guid>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</guid>
-      <pubDate>Tue, 06 Jan 2026 18:16:42 +0000</pubDate>
-      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
-RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear &amp; Greed back to Neutral!</title>
-      <link>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</link>
-      <guid>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</guid>
-      <pubDate>Tue, 06 Jan 2026 16:13:32 +0000</pubDate>
-      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
-RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>How to Migrate IPFS Websites from Fleek to Modular Infrastructure</title>
       <link>https://blog.ipfs.tech/2026-fleek-migration/</link>
       <guid>https://blog.ipfs.tech/2026-fleek-migration/</guid>
@@ -281,6 +368,18 @@ RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formall
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Datahosting.company ipfs cryptocurency cloud storage ipfs kubo, ipfs cluster #ipfs #web3 #nft #p2p</title>
+      <link>https://www.youtube.com/shorts/B4XRhAT3wyw</link>
+      <guid>https://www.youtube.com/shorts/B4XRhAT3wyw</guid>
+      <pubDate>2026-01-02T17:06:21+00:00</pubDate>
+      <description/>
+      <category>DataHosting.Company</category>
+      <category>our content</category>
+      <category>original content</category>
+      <category>company updates</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -545,114 +644,6 @@ RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formall
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Run a Node Grants Round Grantee Announcement</title>
-      <link>https://blog.ethereum.org/en/2023/12/06/run-a-node-grantee</link>
-      <guid>https://blog.ethereum.org/en/2023/12/06/run-a-node-grantee</guid>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-      <description>The Run A Node Grants Round wanted to reach different users exploring blockchain, learning, community efforts, and research purposes. The aim of this round was to encourage the exploration of a diverse range of ideas for operating nodes beyond running a validator, such as facilitating data queries for research, examining...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Beyond Borders - Unveiling Potential of Blockchain in a Crisis</title>
-      <link>https://blog.ethereum.org/en/2023/11/15/beyond-borders-nb</link>
-      <guid>https://blog.ethereum.org/en/2023/11/15/beyond-borders-nb</guid>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
-      <description>Crisis is a cruel teacher. It can draw us together in our shared fragility, but paradoxically it can also distance us from our shared humanity. In times of great crisis, the institutions and structures of society that are supposed to protect and support us may become twisted, corrupted, or rendered...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Scouting for the Future: Technology and the Scouting Movement</title>
-      <link>https://blog.ethereum.org/en/2023/05/01/scouting-future-movement</link>
-      <guid>https://blog.ethereum.org/en/2023/05/01/scouting-future-movement</guid>
-      <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-      <description>Hello everyone! My name is Mihajlo, and over the past six months as part of my Next Billion Fellowship, I’ve been working to bring the benefits of Web3 to the World Scouting Movement.  Growing up in Serbia in the '90s, I experienced firsthand the devastating effects that wars and...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing Grants Round for Academic Research</title>
-      <link>https://blog.ethereum.org/en/2022/03/01/academic-grants-round</link>
-      <guid>https://blog.ethereum.org/en/2022/03/01/academic-grants-round</guid>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-      <description>We are excited to announce a new wave of grants to fund formal research that aims to create more knowledge about Ethereum, blockchain technology, and related domains. We encourage academics, research centers, PhD Students and all those interested in researching Ethereum to submit their project proposals. This grants round has...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing Grants for Advocacy Non-Profits</title>
-      <link>https://blog.ethereum.org/en/2021/11/16/advocacy-grants</link>
-      <guid>https://blog.ethereum.org/en/2021/11/16/advocacy-grants</guid>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-      <description>The Ethereum Foundation is allocating 1 million USD in grant funding to organizations that educate governments and policymakers about Ethereum and blockchain technology. We encourage others in the Ethereum community to support their important work....</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Core Developer Apprenticeship Program: The Second Cohort</title>
-      <link>https://blog.ethereum.org/en/2021/09/06/core-dev-apprenticeship-second-cohort</link>
-      <guid>https://blog.ethereum.org/en/2021/09/06/core-dev-apprenticeship-second-cohort</guid>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
-      <description>Does development of the core protocols that power the Ethereum blockchain excite you? Are you interested in getting involved at the most fundemental and technical levels of the Ethereum protocol?  I am excited to announce that we are now accepting applications for the second cohort of the Core Developer...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The 1.x Files: GHOST in the Stack Machine</title>
-      <link>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</link>
-      <guid>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</guid>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 GMT</pubDate>
-      <description>Ethereum can be simple enough to understand from a bird's-eye view: Decentralized applications powered by the same sort of crypto-economic guarantees that underpin Bitcoin. But once you've zoomed in to, say, a street-level view, things get complicated rapidly.  Even assuming one has a strong grasp on proof-of-work, it's not...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing World Trade Francs: The Official Ethereum Stablecoin</title>
-      <link>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</link>
-      <guid>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</guid>
-      <pubDate>Sun, 01 Apr 2018 15:35:26 GMT</pubDate>
-      <description>We have long recognized that in order for cryptocurrency to reach mass adoption, a form of cryptocurrency that has higher price stability than existing cryptocurrencies like BTC and ETH would be needed so that people can use the currency to store funds and engage in commerce without worrying about their...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing Beneficiaries of the Ethereum Foundation Grants</title>
-      <link>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</link>
-      <guid>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</guid>
-      <pubDate>Wed, 07 Mar 2018 17:54:33 GMT</pubDate>
-      <description>We’re excited to share the results of the first wave of grants from the Ethereum Foundation.  As a reminder, the Ethereum project seeks to support useful dapps and smart contracts on the Ethereum blockchain, and the goal of the Ethereum Foundation is to empower developers with best-in-class R&amp;amp;D, developer...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
   </channel>
