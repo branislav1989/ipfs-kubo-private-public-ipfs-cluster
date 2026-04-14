@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 03:49:47 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,15 +59,48 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Early automation or manual first in Web3 contract reviews?</title>
+      <link>https://www.reddit.com/r/web3/comments/1skw17o/early_automation_or_manual_first_in_web3_contract/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1skw17o/early_automation_or_manual_first_in_web3_contract/</guid>
+      <pubDate>2026-04-14T02:36:47+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been tweaking my approach to reviewing smart contracts for potential issues - especially with all the DeFi and dApp complexity out there. Started out 100% manual: mapping token flows, checking proxy upgrades, and hunting reentrancy by hand to really get the logic.&lt;/p&gt; &lt;p&gt;More recently, I've experimented with quick automated scans right at the start to flag common pitfalls like unsafe external calls or access control gaps. Tried something like guardix once a...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Will the average person ever self-host anything?</title>
+      <link>https://www.reddit.com/r/selfhosted/comments/1skuxqx/will_the_average_person_ever_selfhost_anything/</link>
+      <guid>https://www.reddit.com/r/selfhosted/comments/1skuxqx/will_the_average_person_ever_selfhost_anything/</guid>
+      <pubDate>2026-04-14T01:49:00+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Right now self-hosting is not common. Some people self-host for ideological reasons or as a hobby, but the average person isn't self-hosting anything. There's various reasons why not: they haven't considered it, it's too intimidating or expensive, or they could do it but the ongoing effort it requires isn't worth it.&lt;/p&gt; &lt;p&gt;Do you think self-hosting will become more accessible and popular over time? Is it trending towards or away from that? I'm somewhat skeptica...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sun, 12 Apr 2026 22:50:34 +0100</pubDate>
+      <pubDate>Mon, 13 Apr 2026 22:36:44 +0100</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>After 9+ Years in Crypto, Everyone Looks Like a Scxmmer… Including Me?!</title>
+      <link>https://www.reddit.com/r/web3/comments/1sk7i5u/after_9_years_in_crypto_everyone_looks_like_a/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1sk7i5u/after_9_years_in_crypto_everyone_looks_like_a/</guid>
+      <pubDate>2026-04-13T11:02:55+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m just going to type my thoughts as they enter my mind, and vent about having spent way too many years marinating in this digital swamp. A profitable decade, but at what cost mentally?&lt;/p&gt; &lt;p&gt;After 9 ish years trading here (arrived 2017) i’ve naturally refined my terminology. A “scammer” in my book, isn’t just some cartoon villain in a hoodie. It’s anyone who’s consciously manipulating others without a shred of regard for their best interests. So in web3 think...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -112,18 +145,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Stablecoin Giant Tether Launches Toolkit for Building Local, Offline AI Apps</title>
-      <link>https://decrypt.co/363809/stablecoin-giant-tether-launches-toolkit-for-building-local-offline-ai-apps</link>
-      <guid>https://decrypt.co/363809/stablecoin-giant-tether-launches-toolkit-for-building-local-offline-ai-apps</guid>
-      <pubDate>Thu, 09 Apr 2026 15:09:32 +0000</pubDate>
-      <description>Tether’s new toolkit lets developers build AI applications that run entirely on-device, marking an expanded push into decentralized AI.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -501,44 +522,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>I made visual mind maps to understand Blockchain &amp; Web3”</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1s6py8k/i_made_visual_mind_maps_to_understand_blockchain/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1s6py8k/i_made_visual_mind_maps_to_understand_blockchain/</guid>
-      <pubDate>2026-03-29T08:47:58+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I created a collection of blockchain mind maps to make learning blockchain and Web3 easier.&lt;/p&gt; &lt;p&gt;When I was learning blockchain, most resources were long and confusing, so I started turning topics into visual mind maps like:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Blockchain basics&lt;/li&gt; &lt;li&gt;Web3&lt;/li&gt; &lt;li&gt;Crypto exchanges&lt;/li&gt; &lt;li&gt;DAOs&lt;/li&gt; &lt;li&gt;Blockchain for business&lt;/li&gt; &lt;li&gt;Security&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I put them all into one awesome list here:&lt;br /&gt; &lt;a href=&quot;https://github.com/ExMapo/aweso...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>The idea of building a new way about how we see tokens and memecoins</title>
       <link>https://www.reddit.com/r/web3/comments/1s6k5cy/the_idea_of_building_a_new_way_about_how_we_see/</link>
       <guid>https://www.reddit.com/r/web3/comments/1s6k5cy/the_idea_of_building_a_new_way_about_how_we_see/</guid>
       <pubDate>2026-03-29T03:12:21+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi all,&lt;/p&gt; &lt;p&gt;there is a new project that me and others devs are working on. the production is almost ready. &lt;/p&gt; &lt;p&gt;We are launching a closed beta before mainnet to test that every operation in the platform is safe, secure and delivers what we expect to. we are looking for people who would like to participate in this closed beta.&lt;/p&gt; &lt;p&gt;(Since we, as a team, don't like random spam, we ask you sorry in advance for taking a little space in this subreddit.)&lt;/p&gt; &lt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Web3 Domains: The Future of Digital Identity or Just Hype?</title>
-      <link>https://www.reddit.com/r/web3/comments/1s5t5a9/web3_domains_the_future_of_digital_identity_or/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1s5t5a9/web3_domains_the_future_of_digital_identity_or/</guid>
-      <pubDate>2026-03-28T06:43:50+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been exploring Web3 domains (.eth, .crypto, .nft) and they're more useful than I expected:&lt;/p&gt; &lt;p&gt;* Replace ugly wallet addresses with readable names&lt;/p&gt; &lt;p&gt;* Work as your universal username across dApps&lt;/p&gt; &lt;p&gt;* Host uncensorable websites&lt;/p&gt; &lt;p&gt;* You actually own them (they're NFTs, no renewals)&lt;/p&gt; &lt;p&gt;Adoption is early, but the tech solves real problems. Grabbed a couple to experiment with.&lt;/p&gt; &lt;p&gt;Anyone here using them? Worth it or overhyped?&lt;/p&gt; &lt;/div&gt;&lt;!-- ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Built a product, got 15 users. What am I doing wrong?</title>
-      <link>https://www.reddit.com/r/web3/comments/1s53y5s/built_a_product_got_15_users_what_am_i_doing_wrong/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1s53y5s/built_a_product_got_15_users_what_am_i_doing_wrong/</guid>
-      <pubDate>2026-03-27T13:22:06+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been building a small Telegram game (Mini App) with some GameFi mechanics.&lt;/p&gt; &lt;p&gt;Nothing crazy — just a simple idea:&lt;br /&gt; people play → collect in-game rewards → convert them later.&lt;/p&gt; &lt;p&gt;After a few months, here’s where I’m at:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;~15 active users&lt;/li&gt; &lt;li&gt;around $3 total revenue (ads)&lt;/li&gt; &lt;li&gt;a working product with gameplay, rewards, and integrations&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Honestly, I thought the hard part would be building it.&lt;/p&gt; &lt;p&gt;Backend (FastAP...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -606,6 +594,17 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1rokc4f/ipfs_oci_registry_update_federation_policy/</guid>
       <pubDate>2026-03-08T23:42:52+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Update on the IPFS-backed container registry&lt;/p&gt; &lt;p&gt;The obvious concern with federating container images is proprietary code leaking out. So, built controls around it&lt;/p&gt; &lt;p&gt;Federation policy: you control exactly what gets shared. Pull nginx from Docker Hub? That gets announced to IPFS peers — everyone benefits. Push your company's internal app? Stays private by default. Want to explicitly share something? Push to the public/ namespace. Simple opt-in. Private sw...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Help Build Thing That Will Change the World</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1roiuld/help_build_thing_that_will_change_the_world/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1roiuld/help_build_thing_that_will_change_the_world/</guid>
+      <pubDate>2026-03-08T22:41:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1roiuld/help_build_thing_that_will_change_the_world/&quot;&gt; &lt;img alt=&quot;Help Build Thing That Will Change the World&quot; src=&quot;https://preview.redd.it/3bnmd1afdwng1.png?width=140&amp;amp;height=118&amp;amp;auto=webp&amp;amp;s=96c7e8a147de3b5c1c196a19521ea386c29df629&quot; title=&quot;Help Build Thing That Will Change the World&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/EagleApprehensive&quot;&gt; /u/EagleApprehensive &lt;/a&gt; &lt;br /&gt; &lt;span&gt;...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
