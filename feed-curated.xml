@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 03:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 03:59:02 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,62 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>When smart contracts are correct but still exploitable</title>
+      <link>https://www.reddit.com/r/web3/comments/1sqcttu/when_smart_contracts_are_correct_but_still/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1sqcttu/when_smart_contracts_are_correct_but_still/</guid>
+      <pubDate>2026-04-20T02:40:43+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;One thing I’ve been thinking about lately is how “secure code” in web3 doesn’t always mean “secure system”.&lt;/p&gt; &lt;p&gt;Most security conversations still focus on traditional smart contract bugs like reentrancy, bad access control, or arithmetic issues. That’s important, but it only covers part of the risk.&lt;/p&gt; &lt;p&gt;A lot of real-world exploits don’t come from broken code. They come from systems that behave correctly on a technical level, but can still be manipulated e...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sun, 19 Apr 2026 22:42:19 +0100</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Built a non-custodial escrow dApp on Base L2 to fix freelance payments. Need beta testers.</title>
+      <link>https://www.reddit.com/r/web3/comments/1spszdt/built_a_noncustodial_escrow_dapp_on_base_l2_to/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1spszdt/built_a_noncustodial_escrow_dapp_on_base_l2_to/</guid>
+      <pubDate>2026-04-19T13:27:29+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I built a trustless contract via Base L2 to stop clients from ghosting on payments and vice versa.&lt;/p&gt; &lt;p&gt;Here’s a short overview of the flow:&lt;/p&gt; &lt;p&gt;-The Contract: A non-custodial state machine (Created -&amp;gt; Funded -&amp;gt; Delivered -&amp;gt; Completed/Disputed).&lt;/p&gt; &lt;p&gt;-Funding: Client locks native Base USDC directly into the contract address.&lt;/p&gt; &lt;p&gt;-Settlement: Trustless release upon client approveWork(), built with manual reentrancy guards.&lt;...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>ALTCOINS - SCAM. THERE WILL BE NO MORE ALT SEASON</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1sppdrt/altcoins_scam_there_will_be_no_more_alt_season/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1sppdrt/altcoins_scam_there_will_be_no_more_alt_season/</guid>
+      <pubDate>2026-04-19T10:33:11+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Have you also noticed how many experts have appeared in the media today, claiming that there will definitely never be an alt season again?&lt;/p&gt; &lt;p&gt;At the bottom of the market, I'm not so sure that the alt season will take place... as they are sure that it definitely won't&lt;/p&gt; &lt;p&gt;Of course, they are selling their brilliant ideas/products that will help to make money and recover from losses in a market that is now dead forever.&lt;/p&gt; &lt;p&gt;This was also the case in prev...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I built an ephemeral EVM wallet from scratch — looking for feedback</title>
+      <link>https://www.reddit.com/r/web3/comments/1spnhcc/i_built_an_ephemeral_evm_wallet_from_scratch/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1spnhcc/i_built_an_ephemeral_evm_wallet_from_scratch/</guid>
+      <pubDate>2026-04-19T08:40:36+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey,&lt;/p&gt; &lt;p&gt;Been working on a personal project for about a month. It's a browser-based crypto wallet — no signup, no extension, no&lt;/p&gt; &lt;p&gt;KYC. Keys live only in memory and auto-rotate every 60 seconds. Close the tab and everything is gone.&lt;/p&gt; &lt;p&gt;Supports all EVM chains, WalletConnect v2, send/receive ERC-20s. Optional persistence via passphrase + PNG file.&lt;/p&gt; &lt;p&gt;It's open source under Apache 2.0.&lt;/p&gt; &lt;p&gt;Honest question: would you actually use something like th...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>We often treat cryptographic hash functions as if their security is mathematically absolute. But here’s the uncomfortable truth:</title>
       <link>https://www.reddit.com/r/CryptoTechnology/comments/1spblaa/we_often_treat_cryptographic_hash_functions_as_if/</link>
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1spblaa/we_often_treat_cryptographic_hash_functions_as_if/</guid>
@@ -70,23 +126,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 18 Apr 2026 23:11:00 +0100</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Kelp restaking platform exploited, $293M drained in attack</title>
       <link>https://cointelegraph.com/news/restaking-platform-kelp-exploited-293-million?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/restaking-platform-kelp-exploited-293-million?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
       <pubDate>Sat, 18 Apr 2026 23:06:39 +0100</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Kelp restaking platform exploited, $293M drained in attack&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGEyOGQtY2ZkYS03YzgyLTk0M2YtMTk2ODk1N2VlNjQyLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The attack caused a &quot;cross-protocol contagion&quot; that has impacted at least nine crypto protocols, blockchain security firm Cyvers said.&lt;/p&gt;</description>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Kelp restaking platform exploited, $293M drained in attack&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGEyOGQtY2ZkYS03YzgyLTk0M2YtMTk2ODk1N2VlNjQyLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The attack triggered a &quot;cross-protocol contagion&quot; that has hit at least nine crypto protocols, blockchain security firm Cyvers said.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -124,18 +168,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Crypto execs ramp up security as wrench attacks increase</title>
-      <link>https://cointelegraph.com/news/crypto-execs-ramp-security-wrench-attacks-increase?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/crypto-execs-ramp-security-wrench-attacks-increase?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 17 Apr 2026 14:45:01 +0100</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Crypto execs ramp up security as wrench attacks increase&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliYTktNDVmZS03MzE4LWIxYzMtNGUwYjA5MjliMjExLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Notable crypto execs descended on Paris Blockchain Week, bringing more attention to personal security as kidnapping and ransom attempts skyrocket.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -502,44 +534,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>What does Web3 gaming infrastructure actually look like in 2026, and does it hold up when things scale?</title>
-      <link>https://www.reddit.com/r/web3/comments/1saa3x7/what_does_web3_gaming_infrastructure_actually/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1saa3x7/what_does_web3_gaming_infrastructure_actually/</guid>
-      <pubDate>2026-04-02T06:54:16+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been talking to a bunch of indie Web3 game devs lately, and the infrastructure question comes up every time. Everyone has strong opinions on Ethereum vs alt L1s vs rollups, but very few people talk about what actually happens when you have real players doing things at the same time.&lt;/p&gt; &lt;p&gt;I don’t really care about theoretical TPS numbers. What matters to me is how things behave during something like a tournament, when 5,000 players are all transacting at o...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Engineer Uses IPFS to Protect Lawful Narrative of Alleged Discrimination from Apple</title>
       <link>https://www.reddit.com/r/ipfs/comments/1sa3unr/engineer_uses_ipfs_to_protect_lawful_narrative_of/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1sa3unr/engineer_uses_ipfs_to_protect_lawful_narrative_of/</guid>
       <pubDate>2026-04-02T01:34:28+00:00</pubDate>
       <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sa3unr/engineer_uses_ipfs_to_protect_lawful_narrative_of/&quot;&gt; &lt;img alt=&quot;Engineer Uses IPFS to Protect Lawful Narrative of Alleged Discrimination from Apple&quot; src=&quot;https://external-preview.redd.it/DI3Hy2DulnS4OGbh2BpfiaEM5cHHL1rSK-Dr8agO5No.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=86972fe3100d96a083366e1b22dac70007b2e822&quot; title=&quot;Engineer Uses IPFS to Protect Lawful Narrative of Alleged Discrimination from Apple&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Did smart contract audits evolve?</title>
-      <link>https://www.reddit.com/r/web3/comments/1s9ryti/did_smart_contract_audits_evolve/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1s9ryti/did_smart_contract_audits_evolve/</guid>
-      <pubDate>2026-04-01T17:54:17+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been noticing how much audit processes have changed even over the past year or so.&lt;/p&gt; &lt;p&gt;It used to be pretty straightforward. Now it feels a lot more fragmented. Most teams I’ve talked to aren’t relying on a single approach anymore. It’s more like layered workflows:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Automated scanners to catch obvious stuff early&lt;/li&gt; &lt;li&gt;Some form of fuzzing or simulation for edge cases&lt;/li&gt; &lt;li&gt;Then manual review focused only on the parts that actually matter&lt;/l...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>How to stay motivated and confident in this market as a Web3 professional?</title>
-      <link>https://www.reddit.com/r/web3/comments/1s9mxcf/how_to_stay_motivated_and_confident_in_this/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1s9mxcf/how_to_stay_motivated_and_confident_in_this/</guid>
-      <pubDate>2026-04-01T14:57:28+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;8-year Web3 product designer struggling after 3 months of job searching in a tough market. Got close with a few roles but faced hiring freezes, rejections, and a rushed interview for a dream company that felt fumbled. Confidence is dropping, savings are shrinking, and considering adjacent careers feels overwhelming and directionless. Looking for advice on whether to stick with Web3, how to stay motivated, and how to avoid spiraling...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
