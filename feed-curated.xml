@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 04:22:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:59:16 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,15 +59,73 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger</title>
-      <link>https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 07 May 2026 02:05:55 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL1RydWNrX2NvaW5fTkVXLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The cross-border tokenized US Treasury transaction using blockchain and banking rails builds on an earlier pilot in whic...</description>
+      <title>Why does the last mile between stablecoins and fiat still feel technically unfinished?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1t6rgo9/why_does_the_last_mile_between_stablecoins_and/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t6rgo9/why_does_the_last_mile_between_stablecoins_and/</guid>
+      <pubDate>2026-05-07T23:46:45+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;One thing that keeps standing out to me is how advanced crypto infrastructure has become at the asset layer, while the transition into real-world payments still feels surprisingly primitive in practice.&lt;/p&gt; &lt;p&gt;Stablecoins already solve a huge part of the value transfer problem. You can move liquidity globally in minutes, self-custody it, integrate it into smart contracts, and settle across chains faster than traditional systems ever could. But the moment you nee...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>21Shares Debuts First ETF Focused on Canton Network Crypto Token</title>
+      <link>https://decrypt.co/367153/21shares-first-etf-focused-canton-network-crypto-token</link>
+      <guid>https://decrypt.co/367153/21shares-first-etf-focused-canton-network-crypto-token</guid>
+      <pubDate>Thu, 07 May 2026 18:45:41 +0000</pubDate>
+      <description>The Nasdaq-listed fund offers exposure to Canton Coin, native token of the privacy-focused institutional blockchain network.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 07 May 2026 15:45:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2FydGljbGUtY292ZXJzLTExMDU4OS13aGF0LWhhcHBlbmVkLWluLWNyeXB0by10b2RheS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin pri...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Luffa unveils major brand upgrade: Repositioned as AI × Web3 Super Connector</title>
+      <link>https://cointelegraph.com/press-releases/luffa-unveils-major-brand-upgrade-repositioned-as-ai-web3-super-connector?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/press-releases/luffa-unveils-major-brand-upgrade-repositioned-as-ai-web3-super-connector?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 07 May 2026 09:00:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Luffa unveils major brand upgrade: Repositioned as AI × Web3 Super Connector&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlLzM0NjI0LTEuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Luffa, the global leader in intelligent ecosystem platforms, today officially announced a major brand upgrade, repositioning itself as t...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Quantum attacks could worsen without proof of ownership: Near One</title>
+      <link>https://cointelegraph.com/news/quantum-threat-not-just-about-stolen-funds-near?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/quantum-threat-not-just-about-stolen-funds-near?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 07 May 2026 07:30:57 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Quantum attacks could worsen without proof of ownership: Near One&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50ZWxlZ3JhcGguY29tL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwSW1wZXJzb25hdGlvbiUyMHNjYW1zJTIwaW4lMjBjcnlwdG8uanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Near One says blockchains may need new ownership verification systems if quantum attacks compro...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Can P2P AI compute be monetized?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1t5shfx/can_p2p_ai_compute_be_monetized/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t5shfx/can_p2p_ai_compute_be_monetized/</guid>
+      <pubDate>2026-05-06T22:44:23+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Attempted to create a p2p grid for AI compute, as a side hobby project. I was just wondering how ideal is to build an economic layer on p2p compute.&lt;/p&gt; &lt;p&gt;every serious attempt I've seen like Akash Network ends up bolting on a token, and then half the energy goes into tokenomics instead of the actual compute layer.&lt;/p&gt; &lt;p&gt;What are your thoughts on this? &lt;/p&gt; &lt;p&gt;Repo: &lt;a href=&quot;https://github.com/Agent-FM/agentfm-core&quot;&gt;https://github.com/Agent-FM/agentfm-core&lt;/a&gt;...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -83,39 +141,80 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 06 May 2026 16:01:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2FydGljbGUtY292ZXJzLTExMDU4OS13aGF0LWhhcHBlbmVkLWluLWNyeXB0by10b2RheS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin pri...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Building an India-Focused Digital Financial Investigation Platform for Blockchain Forensics</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1t5koq1/building_an_indiafocused_digital_financial/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t5koq1/building_an_indiafocused_digital_financial/</guid>
+      <pubDate>2026-05-06T18:01:26+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Building an Indian Digital Financial Investigation Platform — Progress Update&lt;/p&gt; &lt;p&gt;Over the last few weeks, I’ve been building Blockchain Sentinel OS — a forensic intelligence platform focused on blockchain investigations, compliance workflows, and digital financial tracing.&lt;/p&gt; &lt;p&gt;The goal is NOT to build another blockchain explorer.&lt;/p&gt; &lt;p&gt;The goal is to build investigation infrastructure for:&lt;br /&gt; • investigators&lt;br /&gt; • compliance teams&lt;br /&gt; • CA firms&lt;b...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Samsung SDS wins deal to build South Korea’s blockchain securities system: Report</title>
-      <link>https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 06 May 2026 13:20:50 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Samsung SDS wins deal to build South Korea’s blockchain securities system: Report&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwNyUyMGxlc3NvbnMlMjBsZWFybmVkJTIwZnJvbSUyMGJ1aWxkaW5nJTIwYW5kJTIwc2NhbGluZyUyMEJpdGNvaW4lMjBtaW5pbmclMjBvcGVyYXRpb25zLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The Korea Secur...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Game Engine Collision Detection to Smart Contracts</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1szuelp/game_engine_collision_detection_to_smart_contracts/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1szuelp/game_engine_collision_detection_to_smart_contracts/</guid>
+      <pubDate>2026-04-30T12:16:48+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It's funny how often you have to look backwards to solve a new problem.&lt;/p&gt; &lt;p&gt;I've been trying to build a proper spatial registry on-chain. Basically, making sure polygons don't overlap and area is conserved. You'd think this is simple, but if you try doing it on EVM, or even Solana and Aptos, you hit a wall pretty fast. Their execution models just aren't built for traversing dynamic objects at runtime without burning insane amounts of gas.&lt;/p&gt; &lt;p&gt;I realized bl...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Bullish Shares Pop on $4.2 Billion Deal to Acquire Transfer Agent Equiniti</title>
-      <link>https://decrypt.co/366821/bullish-shares-pop-4-2-billion-deal-acquire-equinity</link>
-      <guid>https://decrypt.co/366821/bullish-shares-pop-4-2-billion-deal-acquire-equinity</guid>
-      <pubDate>Tue, 05 May 2026 16:52:08 +0000</pubDate>
-      <description>NYSE-listed crypto exchange operator Bullish will merge blockchain infrastructure with a transfer agent serving traditional equity markets.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Removed split-chain mining from a C++ node/wallet stack: GUI and CLI now mine through the same backend RPC path</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1syr2pq/removed_splitchain_mining_from_a_c_nodewallet/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1syr2pq/removed_splitchain_mining_from_a_c_nodewallet/</guid>
+      <pubDate>2026-04-29T06:51:15+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;One of the more useful maintenance updates I’ve worked on recently was not a new mining algorithm or a UI feature. It was removing an architectural mistake: the GUI miner and the backend node were not actually operating on the same chain state.&lt;/p&gt; &lt;p&gt;The old model had a separate miner-side local chain flow. That created exactly the class of bugs you’d expect from duplicated state:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;GUI miner could drift from the backend chain&lt;/li&gt; &lt;li&gt;locally mined ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Technical analysis of the eCash Hard Fork: Drivechains activation and the implementation of UTXO redistribution logic</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1sxsnic/technical_analysis_of_the_ecash_hard_fork/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1sxsnic/technical_analysis_of_the_ecash_hard_fork/</guid>
+      <pubDate>2026-04-28T05:52:34+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;With the upcoming eCash hard fork scheduled for August 2026, there are two specific technical implementations that warrant a deep dive from a protocol perspective: the native activation of Drivechains and the programmatic reassignment of long-dormant UTXOs.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;1. Native Drivechains (BIP-300/301) Integration&lt;/strong&gt; Unlike the mainnet which has seen prolonged debate over Drivechains, this fork aims to activate BIP-300/301 from day one. Technically, t...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Stablecoin settlement infrastructure comparison for platform builders not crypto native teams</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1sxqzvi/stablecoin_settlement_infrastructure_comparison/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1sxqzvi/stablecoin_settlement_infrastructure_comparison/</guid>
+      <pubDate>2026-04-28T04:25:08+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Building a cross border payment product on stablecoin rails but our team is traditional fintech - coming from banks, not crypto. Every comparison I find assumes you understand wallet infrastructure and chain selection and gas optimization. I get the reasoning, but it's just not our use case. We just need faster cheaper settlement where the complexity is abstracted from us and our end users. Which providers are built for teams like us versus teams that want to ma...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Why aren’t escrow / agreement flows first-class primitives in most blockchains?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1swseyk/why_arent_escrow_agreement_flows_firstclass/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1swseyk/why_arent_escrow_agreement_flows_firstclass/</guid>
+      <pubDate>2026-04-27T03:41:21+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most chains are really good at transferring value.&lt;/p&gt; &lt;p&gt;But when it comes to actual agreements between parties — escrow, milestone payments, deposits/refunds — it usually ends up being handled off-chain or through custom app logic.&lt;/p&gt; &lt;p&gt;That feels like a missing primitive.&lt;/p&gt; &lt;p&gt;Right now typical approaches are:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;centralized escrow services&lt;/li&gt; &lt;li&gt;multisig setups with coordination overhead&lt;/li&gt; &lt;li&gt;or smart contracts that still rely on externa...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Spent 3 months on primary-source research for my startup — 60 pages on what institutions are actually doing with blockchain</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1ss09iy/spent_3_months_on_primarysource_research_for_my/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1ss09iy/spent_3_months_on_primarysource_research_for_my/</guid>
+      <pubDate>2026-04-21T20:47:23+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I needed to understand the institutional adoption space for a fintech startup I'm working on. Started reading earnings reports, SEC filings, central bank data, legislative texts. Ended up with a 60-page research document with 40+ sources and a classification system that separates documented facts from speculation from crypto-Twitter fantasy.&lt;/p&gt; &lt;p&gt;Some popular narratives held up. Some really didn't.&lt;/p&gt; &lt;p&gt;I used Claude AI as a research partner — not to generat...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -544,114 +643,6 @@
       <guid>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</guid>
       <pubDate>Tue, 02 Jan 2018 17:42:21 GMT</pubDate>
       <description>The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Q4 Roundup</title>
-      <link>https://blog.ethereum.org/en/2018/01/02/q4-roundup</link>
-      <guid>https://blog.ethereum.org/en/2018/01/02/q4-roundup</guid>
-      <pubDate>Tue, 02 Jan 2018 15:27:18 GMT</pubDate>
-      <description>Ethereum has grown very rapidly in the last few months. Transaction volume on the blockchain has more than doubled, surpassing 10 transactions per second for days at a time. The number of new accounts created per day passed 100,000&lt;span style=&quot;font-w...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum JS Ecosystem Updates</title>
-      <link>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</link>
-      <guid>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</guid>
-      <pubDate>Tue, 21 Mar 2017 03:11:39 GMT</pubDate>
-      <description>It's been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay's excellent write up here.  Also, during this time Aaron Davis (Kumavis) made s...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>An Update on Integrating Zcash on Ethereum (ZoE)</title>
-      <link>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</link>
-      <guid>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</guid>
-      <pubDate>Thu, 19 Jan 2017 17:57:54 GMT</pubDate>
-      <description>Members of the Ethereum R&amp;amp;D team and the Zcash Company are collaborating on a research project addressing the combination of programmability and privacy in blockchains. This joint post is being concurrently posted on the Zcash blog, and is coauthored by Ariel Gabizon (Zcash) and Christian Reitwiessner (Ethereum).  Ethereum’s flexible smart...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Uncle Rate and Transaction Fee Analysis</title>
-      <link>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</link>
-      <guid>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</guid>
-      <pubDate>Mon, 31 Oct 2016 03:52:04 GMT</pubDate>
-      <description>One of the important indicators of how much load the Ethereum blockchain can safely handle is how the uncle rate responds to the gas usage of a transaction. In all blockchains of the Satoshian proof-of-work variety, any block that is published has the risk of howbecoming a &quot;stale&quot;, ie. not...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>On Inflation, Transaction Fees and Cryptocurrency Monetary Policy</title>
-      <link>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</link>
-      <guid>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</guid>
-      <pubDate>Wed, 27 Jul 2016 17:00:00 GMT</pubDate>
-      <description>The primary expense that must be paid by a blockchain is that of security. The blockchain must pay miners or validators to economically participate in its consensus protocol, whether proof of work or proof of stake, and this inevitably incurs some cost. There are two ways to pay for this...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Taylor’s Summer Update</title>
-      <link>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</link>
-      <guid>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</guid>
-      <pubDate>Mon, 11 Jul 2016 16:05:58 GMT</pubDate>
-      <description>Hey everyone, I spent some time with our Canadian friends in Toronto after presenting &quot;Ethereum: The World Computer&quot; at Blockchain Training Conference last month and I wanted to provide a quick update on some of the exciting happenings in the Ethereum dev ecosystem. Lots of things are brewing behinds the...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>On Settlement Finality</title>
-      <link>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</link>
-      <guid>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</guid>
-      <pubDate>Mon, 09 May 2016 08:07:25 GMT</pubDate>
-      <description>Special thanks to Tim Swanson for reviewing, and for further discussions on the arguments in his original paper on settlement finality.  Recently one of the major disputes in ongoing debate between public blockchain and permissioned blockchain proponents is the issue of settlement finality. One of the simple properties that...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum Foundation and Wanxiang Blockchain Labs announce a blockbuster event combining Devcon2 and the 2nd Global Blockchain Summit in Shanghai, September 19–24, 2016</title>
-      <link>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</link>
-      <guid>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</guid>
-      <pubDate>Tue, 05 Apr 2016 09:39:37 GMT</pubDate>
-      <description>[Last update: July 5, 2016]  The Ethereum Foundation and Wanxiang Blockchain Labs are excited to jointly announce the International Blockchain Week in Shanghai, which will take place at Hyatt on the Bund, September 19–24, 2016. Both Ethereum’s Devcon and Wanxiang Blockchain Labs’ Global Blockchain Summit were sold out last...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum Partners with R3CEV on Lizardcoin, Bringing Together the Best of Centralized Finance and Blockchain Technology</title>
-      <link>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</link>
-      <guid>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</guid>
-      <pubDate>Fri, 01 Apr 2016 08:43:10 GMT</pubDate>
-      <description>The Ethereum Foundation has announced that it will be working with the New York-based banking consortium R3CEV on creating a new blockchain-based cryptocurrency, Lizardcoin, which aims to showcase the benefits of blockchain technology as well as the consortium's ability to bring the technology to institutional clients and the regulation-loving masses...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
