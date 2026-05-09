@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 03:59:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 04:03:48 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,14 +59,60 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>Why does the last mile between stablecoins and fiat still feel technically unfinished?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1t6rgo9/why_does_the_last_mile_between_stablecoins_and/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t6rgo9/why_does_the_last_mile_between_stablecoins_and/</guid>
-      <pubDate>2026-05-07T23:46:45+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;One thing that keeps standing out to me is how advanced crypto infrastructure has become at the asset layer, while the transition into real-world payments still feels surprisingly primitive in practice.&lt;/p&gt; &lt;p&gt;Stablecoins already solve a huge part of the value transfer problem. You can move liquidity globally in minutes, self-custody it, integrate it into smart contracts, and settle across chains faster than traditional systems ever could. But the moment you nee...</description>
+      <title>What challenges have you encountered with cryptocurrency?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1t7pce3/what_challenges_have_you_encountered_with/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t7pce3/what_challenges_have_you_encountered_with/</guid>
+      <pubDate>2026-05-09T00:16:58+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello traders and everyone else who knows about cryptocurrency. I have a quick question: what do you feel is missing most in your trading and market analysis right now? As experienced (or inexperienced) traders, where do you most often encounter mistakes and difficulties - especially those you haven’t been able to resolve yet? I’m really interested to hear what people struggle with the most and what problems they face.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Blue iris is annoying; I’m building my own video management software</title>
+      <link>https://www.reddit.com/r/selfhosted/comments/1t7oxaa/blue_iris_is_annoying_im_building_my_own_video/</link>
+      <guid>https://www.reddit.com/r/selfhosted/comments/1t7oxaa/blue_iris_is_annoying_im_building_my_own_video/</guid>
+      <pubDate>2026-05-08T23:58:20+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/selfhosted/comments/1t7oxaa/blue_iris_is_annoying_im_building_my_own_video/&quot;&gt; &lt;img alt=&quot;Blue iris is annoying; I’m building my own video management software&quot; src=&quot;https://preview.redd.it/wt1qnwue500h1.jpg?width=140&amp;amp;height=92&amp;amp;auto=webp&amp;amp;s=667fd3e8b23fb2aa1cd6bcdeb18d2798fc6c4c99&quot; title=&quot;Blue iris is annoying; I’m building my own video management software&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been running IP cameras ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 08 May 2026 15:16:53 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Leaving GitHub, or ... a sovereign approach to &quot;hosting&quot; a forge</title>
+      <link>https://www.reddit.com/r/selfhosted/comments/1t79sj5/leaving_github_or_a_sovereign_approach_to_hosting/</link>
+      <guid>https://www.reddit.com/r/selfhosted/comments/1t79sj5/leaving_github_or_a_sovereign_approach_to_hosting/</guid>
+      <pubDate>2026-05-08T14:35:33+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I came across a post about &amp;quot;Leaving GitHub&amp;quot; (&lt;a href=&quot;https://lord.io/leaving-github/&quot;&gt;https://lord.io/leaving-github/&lt;/a&gt;) lately - one of many that started popping up after 2018 and while it revolves around discussing reasons and motivations (incl. of various other people) for taking the plunge, I particularly liked the Appendix A that shows there's other alternatives to forges that do not need to be centralised - because Git also was never meant to ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Zcash Targeting Post-Quantum Crypto Milestone by 2027</title>
+      <link>https://decrypt.co/367250/zcash-targeting-post-quantum-crypto-milestone-by-2027</link>
+      <guid>https://decrypt.co/367250/zcash-targeting-post-quantum-crypto-milestone-by-2027</guid>
+      <pubDate>Fri, 08 May 2026 13:15:24 +0000</pubDate>
+      <description>The privacy-focused cryptocurrency plans to launch a quantum-recoverable wallet within a month as it outlines its roadmap.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -82,42 +128,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 07 May 2026 15:45:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2FydGljbGUtY292ZXJzLTExMDU4OS13aGF0LWhhcHBlbmVkLWluLWNyeXB0by10b2RheS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin pri...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Luffa unveils major brand upgrade: Repositioned as AI × Web3 Super Connector</title>
-      <link>https://cointelegraph.com/press-releases/luffa-unveils-major-brand-upgrade-repositioned-as-ai-web3-super-connector?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/press-releases/luffa-unveils-major-brand-upgrade-repositioned-as-ai-web3-super-connector?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 07 May 2026 09:00:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Luffa unveils major brand upgrade: Repositioned as AI × Web3 Super Connector&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlLzM0NjI0LTEuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Luffa, the global leader in intelligent ecosystem platforms, today officially announced a major brand upgrade, repositioning itself as t...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Quantum attacks could worsen without proof of ownership: Near One</title>
-      <link>https://cointelegraph.com/news/quantum-threat-not-just-about-stolen-funds-near?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/quantum-threat-not-just-about-stolen-funds-near?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 07 May 2026 07:30:57 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Quantum attacks could worsen without proof of ownership: Near One&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50ZWxlZ3JhcGguY29tL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwSW1wZXJzb25hdGlvbiUyMHNjYW1zJTIwaW4lMjBjcnlwdG8uanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Near One says blockchains may need new ownership verification systems if quantum attacks compro...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Can P2P AI compute be monetized?</title>
       <link>https://www.reddit.com/r/CryptoTechnology/comments/1t5shfx/can_p2p_ai_compute_be_monetized/</link>
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t5shfx/can_p2p_ai_compute_be_monetized/</guid>
@@ -126,18 +136,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ondo, JPMorgan, Mastercard and Ripple Team to Settle Tokenized Treasuries on XRP Ledger</title>
-      <link>https://decrypt.co/367033/ondo-jpmorgan-mastercard-ripple-settle-tokenized-treasuries-xrp-ledger</link>
-      <guid>https://decrypt.co/367033/ondo-jpmorgan-mastercard-ripple-settle-tokenized-treasuries-xrp-ledger</guid>
-      <pubDate>Wed, 06 May 2026 18:52:46 +0000</pubDate>
-      <description>Major financial institutions use XRP Ledger to demonstrate blockchain's ability to settle tokenized Treasuries across borders in seconds.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
