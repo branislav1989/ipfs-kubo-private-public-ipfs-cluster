@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 04:29:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:35:12 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,7 +62,7 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 13 May 2026 22:40:00 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 14:41:10 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto ...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -71,512 +71,15 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Societe Generale deploys stablecoins on Canton for tokenized finance</title>
-      <link>https://cointelegraph.com/news/societe-generale-expands-tokenized-collateral-and-stablecoin-push-on-canton-network?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/societe-generale-expands-tokenized-collateral-and-stablecoin-push-on-canton-network?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 13 May 2026 17:51:42 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Societe Generale deploys stablecoins on Canton for tokenized finance&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1hLWJlZ2lubmVycy1ndWlkZS1vbi1hbGdvcml0aG1pYy1zdGFibGVjb2lucy5qcGc=.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;France's SocGen plans to use its EURCV and USDCV stablecoins for tokenized collateral, repo financing and institutional settlement a...</description>
+      <title>Tezos Tests Post-Quantum Privacy as Founder Slams 'Half-Baked' Bitcoin Quantum Theories</title>
+      <link>https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories</link>
+      <guid>https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories</guid>
+      <pubDate>Thu, 14 May 2026 13:01:03 +0000</pubDate>
+      <description>Arthur Breitman's comments come as Tezos tests a post-quantum privacy system designed to protect encrypted blockchain data from future attacks.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Redirect on-ramps vs. white-label: which one are you actually building with and why?</title>
-      <link>https://www.reddit.com/r/web3/comments/1tbyyuh/redirect_onramps_vs_whitelabel_which_one_are_you/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1tbyyuh/redirect_onramps_vs_whitelabel_which_one_are_you/</guid>
-      <pubDate>2026-05-13T13:00:54+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Building a wallet or Web3 app and adding fiat on-ramp? There are two broad approaches and the difference isn't just visual.&lt;/p&gt; &lt;p&gt;Redirect flow: user leaves your app, enters payment details on a third-party domain, comes back. Easy to integrate, but you lose the user at the most critical moment in the journey.&lt;/p&gt; &lt;p&gt;White-label flow: the on-ramp UI lives inside your product. User never leaves. Payment partner runs in the background.&lt;/p&gt; &lt;p&gt;The conversion argum...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Vietnam eyes Q3 launch for regulated crypto asset market: Report</title>
-      <link>https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 13 May 2026 10:49:01 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Vietnam eyes Q3 launch for regulated crypto asset market: Report&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1kZXhzLWNsb3NpbmctZG93bi1vci1yZS1sYXVuY2hpbmctMS5qcGc=.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Vietnam’s deputy minister of finance reportedly said the country is planning to launch its regulated cryptocurrency market in the third quarter of 2...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Do players actually WANT automation in NFT games?</title>
-      <link>https://www.reddit.com/r/NFT/comments/1tbuia9/do_players_actually_want_automation_in_nft_games/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1tbuia9/do_players_actually_want_automation_in_nft_games/</guid>
-      <pubDate>2026-05-13T09:27:34+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/NFT/comments/1tbuia9/do_players_actually_want_automation_in_nft_games/&quot;&gt; &lt;img alt=&quot;Do players actually WANT automation in NFT games?&quot; src=&quot;https://preview.redd.it/mi4yp1yiiv0h1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=a744e87da7315079af2ca87125a6e9c6a94f6ec4&quot; title=&quot;Do players actually WANT automation in NFT games?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been thinking a lot about “agents” in NFT/Web3 ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>why is it so hard to just talk about the tech anymore</title>
-      <link>https://www.reddit.com/r/web3/comments/1tbbxwj/why_is_it_so_hard_to_just_talk_about_the_tech/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1tbbxwj/why_is_it_so_hard_to_just_talk_about_the_tech/</guid>
-      <pubDate>2026-05-12T19:26:22+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;the signal to noise ratio in web3 right now is genuinely depressing. I used to be able to hop into a discord and actually discuss decentralized infrastructure or dweb protocols, but now its just endless bot spam and people begging for airdrop alpha &lt;/p&gt; &lt;p&gt;it feels like genuine community building online is dead. The big conferences aren't much better either, just endless corporate booths, overhyped panels, and tickets that cost a months rent. &lt;/p&gt; &lt;p&gt;Im noticing...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The era of massive nft conventions needs to end</title>
-      <link>https://www.reddit.com/r/NFT/comments/1tbbwjc/the_era_of_massive_nft_conventions_needs_to_end/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1tbbwjc/the_era_of_massive_nft_conventions_needs_to_end/</guid>
-      <pubDate>2026-05-12T19:25:01+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I don't know if anyone else is feeling this, but im so burned out on the giant web3 and nft conventions. you pay like $800 for a ticket just to stand in a dark, loud room while some random &amp;quot;influencer&amp;quot; screams over edm trying to shill their derivative project. it feels like 90% of the people at these things are just looking for exit liquidity for their bags. &lt;/p&gt; &lt;p&gt;its just exhausting. you can barely hear anyone talk, and everyone is just trying to sh...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>What features would actually make you trust a newer NFT marketplace?</title>
-      <link>https://www.reddit.com/r/web3/comments/1tb3fuc/what_features_would_actually_make_you_trust_a/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1tb3fuc/what_features_would_actually_make_you_trust_a/</guid>
-      <pubDate>2026-05-12T14:33:33+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m working on an XRPL-native NFT marketplace and wanted to ask collectors/creators here what features actually matter before a marketplace deserves trust.&lt;/p&gt; &lt;p&gt;Not posting a link or trying to promote a drop — I’m mostly looking for feedback from people who have used NFT marketplaces enough to know what breaks.&lt;/p&gt; &lt;p&gt;Some things we’re thinking about:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;native minting instead of smart-contract wrappers&lt;/li&gt; &lt;li&gt;creator royalties enforced at the prot...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Morning Minute: Circle Stock Soars After Q1 Beat, $222M Arc Raise</title>
-      <link>https://decrypt.co/367530/morning-minute-circle-stock-soars-after-q1-beat-222m-arc-raise</link>
-      <guid>https://decrypt.co/367530/morning-minute-circle-stock-soars-after-q1-beat-222m-arc-raise</guid>
-      <pubDate>Tue, 12 May 2026 11:55:03 +0000</pubDate>
-      <description>Circle just beat earnings and raised fresh capital for its new Arc blockchain, while Michael Saylor explained how and why he'd sell Bitcoin.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Share me your app and I will review it through it’s Trial</title>
-      <link>https://www.reddit.com/r/web3/comments/1tavgk3/share_me_your_app_and_i_will_review_it_through/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1tavgk3/share_me_your_app_and_i_will_review_it_through/</guid>
-      <pubDate>2026-05-12T08:35:41+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey there! I am trying to test different apps to get ideas on what things I like and what not for a project I got in my mind.&lt;/p&gt; &lt;p&gt;I feel like trying people’s projects here is an amazing idea, and I know some of you got paid subscriptions which I don’t mind starting if they have a free trial.&lt;/p&gt; &lt;p&gt;Share a link and I will rank your paid features from 1-10.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Mysterious_Voice_...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>after 2 years writing smart contracts, the web3 use cases that actually justify the complexity (and the ones that probably dont)</title>
-      <link>https://www.reddit.com/r/web3/comments/1tas51z/after_2_years_writing_smart_contracts_the_web3/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1tas51z/after_2_years_writing_smart_contracts_the_web3/</guid>
-      <pubDate>2026-05-12T05:33:01+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;been shipping smart contracts for the last 2 years across a few different applications. seen a lot of web3 use cases up close both ones that work and ones that probably shouldnt have been built.&lt;/p&gt; &lt;p&gt;clients keep asking us to put things on chain that have no real reason to be on chain. starting to form a clearer opinion on where the complexity is actually worth it.&lt;/p&gt; &lt;p&gt;what i think genuinely justifies web3 complexity:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;adversarial financial syst...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Mayors of tech cities want the clarity act to pass asap</title>
-      <link>https://www.reddit.com/r/web3/comments/1taf3zo/mayors_of_tech_cities_want_the_clarity_act_to/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1taf3zo/mayors_of_tech_cities_want_the_clarity_act_to/</guid>
-      <pubDate>2026-05-11T20:17:24+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Many mayors in tech cities are voicing support for the clarity act to pass. Lots of Blue cities as they don't want the tech companies who are working on Blockchain and web 3 to leave for other more tech friendly countries. The Democrats in DC have to take notice or the Democrats will continue to lose the support of the tech communities. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/NewspaperWrong809&quot;&gt; /u/NewspaperWrong80...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Finding web3 consulting that prioritizes actual utility over hype</title>
-      <link>https://www.reddit.com/r/web3/comments/1t9yt80/finding_web3_consulting_that_prioritizes_actual/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t9yt80/finding_web3_consulting_that_prioritizes_actual/</guid>
-      <pubDate>2026-05-11T10:04:35+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m tired of seeing projects that are just a token looking for a problem. Our organization wants to use web3 consulting to build a decentralized identity system for academic credentials. &lt;/p&gt; &lt;p&gt;We need something functional, secure, and user-friendly for non-crypto people. Is there anyone left in the space who focuses on the boring, essential infrastructure of web3?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/grand001&quot;&gt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>How much should I charge weekly for crypto KOL outreach work?</title>
-      <link>https://www.reddit.com/r/web3/comments/1t8kbi7/how_much_should_i_charge_weekly_for_crypto_kol/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t8kbi7/how_much_should_i_charge_weekly_for_crypto_kol/</guid>
-      <pubDate>2026-05-09T20:23:03+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Got offered a role at a crypto company (upcoming cex). The job is basically:&lt;/p&gt; &lt;p&gt;- Filtering a list of KOLs (Twitter + Telegram)&lt;/p&gt; &lt;p&gt;- Sending cold DMs and negotiating rates&lt;/p&gt; &lt;p&gt;- Tracking everything in a spreadsheet&lt;/p&gt; &lt;p&gt;- Reporting interested KOLs to the team&lt;/p&gt; &lt;p&gt;What's a fair weekly rate to ask? Anyone done similar work before?&lt;/p&gt; &lt;p&gt;I told them i will work 1 week for free then charge.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Should NFT Projects Own Their Own Marketplace?</title>
-      <link>https://www.reddit.com/r/NFT/comments/1t7exp6/should_nft_projects_own_their_own_marketplace/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1t7exp6/should_nft_projects_own_their_own_marketplace/</guid>
-      <pubDate>2026-05-08T17:37:45+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Do creators still need huge NFT marketplaces, or is the next step owning the marketplace directly on their own website?&lt;/p&gt; &lt;p&gt;I’m exploring this idea because many artists, galleries and small Web3 projects already have a website, an audience and a brand, but still send everyone to external platforms to mint, buy, bid or collect.&lt;/p&gt; &lt;p&gt;Would you trust a WordPress-based, wallet-first NFT marketplace if it supported ERC-721, ERC-1155, listings, auctions and creat...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The best stablecoin integrations in consumer apps are the ones users never notice</title>
-      <link>https://www.reddit.com/r/web3/comments/1t73sqb/the_best_stablecoin_integrations_in_consumer_apps/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t73sqb/the_best_stablecoin_integrations_in_consumer_apps/</guid>
-      <pubDate>2026-05-08T10:19:58+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There's a product pattern worth paying attention to in fintech apps right now. The cleanest stablecoin integrations are the ones where the user has zero awareness they're using stablecoin rails.&lt;/p&gt; &lt;p&gt;User opens a neobank app. Funds with a card or bank transfer. Gets a balance update. Maybe sends money cross-border. Sees better economics than a traditional wire. Never hears the word &amp;quot;blockchain.&amp;quot;&lt;/p&gt; &lt;p&gt;On the infrastructure side: fiat in, stablecoin ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Is the Web3 job market just completely cooked at this point?</title>
-      <link>https://www.reddit.com/r/web3/comments/1t6nfu8/is_the_web3_job_market_just_completely_cooked_at/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t6nfu8/is_the_web3_job_market_just_completely_cooked_at/</guid>
-      <pubDate>2026-05-07T21:03:23+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I swear, at this point I genuinely can’t tell if there are any real recruiters left in Web3 or if the entire space is just scammers pretending to hire developers.&lt;/p&gt; &lt;p&gt;Every single time someone reaches out, it’s some weird Telegram message, some fake startup with zero funding, some “bro we’re building the future” nonsense, or they want you to do unpaid work before they disappear two days later. Half these people don’t even understand what they’re recruiting fo...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Any idea where to get large amounts of testnet for my faucet?</title>
-      <link>https://www.reddit.com/r/web3/comments/1t6ljuj/any_idea_where_to_get_large_amounts_of_testnet/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t6ljuj/any_idea_where_to_get_large_amounts_of_testnet/</guid>
-      <pubDate>2026-05-07T19:56:03+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey, I created a new PoW faucet to tackle a common frustration as a developer. The intention is to be a primarily community driven and for distributing small amounts of testnet tokens but with less barriers. Especially for situations where you just need a bit but don't want the hastle of obtaining a mainnet balance or sharing socials etc. &lt;/p&gt; &lt;p&gt;Any idea where faucets often get their testnet token funds from? I found a few like polygon have a convenient form fo...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Web3 alternative social media</title>
-      <link>https://www.reddit.com/r/web3/comments/1t58jc4/web3_alternative_social_media/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t58jc4/web3_alternative_social_media/</guid>
-      <pubDate>2026-05-06T10:09:55+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;Are there any decentralized/Web3 alternative social media platforms like Tiktok?&lt;/h1&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Artistic-Compote1968&quot;&gt; /u/Artistic-Compote1968 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t58jc4/web3_alternative_social_media/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t58jc4/web3_alternative_social_media/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>短期缺芯片，长期缺能源，永远缺存储</title>
-      <link>https://www.reddit.com/r/web3/comments/1t54d8r/短期缺芯片长期缺能源永远缺存储/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t54d8r/短期缺芯片长期缺能源永远缺存储/</guid>
-      <pubDate>2026-05-06T06:04:14+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;闪迪，海力士，孙宇晨又封神了！孙割之前说，短期缺芯片，长期缺能源，永远缺存储。&lt;/p&gt; &lt;p&gt;半年后的今天，全部应验。&lt;/p&gt; &lt;p&gt;闪迪暴涨到1100+ 海力士这几天伴随着战争态势缓和也是爆涨。&lt;/p&gt; &lt;p&gt;能源一类，（电能为主）包括gev在内也都有不错的涨幅。&lt;/p&gt; &lt;p&gt;可以这么说，整个ai这轮大行情，从头部到尾部，整个生态都涨了非常多，相信的人吃的饱饱，不相信的看的心痒难耐。&lt;/p&gt; &lt;p&gt;怕高都是苦命人在这一刻具象化了。&lt;/p&gt; &lt;p&gt;而大饼子三个月了，波动仅仅20%，以至于大量的流动性，都跑到上面我说的这些美股里面去了。&lt;/p&gt; &lt;p&gt;再加上没啥新东西，只有lab这样的合约收割机，以至于我看很多深圳的原本的web3工作室都转型去带人港股开户打新了。&lt;/p&gt; &lt;p&gt;兄弟姐妹们有空去香港玩的时候顺便搞一下，我这半年多也中了几个，港股打新没有持仓要求，相当于0成本搏运气了。&lt;/p&gt; &lt;p&gt;而ai的泡沫什么时候破裂，是很多人关注的事情，根据以往的规律，当你深信不疑的时候，就是最后破裂的时刻。&lt;/p&gt; &lt;p&gt;这很...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Natural language interfaces for blockchain transactions are inevitable, but we're nowhere near ready for them yet</title>
-      <link>https://www.reddit.com/r/web3/comments/1t4bbey/natural_language_interfaces_for_blockchain/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t4bbey/natural_language_interfaces_for_blockchain/</guid>
-      <pubDate>2026-05-05T10:21:54+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been thinking about this a lot after spending time building systems where users interact with blockchain protocols through plain English commands rather than traditional UIs.&lt;/p&gt; &lt;p&gt;The idea is simple enough, instead of asking someone to understand gas limits, slippage tolerance, and transaction signing, they just type &amp;quot;buy $500 of ETH when it drops below $3000&amp;quot; and the system handles everything underneath.&lt;/p&gt; &lt;p&gt;On the surface it works. In practice t...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Would any of you use any of this?</title>
-      <link>https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/</guid>
-      <pubDate>2026-05-04T23:28:15+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So what I made is a decentralized cloud marketplace with reviews, don't know if any of you would use it, won't mention it for now&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Express_Shine_348&quot;&gt; /u/Express_Shine_348 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>No, personal websites aren’t dead.</title>
-      <link>https://www.reddit.com/r/web3/comments/1t3xdo9/no_personal_websites_arent_dead/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t3xdo9/no_personal_websites_arent_dead/</guid>
-      <pubDate>2026-05-04T22:47:24+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I saw a post that says our personal websites are dead. I think that’s a lie told by people who want to charge you rent. Managing your own brand via a website and email list is the only way to escape the &amp;quot;hustle culture&amp;quot; cycle of third-party marketing you can’t control. It’s about independence...&lt;br /&gt; Which side are you on?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SheepherderSea8692&quot;&gt; /u/SheepherderSea8692 ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>USDC &amp; Smart Contracts on Web3</title>
-      <link>https://www.reddit.com/r/web3/comments/1t35u3d/usdc_smart_contracts_on_web3/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t35u3d/usdc_smart_contracts_on_web3/</guid>
-      <pubDate>2026-05-04T03:08:34+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Does anyone have any familiarity with randomly being entered into a USDC “Smart Contract”? &lt;/p&gt; &lt;p&gt;Last week, I went into my On Chain wallet and saw my USDC principal of 11,200 just disappear. &lt;/p&gt; &lt;p&gt;I go into Web3 USDC D’app and see a message from customer service saying “ congrats you have been randomly selected to participate in a smart contract and gifted 80000 USDC. This contract is valued at 150000, so I have to come up with the remainder to complete the ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Bitsocial - Open Source P2P Network for Social Apps IPFS Based</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1t2pah7/bitsocial_open_source_p2p_network_for_social_apps/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1t2pah7/bitsocial_open_source_p2p_network_for_social_apps/</guid>
-      <pubDate>2026-05-03T15:57:51+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1t2pah7/bitsocial_open_source_p2p_network_for_social_apps/&quot;&gt; &lt;img alt=&quot;Bitsocial - Open Source P2P Network for Social Apps IPFS Based&quot; src=&quot;https://external-preview.redd.it/Ncx8p1RupqPAPbDJ1sw5HSZzi54q9GONpmWvLnvf_sA.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=250b58890a2bded69ea5ad6c17d18c24201a025e&quot; title=&quot;Bitsocial - Open Source P2P Network for Social Apps IPFS Based&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;http...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Specification IPFS - Bittorrent</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1t2n1m3/specification_ipfs_bittorrent/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1t2n1m3/specification_ipfs_bittorrent/</guid>
-      <pubDate>2026-05-03T14:32:01+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1t2n1m3/specification_ipfs_bittorrent/&quot;&gt; &lt;img alt=&quot;Specification IPFS - Bittorrent&quot; src=&quot;https://external-preview.redd.it/nIV9gyl2cPcBs1RCMxrLgo3FmSrrHPS03PTZ-zs4nRs.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b74626c7e773408eb5e0d84ad99745644282af7d&quot; title=&quot;Specification IPFS - Bittorrent&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone,&lt;/p&gt; &lt;p&gt;I'm willing to create a gateway between IPFS and Bitorrent V2. ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Looks like web3 is about profiting on the speed of ignorance.</title>
-      <link>https://www.reddit.com/r/web3/comments/1t2d7tc/looks_like_web3_is_about_profiting_on_the_speed/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t2d7tc/looks_like_web3_is_about_profiting_on_the_speed/</guid>
-      <pubDate>2026-05-03T06:04:40+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It’s unfortunate, but it’s like the more people who are ignorant about how the infrastructure works, the more likely they’ll invest into the hype and lose money on the other side. And I think the worst thing is that people are like “yup, that’s the game”.&lt;/p&gt; &lt;p&gt;Reminds me of the young guy who is happy they stole from their grandfather’s pension; and then they misspent the money and was like “whoops. Well grandpa shouldn’t have been so dumb”.&lt;/p&gt; &lt;p&gt;So I’m hopin...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Is anyone actually building for Bitcoin native users or does everything still default to ETH?</title>
-      <link>https://www.reddit.com/r/web3/comments/1szxnec/is_anyone_actually_building_for_bitcoin_native/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1szxnec/is_anyone_actually_building_for_bitcoin_native/</guid>
-      <pubDate>2026-04-30T14:27:16+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Something I keep running into: most on-chain tools assume Ethereum as the base layer. EVM wallets, Solidity, bridge everything else.&lt;/p&gt; &lt;p&gt;But there is a real segment of people who came in through Bitcoin, run their own nodes, think in UTXOs, and genuinely have no interest in touching ETH.&lt;/p&gt; &lt;p&gt;The interesting thing is most Bitcoin to ETH bridges still treat Bitcoin as a source of liquidity to move somewhere else. Nobody seems to be building the other directi...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>On-ramps and crypto aggregators aren't the same thing, and mixing them up stalls integrations</title>
-      <link>https://www.reddit.com/r/web3/comments/1szwpjq/onramps_and_crypto_aggregators_arent_the_same/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1szwpjq/onramps_and_crypto_aggregators_arent_the_same/</guid>
-      <pubDate>2026-04-30T13:51:59+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A category confusion that slows down a lot of Web3 product builds: treating stablecoin on-ramps and crypto account aggregators as interchangeable. They solve different problems and integrating the wrong one can cost weeks.&lt;/p&gt; &lt;p&gt;A crypto aggregator (the Plaid-for-crypto model) connects to wallets and exchange accounts the user already has. It reads balances, can move funds between accounts the user controls, and requires no KYC for new buyers. It also does no f...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>How do you compare smart contract security tools?</title>
-      <link>https://www.reddit.com/r/web3/comments/1szbpzr/how_do_you_compare_smart_contract_security_tools/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1szbpzr/how_do_you_compare_smart_contract_security_tools/</guid>
-      <pubDate>2026-04-29T21:08:25+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I keep running into this problem. Every tool claims critical vuln detection. Every scanner has a hero case study. Every AI audit product shows a nice report.&lt;/p&gt; &lt;p&gt;But for a dev team trying to decide what to add before an audit — what's the real basis for comparison?&lt;br /&gt; Too often: reputation + vibes + better landing page.&lt;/p&gt; &lt;p&gt;We need public benchmarking. Test everyone on identical cases.&lt;/p&gt; &lt;p&gt;EVMBench is the best reference I've found. What benchmarks ar...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Web3 multi-chain search is close to debut</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sz3uu2/web3_multichain_search_is_close_to_debut/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sz3uu2/web3_multichain_search_is_close_to_debut/</guid>
-      <pubDate>2026-04-29T16:29:23+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200b;&lt;/p&gt; &lt;p&gt;Built to bring wallet lookup, decentralized search, and community discussion into one place.&lt;/p&gt; &lt;p&gt;Most Web3 tools do one thing well and leave the rest fragmented. You check a wallet in one place, search assets somewhere else, and if you want context or discussion, you are forced to dig through Discord, Telegram, X, or Reddit to piece it together yourself.&lt;/p&gt; &lt;p&gt;This was built to solve that problem.&lt;/p&gt; &lt;p&gt;Search wallets. Explore decentralized ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The part of crypto payment UX that's actually an infrastructure problem</title>
-      <link>https://www.reddit.com/r/web3/comments/1sytwqr/the_part_of_crypto_payment_ux_thats_actually_an/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1sytwqr/the_part_of_crypto_payment_ux_thats_actually_an/</guid>
-      <pubDate>2026-04-29T09:35:24+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most crypto payment UX problems aren't design problems. They're infrastructure problems wearing a design costume.&lt;/p&gt; &lt;p&gt;Users don't want to pick a chain. They don't want to think about gas, slippage, or whether their wallet supports the destination network. They want to complete a payment. If they have to make three technical decisions to get there, your conversion rate reflects it.&lt;/p&gt; &lt;p&gt;The fix isn't better copy or a cleaner UI. It's infrastructure that hand...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Access .eth websites without IPFS gateways</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sx0lhe/access_eth_websites_without_ipfs_gateways/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sx0lhe/access_eth_websites_without_ipfs_gateways/</guid>
-      <pubDate>2026-04-27T11:15:12+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sx0lhe/access_eth_websites_without_ipfs_gateways/&quot;&gt; &lt;img alt=&quot;Access .eth websites without IPFS gateways&quot; src=&quot;https://external-preview.redd.it/q9mnXt_XpnBX1G9EsdCcfDOEYvcwxmephfpJLwUjnRQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b7173e28f3f93d68880cf26b31a84a0e049179d7&quot; title=&quot;Access .eth websites without IPFS gateways&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/oed_&quot;&gt; /u/oed_ &lt;/a&gt; &lt;br ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>the exodus from retail-facing yield protocols to institutional infra is starting to look permanent</title>
-      <link>https://www.reddit.com/r/web3/comments/1svjx77/the_exodus_from_retailfacing_yield_protocols_to/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1svjx77/the_exodus_from_retailfacing_yield_protocols_to/</guid>
-      <pubDate>2026-04-25T18:30:32+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;spent the morning digging through some of the more active web3 github repos and the migration patterns are pretty stark right now. the devs who were building high-frequency retail dapps a year ago seem to be pivoting hard toward closed-door, institutional-grade infrastructure.&lt;/p&gt; &lt;p&gt;it feels like the &amp;quot;move fast and break things&amp;quot; era of web3 is getting replaced by a much more conservative, compliance-heavy approach. i saw a ton of commit activity from ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Beta Tester Wanted</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1suz86v/beta_tester_wanted/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1suz86v/beta_tester_wanted/</guid>
-      <pubDate>2026-04-25T02:08:50+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1suz86v/beta_tester_wanted/&quot;&gt; &lt;img alt=&quot;Beta Tester Wanted&quot; src=&quot;https://preview.redd.it/4kshd9kxv8xg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c11a7ef95311a87d8540295ef778910ddac6d615&quot; title=&quot;Beta Tester Wanted&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you use IPFS, you will lokebwhatbi buikt&lt;/p&gt; &lt;p&gt;DM me if you are interested.&lt;/p&gt; &lt;p&gt;Thanks,&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https:/...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Most stablecoin payment APIs are built for crypto native products and it shows the moment you try to build something for users who don't know what a wallet is</title>
-      <link>https://www.reddit.com/r/web3/comments/1suj48h/most_stablecoin_payment_apis_are_built_for_crypto/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1suj48h/most_stablecoin_payment_apis_are_built_for_crypto/</guid>
-      <pubDate>2026-04-24T15:33:36+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Evaluating stablecoin payment APIs for a B2B payment product targeting traditional businesses and the gap between what the API documentation assumes about your users and what your users actually are is significant. Most of the documentation assumes the sender has a wallet, understands stablecoins and is comfortable with blockchain transaction concepts. Our users are finance teams at mid-market companies. They approve payments in their AP system and expect funds ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Release v0.41.0 · ipfs/kubo</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1suewg3/release_v0410_ipfskubo/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1suewg3/release_v0410_ipfskubo/</guid>
-      <pubDate>2026-04-24T12:53:10+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;📂 FUSE mount rewrite ✨ New `ipfs cid inspect` 🔄 Built-in `ipfs update` command 🔀 `+unique` &amp;amp; `+entities` provide modifiers 🗑️ Faster provide queue reclamation 🐹 Go 1.26 is back + perf fixes ..and more!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lidel&quot;&gt; /u/lidel &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://github.com/ipfs/kubo/releases/tag/v0.41.0&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Is web3 security finally moving from “finding issues” to “proving exploits”?</title>
-      <link>https://www.reddit.com/r/web3/comments/1stwq88/is_web3_security_finally_moving_from_finding/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1stwq88/is_web3_security_finally_moving_from_finding/</guid>
-      <pubDate>2026-04-23T21:55:49+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been thinking a lot about how security workflows in web3 are evolving.&lt;/p&gt; &lt;p&gt;For a long time, the focus has mostly been on detection: run tools, scan contracts, flag suspicious patterns, then manually review findings. That part has definitely improved over the years, especially with better static analysis and broader coverage.&lt;/p&gt; &lt;p&gt;But what still feels inconsistent is validation. A lot of findings get treated as confirmed issues without ever being fully ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>NFT et revenus, est ce le prochain stade de l'économie mondiale ?</title>
-      <link>https://www.reddit.com/r/NFT/comments/1ssnrxq/nft_et_revenus_est_ce_le_prochain_stade_de/</link>
-      <guid>https://www.reddit.com/r/NFT/comments/1ssnrxq/nft_et_revenus_est_ce_le_prochain_stade_de/</guid>
-      <pubDate>2026-04-22T14:51:16+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;« Je suis un artiste, je peins. Mon intérêt est de peindre, pas de produire ; le principe n’est donc pas la vente. Je diffuse à tour de bras mes œuvres sur les blogs, chats et autres applications, dont Reddit. Mes œuvres peuvent-elles être considérées comme des NFT ?&lt;/p&gt; &lt;p&gt;Cette première question appelle la suivante : comment en tirer un revenu ?&lt;/p&gt; &lt;p&gt;Le clou final : quand les États se rendront compte qu’il y a un manque à gagner sur ce genre de &amp;quot;produit...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Improve censorship-resilient Wikipedia on IPFS – a proposal for the Wikimedia &amp; IPFS communities (e.g. add search functionality)</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sqpqmn/improve_censorshipresilient_wikipedia_on_ipfs_a/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sqpqmn/improve_censorshipresilient_wikipedia_on_ipfs_a/</guid>
-      <pubDate>2026-04-20T13:43:17+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sqpqmn/improve_censorshipresilient_wikipedia_on_ipfs_a/&quot;&gt; &lt;img alt=&quot;Improve censorship-resilient Wikipedia on IPFS – a proposal for the Wikimedia &amp;amp; IPFS communities (e.g. add search functionality)&quot; src=&quot;https://external-preview.redd.it/LChQXKJGe2YwEWm32hEcbVhQkQkTBhgnZAoCMtyBFvc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5eb225fa5ee54aaa49bde935801b35c1cc873cf4&quot; title=&quot;Improve censorship-resilient Wikipedia on IPFS – a p...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Vitalik Buterin Warns Users After eth.limo DNS Hijack</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sqmu08/vitalik_buterin_warns_users_after_ethlimo_dns/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sqmu08/vitalik_buterin_warns_users_after_ethlimo_dns/</guid>
-      <pubDate>2026-04-20T11:42:20+00:00</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Zopheus_&quot;&gt; /u/Zopheus_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://beincrypto.com/eth-limo-dns-hijack-vitalik-warning/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sqmu08/vitalik_buterin_warns_users_after_ethlimo_dns/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Solving the &quot;last pinner drops it&quot; problem without Filecoin's 6-month sector model</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sommzk/solving_the_last_pinner_drops_it_problem_without/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sommzk/solving_the_last_pinner_drops_it_problem_without/</guid>
-      <pubDate>2026-04-18T03:42:51+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been building aevia, a protocol that separates persistence from distribution for video content. The persistence layer is what I want feedback on here - it's aimed at the exact economic gap IPFS has always had.&lt;/p&gt; &lt;p&gt;The gap. IPFS doesn't compensate pinning. Content disappears when the last pinner drops it. Filecoin solved this, but for cold archival - 6–12 month deals, large sector sizes, retrieval as a separate market. That model doesn't fit video playbac...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>How can I download a video from an ipfs link to iPhone.</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sfahh5/how_can_i_download_a_video_from_an_ipfs_link_to/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sfahh5/how_can_i_download_a_video_from_an_ipfs_link_to/</guid>
-      <pubDate>2026-04-07T22:13:55+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Any way to do it?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TradScape&quot;&gt; /u/TradScape &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sfahh5/how_can_i_download_a_video_from_an_ipfs_link_to/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sfahh5/how_can_i_download_a_video_from_an_ipfs_link_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Browsing IPFS?</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sdw6gw/browsing_ipfs/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sdw6gw/browsing_ipfs/</guid>
-      <pubDate>2026-04-06T11:28:16+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;are there any ways to browse ipfs net?&lt;br /&gt; can i see what people around the world are sharing?&lt;/p&gt; &lt;p&gt;i am learning the technology and dont know much about it. is this even possible?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Academic-Wallaby6374&quot;&gt; /u/Academic-Wallaby6374 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sdw6gw/browsing_ipfs/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Engineer Uses IPFS to Protect Lawful Narrative of Alleged Discrimination from Apple</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sa3unr/engineer_uses_ipfs_to_protect_lawful_narrative_of/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sa3unr/engineer_uses_ipfs_to_protect_lawful_narrative_of/</guid>
-      <pubDate>2026-04-02T01:34:28+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sa3unr/engineer_uses_ipfs_to_protect_lawful_narrative_of/&quot;&gt; &lt;img alt=&quot;Engineer Uses IPFS to Protect Lawful Narrative of Alleged Discrimination from Apple&quot; src=&quot;https://external-preview.redd.it/DI3Hy2DulnS4OGbh2BpfiaEM5cHHL1rSK-Dr8agO5No.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=86972fe3100d96a083366e1b22dac70007b2e822&quot; title=&quot;Engineer Uses IPFS to Protect Lawful Narrative of Alleged Discrimination from Apple&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Optimistic Provide: How We Made IPFS Content Publishing 10x Faster</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1s1hezt/optimistic_provide_how_we_made_ipfs_content/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1s1hezt/optimistic_provide_how_we_made_ipfs_content/</guid>
-      <pubDate>2026-03-23T13:50:14+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi folks,&lt;/p&gt; &lt;p&gt;Publishing content in Distributed Hash Tables (DHTs) has traditionally been a slow operation, especially when&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;the network is large, and &lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;the nodes participating in the network are churning frequently.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;The case is no different for IPFS’s Amino DHT, which meets both of these conditions. We, the ProbeLab team, proposed an optimisation that was shown to improve performance, i.e., reduce the content p...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>OpenClaw backed by IPFS</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1rwd1dj/openclaw_backed_by_ipfs/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1rwd1dj/openclaw_backed_by_ipfs/</guid>
-      <pubDate>2026-03-17T17:24:13+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1rwd1dj/openclaw_backed_by_ipfs/&quot;&gt; &lt;img alt=&quot;OpenClaw backed by IPFS&quot; src=&quot;https://external-preview.redd.it/ZvYcoeGn3lmr2Udq9pchCNgB8W_qPiDyR0OmncAGb0U.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a4406bb3824d53099c293e7bda7b7e4cebdf53ec&quot; title=&quot;OpenClaw backed by IPFS&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/kyletut&quot;&gt; /u/kyletut &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://agents.pinata.cloud&quot;&gt;[li...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -592,25 +95,567 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>IPFS OCI Registry update: federation policy + private swarm support</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1rokc4f/ipfs_oci_registry_update_federation_policy/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1rokc4f/ipfs_oci_registry_update_federation_policy/</guid>
-      <pubDate>2026-03-08T23:42:52+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Update on the IPFS-backed container registry&lt;/p&gt; &lt;p&gt;The obvious concern with federating container images is proprietary code leaking out. So, built controls around it&lt;/p&gt; &lt;p&gt;Federation policy: you control exactly what gets shared. Pull nginx from Docker Hub? That gets announced to IPFS peers — everyone benefits. Push your company's internal app? Stays private by default. Want to explicitly share something? Push to the public/ namespace. Simple opt-in. Private sw...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
+      <title>This Is Fine (Until the Grant Runs Out)</title>
+      <link>https://blog.ethereum.org/en/2026/02/27/project-odin</link>
+      <guid>https://blog.ethereum.org/en/2026/02/27/project-odin</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+      <description>The commons called. It wants a runway.  Every so often, in the blockchain world’s usual cycle of funding scares, a team maintaining a widely used open source public good declares mayday. Libp2p is a core infrastructure stack that powers multiple Ethereum clients (among others) and a large part of...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Help Build Thing That Will Change the World</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1roiuld/help_build_thing_that_will_change_the_world/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1roiuld/help_build_thing_that_will_change_the_world/</guid>
-      <pubDate>2026-03-08T22:41:03+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1roiuld/help_build_thing_that_will_change_the_world/&quot;&gt; &lt;img alt=&quot;Help Build Thing That Will Change the World&quot; src=&quot;https://preview.redd.it/3bnmd1afdwng1.png?width=140&amp;amp;height=118&amp;amp;auto=webp&amp;amp;s=96c7e8a147de3b5c1c196a19521ea386c29df629&quot; title=&quot;Help Build Thing That Will Change the World&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/EagleApprehensive&quot;&gt; /u/EagleApprehensive &lt;/a&gt; &lt;br /&gt; &lt;span&gt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
+      <title>Content-Addressing: A Year In Review</title>
+      <link>https://blog.ipfs.tech/2026-01-year-in-review/</link>
+      <guid>https://blog.ipfs.tech/2026-01-year-in-review/</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Let's take a look at what happened in content addressing in 2025 — it's a lot!</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>How to Migrate IPFS Websites from Fleek to Modular Infrastructure</title>
+      <link>https://blog.ipfs.tech/2026-fleek-migration/</link>
+      <guid>https://blog.ipfs.tech/2026-fleek-migration/</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <description>A how-to guide for future-proofing your content-addressed website hosting.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Datahosting.company ipfs cryptocurency cloud storage ipfs kubo, ipfs cluster #ipfs #web3 #nft #p2p</title>
+      <link>https://www.youtube.com/shorts/B4XRhAT3wyw</link>
+      <guid>https://www.youtube.com/shorts/B4XRhAT3wyw</guid>
+      <pubDate>2026-01-02T17:06:21+00:00</pubDate>
+      <description/>
+      <category>DataHosting.Company</category>
+      <category>our content</category>
+      <category>original content</category>
+      <category>company updates</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Shipyard 2025: IPFS Year in Review</title>
+      <link>https://ipshipyard.com/blog/2025-shipyard-ipfs-year-in-review/</link>
+      <guid>https://ipshipyard.com/blog/2025-shipyard-ipfs-year-in-review/</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+      <description>Seven Kubo releases made self-hosted IPFS practical. Highlights: DHT Provide Sweep, AutoTLS, HTTP retrieval, and Helia for trustless browser retrieval.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Provide Sweep: Solving the DHT Bottleneck for Self-Hosting IPFS at Scale</title>
+      <link>https://ipshipyard.com/blog/2025-dht-provide-sweep/</link>
+      <guid>https://ipshipyard.com/blog/2025-dht-provide-sweep/</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+      <description>Provide Sweep: Solving the DHT Bottleneck for Self-Hosting IPFS at Scale</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Faster Peer-to-Peer Retrieval in Browsers With Caching in the Delegated Routing HTTP Server</title>
+      <link>https://blog.ipfs.tech/2025-delegated-routing-caching/</link>
+      <guid>https://blog.ipfs.tech/2025-delegated-routing-caching/</guid>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+      <description>How caching and active peer probing in the Someguy, the Delegated Routing server accelerates peer-to-peer content retrieval in browsers and mobile applications.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Celebrating 10 Years of Ethereum</title>
+      <link>https://blog.ethereum.org/en/2025/07/30/ethereum-10-years</link>
+      <guid>https://blog.ethereum.org/en/2025/07/30/ethereum-10-years</guid>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+      <description>On July 30, 2025, the Ethereum community marked a major milestone: ten years since the Ethereum’s genesis block and mainnet launch.  What began as a whitepaper has evolved into a decentralized platform now powering thousands of applications, tools, and communities around the world....</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Debugging Superpowers With the New js-libp2p Developer Tools</title>
+      <link>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</link>
+      <guid>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</guid>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Discover the new js-libp2p developer tools from Shipyard that provide real-time debugging capabilities for js-libp2p and Helia nodes in both browsers and Node.js.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Checkpoint #4: Berlinterop</title>
+      <link>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</link>
+      <guid>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+      <description>Ethereum’s weekly All Core Developer calls are a lot to keep up with, so this &quot;Checkpoint&quot; series aims for high-level updates depending on what’s happening in core development. See the previous update here.  This is a special edition of the series!  Kicking off Berlin Blockchain Week, ethereum core...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>🌳 IPFS Newsletter 205: HTTP, P2P in browsers, Kubo speedup &amp; more</title>
+      <link>https://blog.ipfs.tech/newsletter-205/</link>
+      <guid>https://blog.ipfs.tech/newsletter-205/</guid>
+      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+      <description>The IPFS Newsletter is back, with many exciting updates to share: HTTP support across the IPFS stack, P2P in browsers, Kubo speedup, and more.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing the Trillion Dollar Security Initiative</title>
+      <link>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</link>
+      <guid>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+      <description>Ethereum is the most secure blockchain ecosystem. This is the result of 10 years of progress and iteration across every level of Ethereum’s technology stack, from wallet UX to developer tooling to consensus protocol security.  But being the most secure platform in the crypto ecosystem isn’t enough. Ethereum’s ambition...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Spring 2025 IPFS Utility Grantees</title>
+      <link>https://blog.ipfs.tech/2025-05-grants/</link>
+      <guid>https://blog.ipfs.tech/2025-05-grants/</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <description>We're delighted to announce the grantees for the Spring 2025 round of IPFS Utility Grants.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum University Tour</title>
+      <link>https://blog.ethereum.org/en/2025/04/30/uni-tour</link>
+      <guid>https://blog.ethereum.org/en/2025/04/30/uni-tour</guid>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <description>Are you part of a university blockchain club eager to dive deeper into the world of Ethereum? We want to connect with you!  The Ethereum Foundation is sponsoring a global University Tour in partnership with BuidlGuidl, designed to activate student communities and grow the next generation of Ethereum builders....</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The Static Website Manifesto</title>
+      <link>https://blog.ipfs.tech/2025-03-static-web-manifesto/</link>
+      <guid>https://blog.ipfs.tech/2025-03-static-web-manifesto/</guid>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+      <description>Building websites used to be fun. Let’s bring back the joy of putting your work online by using open protocols like IPFS.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Could IPFS Have Prevented the Bybit Hack?</title>
+      <link>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</link>
+      <guid>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <description>The Bybit hack revealed several security failures, this post examines whether IPFS could have helped prevent the hack and practical solutions for dapp developers.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The latest chapter for Ethereum &amp; highlights from Devcon SEA</title>
+      <link>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</link>
+      <guid>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</guid>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <description>Devcon has always been a living reflection of Ethereum’s growth, challenges, and community ambitions. It showcases the most pressing topics, the newest innovations, and the people building the future of decentralized technology. As Ethereum grows, so too does Devcon.  Two years ago, right before Devcon VI in Bogotá, the...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS on the Web in 2024: Update From Interplanetary Shipyard</title>
+      <link>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</link>
+      <guid>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</guid>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <description>Update from Interplanetary Shipyard on our efforts to make IPFS work on the Web.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Improved Debugging with IPFS Check</title>
+      <link>https://blog.ipfs.tech/ipfs-check/</link>
+      <guid>https://blog.ipfs.tech/ipfs-check/</guid>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <description>IPFS Check is a debugging tool for IPFS Mainnet. It helps you check if data is routable and retrievable by CID on IPFS Mainnet.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Migrating from Brave to IPFS Desktop</title>
+      <link>https://blog.ipfs.tech/2024-brave-migration-guide/</link>
+      <guid>https://blog.ipfs.tech/2024-brave-migration-guide/</guid>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+      <description>Complete Guide to Migrating Your IPFS Data</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS News Issue 204</title>
+      <link>https://blog.ipfs.tech/newsletter-204/</link>
+      <guid>https://blog.ipfs.tech/newsletter-204/</guid>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <description>Welcome to IPFS News 204! Featuring @helia/verified-fetch and the IPFS Camp 2024 track list.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Verified IPFS Retrieval in Browsers with @helia/verified-fetch</title>
+      <link>https://blog.ipfs.tech/verified-fetch/</link>
+      <guid>https://blog.ipfs.tech/verified-fetch/</guid>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+      <description>Verified Fetch is a library streamlining verified retrieval of IPFS content in browsers and JS runtimes, with native support for IPNS, and DNSLink resolution</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing the IPFS Camp 2024 Track List</title>
+      <link>https://blog.ipfs.tech/ipfs-camp-2024-track-list/</link>
+      <guid>https://blog.ipfs.tech/ipfs-camp-2024-track-list/</guid>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <description>To give you a taste of what kinds of topics IPFS Camp will cover this year, we’re excited to share the 2024 track list!</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS &amp; libp2p Devs Go Independent: Meet Interplanetary Shipyard</title>
+      <link>https://blog.ipfs.tech/shipyard-hello-world/</link>
+      <guid>https://blog.ipfs.tech/shipyard-hello-world/</guid>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
+      <description>Meet the team behind Interplanetary Shipyard, the newly created entity of many core maintainers behind the most popular implementations of IPFS and libp2p.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS News Issue 203</title>
+      <link>https://blog.ipfs.tech/newsletter-203/</link>
+      <guid>https://blog.ipfs.tech/newsletter-203/</guid>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+      <description>Featuring more news about IPFS Camp 2024! 🏕️</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS News Issue 202</title>
+      <link>https://blog.ipfs.tech/newsletter-202/</link>
+      <guid>https://blog.ipfs.tech/newsletter-202/</guid>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <description>Featuring the announcement of IPFS Camp 2024 and pre-reregistration for this year's exciting event!</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Run a Node Grants Round Grantee Announcement</title>
+      <link>https://blog.ethereum.org/en/2023/12/06/run-a-node-grantee</link>
+      <guid>https://blog.ethereum.org/en/2023/12/06/run-a-node-grantee</guid>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+      <description>The Run A Node Grants Round wanted to reach different users exploring blockchain, learning, community efforts, and research purposes. The aim of this round was to encourage the exploration of a diverse range of ideas for operating nodes beyond running a validator, such as facilitating data queries for research, examining...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Beyond Borders - Unveiling Potential of Blockchain in a Crisis</title>
+      <link>https://blog.ethereum.org/en/2023/11/15/beyond-borders-nb</link>
+      <guid>https://blog.ethereum.org/en/2023/11/15/beyond-borders-nb</guid>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+      <description>Crisis is a cruel teacher. It can draw us together in our shared fragility, but paradoxically it can also distance us from our shared humanity. In times of great crisis, the institutions and structures of society that are supposed to protect and support us may become twisted, corrupted, or rendered...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Scouting for the Future: Technology and the Scouting Movement</title>
+      <link>https://blog.ethereum.org/en/2023/05/01/scouting-future-movement</link>
+      <guid>https://blog.ethereum.org/en/2023/05/01/scouting-future-movement</guid>
+      <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+      <description>Hello everyone! My name is Mihajlo, and over the past six months as part of my Next Billion Fellowship, I’ve been working to bring the benefits of Web3 to the World Scouting Movement.  Growing up in Serbia in the '90s, I experienced firsthand the devastating effects that wars and...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing Grants Round for Academic Research</title>
+      <link>https://blog.ethereum.org/en/2022/03/01/academic-grants-round</link>
+      <guid>https://blog.ethereum.org/en/2022/03/01/academic-grants-round</guid>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+      <description>We are excited to announce a new wave of grants to fund formal research that aims to create more knowledge about Ethereum, blockchain technology, and related domains. We encourage academics, research centers, PhD Students and all those interested in researching Ethereum to submit their project proposals. This grants round has...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing Grants for Advocacy Non-Profits</title>
+      <link>https://blog.ethereum.org/en/2021/11/16/advocacy-grants</link>
+      <guid>https://blog.ethereum.org/en/2021/11/16/advocacy-grants</guid>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+      <description>The Ethereum Foundation is allocating 1 million USD in grant funding to organizations that educate governments and policymakers about Ethereum and blockchain technology. We encourage others in the Ethereum community to support their important work....</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Core Developer Apprenticeship Program: The Second Cohort</title>
+      <link>https://blog.ethereum.org/en/2021/09/06/core-dev-apprenticeship-second-cohort</link>
+      <guid>https://blog.ethereum.org/en/2021/09/06/core-dev-apprenticeship-second-cohort</guid>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
+      <description>Does development of the core protocols that power the Ethereum blockchain excite you? Are you interested in getting involved at the most fundemental and technical levels of the Ethereum protocol?  I am excited to announce that we are now accepting applications for the second cohort of the Core Developer...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The 1.x Files: GHOST in the Stack Machine</title>
+      <link>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</link>
+      <guid>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</guid>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 GMT</pubDate>
+      <description>Ethereum can be simple enough to understand from a bird's-eye view: Decentralized applications powered by the same sort of crypto-economic guarantees that underpin Bitcoin. But once you've zoomed in to, say, a street-level view, things get complicated rapidly.  Even assuming one has a strong grasp on proof-of-work, it's not...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing World Trade Francs: The Official Ethereum Stablecoin</title>
+      <link>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</link>
+      <guid>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</guid>
+      <pubDate>Sun, 01 Apr 2018 15:35:26 GMT</pubDate>
+      <description>We have long recognized that in order for cryptocurrency to reach mass adoption, a form of cryptocurrency that has higher price stability than existing cryptocurrencies like BTC and ETH would be needed so that people can use the currency to store funds and engage in commerce without worrying about their...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing Beneficiaries of the Ethereum Foundation Grants</title>
+      <link>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</link>
+      <guid>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</guid>
+      <pubDate>Wed, 07 Mar 2018 17:54:33 GMT</pubDate>
+      <description>We’re excited to share the results of the first wave of grants from the Ethereum Foundation.  As a reminder, the Ethereum project seeks to support useful dapps and smart contracts on the Ethereum blockchain, and the goal of the Ethereum Foundation is to empower developers with best-in-class R&amp;amp;D, developer...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum scalability research and development subsidy programs</title>
+      <link>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</link>
+      <guid>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</guid>
+      <pubDate>Tue, 02 Jan 2018 17:42:21 GMT</pubDate>
+      <description>The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Q4 Roundup</title>
+      <link>https://blog.ethereum.org/en/2018/01/02/q4-roundup</link>
+      <guid>https://blog.ethereum.org/en/2018/01/02/q4-roundup</guid>
+      <pubDate>Tue, 02 Jan 2018 15:27:18 GMT</pubDate>
+      <description>Ethereum has grown very rapidly in the last few months. Transaction volume on the blockchain has more than doubled, surpassing 10 transactions per second for days at a time. The number of new accounts created per day passed 100,000&lt;span style=&quot;font-w...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum JS Ecosystem Updates</title>
+      <link>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</link>
+      <guid>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</guid>
+      <pubDate>Tue, 21 Mar 2017 03:11:39 GMT</pubDate>
+      <description>It's been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay's excellent write up here.  Also, during this time Aaron Davis (Kumavis) made s...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>An Update on Integrating Zcash on Ethereum (ZoE)</title>
+      <link>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</link>
+      <guid>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</guid>
+      <pubDate>Thu, 19 Jan 2017 17:57:54 GMT</pubDate>
+      <description>Members of the Ethereum R&amp;amp;D team and the Zcash Company are collaborating on a research project addressing the combination of programmability and privacy in blockchains. This joint post is being concurrently posted on the Zcash blog, and is coauthored by Ariel Gabizon (Zcash) and Christian Reitwiessner (Ethereum).  Ethereum’s flexible smart...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Uncle Rate and Transaction Fee Analysis</title>
+      <link>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</link>
+      <guid>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</guid>
+      <pubDate>Mon, 31 Oct 2016 03:52:04 GMT</pubDate>
+      <description>One of the important indicators of how much load the Ethereum blockchain can safely handle is how the uncle rate responds to the gas usage of a transaction. In all blockchains of the Satoshian proof-of-work variety, any block that is published has the risk of howbecoming a &quot;stale&quot;, ie. not...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>On Inflation, Transaction Fees and Cryptocurrency Monetary Policy</title>
+      <link>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</link>
+      <guid>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</guid>
+      <pubDate>Wed, 27 Jul 2016 17:00:00 GMT</pubDate>
+      <description>The primary expense that must be paid by a blockchain is that of security. The blockchain must pay miners or validators to economically participate in its consensus protocol, whether proof of work or proof of stake, and this inevitably incurs some cost. There are two ways to pay for this...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Taylor’s Summer Update</title>
+      <link>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</link>
+      <guid>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</guid>
+      <pubDate>Mon, 11 Jul 2016 16:05:58 GMT</pubDate>
+      <description>Hey everyone, I spent some time with our Canadian friends in Toronto after presenting &quot;Ethereum: The World Computer&quot; at Blockchain Training Conference last month and I wanted to provide a quick update on some of the exciting happenings in the Ethereum dev ecosystem. Lots of things are brewing behinds the...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>On Settlement Finality</title>
+      <link>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</link>
+      <guid>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</guid>
+      <pubDate>Mon, 09 May 2016 08:07:25 GMT</pubDate>
+      <description>Special thanks to Tim Swanson for reviewing, and for further discussions on the arguments in his original paper on settlement finality.  Recently one of the major disputes in ongoing debate between public blockchain and permissioned blockchain proponents is the issue of settlement finality. One of the simple properties that...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum Foundation and Wanxiang Blockchain Labs announce a blockbuster event combining Devcon2 and the 2nd Global Blockchain Summit in Shanghai, September 19–24, 2016</title>
+      <link>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</link>
+      <guid>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</guid>
+      <pubDate>Tue, 05 Apr 2016 09:39:37 GMT</pubDate>
+      <description>[Last update: July 5, 2016]  The Ethereum Foundation and Wanxiang Blockchain Labs are excited to jointly announce the International Blockchain Week in Shanghai, which will take place at Hyatt on the Bund, September 19–24, 2016. Both Ethereum’s Devcon and Wanxiang Blockchain Labs’ Global Blockchain Summit were sold out last...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum Partners with R3CEV on Lizardcoin, Bringing Together the Best of Centralized Finance and Blockchain Technology</title>
+      <link>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</link>
+      <guid>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</guid>
+      <pubDate>Fri, 01 Apr 2016 08:43:10 GMT</pubDate>
+      <description>The Ethereum Foundation has announced that it will be working with the New York-based banking consortium R3CEV on creating a new blockchain-based cryptocurrency, Lizardcoin, which aims to showcase the benefits of blockchain technology as well as the consortium's ability to bring the technology to institutional clients and the regulation-loving masses...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Solidity Available in Visual Studio</title>
+      <link>https://blog.ethereum.org/en/2016/03/30/solidity-available-in-visual-studio</link>
+      <guid>https://blog.ethereum.org/en/2016/03/30/solidity-available-in-visual-studio</guid>
+      <pubDate>Wed, 30 Mar 2016 20:17:25 GMT</pubDate>
+      <description>Consensys and Microsoft have announced that the Ethereum contract programming language Solidity will be available in Microsoft's Visual Studio integrated development environment. ConsenSys and Microsoft collaborated on this integration to enable developers to rapidly build smart contract-based applications for the public Ethereum blockchain, as well as private and consortium blockchain...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Privacy on the Blockchain</title>
+      <link>https://blog.ethereum.org/en/2016/01/15/privacy-on-the-blockchain</link>
+      <guid>https://blog.ethereum.org/en/2016/01/15/privacy-on-the-blockchain</guid>
+      <pubDate>Fri, 15 Jan 2016 09:28:59 GMT</pubDate>
+      <description>Blockchains are a powerful technology, as regular readers of the blog already likely agree. They allow for a large number of interactions to be codified and carried out in a way that greatly increases reliability, removes business and political risks associated with the process being managed by a central entity,...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
   </channel>
