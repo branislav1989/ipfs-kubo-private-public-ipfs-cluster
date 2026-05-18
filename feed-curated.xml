@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 04:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:51:12 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,14 +59,39 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>Budget-Friendly Singapore VPS for V2Ray/Xray + Occasional Torrenting (Beginner Friendly)</title>
-      <link>https://www.reddit.com/r/selfhosted/comments/1tfeenm/budgetfriendly_singapore_vps_for_v2rayxray/</link>
-      <guid>https://www.reddit.com/r/selfhosted/comments/1tfeenm/budgetfriendly_singapore_vps_for_v2rayxray/</guid>
-      <pubDate>2026-05-17T03:50:54+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I’m looking for a beginner-friendly VPS for my first self-hosted setup. The main goal is to run a personal V2Ray/Xray server using protocols like VLESS or Trojan, with some light and occasional torrenting on the side.&lt;/p&gt; &lt;p&gt;Requirements:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Budget: Preferably under $5/month&lt;/li&gt; &lt;li&gt;Usage: &lt;ul&gt; &lt;li&gt;V2Ray/Xray (VLESS, Trojan, Reality, etc.)&lt;/li&gt; &lt;li&gt;Occasional P2P/torrenting&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Location: &lt;ul&gt; &lt;li&gt;Singapore strongly ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sun, 17 May 2026 22:30:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces</title>
+      <link>https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sun, 17 May 2026 21:14:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9waG9uZS1zY3JlZW4tZ2FsYXh5LXZpcnR1YWwtcmVhbGl0eTIyMjIyMS5qcGc=.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Figure Technology Solutions latest quarterly results showed Bernstein analysts just how different it is from most balance sheet-ba...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle</title>
+      <link>https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle</link>
+      <guid>https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle</guid>
+      <pubDate>Sun, 17 May 2026 20:32:07 +0000</pubDate>
+      <description>Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -79,29 +104,6 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 16 May 2026 15:30:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto ...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Final working flow of my Start-up Blockchain Sentinel SaaS product.</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1tew6mc/final_working_flow_of_my_startup_blockchain/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1tew6mc/final_working_flow_of_my_startup_blockchain/</guid>
-      <pubDate>2026-05-16T15:05:16+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most blockchain tools stop at transaction viewing.&lt;/p&gt; &lt;p&gt;I wanted to explore what happens after that:&lt;br /&gt; investigations, fund-flow tracing, cybercrime analysis, compliance workflows, and forensic reporting.&lt;/p&gt; &lt;p&gt;So I started building Blockchain Sentinel OS — a digital financial investigation platform focused on:&lt;br /&gt; • multi-hop wallet tracing&lt;br /&gt; • blockchain crime intelligence&lt;br /&gt; • case workflows&lt;br /&gt; • forensic-style reporting&lt;br /&gt; • India-focus...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -153,29 +155,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>What is the right test for whether an AI-agent token needs to exist?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1tdwqsb/what_is_the_right_test_for_whether_an_aiagent/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1tdwqsb/what_is_the_right_test_for_whether_an_aiagent/</guid>
-      <pubDate>2026-05-15T13:41:50+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I keep seeing the same split in AI x crypto projects.&lt;/p&gt; &lt;p&gt;Some are basically GPT wrappers with a token attached.&lt;/p&gt; &lt;p&gt;Others are trying to make the token part of the system itself: payments, coordination, verifiable inference, compute access, DePIN incentives, identity, or autonomous wallet behavior.&lt;/p&gt; &lt;p&gt;A lot of demos look useful now. But if you removed the token, would the product actually get worse?&lt;/p&gt; &lt;p&gt;If the answer is no, the token is probably ju...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>South Korea plans July rules for tokenized securities</title>
-      <link>https://cointelegraph.com/news/south-korea-announce-tokenized-securities-laws-july?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/south-korea-announce-tokenized-securities-laws-july?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 15 May 2026 12:23:47 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;South Korea plans July rules for tokenized securities&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1wZW9wbGUtc3RhcnQtdHJ1c3QtY3J5cHRvLWluLXBlcmlvZC1vZi1jcmlzaXMtc291dGgta29yZWEuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;South Korea's FSC is preparing detailed rules for tokenized securities before a legal framework for blockchain-based securities tak...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt</title>
       <link>https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt</link>
       <guid>https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt</guid>
@@ -185,95 +164,6 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Tezos Tests Post-Quantum Privacy as Founder Slams 'Half-Baked' Bitcoin Quantum Theories</title>
-      <link>https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories</link>
-      <guid>https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories</guid>
-      <pubDate>Thu, 14 May 2026 13:01:03 +0000</pubDate>
-      <description>Arthur Breitman's comments come as Tezos tests a post-quantum privacy system designed to protect encrypted blockchain data from future attacks.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Why don’t more blockchains treat escrow/agreement flows as first-class primitives?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1tb3453/why_dont_more_blockchains_treat_escrowagreement/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1tb3453/why_dont_more_blockchains_treat_escrowagreement/</guid>
-      <pubDate>2026-05-12T14:21:42+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most chains are great at value transfer, but real-world commerce usually needs more than transfer: escrow, milestone release, deposits, refunds, delivery windows, buyer approval, and dispute handling.&lt;/p&gt; &lt;p&gt;A simple payment is objective. A marketplace transaction is usually conditional.&lt;/p&gt; &lt;p&gt;Typical approaches seem to be:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;centralized escrow provider&lt;/li&gt; &lt;li&gt;multisig with coordination overhead&lt;/li&gt; &lt;li&gt;app-level smart contracts&lt;/li&gt; &lt;li&gt;off-chain...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Google's Willow chip just made Q-Day a real conversation here's what the quantum threat actually means for your crypto</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1tazamr/googles_willow_chip_just_made_qday_a_real/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1tazamr/googles_willow_chip_just_made_qday_a_real/</guid>
-      <pubDate>2026-05-12T11:52:53+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A lot of quantum FUD circulates in this space, but most of it gets the threat model completely wrong. Let me break down what's actually at risk, what isn't, and why the coordination problem might be scarier than the physics.&lt;/p&gt; &lt;p&gt;Bitcoin and Ethereum use Elliptic Curve Digital Signature Algorithm for wallet signatures. Shor's algorithm, running on a sufficiently powerful quantum computer, can derive a private key from a public key in polynomial time something ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Building an Blockchain Investigation Platform ( Blockchain Sentinel ).</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1ta5st8/building_an_blockchain_investigation_platform/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1ta5st8/building_an_blockchain_investigation_platform/</guid>
-      <pubDate>2026-05-11T14:58:15+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;After weeks of building and feedback iterations, Blockchain Sentinel OS now supports multi-hop fund flow tracing, live + historical investigation modes, case management workflows, and evidence-grade PDF reports.&lt;/p&gt; &lt;p&gt;The goal was never to build another blockchain explorer — it’s becoming more of a digital financial investigation and compliance platform focused on forensic workflows, intelligence, and India-specific use cases.&lt;/p&gt; &lt;p&gt;This is the site : &lt;a href=...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>What challenges have you encountered with cryptocurrency?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1t7pce3/what_challenges_have_you_encountered_with/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t7pce3/what_challenges_have_you_encountered_with/</guid>
-      <pubDate>2026-05-09T00:16:58+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello traders and everyone else who knows about cryptocurrency. I have a quick question: what do you feel is missing most in your trading and market analysis right now? As experienced (or inexperienced) traders, where do you most often encounter mistakes and difficulties - especially those you haven’t been able to resolve yet? I’m really interested to hear what people struggle with the most and what problems they face.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Can P2P AI compute be monetized?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1t5shfx/can_p2p_ai_compute_be_monetized/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t5shfx/can_p2p_ai_compute_be_monetized/</guid>
-      <pubDate>2026-05-06T22:44:23+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Attempted to create a p2p grid for AI compute, as a side hobby project. I was just wondering how ideal is to build an economic layer on p2p compute.&lt;/p&gt; &lt;p&gt;every serious attempt I've seen like Akash Network ends up bolting on a token, and then half the energy goes into tokenomics instead of the actual compute layer.&lt;/p&gt; &lt;p&gt;What are your thoughts on this? &lt;/p&gt; &lt;p&gt;Repo: &lt;a href=&quot;https://github.com/Agent-FM/agentfm-core&quot;&gt;https://github.com/Agent-FM/agentfm-core&lt;/a&gt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Building an India-Focused Digital Financial Investigation Platform for Blockchain Forensics</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1t5koq1/building_an_indiafocused_digital_financial/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1t5koq1/building_an_indiafocused_digital_financial/</guid>
-      <pubDate>2026-05-06T18:01:26+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Building an Indian Digital Financial Investigation Platform — Progress Update&lt;/p&gt; &lt;p&gt;Over the last few weeks, I’ve been building Blockchain Sentinel OS — a forensic intelligence platform focused on blockchain investigations, compliance workflows, and digital financial tracing.&lt;/p&gt; &lt;p&gt;The goal is NOT to build another blockchain explorer.&lt;/p&gt; &lt;p&gt;The goal is to build investigation infrastructure for:&lt;br /&gt; • investigators&lt;br /&gt; • compliance teams&lt;br /&gt; • CA firms&lt;b...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Game Engine Collision Detection to Smart Contracts</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1szuelp/game_engine_collision_detection_to_smart_contracts/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1szuelp/game_engine_collision_detection_to_smart_contracts/</guid>
-      <pubDate>2026-04-30T12:16:48+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It's funny how often you have to look backwards to solve a new problem.&lt;/p&gt; &lt;p&gt;I've been trying to build a proper spatial registry on-chain. Basically, making sure polygons don't overlap and area is conserved. You'd think this is simple, but if you try doing it on EVM, or even Solana and Aptos, you hit a wall pretty fast. Their execution models just aren't built for traversing dynamic objects at runtime without burning insane amounts of gas.&lt;/p&gt; &lt;p&gt;I realized bl...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -322,18 +212,6 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Datahosting.company ipfs cryptocurency cloud storage ipfs kubo, ipfs cluster #ipfs #web3 #nft #p2p</title>
-      <link>https://www.youtube.com/shorts/B4XRhAT3wyw</link>
-      <guid>https://www.youtube.com/shorts/B4XRhAT3wyw</guid>
-      <pubDate>2026-01-02T17:06:21+00:00</pubDate>
-      <description/>
-      <category>DataHosting.Company</category>
-      <category>our content</category>
-      <category>original content</category>
-      <category>company updates</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -642,6 +520,138 @@
       <guid>https://blog.ethereum.org/en/2022/03/01/academic-grants-round</guid>
       <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
       <description>We are excited to announce a new wave of grants to fund formal research that aims to create more knowledge about Ethereum, blockchain technology, and related domains. We encourage academics, research centers, PhD Students and all those interested in researching Ethereum to submit their project proposals. This grants round has...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing Grants for Advocacy Non-Profits</title>
+      <link>https://blog.ethereum.org/en/2021/11/16/advocacy-grants</link>
+      <guid>https://blog.ethereum.org/en/2021/11/16/advocacy-grants</guid>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+      <description>The Ethereum Foundation is allocating 1 million USD in grant funding to organizations that educate governments and policymakers about Ethereum and blockchain technology. We encourage others in the Ethereum community to support their important work....</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Core Developer Apprenticeship Program: The Second Cohort</title>
+      <link>https://blog.ethereum.org/en/2021/09/06/core-dev-apprenticeship-second-cohort</link>
+      <guid>https://blog.ethereum.org/en/2021/09/06/core-dev-apprenticeship-second-cohort</guid>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
+      <description>Does development of the core protocols that power the Ethereum blockchain excite you? Are you interested in getting involved at the most fundemental and technical levels of the Ethereum protocol?  I am excited to announce that we are now accepting applications for the second cohort of the Core Developer...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The 1.x Files: GHOST in the Stack Machine</title>
+      <link>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</link>
+      <guid>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</guid>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 GMT</pubDate>
+      <description>Ethereum can be simple enough to understand from a bird's-eye view: Decentralized applications powered by the same sort of crypto-economic guarantees that underpin Bitcoin. But once you've zoomed in to, say, a street-level view, things get complicated rapidly.  Even assuming one has a strong grasp on proof-of-work, it's not...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing World Trade Francs: The Official Ethereum Stablecoin</title>
+      <link>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</link>
+      <guid>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</guid>
+      <pubDate>Sun, 01 Apr 2018 15:35:26 GMT</pubDate>
+      <description>We have long recognized that in order for cryptocurrency to reach mass adoption, a form of cryptocurrency that has higher price stability than existing cryptocurrencies like BTC and ETH would be needed so that people can use the currency to store funds and engage in commerce without worrying about their...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing Beneficiaries of the Ethereum Foundation Grants</title>
+      <link>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</link>
+      <guid>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</guid>
+      <pubDate>Wed, 07 Mar 2018 17:54:33 GMT</pubDate>
+      <description>We’re excited to share the results of the first wave of grants from the Ethereum Foundation.  As a reminder, the Ethereum project seeks to support useful dapps and smart contracts on the Ethereum blockchain, and the goal of the Ethereum Foundation is to empower developers with best-in-class R&amp;amp;D, developer...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum scalability research and development subsidy programs</title>
+      <link>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</link>
+      <guid>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</guid>
+      <pubDate>Tue, 02 Jan 2018 17:42:21 GMT</pubDate>
+      <description>The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Q4 Roundup</title>
+      <link>https://blog.ethereum.org/en/2018/01/02/q4-roundup</link>
+      <guid>https://blog.ethereum.org/en/2018/01/02/q4-roundup</guid>
+      <pubDate>Tue, 02 Jan 2018 15:27:18 GMT</pubDate>
+      <description>Ethereum has grown very rapidly in the last few months. Transaction volume on the blockchain has more than doubled, surpassing 10 transactions per second for days at a time. The number of new accounts created per day passed 100,000&lt;span style=&quot;font-w...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum JS Ecosystem Updates</title>
+      <link>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</link>
+      <guid>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</guid>
+      <pubDate>Tue, 21 Mar 2017 03:11:39 GMT</pubDate>
+      <description>It's been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay's excellent write up here.  Also, during this time Aaron Davis (Kumavis) made s...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>An Update on Integrating Zcash on Ethereum (ZoE)</title>
+      <link>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</link>
+      <guid>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</guid>
+      <pubDate>Thu, 19 Jan 2017 17:57:54 GMT</pubDate>
+      <description>Members of the Ethereum R&amp;amp;D team and the Zcash Company are collaborating on a research project addressing the combination of programmability and privacy in blockchains. This joint post is being concurrently posted on the Zcash blog, and is coauthored by Ariel Gabizon (Zcash) and Christian Reitwiessner (Ethereum).  Ethereum’s flexible smart...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Uncle Rate and Transaction Fee Analysis</title>
+      <link>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</link>
+      <guid>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</guid>
+      <pubDate>Mon, 31 Oct 2016 03:52:04 GMT</pubDate>
+      <description>One of the important indicators of how much load the Ethereum blockchain can safely handle is how the uncle rate responds to the gas usage of a transaction. In all blockchains of the Satoshian proof-of-work variety, any block that is published has the risk of howbecoming a &quot;stale&quot;, ie. not...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>On Inflation, Transaction Fees and Cryptocurrency Monetary Policy</title>
+      <link>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</link>
+      <guid>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</guid>
+      <pubDate>Wed, 27 Jul 2016 17:00:00 GMT</pubDate>
+      <description>The primary expense that must be paid by a blockchain is that of security. The blockchain must pay miners or validators to economically participate in its consensus protocol, whether proof of work or proof of stake, and this inevitably incurs some cost. There are two ways to pay for this...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
