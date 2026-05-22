@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 04:54:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:45:15 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,10 +59,46 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Nearly $500B in Bitcoin Is Exposed to Future Quantum Computing Attacks: Glassnode</title>
+      <link>https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode</link>
+      <guid>https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode</guid>
+      <pubDate>Thu, 21 May 2026 23:00:04 +0000</pubDate>
+      <description>Blockchain data firm Glassnode mapped the vulnerabilities embedded in Bitcoin’s existing supply, pointing to exchanges as a weak point.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Blockchain.com confidentially submits IPO filing with SEC</title>
+      <link>https://cointelegraph.com/news/blockchaincom-confidentially-submits-ipo-filing-with-sec?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/blockchaincom-confidentially-submits-ipo-filing-with-sec?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 21 May 2026 17:30:31 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Blockchain.com confidentially submits IPO filing with SEC&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtcmV2aXZhbC1vZi1nZW5lcmFsLXBhcnRuZXJzaGlwcy1pbi10aGUtYWdlLW9mLXRva2Vub21pY3MtcGFydC0yLTIuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The crypto services company began the US IPO process as companies across the digital asset sector weigh public ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto Exchange Blockchain.com Files for IPO in the US</title>
+      <link>https://decrypt.co/368608/crypto-exchange-blockchain-com-files-ipo-us</link>
+      <guid>https://decrypt.co/368608/crypto-exchange-blockchain-com-files-ipo-us</guid>
+      <pubDate>Thu, 21 May 2026 14:58:19 +0000</pubDate>
+      <description>Long-running crypto exchange Blockchain.com has confidentially filed to take its business public via the U.S. markets.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 20 May 2026 15:31:00 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 14:45:16 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto ...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -71,23 +107,22 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>MoneyGram deepens blockchain payments push via Tempo partnership</title>
-      <link>https://cointelegraph.com/news/moneygram-joins-tempo-validator-network-as-stablecoin-settlement-push-expands?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/moneygram-joins-tempo-validator-network-as-stablecoin-settlement-push-expands?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 20 May 2026 07:00:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;MoneyGram deepens blockchain payments push via Tempo partnership&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctbHRjLWRlYml0LWNhcmRzLXdvcmsuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The remittance company partnered with Stripe-incubated blockchain Tempo to support stablecoin settlement and help validate transactions across its global payments n...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Show HN: Freenet, a peer-to-peer platform for decentralized apps</title>
+      <link>https://freenet.org/</link>
+      <guid>https://freenet.org/</guid>
+      <pubDate>Thu, 21 May 2026 14:34:57 +0000</pubDate>
+      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=48223362&quot;&gt;Comments&lt;/a&gt;</description>
+      <category>distributed systems</category>
+      <category>decentralization</category>
+      <category>cryptography</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Bitcoin ETFs Shed $649M in a Day as Long-Term BTC Holders ‘Limit Downside Potential’</title>
-      <link>https://decrypt.co/368321/bitcoin-etfs-shed-649m-in-a-day-as-long-term-btc-holders-limit-downside-potential</link>
-      <guid>https://decrypt.co/368321/bitcoin-etfs-shed-649m-in-a-day-as-long-term-btc-holders-limit-downside-potential</guid>
-      <pubDate>Tue, 19 May 2026 11:55:54 +0000</pubDate>
-      <description>U.S. spot Bitcoin ETFs posted $648 million outflows Monday as long-term BTC holders continue to accumulate the cryptocurrency.</description>
+      <title>Boerse Stuttgart taps SocGen, flatexDEGIRO for EU blockchain settlement push</title>
+      <link>https://cointelegraph.com/news/boerse-stuttgart-societe-generale-flatexdegiro-team-up-for-blockchain-securities-settlement-in-eu?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/boerse-stuttgart-societe-generale-flatexdegiro-team-up-for-blockchain-securities-settlement-in-eu?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 21 May 2026 12:13:58 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Boerse Stuttgart taps SocGen, flatexDEGIRO for EU blockchain settlement push&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1vcGVuLXNvdXJjZS1lbnRlcnByaXNlLWJsb2NrY2hhaW4yLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Boerse Stuttgart’s Seturion has partnered with Societe Generale, SG-FORGE and flatexDEGIRO to build a pan-European blockchain securities...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -119,6 +154,30 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!</title>
+      <link>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</link>
+      <guid>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</guid>
+      <pubDate>Fri, 23 Jan 2026 16:40:55 +0000</pubDate>
+      <description>Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) led top movers. Ledger is preparing for a $4B IPO, enlisting Goldman Sachs, Jefferies and Barclays for support. Ripple CEO Brad Garlinghouse predicted crypto could hit new highs in 2026, pointing to regulatory momentum and institutional participation as key drivers. President Trump sued JPMorgan for $5 billion,...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!</title>
+      <link>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</link>
+      <guid>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</guid>
+      <pubDate>Thu, 22 Jan 2026 16:14:50 +0000</pubDate>
+      <description>Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers. Crypto markets saw more than $1B in liquidations as Bitcoin rebounded sharply after President Trump signaled a retreat from proposed tariff measures. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, signaling continued protocol-level experimentation...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Content-Addressing: A Year In Review</title>
       <link>https://blog.ipfs.tech/2026-01-year-in-review/</link>
       <guid>https://blog.ipfs.tech/2026-01-year-in-review/</guid>
@@ -128,6 +187,56 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Pump &amp; Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed</title>
+      <link>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</link>
+      <guid>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</guid>
+      <pubDate>Wed, 14 Jan 2026 16:01:53 +0000</pubDate>
+      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink</title>
+      <link>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</link>
+      <guid>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</guid>
+      <pubDate>Tue, 13 Jan 2026 18:12:27 +0000</pubDate>
+      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!</title>
+      <link>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</link>
+      <guid>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</guid>
+      <pubDate>Tue, 06 Jan 2026 18:16:42 +0000</pubDate>
+      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
+RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear &amp; Greed back to Neutral!</title>
+      <link>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</link>
+      <guid>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</guid>
+      <pubDate>Tue, 06 Jan 2026 16:13:32 +0000</pubDate>
+      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
+RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -544,114 +653,6 @@
       <guid>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</guid>
       <pubDate>Tue, 21 Mar 2017 03:11:39 GMT</pubDate>
       <description>It's been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay's excellent write up here.  Also, during this time Aaron Davis (Kumavis) made s...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>An Update on Integrating Zcash on Ethereum (ZoE)</title>
-      <link>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</link>
-      <guid>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</guid>
-      <pubDate>Thu, 19 Jan 2017 17:57:54 GMT</pubDate>
-      <description>Members of the Ethereum R&amp;amp;D team and the Zcash Company are collaborating on a research project addressing the combination of programmability and privacy in blockchains. This joint post is being concurrently posted on the Zcash blog, and is coauthored by Ariel Gabizon (Zcash) and Christian Reitwiessner (Ethereum).  Ethereum’s flexible smart...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Uncle Rate and Transaction Fee Analysis</title>
-      <link>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</link>
-      <guid>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</guid>
-      <pubDate>Mon, 31 Oct 2016 03:52:04 GMT</pubDate>
-      <description>One of the important indicators of how much load the Ethereum blockchain can safely handle is how the uncle rate responds to the gas usage of a transaction. In all blockchains of the Satoshian proof-of-work variety, any block that is published has the risk of howbecoming a &quot;stale&quot;, ie. not...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>On Inflation, Transaction Fees and Cryptocurrency Monetary Policy</title>
-      <link>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</link>
-      <guid>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</guid>
-      <pubDate>Wed, 27 Jul 2016 17:00:00 GMT</pubDate>
-      <description>The primary expense that must be paid by a blockchain is that of security. The blockchain must pay miners or validators to economically participate in its consensus protocol, whether proof of work or proof of stake, and this inevitably incurs some cost. There are two ways to pay for this...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Taylor’s Summer Update</title>
-      <link>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</link>
-      <guid>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</guid>
-      <pubDate>Mon, 11 Jul 2016 16:05:58 GMT</pubDate>
-      <description>Hey everyone, I spent some time with our Canadian friends in Toronto after presenting &quot;Ethereum: The World Computer&quot; at Blockchain Training Conference last month and I wanted to provide a quick update on some of the exciting happenings in the Ethereum dev ecosystem. Lots of things are brewing behinds the...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>On Settlement Finality</title>
-      <link>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</link>
-      <guid>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</guid>
-      <pubDate>Mon, 09 May 2016 08:07:25 GMT</pubDate>
-      <description>Special thanks to Tim Swanson for reviewing, and for further discussions on the arguments in his original paper on settlement finality.  Recently one of the major disputes in ongoing debate between public blockchain and permissioned blockchain proponents is the issue of settlement finality. One of the simple properties that...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum Foundation and Wanxiang Blockchain Labs announce a blockbuster event combining Devcon2 and the 2nd Global Blockchain Summit in Shanghai, September 19–24, 2016</title>
-      <link>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</link>
-      <guid>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</guid>
-      <pubDate>Tue, 05 Apr 2016 09:39:37 GMT</pubDate>
-      <description>[Last update: July 5, 2016]  The Ethereum Foundation and Wanxiang Blockchain Labs are excited to jointly announce the International Blockchain Week in Shanghai, which will take place at Hyatt on the Bund, September 19–24, 2016. Both Ethereum’s Devcon and Wanxiang Blockchain Labs’ Global Blockchain Summit were sold out last...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum Partners with R3CEV on Lizardcoin, Bringing Together the Best of Centralized Finance and Blockchain Technology</title>
-      <link>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</link>
-      <guid>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</guid>
-      <pubDate>Fri, 01 Apr 2016 08:43:10 GMT</pubDate>
-      <description>The Ethereum Foundation has announced that it will be working with the New York-based banking consortium R3CEV on creating a new blockchain-based cryptocurrency, Lizardcoin, which aims to showcase the benefits of blockchain technology as well as the consortium's ability to bring the technology to institutional clients and the regulation-loving masses...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Solidity Available in Visual Studio</title>
-      <link>https://blog.ethereum.org/en/2016/03/30/solidity-available-in-visual-studio</link>
-      <guid>https://blog.ethereum.org/en/2016/03/30/solidity-available-in-visual-studio</guid>
-      <pubDate>Wed, 30 Mar 2016 20:17:25 GMT</pubDate>
-      <description>Consensys and Microsoft have announced that the Ethereum contract programming language Solidity will be available in Microsoft's Visual Studio integrated development environment. ConsenSys and Microsoft collaborated on this integration to enable developers to rapidly build smart contract-based applications for the public Ethereum blockchain, as well as private and consortium blockchain...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Privacy on the Blockchain</title>
-      <link>https://blog.ethereum.org/en/2016/01/15/privacy-on-the-blockchain</link>
-      <guid>https://blog.ethereum.org/en/2016/01/15/privacy-on-the-blockchain</guid>
-      <pubDate>Fri, 15 Jan 2016 09:28:59 GMT</pubDate>
-      <description>Blockchains are a powerful technology, as regular readers of the blog already likely agree. They allow for a large number of interactions to be codified and carried out in a way that greatly increases reliability, removes business and political risks associated with the process being managed by a central entity,...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
