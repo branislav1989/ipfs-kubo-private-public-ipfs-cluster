@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 04:34:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 05:04:41 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,29 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sat, 30 May 2026 13:20:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regula...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Are support-focused communities the reason more people stay in Web3?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1trtrsp/are_supportfocused_communities_the_reason_more/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1trtrsp/are_supportfocused_communities_the_reason_more/</guid>
+      <pubDate>2026-05-30T08:07:05+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A lot of newcomers get curious about Web3, but many end up dropping off because the space feels overwhelming at first.&lt;/p&gt; &lt;p&gt;Recently, I’ve been seeing more communities putting effort into education, mentorship, and beginner-friendly onboarding instead of hype. For example, groups like Surge Women focus heavily on helping newcomers understand the space in a safe, supportive way.&lt;/p&gt; &lt;p&gt;Some leaders in the space such as Lani Dizon, who often emphasizes community...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading</title>
       <link>https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -76,18 +99,6 @@
       <guid>https://decrypt.co/369498/you-can-read-us-constitution-bitcoin-blockchain</guid>
       <pubDate>Fri, 29 May 2026 18:31:11 +0000</pubDate>
       <description>One of America's most important historical documents will forever be inscribed on a Bitcoin block, thanks to someone's $83 transaction fee.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 29 May 2026 14:28:38 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regula...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -235,17 +246,6 @@
       <guid>https://www.reddit.com/r/web3/comments/1tinf8k/whats_the_biggest_problem_in_web3_that_nobody/</guid>
       <pubDate>2026-05-20T14:29:56+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m not talking about the obvious answers like volatility or regulation. More interested in the structural/product problems that people in the space keep running into but still don’t seem close to fixing properly.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Academic-Row-5423&quot;&gt; /u/Academic-Row-5423 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1tinf8k/whats_the_biggest_problem_in_web3_that_nobody/&quot;&gt;[l...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Simulating smart contract txns</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1timfv4/simulating_smart_contract_txns/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1timfv4/simulating_smart_contract_txns/</guid>
-      <pubDate>2026-05-20T13:54:45+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Is it possible to determine whether a smart contract is malicious by simulating its transactions on the blockchain?&lt;/p&gt; &lt;p&gt;If yes, what APIs or tools are reliable for transaction simulation? I’ve tried using Tenderly before, but the results didn’t seem accurate or consistent.&lt;/p&gt; &lt;p&gt;Would appreciate any recommendations or insights from people who’ve worked on this.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/vivid-ai-of...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
