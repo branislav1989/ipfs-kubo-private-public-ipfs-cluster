@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 05:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 05:11:59 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,22 +59,71 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Japan’s ruling party pushes crypto ETFs, yen-denominated stablecoins</title>
+      <link>https://cointelegraph.com/news/japans-ruling-party-crypto-etfs-yen-denominated-stablecoins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/japans-ruling-party-crypto-etfs-yen-denominated-stablecoins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 01 Jun 2026 18:33:41 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Japan’s ruling party pushes crypto ETFs, yen-denominated stablecoins&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9qYXBhbi1jcnlwdG8tc2FrdXJhLXNwcmluZy1idXNpbmVzcy0xLmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The Parliamentary Association for the Promotion of Blockchain delivered recommendations to Japan’s finance minister on crypto and blockchain.&lt;/p...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Sui Blames Last Week's Trio of Network Outages on Gas and Validator Bugs</title>
+      <link>https://decrypt.co/369622/sui-blames-trio-network-outages-gas-validator-bugs</link>
+      <guid>https://decrypt.co/369622/sui-blames-trio-network-outages-gas-validator-bugs</guid>
+      <pubDate>Mon, 01 Jun 2026 15:19:04 +0000</pubDate>
+      <description>The Sui blockchain suffered three separate failures in 48 hours due to gas calculation bugs and validator synchronization issues.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 01 Jun 2026 14:51:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regula...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>What Is BChat? The Decentralized Messaging App Built for Privacy</title>
+      <link>https://decrypt.co/resources/what-is-bchat-beldex-decentralized-messaging-app-privacy</link>
+      <guid>https://decrypt.co/resources/what-is-bchat-beldex-decentralized-messaging-app-privacy</guid>
+      <pubDate>Mon, 01 Jun 2026 10:01:04 +0000</pubDate>
+      <description>Built on the Beldex Network, BChat aims to solve the weaknesses of relying solely on end-to-end encryption (E2EE) for private messaging.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Sui Foundation says ‘major upgrade’ fixed bugs behind three outages</title>
+      <link>https://cointelegraph.com/news/sui-major-upgrade-fixes-outage-bugs-restores-network?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/sui-major-upgrade-fixes-outage-bugs-restores-network?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 01 Jun 2026 06:48:04 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Sui Foundation says ‘major upgrade’ fixed bugs behind three outages &quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRodW1iLWhhY2std2hhdC1pcy1rbm93bjIuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The Sui Network's first two outages were caused by bugs introduced in its 1.72 update, while an interim fix deployed to restore the blockchain triggered the...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>If progress waited for the people who resist change, we’d still have horse watering stations instead of gas stations.</title>
       <link>https://www.reddit.com/r/web3/comments/1tthztz/if_progress_waited_for_the_people_who_resist/</link>
       <guid>https://www.reddit.com/r/web3/comments/1tthztz/if_progress_waited_for_the_people_who_resist/</guid>
       <pubDate>2026-06-01T04:55:58+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Think about that for a second.&lt;/p&gt; &lt;p&gt;When the car showed up, there were people who said it was too complicated. Too expensive. Too unreliable. Horses had worked for thousands of years — why change?&lt;/p&gt; &lt;p&gt;The car didn’t care.&lt;/p&gt; &lt;p&gt;Right now there’s a whole crowd saying crypto is too complicated. That normal people don’t want wallets. That banks work just fine. That we should hide the blockchain so it doesn’t scare anyone.&lt;/p&gt; &lt;p&gt;These are the same people who ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Bitcoin in El Salvador was never for Salvadorans. I’m from there. Here’s what actually works.</title>
-      <link>https://www.reddit.com/r/web3/comments/1tthwmz/bitcoin_in_el_salvador_was_never_for_salvadorans/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1tthwmz/bitcoin_in_el_salvador_was_never_for_salvadorans/</guid>
-      <pubDate>2026-06-01T04:51:21+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Let me tell you how the “Bitcoin revolution” actually played out for regular people in my country.&lt;/p&gt; &lt;p&gt;The government launched a Bitcoin wallet in 2021. Gave everyone $30 to download it. Most people grabbed the $30, cashed it out, and never opened the app again. By 2024, 92% of Salvadorans had never used Bitcoin for a single transaction. 97% of businesses never made one sale in Bitcoin. In January 2025 they quietly killed it as legal tender and went crawling ...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -92,29 +141,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sun, 31 May 2026 14:10:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regula...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>My attempt to build a P2P file transfer that works over the network without a central relay.</title>
-      <link>https://www.reddit.com/r/selfhosted/comments/1tsron4/my_attempt_to_build_a_p2p_file_transfer_that/</link>
-      <guid>https://www.reddit.com/r/selfhosted/comments/1tsron4/my_attempt_to_build_a_p2p_file_transfer_that/</guid>
-      <pubDate>2026-05-31T10:32:49+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi reddit, &lt;/p&gt; &lt;p&gt;I wanted to share my experience about how i decided and build my own self hosted project. The goal was simple, how can you send a file directly between two devices on different networks without using a central server. &lt;/p&gt; &lt;p&gt;Initially when I tried to speak with people most of them said setup own ftp/Nextcloud server through which u can securely send files or just use LocalSend for local wifi. &lt;/p&gt; &lt;p&gt;But the moment I was in different device/c...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Are support-focused communities the reason more people stay in Web3?</title>
       <link>https://www.reddit.com/r/CryptoTechnology/comments/1trtrsp/are_supportfocused_communities_the_reason_more/</link>
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1trtrsp/are_supportfocused_communities_the_reason_more/</guid>
@@ -126,47 +152,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading</title>
-      <link>https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 29 May 2026 20:52:01 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading&quot; class=&quot;type:primaryImage&quot; src=&quot;https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS11cy1jZnRjLWFubm91bmNlcy1jb250ZXN0LmpwZw==.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The CFTC issued notices affecting platforms seeking to offer cryptocurrency perpetual futures contracts, including a no-action position for Coinbase and a...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>You Can Now Read the US Constitution via the Bitcoin Blockchain</title>
       <link>https://decrypt.co/369498/you-can-read-us-constitution-bitcoin-blockchain</link>
       <guid>https://decrypt.co/369498/you-can-read-us-constitution-bitcoin-blockchain</guid>
       <pubDate>Fri, 29 May 2026 18:31:11 +0000</pubDate>
       <description>One of America's most important historical documents will forever be inscribed on a Bitcoin block, thanks to someone's $83 transaction fee.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Paxos Secures SEC Registration as Clearing Agency</title>
-      <link>https://decrypt.co/369440/paxos-secures-sec-registration-as-clearing-agency</link>
-      <guid>https://decrypt.co/369440/paxos-secures-sec-registration-as-clearing-agency</guid>
-      <pubDate>Fri, 29 May 2026 10:34:30 +0000</pubDate>
-      <description>The approval makes Paxos the “only blockchain-native firm” approved by the SEC to operate as a registered clearing agency in the U.S.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Sui Network Goes Down for Hours, Just Months After the Last Downtime</title>
-      <link>https://decrypt.co/369414/sui-network-down-hours-months-after-last-downtime</link>
-      <guid>https://decrypt.co/369414/sui-network-down-hours-months-after-last-downtime</guid>
-      <pubDate>Thu, 28 May 2026 20:09:41 +0000</pubDate>
-      <description>Blockchain network Sui is suffering another period of significant downtime barely five months after the last &quot;network stall.&quot;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -520,6 +510,17 @@
       <guid>https://www.reddit.com/r/web3/comments/1t4bbey/natural_language_interfaces_for_blockchain/</guid>
       <pubDate>2026-05-05T10:21:54+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been thinking about this a lot after spending time building systems where users interact with blockchain protocols through plain English commands rather than traditional UIs.&lt;/p&gt; &lt;p&gt;The idea is simple enough, instead of asking someone to understand gas limits, slippage tolerance, and transaction signing, they just type &amp;quot;buy $500 of ETH when it drops below $3000&amp;quot; and the system handles everything underneath.&lt;/p&gt; &lt;p&gt;On the surface it works. In practice t...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Would any of you use any of this?</title>
+      <link>https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/</guid>
+      <pubDate>2026-05-04T23:28:15+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So what I made is a decentralized cloud marketplace with reviews, don't know if any of you would use it, won't mention it for now&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Express_Shine_348&quot;&gt; /u/Express_Shine_348 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
