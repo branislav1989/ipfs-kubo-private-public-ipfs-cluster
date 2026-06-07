@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 04:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 05:08:37 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,17 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Valve P2P networking broken for more than 2 months</title>
+      <link>https://github.com/ValveSoftware/GameNetworkingSockets/issues/398</link>
+      <guid>https://github.com/ValveSoftware/GameNetworkingSockets/issues/398</guid>
+      <pubDate>Sun, 07 Jun 2026 03:21:52 +0000</pubDate>
+      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=48431461&quot;&gt;Comments&lt;/a&gt;</description>
+      <category>distributed systems</category>
+      <category>decentralization</category>
+      <category>cryptography</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -88,6 +99,17 @@
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1tw3ss5/looking_for_beta_testers_a_bitcoininspired_pow/</guid>
       <pubDate>2026-06-03T21:47:15+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I've been working on Chipcoin, an open-source Bitcoin-inspired Proof-of-Work blockchain currently running on a public testnet.&lt;/p&gt; &lt;p&gt;The main experiment is simple:&lt;/p&gt; &lt;p&gt;Bitcoin incentivizes miners, but full nodes are generally operated at the owner's expense. Chipcoin explores whether protocol-level incentives for node operators can improve network decentralization while preserving the principles of a PoW system.&lt;/p&gt; &lt;p&gt;Current testnet fea...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Open-sourcing my Web3 agent toolkit — multi-chain support, DeFi integrations, spend governor built-in</title>
+      <link>https://www.reddit.com/r/web3/comments/1tvuppb/opensourcing_my_web3_agent_toolkit_multichain/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1tvuppb/opensourcing_my_web3_agent_toolkit_multichain/</guid>
+      <pubDate>2026-06-03T16:32:47+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;pre&gt;&lt;code&gt;Hey I've been building AI agents for Web3 for a while now, and I decided to open-source my toolkit. It's called web3-agent-kit and it's designed for developers who want to build AI-powered onchain tools. What it does: - Multi-chain support (Ethereum, Base, Polygon, Arbitrum, BSC, Solana) - DeFi integrations (Uniswap, Raydium, Aave, etc.) - Built-in spend governor for safe agent operations - LLM integration (OpenAI, Anthropic, Claude) - Real-time balance ...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -138,6 +160,28 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>Sovereign Communication &amp; Permissions</title>
+      <link>https://www.reddit.com/r/web3/comments/1tqc87u/sovereign_communication_permissions/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1tqc87u/sovereign_communication_permissions/</guid>
+      <pubDate>2026-05-28T18:35:46+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;a few months ago I posted an idea about a method of decentralized communication without needing a server to pass the messages through; essentially a dead-drop system; and someone told me that if I wasn't serious about it, or wasn't willing to put in the work, that It was worthless. so I spent the last few months working out the ideas; and then spent time working out learning what my amateur brain could about protocols; and got familiar with Claude's help and spe...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>i got tired of unreadable web3 errors, so i made revert.wtf</title>
+      <link>https://www.reddit.com/r/web3/comments/1tplyp0/i_got_tired_of_unreadable_web3_errors_so_i_made/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1tplyp0/i_got_tired_of_unreadable_web3_errors_so_i_made/</guid>
+      <pubDate>2026-05-27T23:14:25+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;built this because web3 error messages are still absurdly bad:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://revert.wtf&quot;&gt;https://revert.wtf&lt;/a&gt;&lt;/p&gt; &lt;p&gt;you try to send a tx, estimate gas, call a contract, connect a wallet, use some library, whatever, and suddenly you get:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;execution reverted&lt;/li&gt; &lt;li&gt;some RPC code&lt;/li&gt; &lt;li&gt;wallet error with no useful explanation&lt;/li&gt; &lt;li&gt;failed estimate&lt;/li&gt; &lt;li&gt;custom error&lt;/li&gt; &lt;li&gt;account abstraction failure&lt;/li&gt; &lt;li&gt;weird revert data&lt;/...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>NEAR Protocol’s AI-native Architecture: Technical Overview &amp; Why It’s Gaining Momentum</title>
       <link>https://www.reddit.com/r/CryptoTechnology/comments/1tof8ow/near_protocols_ainative_architecture_technical/</link>
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1tof8ow/near_protocols_ainative_architecture_technical/</guid>
@@ -165,6 +209,17 @@
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1to74ni/trustminimized_pertoken_llm_payments_a_real_home/</guid>
       <pubDate>2026-05-26T13:33:50+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Lately I've been thinking about how an autonomous agent would pay for LLM API calls if you didn't want a trusted intermediary in the middle. The thinking got specific enough that I wrote it down as a spec plus a small reference implementation, called Tessera. Putting it out here because I'm honestly not sure who actually needs this, and want to think out loud with people who'd know.&lt;/p&gt; &lt;p&gt;The shape I converged on: agent pays per-token from its own on-chain escr...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Does Web3 feel kinda directionless right now or is it just me?</title>
+      <link>https://www.reddit.com/r/web3/comments/1tnapdy/does_web3_feel_kinda_directionless_right_now_or/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1tnapdy/does_web3_feel_kinda_directionless_right_now_or/</guid>
+      <pubDate>2026-05-25T14:23:42+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been in crypto/Web3 for a while and lately I can’t shake this feeling that everything is kind of… scattered.&lt;/p&gt; &lt;p&gt;Before it felt like there was always &amp;quot;the thing&amp;quot; everyone was excited about:&lt;br /&gt; DeFi, NFTs, L2s, etc.&lt;/p&gt; &lt;p&gt;Now it feels more like:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Bitcoin is doing its own macro/ETF thing&lt;/li&gt; &lt;li&gt;Ethereum is just quietly building&lt;/li&gt; &lt;li&gt;L2s are everywhere but none of them feel like “the main one”&lt;/li&gt; &lt;li&gt;new apps keep launching...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -264,17 +319,6 @@
       <guid>https://www.reddit.com/r/web3/comments/1tfw2zw/the_real_problem_is_trust/</guid>
       <pubDate>2026-05-17T17:34:07+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;BTC solved one problem cleanly: agreeing on who owns the value without a trusted third party. That's the main web3 achievement to this day.&lt;/p&gt; &lt;p&gt;Everything else quietly brings trust through the side door - and does it poorly.&lt;/p&gt; &lt;p&gt;We can prove a transaction was signed and included in a block, cool, but we cannot prove that anything happened off-chain. That makes solution useless for anything that is expected to cause any effect outside of blockchain.&lt;/p&gt; &lt;p&gt;...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The REAL reason most Web3 projects will NEVER build genuine community in 2026 (advice from someone who’s spent over half a decade in the trenches)</title>
-      <link>https://www.reddit.com/r/web3/comments/1tey5gl/the_real_reason_most_web3_projects_will_never/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1tey5gl/the_real_reason_most_web3_projects_will_never/</guid>
-      <pubDate>2026-05-16T16:19:58+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most of the community building advice you see online is still recycling the 2021/2022 playbook: target a niche, post educational content, run ambassador programmes, do quests and giveaways, get micro influencers, engage on X and Discord. All the perfect tick box items that sound smart in a pitch deck.&lt;/p&gt; &lt;p&gt;I have lived and breathed this for more than five years on marketing teams, helping launch projects, managing communities day in and day out. And I can tell...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -480,39 +524,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Would any of you use any of this?</title>
-      <link>https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/</guid>
-      <pubDate>2026-05-04T23:28:15+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So what I made is a decentralized cloud marketplace with reviews, don't know if any of you would use it, won't mention it for now&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Express_Shine_348&quot;&gt; /u/Express_Shine_348 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_you_use_any_of_this/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t3ydom/would_any_of_...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>No, personal websites aren’t dead.</title>
-      <link>https://www.reddit.com/r/web3/comments/1t3xdo9/no_personal_websites_arent_dead/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t3xdo9/no_personal_websites_arent_dead/</guid>
-      <pubDate>2026-05-04T22:47:24+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I saw a post that says our personal websites are dead. I think that’s a lie told by people who want to charge you rent. Managing your own brand via a website and email list is the only way to escape the &amp;quot;hustle culture&amp;quot; cycle of third-party marketing you can’t control. It’s about independence...&lt;br /&gt; Which side are you on?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SheepherderSea8692&quot;&gt; /u/SheepherderSea8692 ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>USDC &amp; Smart Contracts on Web3</title>
-      <link>https://www.reddit.com/r/web3/comments/1t35u3d/usdc_smart_contracts_on_web3/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t35u3d/usdc_smart_contracts_on_web3/</guid>
-      <pubDate>2026-05-04T03:08:34+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Does anyone have any familiarity with randomly being entered into a USDC “Smart Contract”? &lt;/p&gt; &lt;p&gt;Last week, I went into my On Chain wallet and saw my USDC principal of 11,200 just disappear. &lt;/p&gt; &lt;p&gt;I go into Web3 USDC D’app and see a message from customer service saying “ congrats you have been randomly selected to participate in a smart contract and gifted 80000 USDC. This contract is valued at 150000, so I have to come up with the remainder to complete the ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Bitsocial - Open Source P2P Network for Social Apps IPFS Based</title>
       <link>https://www.reddit.com/r/ipfs/comments/1t2pah7/bitsocial_open_source_p2p_network_for_social_apps/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1t2pah7/bitsocial_open_source_p2p_network_for_social_apps/</guid>
@@ -595,17 +606,6 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1sqmu08/vitalik_buterin_warns_users_after_ethlimo_dns/</guid>
       <pubDate>2026-04-20T11:42:20+00:00</pubDate>
       <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Zopheus_&quot;&gt; /u/Zopheus_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://beincrypto.com/eth-limo-dns-hijack-vitalik-warning/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sqmu08/vitalik_buterin_warns_users_after_ethlimo_dns/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Solving the &quot;last pinner drops it&quot; problem without Filecoin's 6-month sector model</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sommzk/solving_the_last_pinner_drops_it_problem_without/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sommzk/solving_the_last_pinner_drops_it_problem_without/</guid>
-      <pubDate>2026-04-18T03:42:51+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been building aevia, a protocol that separates persistence from distribution for video content. The persistence layer is what I want feedback on here - it's aimed at the exact economic gap IPFS has always had.&lt;/p&gt; &lt;p&gt;The gap. IPFS doesn't compensate pinning. Content disappears when the last pinner drops it. Filecoin solved this, but for cold archival - 6–12 month deals, large sector sizes, retrieval as a separate market. That model doesn't fit video playbac...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
