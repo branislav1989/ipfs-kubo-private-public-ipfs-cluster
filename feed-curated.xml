@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 05:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 05:14:31 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,14 +59,14 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>Valve P2P networking broken for more than 2 months</title>
-      <link>https://github.com/ValveSoftware/GameNetworkingSockets/issues/398</link>
-      <guid>https://github.com/ValveSoftware/GameNetworkingSockets/issues/398</guid>
-      <pubDate>Sun, 07 Jun 2026 03:21:52 +0000</pubDate>
-      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=48431461&quot;&gt;Comments&lt;/a&gt;</description>
-      <category>distributed systems</category>
-      <category>decentralization</category>
-      <category>cryptography</category>
+      <title>I built a site where you can buy digital water litres on the blockchain — weekend fun project</title>
+      <link>https://www.reddit.com/r/NFT/comments/1tzwy8f/i_built_a_site_where_you_can_buy_digital_water/</link>
+      <guid>https://www.reddit.com/r/NFT/comments/1tzwy8f/i_built_a_site_where_you_can_buy_digital_water/</guid>
+      <pubDate>2026-06-08T03:52:00+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I was bored this weekend and wondered: what if water was tokenized on-chain?&lt;/p&gt; &lt;p&gt;Built watthr.app, a simple PWA where you can mint NFTs representing &amp;quot;digital water litres&amp;quot; on Base. The price follows a bonding curve.&lt;/p&gt; &lt;p&gt;The water level on the page drops as more litres get bought. That's the whole mechanic.&lt;/p&gt; &lt;p&gt;No roadmap, no team, no whitepaper. Just a smart contract, a landing page, and a fun experiment to see if the concept resonates.&lt;/p&gt;...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -231,6 +231,28 @@
       <guid>https://www.reddit.com/r/CryptoTechnology/comments/1tlt3or/decentralised_universal_authentication_digital/</guid>
       <pubDate>2026-05-23T21:43:08+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Due to the growing influence of companies, having control over data and access. I think we should have a decentralized universal authentication which we can use in all applications and website. like a digital identification which no one person or company contol. like google auth or apple auth which have control over your digital identification access.&lt;/p&gt; &lt;p&gt;Is this a need now??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/us...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Anyone else using WebAuthn PRF to keep iOS from killing your PWA session?</title>
+      <link>https://www.reddit.com/r/web3/comments/1tloj0d/anyone_else_using_webauthn_prf_to_keep_ios_from/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1tloj0d/anyone_else_using_webauthn_prf_to_keep_ios_from/</guid>
+      <pubDate>2026-05-23T18:40:55+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Went looking for prior art on this and found almost nothing. Either nobody's solving it, or everyone's quietly going native. Curious which.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The problem:&lt;/strong&gt; if you build a self-custody PWA, iOS evicts it from memory after a few minutes in the background. SessionStorage dies with the web view. Every resume, the user is back at the login screen.&lt;/p&gt; &lt;p&gt;Native apps don't have this. They persist state to disk and pretend they never died. PWAs are...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Reddit is better than x for web3 🤔</title>
+      <link>https://www.reddit.com/r/web3/comments/1tllm1o/reddit_is_better_than_x_for_web3/</link>
+      <guid>https://www.reddit.com/r/web3/comments/1tllm1o/reddit_is_better_than_x_for_web3/</guid>
+      <pubDate>2026-05-23T16:48:51+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think reddit is a better option for web3 projects and communities as x has too many restrictions and accounts get suspended too often. What do you guys think will we ever see web3 adopting reddit? Idk why it's not happening 😞&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Ill_Scallion_9484&quot;&gt; /u/Ill_Scallion_9484 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1tllm1o/reddit_is_better_than_x_for_web3/&quot;&gt;[...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -496,28 +518,6 @@
       <guid>https://www.reddit.com/r/web3/comments/1t58jc4/web3_alternative_social_media/</guid>
       <pubDate>2026-05-06T10:09:55+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;Are there any decentralized/Web3 alternative social media platforms like Tiktok?&lt;/h1&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Artistic-Compote1968&quot;&gt; /u/Artistic-Compote1968 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t58jc4/web3_alternative_social_media/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/web3/comments/1t58jc4/web3_alternative_social_media/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>短期缺芯片，长期缺能源，永远缺存储</title>
-      <link>https://www.reddit.com/r/web3/comments/1t54d8r/短期缺芯片长期缺能源永远缺存储/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t54d8r/短期缺芯片长期缺能源永远缺存储/</guid>
-      <pubDate>2026-05-06T06:04:14+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;闪迪，海力士，孙宇晨又封神了！孙割之前说，短期缺芯片，长期缺能源，永远缺存储。&lt;/p&gt; &lt;p&gt;半年后的今天，全部应验。&lt;/p&gt; &lt;p&gt;闪迪暴涨到1100+ 海力士这几天伴随着战争态势缓和也是爆涨。&lt;/p&gt; &lt;p&gt;能源一类，（电能为主）包括gev在内也都有不错的涨幅。&lt;/p&gt; &lt;p&gt;可以这么说，整个ai这轮大行情，从头部到尾部，整个生态都涨了非常多，相信的人吃的饱饱，不相信的看的心痒难耐。&lt;/p&gt; &lt;p&gt;怕高都是苦命人在这一刻具象化了。&lt;/p&gt; &lt;p&gt;而大饼子三个月了，波动仅仅20%，以至于大量的流动性，都跑到上面我说的这些美股里面去了。&lt;/p&gt; &lt;p&gt;再加上没啥新东西，只有lab这样的合约收割机，以至于我看很多深圳的原本的web3工作室都转型去带人港股开户打新了。&lt;/p&gt; &lt;p&gt;兄弟姐妹们有空去香港玩的时候顺便搞一下，我这半年多也中了几个，港股打新没有持仓要求，相当于0成本搏运气了。&lt;/p&gt; &lt;p&gt;而ai的泡沫什么时候破裂，是很多人关注的事情，根据以往的规律，当你深信不疑的时候，就是最后破裂的时刻。&lt;/p&gt; &lt;p&gt;这很...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Natural language interfaces for blockchain transactions are inevitable, but we're nowhere near ready for them yet</title>
-      <link>https://www.reddit.com/r/web3/comments/1t4bbey/natural_language_interfaces_for_blockchain/</link>
-      <guid>https://www.reddit.com/r/web3/comments/1t4bbey/natural_language_interfaces_for_blockchain/</guid>
-      <pubDate>2026-05-05T10:21:54+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been thinking about this a lot after spending time building systems where users interact with blockchain protocols through plain English commands rather than traditional UIs.&lt;/p&gt; &lt;p&gt;The idea is simple enough, instead of asking someone to understand gas limits, slippage tolerance, and transaction signing, they just type &amp;quot;buy $500 of ETH when it drops below $3000&amp;quot; and the system handles everything underneath.&lt;/p&gt; &lt;p&gt;On the surface it works. In practice t...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
