@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 05:34:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 04:53:14 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,18 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+      <pubDate>Fri, 19 Jun 2026 21:00:00 GMT</pubDate>
+      <description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>US crypto ETFs are pulling Bitcoiners into TradFi: BlackRock's Jay Jacobs</title>
       <link>https://cointelegraph.com/news/blackrocks-ibit-is-pulling-bitcoiners-into-traditional-finance-exec-says?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
       <guid>https://cointelegraph.com/news/blackrocks-ibit-is-pulling-bitcoiners-into-traditional-finance-exec-says?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
@@ -83,18 +95,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
-      <pubDate>Thu, 18 Jun 2026 21:42:05 GMT</pubDate>
-      <description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Custodia, Vantage propose token that toggles between bank deposits and stablecoins</title>
       <link>https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
       <guid>https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
@@ -112,30 +112,6 @@
       <guid>https://decrypt.co/371581/algorand-plans-ready-quantum-computing-threat-end-2027</guid>
       <pubDate>Thu, 18 Jun 2026 20:52:47 +0000</pubDate>
       <description>Quantum computing threatens the blockchain ecosystem, from Bitcoin to Ethereum and beyond, and Algorand has a plan to be prepared.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>CME Group sues CFTC over crypto perpetual futures</title>
-      <link>https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
-      <guid>https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
-      <pubDate>Thu, 18 Jun 2026 17:42:09 GMT</pubDate>
-      <description>The lawsuit targets the federal regulator and Chair Michael Selig, alleging that the Commodity Futures Trading Commissioin is treating cryptocurrency “futures” as “swaps,” posing risks to derivatives markets.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>What Is Hyperliquid? The Decentralized Exchange With Its Own Blockchain</title>
-      <link>https://decrypt.co/resources/what-hyperliquid-decentralized-exchange-blockchain</link>
-      <guid>https://decrypt.co/resources/what-hyperliquid-decentralized-exchange-blockchain</guid>
-      <pubDate>Wed, 17 Jun 2026 17:14:03 +0000</pubDate>
-      <description>Hyperliquid’s decentralized exchange has rapidly grown to become one of the biggest projects in crypto. Here’s how it works.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -627,6 +603,30 @@
       <guid>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</guid>
       <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
       <description>The Bybit hack revealed several security failures, this post examines whether IPFS could have helped prevent the hack and practical solutions for dapp developers.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The latest chapter for Ethereum &amp; highlights from Devcon SEA</title>
+      <link>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</link>
+      <guid>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</guid>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <description>Devcon has always been a living reflection of Ethereum’s growth, challenges, and community ambitions. It showcases the most pressing topics, the newest innovations, and the people building the future of decentralized technology. As Ethereum grows, so too does Devcon.  Two years ago, right before Devcon VI in Bogotá, the...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS on the Web in 2024: Update From Interplanetary Shipyard</title>
+      <link>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</link>
+      <guid>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</guid>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <description>Update from Interplanetary Shipyard on our efforts to make IPFS work on the Web.</description>
       <category>IPFS</category>
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
