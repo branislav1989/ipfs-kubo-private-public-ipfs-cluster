@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 04:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 04:20:36 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,30 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 03 Jul 2026 19:51:18 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Belgian police arrest suspected phishing gang leader tied to $572K theft</title>
+      <link>https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 03 Jul 2026 12:43:47 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Belgian police arrest suspected phishing gang leader tied to $572K theft&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hacker-with-a-rod.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Belgian authorities say a European phishing gang stole over $572,000 from victims before laundering the proceeds through cryptocurrency.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise</title>
       <link>https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -78,77 +102,6 @@
       <pubDate>Thu, 02 Jul 2026 19:17:32 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;IMF says tokenization could transform settlement and financial stability&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-blockchain.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.
 &lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 02 Jul 2026 19:15:44 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ondo expands tokenized equities with onchain shareholder voting</title>
-      <link>https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 02 Jul 2026 16:25:01 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Ondo expands tokenized equities with onchain shareholder voting&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-comparison-q1-vs-q2-voting.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The biggest blockchain upgrades still to come in 2026</title>
-      <link>https://cointelegraph.com/features/the-biggest-blockchain-upgrades-still-to-come-in-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/features/the-biggest-blockchain-upgrades-still-to-come-in-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 02 Jul 2026 13:30:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;The biggest blockchain upgrades still to come in 2026&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/crypto-upgrade.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;From Ethereum’s Glamsterdam to Solana’s Alpenglow, 2026’s most important developments are protocol upgrades, not price charts.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Aave brings V3 lending and GHO stablecoin to Monad</title>
-      <link>https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 02 Jul 2026 13:00:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Aave brings V3 lending and GHO stablecoin to Monad &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/blockchain-tangled-cats-cradle-defi.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>PeerTube is a free, decentralized and federated video platform</title>
-      <link>https://github.com/Chocobozzz/PeerTube</link>
-      <guid>https://github.com/Chocobozzz/PeerTube</guid>
-      <pubDate>Thu, 02 Jul 2026 11:17:45 +0000</pubDate>
-      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=48759634&quot;&gt;Comments&lt;/a&gt;</description>
-      <category>distributed systems</category>
-      <category>decentralization</category>
-      <category>cryptography</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Robinhood links with dYdX Labs to launch new DEX Arcus</title>
-      <link>https://cointelegraph.com/news/robinhood-links-with-dydx-labs-to-launch-new-dex-arcus?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/robinhood-links-with-dydx-labs-to-launch-new-dex-arcus?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 02 Jul 2026 06:05:02 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Robinhood links with dYdX Labs to launch new DEX Arcus&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The crypto protocol dYdX has rebranded as Arcus and is joining Robinhood’s new blockchain to bring perpetual and tokenized stock trading. &lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -628,6 +581,54 @@
       <guid>https://blog.ipfs.tech/2025-03-static-web-manifesto/</guid>
       <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
       <description>Building websites used to be fun. Let’s bring back the joy of putting your work online by using open protocols like IPFS.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Could IPFS Have Prevented the Bybit Hack?</title>
+      <link>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</link>
+      <guid>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <description>The Bybit hack revealed several security failures, this post examines whether IPFS could have helped prevent the hack and practical solutions for dapp developers.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The latest chapter for Ethereum &amp; highlights from Devcon SEA</title>
+      <link>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</link>
+      <guid>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</guid>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <description>Devcon has always been a living reflection of Ethereum’s growth, challenges, and community ambitions. It showcases the most pressing topics, the newest innovations, and the people building the future of decentralized technology. As Ethereum grows, so too does Devcon.  Two years ago, right before Devcon VI in Bogotá, the...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS on the Web in 2024: Update From Interplanetary Shipyard</title>
+      <link>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</link>
+      <guid>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</guid>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <description>Update from Interplanetary Shipyard on our efforts to make IPFS work on the Web.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Improved Debugging with IPFS Check</title>
+      <link>https://blog.ipfs.tech/ipfs-check/</link>
+      <guid>https://blog.ipfs.tech/ipfs-check/</guid>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <description>IPFS Check is a debugging tool for IPFS Mainnet. It helps you check if data is routable and retrievable by CID on IPFS Mainnet.</description>
       <category>IPFS</category>
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
