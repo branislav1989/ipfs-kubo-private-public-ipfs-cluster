@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 03:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:57:48 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,10 +59,34 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Balance Coin crashes 99% after reported $915K exploit</title>
+      <link>https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Wed, 22 Jul 2026 03:12:48 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Balance Coin crashes 99% after reported $915K exploit &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/red.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Blockchain security firms linked the collapse to a suspected attack on 42DAO, the decentralized organization that governs the Balance Protocol ecosystem.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil</title>
+      <link>https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 21 Jul 2026 20:59:32 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 20 Jul 2026 21:07:27 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 20:12:18 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -71,11 +95,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Bernstein raises Robinhood price target, cites tokenization and prediction markets</title>
-      <link>https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 20 Jul 2026 16:53:25 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bernstein raises Robinhood price target, cites tokenization and prediction markets&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-what-is-robinhood-and-how-does-it-work-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The brokerage’s blockchain strategy, including tokenized equities and its Arbitrum-based Robinhood Chain, could reduce its reliance on traditional crypto trading, analysts said.
+      <title>MEXC adds Bittensor TAO staking for its global user base</title>
+      <link>https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 21 Jul 2026 15:53:08 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;MEXC adds Bittensor TAO staking for its global user base&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-staking-explained.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The integration with validator Yuma gives millions of MEXC users access to Bittensor, an AI-focused blockchain whose ecosystem now spans 128 specialized subnets.
 &lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -84,11 +108,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout</title>
-      <link>https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 20 Jul 2026 12:04:06 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-an-overview-of-cryptocurrency-regulations-in-vietnam-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The new rules establish penalties as much as $1,900 for crypto violations, including unlicensed trading and AML breaches, ahead of Vietnam’s regulated crypto market launch.&lt;/p&gt;</description>
+      <title>Morpho launches fixed-rate lending protocol on Base</title>
+      <link>https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 21 Jul 2026 13:00:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Morpho launches fixed-rate lending protocol on Base&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-crypto-lending-solutions-a-review-of-3-blockchain-lending-platforms.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Morpho Midnight introduces fixed rates and defined maturities alongside Morpho Blue’s variable-rate lending markets.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -96,11 +120,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Crypto institutions look beyond audits as trust signals falter: Hacken</title>
-      <link>https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 20 Jul 2026 11:00:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Crypto institutions look beyond audits as trust signals falter: Hacken&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-blockchain-initiatives1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Institutional due diligence is shifting toward continuous monitoring, signer controls and incident readiness after operational failures accounted for most crypto losses.&lt;/p&gt;</description>
+      <title>UK parliamentary group probes banking barriers for crypto firms</title>
+      <link>https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 21 Jul 2026 08:51:06 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;UK parliamentary group probes banking barriers for crypto firms&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/blockchainweek2020uk1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;A UK parliamentary group launched an inquiry into banking restrictions on crypto firms and consumers, including their impact on investment and competition.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -127,18 +151,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'</title>
-      <link>https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong</link>
-      <guid>https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong</guid>
-      <pubDate>Wed, 15 Jul 2026 18:50:55 +0000</pubDate>
-      <description>Pollak said he is handing the Base App back to Coinbase to focus on building Base into &quot;the blockchain for global finance&quot; after conceding the network's push into on-chain social missed the mark.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -452,18 +464,6 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Datahosting.company ipfs cryptocurency cloud storage ipfs kubo, ipfs cluster #ipfs #web3 #nft #p2p</title>
-      <link>https://www.youtube.com/shorts/B4XRhAT3wyw</link>
-      <guid>https://www.youtube.com/shorts/B4XRhAT3wyw</guid>
-      <pubDate>2026-01-02T17:06:21+00:00</pubDate>
-      <description/>
-      <category>DataHosting.Company</category>
-      <category>our content</category>
-      <category>original content</category>
-      <category>company updates</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
