@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 04:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 04:06:57 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,10 +59,45 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sun, 02 Aug 2026 20:00:35 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I'm building IPFS pinning + website hosting on the Sia network. Need testers and feedback</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1vdkw2v/im_building_ipfs_pinning_website_hosting_on_the/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1vdkw2v/im_building_ipfs_pinning_website_hosting_on_the/</guid>
+      <pubDate>2026-08-02T15:24:31+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/IPFS&quot;&gt;r/IPFS&lt;/a&gt;. I'm building &lt;a href=&quot;https://pinner.xyz&quot;&gt;Pinner&lt;/a&gt;, IPFS pinning and static site hosting on the &lt;a href=&quot;https://sia.tech&quot;&gt;Sia&lt;/a&gt; network. It's early and I want people to break it and tell me what sucks.&lt;/p&gt; &lt;h1&gt;What works right now&lt;/h1&gt; &lt;p&gt;You can pin content to IPFS backed by Sia storage and it stays available on the network. Static site hosting works too, with DNSLink. ENS names are supported, and HNS is in testing. pinner...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>BNB Chain pursues legal action after ex-employee’s memecoin launch</title>
+      <link>https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sun, 02 Aug 2026 11:24:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;BNB Chain pursues legal action after ex-employee’s memecoin launch&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-social-engineering-attack-bnb-chain.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the blockchain ecosystem says it did not authorize or endorse.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Russia expands crypto mining ban to Moscow through 2032</title>
       <link>https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 01 Aug 2026 10:23:41 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2026 10:30:00 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Russia expands crypto mining ban to Moscow through 2032&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -76,18 +111,6 @@
       <guid>https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
       <pubDate>Fri, 31 Jul 2026 20:10:21 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bank of Italy finds no consistent cost advantage for stablecoin remittances&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-bank-of-italy-and-crypto-recap.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 31 Jul 2026 18:09:51 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -127,18 +150,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>World Cup generated $20B in blockchain prediction market volume: Chainalysis</title>
-      <link>https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 30 Jul 2026 21:04:59 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;World Cup generated $20B in blockchain prediction market volume: Chainalysis&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-based bets.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -425,17 +436,6 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1sz3uu2/web3_multichain_search_is_close_to_debut/</guid>
       <pubDate>2026-04-29T16:29:23+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200b;&lt;/p&gt; &lt;p&gt;Built to bring wallet lookup, decentralized search, and community discussion into one place.&lt;/p&gt; &lt;p&gt;Most Web3 tools do one thing well and leave the rest fragmented. You check a wallet in one place, search assets somewhere else, and if you want context or discussion, you are forced to dig through Discord, Telegram, X, or Reddit to piece it together yourself.&lt;/p&gt; &lt;p&gt;This was built to solve that problem.&lt;/p&gt; &lt;p&gt;Search wallets. Explore decentralized ...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Access .eth websites without IPFS gateways</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1sx0lhe/access_eth_websites_without_ipfs_gateways/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1sx0lhe/access_eth_websites_without_ipfs_gateways/</guid>
-      <pubDate>2026-04-27T11:15:12+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1sx0lhe/access_eth_websites_without_ipfs_gateways/&quot;&gt; &lt;img alt=&quot;Access .eth websites without IPFS gateways&quot; src=&quot;https://external-preview.redd.it/q9mnXt_XpnBX1G9EsdCcfDOEYvcwxmephfpJLwUjnRQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b7173e28f3f93d68880cf26b31a84a0e049179d7&quot; title=&quot;Access .eth websites without IPFS gateways&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/oed_&quot;&gt; /u/oed_ &lt;/a&gt; &lt;br ...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
