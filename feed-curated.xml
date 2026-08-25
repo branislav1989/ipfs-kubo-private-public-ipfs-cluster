@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 02:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:03:53 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,12 +62,46 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 21 Aug 2026 20:48:48 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 19:58:34 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Coinbase Brings Tokenized Stocks to Ethereum L2 Base</title>
+      <link>https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum</link>
+      <guid>https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum</guid>
+      <pubDate>Mon, 24 Aug 2026 19:43:43 +0000</pubDate>
+      <description>The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Protocol Labs defunded IPFS maintenance team, Shipyard shuts down September 30</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1vx6kq8/protocol_labs_defunded_ipfs_maintenance_team/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1vx6kq8/protocol_labs_defunded_ipfs_maintenance_team/</guid>
+      <pubDate>2026-08-24T15:49:12+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1vx6kq8/protocol_labs_defunded_ipfs_maintenance_team/&quot;&gt; &lt;img alt=&quot;Protocol Labs defunded IPFS maintenance team, Shipyard shuts down September 30&quot; src=&quot;https://external-preview.redd.it/JtCIncp0x-Xm_8Winio5FtIMUuS_fZ66eKq3RYf0QkI.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4b9c666719f49848f0112ae27688456540bd3c8d&quot; title=&quot;Protocol Labs defunded IPFS maintenance team, Shipyard shuts down September 30&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS Maintainers Winding Down</title>
+      <link>https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/</link>
+      <guid>https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/</guid>
+      <pubDate>Mon, 24 Aug 2026 15:48:45 +0000</pubDate>
+      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=49421489&quot;&gt;Comments&lt;/a&gt;</description>
+      <category>distributed systems</category>
+      <category>decentralization</category>
+      <category>cryptography</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -95,39 +129,267 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Solana cuts blockchain slot time to 350 milliseconds</title>
-      <link>https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 21 Aug 2026 13:45:13 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Solana cuts blockchain slot time to 350 milliseconds&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Solana reduced its slot time for the first time since genesis as it works toward a 200-millisecond target aimed at reducing network latency.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>How to use IPFS to break China’s internet censorship safely</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1vtabcz/how_to_use_ipfs_to_break_chinas_internet/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1vtabcz/how_to_use_ipfs_to_break_chinas_internet/</guid>
+      <pubDate>2026-08-20T05:20:06+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The Chinese government have lots of unspeakable stuffs that their online policing system try to censor, as well as censoring &amp;amp; cracking down ordinary netizens exercising free speech in a way they feel threatened for or not in line with their propaganda machine (they won’t admit it of course). I‘m an anonymous independent reporter and how can I use IPFS without spending too much money to find and spread true information to China and from China and allow anony...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>MANTRA token sinks 18% to record low amid blockchain halt</title>
-      <link>https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 21 Aug 2026 05:04:52 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;MANTRA token sinks 18% to record low amid blockchain halt &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/hi-transactions-stopped-halted.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Kubo v0.43.0</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1vftbk9/kubo_v0430/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1vftbk9/kubo_v0430/</guid>
+      <pubDate>2026-08-05T01:30:19+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1vftbk9/kubo_v0430/&quot;&gt; &lt;img alt=&quot;Kubo v0.43.0&quot; src=&quot;https://external-preview.redd.it/4o5tFbk3di6rXMP1H75BFGz7vUlYCY5_N_vGfJpEB5M.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c4671a413d57aec6adece603cb9cdf5393a561f1&quot; title=&quot;Kubo v0.43.0&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lidel&quot;&gt; /u/lidel &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://github.com/ipfs/kubo/releases/tag/v0.43.0&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules</title>
-      <link>https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november</link>
-      <guid>https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november</guid>
-      <pubDate>Thu, 20 Aug 2026 09:31:03 +0000</pubDate>
-      <description>OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>I'm building IPFS pinning + website hosting on the Sia network. Need testers and feedback</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1vdkw2v/im_building_ipfs_pinning_website_hosting_on_the/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1vdkw2v/im_building_ipfs_pinning_website_hosting_on_the/</guid>
+      <pubDate>2026-08-02T15:24:31+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/IPFS&quot;&gt;r/IPFS&lt;/a&gt;. I'm building &lt;a href=&quot;https://pinner.xyz&quot;&gt;Pinner&lt;/a&gt;, IPFS pinning and static site hosting on the &lt;a href=&quot;https://sia.tech&quot;&gt;Sia&lt;/a&gt; network. It's early and I want people to break it and tell me what sucks.&lt;/p&gt; &lt;h1&gt;What works right now&lt;/h1&gt; &lt;p&gt;You can pin content to IPFS backed by Sia storage and it stays available on the network. Static site hosting works too, with DNSLink. ENS names are supported, and HNS is in testing. pinner...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>TruSpace release 1.0</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1vbladw/truspace_release_10/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1vbladw/truspace_release_10/</guid>
+      <pubDate>2026-07-31T08:45:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1vbladw/truspace_release_10/&quot;&gt; &lt;img alt=&quot;TruSpace release 1.0&quot; src=&quot;https://external-preview.redd.it/zqDBTfHavfgJIAwIMNkjXcz6_cOoedTpVgfmZOHH_4w.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ca141f2c89751e8a8cfab8efc509edada1345877&quot; title=&quot;TruSpace release 1.0&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We published release 1.0 of the private IPFS document management solution TruSpace. I think it's pretty cool, you can ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>PSA: Infura's IPFS service shuts down August 15</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1va7e40/psa_infuras_ipfs_service_shuts_down_august_15/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1va7e40/psa_infuras_ipfs_service_shuts_down_august_15/</guid>
+      <pubDate>2026-07-29T20:04:27+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1va7e40/psa_infuras_ipfs_service_shuts_down_august_15/&quot;&gt; &lt;img alt=&quot;PSA: Infura's IPFS service shuts down August 15&quot; src=&quot;https://external-preview.redd.it/ImuEU_gs8P2U8_CxfrVUjcPJ3sqRXQkAOLTpcg4qN-E.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=234dd80af90fd81c96642ffbaa3f9ea191b9efe6&quot; title=&quot;PSA: Infura's IPFS service shuts down August 15&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Disclosure: We are the Filebase team....</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Kinetic - Decentralisation Naming system</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1v0ykfj/kinetic_decentralisation_naming_system/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1v0ykfj/kinetic_decentralisation_naming_system/</guid>
+      <pubDate>2026-07-19T18:46:22+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CommunicationPlus253&quot;&gt; /u/CommunicationPlus253 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;/r/web3/comments/1v03v4g/kinetic_decentralisation_naming_system/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1v0ykfj/kinetic_decentralisation_naming_system/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I was told not to exceed 2000 peers 👀</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1uyqfa3/i_was_told_not_to_exceed_2000_peers/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1uyqfa3/i_was_told_not_to_exceed_2000_peers/</guid>
+      <pubDate>2026-07-17T05:19:07+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1uyqfa3/i_was_told_not_to_exceed_2000_peers/&quot;&gt; &lt;img alt=&quot;I was told not to exceed 2000 peers 👀&quot; src=&quot;https://preview.redd.it/6hhbp01h5qdh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1401991b0829211b9084ef9ab47012684ca4a2f4&quot; title=&quot;I was told not to exceed 2000 peers 👀&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AncientGlitchissax&quot;&gt; /u/AncientGlitchissax &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://i...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS looking for civic open data</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1uv5uq6/ipfs_looking_for_civic_open_data/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1uv5uq6/ipfs_looking_for_civic_open_data/</guid>
+      <pubDate>2026-07-13T08:43:23+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1uv5uq6/ipfs_looking_for_civic_open_data/&quot;&gt; &lt;img alt=&quot;IPFS looking for civic open data&quot; src=&quot;https://external-preview.redd.it/ZhK674SDidPqHLcXhhAsaoTkERcAM8M-0pF6CctQmlU.jpeg?width=108&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7cdb1e1308482551521860983c4d078d3c9cb03e&quot; title=&quot;IPFS looking for civic open data&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Via one of the IPFS folk on Bsky:&lt;/p&gt; &lt;p&gt;&lt;em&gt;&amp;gt; Are you working with civic ope...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>My experimental eBPF + Tetragon EDR engine is getting some solid traffic. I just opened the very first &quot;Good First Issue&quot; for anyone looking to contribute!</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1utqhgn/my_experimental_ebpf_tetragon_edr_engine_is/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1utqhgn/my_experimental_ebpf_tetragon_edr_engine_is/</guid>
+      <pubDate>2026-07-11T17:40:37+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been working on a niche, experimental EDR engine using eBPF and Tetragon. To my surprise, it’s already getting some solid traffic and clones despite having a very basic README.Since people are actively checking out the repo, I figured it’s the perfect time to open it up to the community and give you a chance to officially join the contributor list. 😉The very first &amp;quot;Good First Issue&amp;quot; is officially live!The task? Fixing typos and cleaning up the doc...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>My experimental eBPF + Tetragon EDR engine is getting some solid traffic. I just opened the very first &quot;Good First Issue&quot; for anyone looking to contribute!</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1utqgz3/my_experimental_ebpf_tetragon_edr_engine_is/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1utqgz3/my_experimental_ebpf_tetragon_edr_engine_is/</guid>
+      <pubDate>2026-07-11T17:40:09+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been working on a niche, experimental EDR engine using eBPF and Tetragon. To my surprise, it’s already getting some solid traffic and clones despite having a very basic README.Since people are actively checking out the repo, I figured it’s the perfect time to open it up to the community and give you a chance to officially join the contributor list. 😉The very first &amp;quot;Good First Issue&amp;quot; is officially live!The task? Fixing typos and cleaning up the doc...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Obsessed with IPFS for years queue Bacteria</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1usljm2/obsessed_with_ipfs_for_years_queue_bacteria/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1usljm2/obsessed_with_ipfs_for_years_queue_bacteria/</guid>
+      <pubDate>2026-07-10T11:56:39+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I love IPFS and think it can do incredible things. So I built bacteria. Not production, but a near production demo. Check it out.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://bacteria.live&quot;&gt;https://bacteria.live&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Donations and payments aren’t enabled for the sake of looking around. You can mess with it right now but don’t depend on it while it’s a demo.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Psychological_Bug981&quot;&gt; /u/Psycholo...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ipfs seeing a Huge drop in user base? What happened?</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1ur9vec/ipfs_seeing_a_huge_drop_in_user_base_what_happened/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1ur9vec/ipfs_seeing_a_huge_drop_in_user_base_what_happened/</guid>
+      <pubDate>2026-07-08T23:51:51+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ur9vec/ipfs_seeing_a_huge_drop_in_user_base_what_happened/&quot;&gt; &lt;img alt=&quot;Ipfs seeing a Huge drop in user base? What happened?&quot; src=&quot;https://preview.redd.it/3f1tky3qf3ch1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8da7d0aadde3cd8ed9db3c2481836f99ef06e371&quot; title=&quot;Ipfs seeing a Huge drop in user base? What happened?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think this might have been related to NFTs, but Its still sa...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>ce-net: a peer-to-peer device mesh in Rust (libp2p + capabilities + pluggable runtimes)</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1ui3g65/cenet_a_peertopeer_device_mesh_in_rust_libp2p/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1ui3g65/cenet_a_peertopeer_device_mesh_in_rust_libp2p/</guid>
+      <pubDate>2026-06-28T17:36:58+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ui3g65/cenet_a_peertopeer_device_mesh_in_rust_libp2p/&quot;&gt; &lt;img alt=&quot;ce-net: a peer-to-peer device mesh in Rust (libp2p + capabilities + pluggable runtimes)&quot; src=&quot;https://preview.redd.it/jjohpebd72ah1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=01109bf6f781a46c00835ecc39b8128dcceaddc1&quot; title=&quot;ce-net: a peer-to-peer device mesh in Rust (libp2p + capabilities + pluggable runtimes)&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a hr...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>FileOrbit - Private IPFS Swarm and AT Proto login giving a permissioned IPFS.</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1uexwch/fileorbit_private_ipfs_swarm_and_at_proto_login/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1uexwch/fileorbit_private_ipfs_swarm_and_at_proto_login/</guid>
+      <pubDate>2026-06-25T02:48:03+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1uexwch/fileorbit_private_ipfs_swarm_and_at_proto_login/&quot;&gt; &lt;img alt=&quot;FileOrbit - Private IPFS Swarm and AT Proto login giving a permissioned IPFS.&quot; src=&quot;https://external-preview.redd.it/50anvNpvqpkr38b7zC9o13FMY0EjJmMRHDTgrPFjj6c.png?width=140&amp;amp;height=73&amp;amp;auto=webp&amp;amp;s=69c4ad43b49df890d8791feb4ae62e1010f84857&quot; title=&quot;FileOrbit - Private IPFS Swarm and AT Proto login giving a permissioned IPFS.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>JFN-NODE-002 — Trust Stack + MariaDB + IPFS + Passphrase Gate</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1ue7242/jfnnode002_trust_stack_mariadb_ipfs_passphrase/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1ue7242/jfnnode002_trust_stack_mariadb_ipfs_passphrase/</guid>
+      <pubDate>2026-06-24T07:50:41+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ue7242/jfnnode002_trust_stack_mariadb_ipfs_passphrase/&quot;&gt; &lt;img alt=&quot;JFN-NODE-002 — Trust Stack + MariaDB + IPFS + Passphrase Gate&quot; src=&quot;https://external-preview.redd.it/MkKRcnMORRu5PI7Mj9unaPzD4ng7aqSOt_2YW9zp6NQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7e1a73bacfcb3261f6d623c275848e2a40251c87&quot; title=&quot;JFN-NODE-002 — Trust Stack + MariaDB + IPFS + Passphrase Gate&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://w...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>How to ip pull without getting caught</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1ud22i1/how_to_ip_pull_without_getting_caught/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1ud22i1/how_to_ip_pull_without_getting_caught/</guid>
+      <pubDate>2026-06-23T00:31:32+00:00</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Fit_Following703&quot;&gt; /u/Fit_Following703 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;/r/u_Fit_Following703/comments/1ud1vtl/how_to_ip_pull_without_getting_caught/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ud22i1/how_to_ip_pull_without_getting_caught/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Semantic routing through RAG to create a P2P social network or marketplace</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1ucvu5e/semantic_routing_through_rag_to_create_a_p2p/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1ucvu5e/semantic_routing_through_rag_to_create_a_p2p/</guid>
+      <pubDate>2026-06-22T20:22:33+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ucvu5e/semantic_routing_through_rag_to_create_a_p2p/&quot;&gt; &lt;img alt=&quot;Semantic routing through RAG to create a P2P social network or marketplace&quot; src=&quot;https://external-preview.redd.it/ibdy6a3ZDnvs2wUHs-ZqPDCvyklwXLvau1EnjQw6ZbI.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1ea8421ecdb66f1bfaa7ccfa104a0d96df13ce60&quot; title=&quot;Semantic routing through RAG to create a P2P social network or marketplace&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Release v0.42.0</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1u89794/release_v0420/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1u89794/release_v0420/</guid>
+      <pubDate>2026-06-17T12:45:50+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I see 0.42.0 released. It looks like mainly tweaks, particularly touching scheduling of operations that previously would block and interfere with each other.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/ipfs/kubo/releases/tag/v0.42.0&quot;&gt;https://github.com/ipfs/kubo/releases/tag/v0.42.0&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/volkris&quot;&gt; /u/volkris &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1u89794/relea...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS people I need your help</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1u3gfcl/ipfs_people_i_need_your_help/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1u3gfcl/ipfs_people_i_need_your_help/</guid>
+      <pubDate>2026-06-12T00:36:21+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m having IPFS issues and I don’t know where to turn for help. &lt;/p&gt; &lt;p&gt;I am trying to help an elderly woman with long term storage for her NFT project. It’s a small project, around 1000 tokens and comes out to a whopping 290 MB of data. She doesn’t want to pay for a $20 a month Piñata subscription for such a small amount, for what is basically a passion project. &lt;/p&gt; &lt;p&gt;Because she is older, she needs help with tech stuff. I generally have a pretty good grasp o...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>[Article] HealthRec-Chain: Patient-centric blockchain enabled IPFS for privacy preserving scalable health data</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1tvr8pl/article_healthrecchain_patientcentric_blockchain/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1tvr8pl/article_healthrecchain_patientcentric_blockchain/</guid>
+      <pubDate>2026-06-03T14:35:39+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello, please help me find this paper DOI no.: &lt;a href=&quot;https://doi.org/10.1016/j.comnet.2024.110223&quot;&gt;https://doi.org/10.1016/j.comnet.2024.110223&lt;/a&gt;&lt;/p&gt; &lt;p&gt;URL : &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S1389128624000550&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S1389128624000550&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SnooBananas5429&quot;&gt; /u/SnooBananas5429 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Vanity IPNS public key</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1to944w/vanity_ipns_public_key/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1to944w/vanity_ipns_public_key/</guid>
+      <pubDate>2026-05-26T14:45:16+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1to944w/vanity_ipns_public_key/&quot;&gt; &lt;img alt=&quot;Vanity IPNS public key&quot; src=&quot;https://external-preview.redd.it/sSop87rw_YRQ-0f0SQSy9JTKdXsB_kmaw_2UK9amq1c.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fffab4bb90b40486edf91065249f624d4cdd9a0f&quot; title=&quot;Vanity IPNS public key&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Tool that tries to find a key whose IPNS public key has a pattern you like. Written in Rust with GPU support (N...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Academic survey on decentralised file storage experiences</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1tkfavf/academic_survey_on_decentralised_file_storage/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1tkfavf/academic_survey_on_decentralised_file_storage/</guid>
+      <pubDate>2026-05-22T10:46:16+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone! I’m part of a university research team at Loreley Lab, INRIA, France. We’re studying how people actually use decentralised file storage systems such as Filecoin, IPFS, and others.&lt;/p&gt; &lt;p&gt;We’re running a short anonymous/pseudonymous questionnaire about users’ experiences, motivations, pain points, and practical insights. It takes around 10–15 minutes and does not ask any personal information, or demographic information. &lt;/p&gt; &lt;p&gt;Survey link: &lt;a href=&quot;...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The Sovereign Mesh: A Blueprint for a Trust-Centric Decentralized Web</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1tk9x07/the_sovereign_mesh_a_blueprint_for_a_trustcentric/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1tk9x07/the_sovereign_mesh_a_blueprint_for_a_trustcentric/</guid>
+      <pubDate>2026-05-22T05:54:02+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I'm sure you've all heard of Tor, but I wanted to take it a step deeper. I was frustrated that good movies and shows often had their licensing revoked from most streaming services, slowly fading away into nothing, and that piracy was the only answer. I was thinking and discussed this, and came up with an idea. What if the &amp;quot;middleman&amp;quot; was removed and the artist was paid directly through some decentralized means.&lt;/p&gt; &lt;p&gt;But the flaw with decentralization...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Blocked gateway. Again.</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1thzcuw/blocked_gateway_again/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1thzcuw/blocked_gateway_again/</guid>
+      <pubDate>2026-05-19T20:30:28+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt; &lt;p&gt;I'm operating the &lt;a href=&quot;http://ipfs.cyou&quot;&gt;ipfs.cyou&lt;/a&gt; gateway. Which is not reachable at the moment because some idiot phisher serves their BS on IPFS and used my gateway to do so. Somebody reported that to the .cyou operator, and they put the domain on server hold without even notifying me, let alone giving me a chance to block whatever the phishing asshat pumps into IPFS. &lt;/p&gt; &lt;p&gt;I managed to get it unblocked last week, but that didn't hold up ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -368,294 +630,6 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Improved Debugging with IPFS Check</title>
-      <link>https://blog.ipfs.tech/ipfs-check/</link>
-      <guid>https://blog.ipfs.tech/ipfs-check/</guid>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <description>IPFS Check is a debugging tool for IPFS Mainnet. It helps you check if data is routable and retrievable by CID on IPFS Mainnet.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Migrating from Brave to IPFS Desktop</title>
-      <link>https://blog.ipfs.tech/2024-brave-migration-guide/</link>
-      <guid>https://blog.ipfs.tech/2024-brave-migration-guide/</guid>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
-      <description>Complete Guide to Migrating Your IPFS Data</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>IPFS News Issue 204</title>
-      <link>https://blog.ipfs.tech/newsletter-204/</link>
-      <guid>https://blog.ipfs.tech/newsletter-204/</guid>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-      <description>Welcome to IPFS News 204! Featuring @helia/verified-fetch and the IPFS Camp 2024 track list.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Verified IPFS Retrieval in Browsers with @helia/verified-fetch</title>
-      <link>https://blog.ipfs.tech/verified-fetch/</link>
-      <guid>https://blog.ipfs.tech/verified-fetch/</guid>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-      <description>Verified Fetch is a library streamlining verified retrieval of IPFS content in browsers and JS runtimes, with native support for IPNS, and DNSLink resolution</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing the IPFS Camp 2024 Track List</title>
-      <link>https://blog.ipfs.tech/ipfs-camp-2024-track-list/</link>
-      <guid>https://blog.ipfs.tech/ipfs-camp-2024-track-list/</guid>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
-      <description>To give you a taste of what kinds of topics IPFS Camp will cover this year, we’re excited to share the 2024 track list!</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>IPFS &amp; libp2p Devs Go Independent: Meet Interplanetary Shipyard</title>
-      <link>https://blog.ipfs.tech/shipyard-hello-world/</link>
-      <guid>https://blog.ipfs.tech/shipyard-hello-world/</guid>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-      <description>Meet the team behind Interplanetary Shipyard, the newly created entity of many core maintainers behind the most popular implementations of IPFS and libp2p.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>IPFS News Issue 203</title>
-      <link>https://blog.ipfs.tech/newsletter-203/</link>
-      <guid>https://blog.ipfs.tech/newsletter-203/</guid>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <description>Featuring more news about IPFS Camp 2024! 🏕️</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Run a Node Grants Round Grantee Announcement</title>
-      <link>https://blog.ethereum.org/en/2023/12/06/run-a-node-grantee</link>
-      <guid>https://blog.ethereum.org/en/2023/12/06/run-a-node-grantee</guid>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-      <description>The Run A Node Grants Round wanted to reach different users exploring blockchain, learning, community efforts, and research purposes. The aim of this round was to encourage the exploration of a diverse range of ideas for operating nodes beyond running a validator, such as facilitating data queries for research, examining...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Beyond Borders - Unveiling Potential of Blockchain in a Crisis</title>
-      <link>https://blog.ethereum.org/en/2023/11/15/beyond-borders-nb</link>
-      <guid>https://blog.ethereum.org/en/2023/11/15/beyond-borders-nb</guid>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
-      <description>Crisis is a cruel teacher. It can draw us together in our shared fragility, but paradoxically it can also distance us from our shared humanity. In times of great crisis, the institutions and structures of society that are supposed to protect and support us may become twisted, corrupted, or rendered...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Scouting for the Future: Technology and the Scouting Movement</title>
-      <link>https://blog.ethereum.org/en/2023/05/01/scouting-future-movement</link>
-      <guid>https://blog.ethereum.org/en/2023/05/01/scouting-future-movement</guid>
-      <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-      <description>Hello everyone! My name is Mihajlo, and over the past six months as part of my Next Billion Fellowship, I’ve been working to bring the benefits of Web3 to the World Scouting Movement.  Growing up in Serbia in the '90s, I experienced firsthand the devastating effects that wars and...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing Grants Round for Academic Research</title>
-      <link>https://blog.ethereum.org/en/2022/03/01/academic-grants-round</link>
-      <guid>https://blog.ethereum.org/en/2022/03/01/academic-grants-round</guid>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-      <description>We are excited to announce a new wave of grants to fund formal research that aims to create more knowledge about Ethereum, blockchain technology, and related domains. We encourage academics, research centers, PhD Students and all those interested in researching Ethereum to submit their project proposals. This grants round has...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing Grants for Advocacy Non-Profits</title>
-      <link>https://blog.ethereum.org/en/2021/11/16/advocacy-grants</link>
-      <guid>https://blog.ethereum.org/en/2021/11/16/advocacy-grants</guid>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-      <description>The Ethereum Foundation is allocating 1 million USD in grant funding to organizations that educate governments and policymakers about Ethereum and blockchain technology. We encourage others in the Ethereum community to support their important work....</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Core Developer Apprenticeship Program: The Second Cohort</title>
-      <link>https://blog.ethereum.org/en/2021/09/06/core-dev-apprenticeship-second-cohort</link>
-      <guid>https://blog.ethereum.org/en/2021/09/06/core-dev-apprenticeship-second-cohort</guid>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
-      <description>Does development of the core protocols that power the Ethereum blockchain excite you? Are you interested in getting involved at the most fundemental and technical levels of the Ethereum protocol?  I am excited to announce that we are now accepting applications for the second cohort of the Core Developer...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The 1.x Files: GHOST in the Stack Machine</title>
-      <link>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</link>
-      <guid>https://blog.ethereum.org/en/2020/07/28/the-1x-files-ghost-in-the-stack-machine</guid>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 GMT</pubDate>
-      <description>Ethereum can be simple enough to understand from a bird's-eye view: Decentralized applications powered by the same sort of crypto-economic guarantees that underpin Bitcoin. But once you've zoomed in to, say, a street-level view, things get complicated rapidly.  Even assuming one has a strong grasp on proof-of-work, it's not...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing World Trade Francs: The Official Ethereum Stablecoin</title>
-      <link>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</link>
-      <guid>https://blog.ethereum.org/en/2018/04/01/announcing-world-trade-francs-official-ethereum-stablecoin</guid>
-      <pubDate>Sun, 01 Apr 2018 15:35:26 GMT</pubDate>
-      <description>We have long recognized that in order for cryptocurrency to reach mass adoption, a form of cryptocurrency that has higher price stability than existing cryptocurrencies like BTC and ETH would be needed so that people can use the currency to store funds and engage in commerce without worrying about their...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing Beneficiaries of the Ethereum Foundation Grants</title>
-      <link>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</link>
-      <guid>https://blog.ethereum.org/en/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants</guid>
-      <pubDate>Wed, 07 Mar 2018 17:54:33 GMT</pubDate>
-      <description>We’re excited to share the results of the first wave of grants from the Ethereum Foundation.  As a reminder, the Ethereum project seeks to support useful dapps and smart contracts on the Ethereum blockchain, and the goal of the Ethereum Foundation is to empower developers with best-in-class R&amp;amp;D, developer...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum scalability research and development subsidy programs</title>
-      <link>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</link>
-      <guid>https://blog.ethereum.org/en/2018/01/02/ethereum-scalability-research-development-subsidy-programs</guid>
-      <pubDate>Tue, 02 Jan 2018 17:42:21 GMT</pubDate>
-      <description>The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Q4 Roundup</title>
-      <link>https://blog.ethereum.org/en/2018/01/02/q4-roundup</link>
-      <guid>https://blog.ethereum.org/en/2018/01/02/q4-roundup</guid>
-      <pubDate>Tue, 02 Jan 2018 15:27:18 GMT</pubDate>
-      <description>Ethereum has grown very rapidly in the last few months. Transaction volume on the blockchain has more than doubled, surpassing 10 transactions per second for days at a time. The number of new accounts created per day passed 100,000&lt;span style=&quot;font-w...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum JS Ecosystem Updates</title>
-      <link>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</link>
-      <guid>https://blog.ethereum.org/en/2017/03/21/ethereum-js-ecosystem-updates</guid>
-      <pubDate>Tue, 21 Mar 2017 03:11:39 GMT</pubDate>
-      <description>It's been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay's excellent write up here.  Also, during this time Aaron Davis (Kumavis) made s...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>An Update on Integrating Zcash on Ethereum (ZoE)</title>
-      <link>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</link>
-      <guid>https://blog.ethereum.org/en/2017/01/19/update-integrating-zcash-ethereum</guid>
-      <pubDate>Thu, 19 Jan 2017 17:57:54 GMT</pubDate>
-      <description>Members of the Ethereum R&amp;amp;D team and the Zcash Company are collaborating on a research project addressing the combination of programmability and privacy in blockchains. This joint post is being concurrently posted on the Zcash blog, and is coauthored by Ariel Gabizon (Zcash) and Christian Reitwiessner (Ethereum).  Ethereum’s flexible smart...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Uncle Rate and Transaction Fee Analysis</title>
-      <link>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</link>
-      <guid>https://blog.ethereum.org/en/2016/10/31/uncle-rate-transaction-fee-analysis</guid>
-      <pubDate>Mon, 31 Oct 2016 03:52:04 GMT</pubDate>
-      <description>One of the important indicators of how much load the Ethereum blockchain can safely handle is how the uncle rate responds to the gas usage of a transaction. In all blockchains of the Satoshian proof-of-work variety, any block that is published has the risk of howbecoming a &quot;stale&quot;, ie. not...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>On Inflation, Transaction Fees and Cryptocurrency Monetary Policy</title>
-      <link>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</link>
-      <guid>https://blog.ethereum.org/en/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy</guid>
-      <pubDate>Wed, 27 Jul 2016 17:00:00 GMT</pubDate>
-      <description>The primary expense that must be paid by a blockchain is that of security. The blockchain must pay miners or validators to economically participate in its consensus protocol, whether proof of work or proof of stake, and this inevitably incurs some cost. There are two ways to pay for this...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Taylor’s Summer Update</title>
-      <link>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</link>
-      <guid>https://blog.ethereum.org/en/2016/07/11/taylors-summer-update</guid>
-      <pubDate>Mon, 11 Jul 2016 16:05:58 GMT</pubDate>
-      <description>Hey everyone, I spent some time with our Canadian friends in Toronto after presenting &quot;Ethereum: The World Computer&quot; at Blockchain Training Conference last month and I wanted to provide a quick update on some of the exciting happenings in the Ethereum dev ecosystem. Lots of things are brewing behinds the...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>On Settlement Finality</title>
-      <link>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</link>
-      <guid>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</guid>
-      <pubDate>Mon, 09 May 2016 08:07:25 GMT</pubDate>
-      <description>Special thanks to Tim Swanson for reviewing, and for further discussions on the arguments in his original paper on settlement finality.  Recently one of the major disputes in ongoing debate between public blockchain and permissioned blockchain proponents is the issue of settlement finality. One of the simple properties that...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
   </channel>
