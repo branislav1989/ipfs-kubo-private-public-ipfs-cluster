@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:54:01 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,30 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury</title>
+      <link>https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only</link>
+      <guid>https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only</guid>
+      <pubDate>Wed, 02 Sep 2026 21:31:05 +0000</pubDate>
+      <description>The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Wed, 02 Sep 2026 19:11:15 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Core DAO plans emergency hard fork after validators drew excess rewards</title>
       <link>https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -76,18 +100,6 @@
       <guid>https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
       <pubDate>Tue, 01 Sep 2026 21:25:27 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Crypto-backed PAC scales back ad spending in Massachusetts primary&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F9CHX26RTFEYCMMVC55WQZ/hi-pacs-in-crypto-and-blockchain2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake’s latest attempt to influence the 2026 elections with funds from the crypto industry.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 01 Sep 2026 20:00:17 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -155,83 +167,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT</title>
-      <link>https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 01 Sep 2026 10:56:41 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E661NCT1TRWRA3HD65CEX3/blockchainweek2020uk1-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report</title>
-      <link>https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 01 Sep 2026 07:47:13 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DY16J8V7YX1BYDHMX0HB5A/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investment round into Polymarket, which would value the platform at $21 billion, just below ...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders</title>
       <link>https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent</link>
       <guid>https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent</guid>
       <pubDate>Mon, 31 Aug 2026 17:54:15 +0000</pubDate>
       <description>A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry—weeks after Trump said his administration was working to bring it onshore.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil</title>
-      <link>https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil</link>
-      <guid>https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil</guid>
-      <pubDate>Mon, 31 Aug 2026 16:55:46 +0000</pubDate>
-      <description>The largest cryptocurrency is on track for its best month since 2017, holding above $78,000 even as a hawkish Fed and renewed Middle East conflict drag on stocks and lift crude.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report</title>
-      <link>https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 31 Aug 2026 14:50:58 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C10WR962EQNTM5JC7YMRXS/russia-coin-moscow-minin-and-pozharskiy.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Regulated cryptocurrency exchanges may see more than $46 billion in crypto trading volume during the first year after legalization, according to estimates f...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees</title>
-      <link>https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees</link>
-      <guid>https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees</guid>
-      <pubDate>Mon, 31 Aug 2026 12:37:44 +0000</pubDate>
-      <description>Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit</title>
-      <link>https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit</link>
-      <guid>https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit</guid>
-      <pubDate>Mon, 31 Aug 2026 09:41:27 +0000</pubDate>
-      <description>Some $6 million reached Ethereum before validators froze the chain, stranding the rest on a network that still is not producing blocks.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -631,6 +571,66 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Debugging Superpowers With the New js-libp2p Developer Tools</title>
+      <link>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</link>
+      <guid>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</guid>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Discover the new js-libp2p developer tools from Shipyard that provide real-time debugging capabilities for js-libp2p and Helia nodes in both browsers and Node.js.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Checkpoint #4: Berlinterop</title>
+      <link>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</link>
+      <guid>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+      <description>Ethereum’s weekly All Core Developer calls are a lot to keep up with, so this &quot;Checkpoint&quot; series aims for high-level updates depending on what’s happening in core development. See the previous update here.  This is a special edition of the series!  Kicking off Berlin Blockchain Week, ethereum core...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>🌳 IPFS Newsletter 205: HTTP, P2P in browsers, Kubo speedup &amp; more</title>
+      <link>https://blog.ipfs.tech/newsletter-205/</link>
+      <guid>https://blog.ipfs.tech/newsletter-205/</guid>
+      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+      <description>The IPFS Newsletter is back, with many exciting updates to share: HTTP support across the IPFS stack, P2P in browsers, Kubo speedup, and more.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing the Trillion Dollar Security Initiative</title>
+      <link>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</link>
+      <guid>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+      <description>Ethereum is the most secure blockchain ecosystem. This is the result of 10 years of progress and iteration across every level of Ethereum’s technology stack, from wallet UX to developer tooling to consensus protocol security.  But being the most secure platform in the crypto ecosystem isn’t enough. Ethereum’s ambition...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Spring 2025 IPFS Utility Grantees</title>
+      <link>https://blog.ipfs.tech/2025-05-grants/</link>
+      <guid>https://blog.ipfs.tech/2025-05-grants/</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <description>We're delighted to announce the grantees for the Spring 2025 round of IPFS Utility Grants.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
   </channel>
