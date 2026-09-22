@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 05:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:16:52 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,11 +59,34 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>How do you keep one stable IPFS link while publishing immutable artifact revisions?</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1wmykba/how_do_you_keep_one_stable_ipfs_link_while/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1wmykba/how_do_you_keep_one_stable_ipfs_link_while/</guid>
+      <pubDate>2026-09-22T03:39:55+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A multi-file deliverable can be published as one directory CID, which is useful because every completed revision stays immutable. The awkward part is giving reviewers one address that follows the approved revision without exposing an incomplete upload or making old feedback impossible to trace.&lt;/p&gt; &lt;p&gt;Would you publish each revision under a new CID, verify a manifest of paths and hashes, pin it in more than one place, and update IPNS or DNSLink only after approv...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 21 Sep 2026 04:44:48 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:53:04 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push</title>
+      <link>https://decrypt.co/378811/apple-google-crypto-talent-stablecoin</link>
+      <guid>https://decrypt.co/378811/apple-google-crypto-talent-stablecoin</guid>
+      <pubDate>Mon, 21 Sep 2026 16:16:03 +0000</pubDate>
+      <description>The senior roles cover Apple’s consumer payment products and Google Cloud’s institutional blockchain business in Asia.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -106,18 +129,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Bitcoin hits $81K as US bond yields rebound on global oil woes</title>
-      <link>https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 18 Sep 2026 15:35:59 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin hits $81K as US bond yields rebound on global oil woes&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJDKWQFE5TAXZVRTNBSB4T/oil-bitcoin-coin-stablecoin-blockchain-sky-platform-production-iran.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Hot take: Now is the real test of IPFS</title>
       <link>https://www.reddit.com/r/ipfs/comments/1wjbczx/hot_take_now_is_the_real_test_of_ipfs/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1wjbczx/hot_take_now_is_the_real_test_of_ipfs/</guid>
@@ -126,54 +137,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading</title>
-      <link>https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading</link>
-      <guid>https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading</guid>
-      <pubDate>Thu, 17 Sep 2026 15:21:19 +0000</pubDate>
-      <description>&quot;Anyone running an unregistered peer-to-peer crypto business should assume we are looking at them,&quot; the FCA's enforcement chief said.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles</title>
-      <link>https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act</link>
-      <guid>https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act</guid>
-      <pubDate>Thu, 17 Sep 2026 14:52:03 +0000</pubDate>
-      <description>The &quot;innovation exemption&quot; lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking &quot;synthetics&quot; and lets companies block tokenization of their shares.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle</title>
-      <link>https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle</link>
-      <guid>https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle</guid>
-      <pubDate>Thu, 17 Sep 2026 14:40:07 +0000</pubDate>
-      <description>Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report</title>
-      <link>https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report</link>
-      <guid>https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report</guid>
-      <pubDate>Thu, 17 Sep 2026 12:53:01 +0000</pubDate>
-      <description>The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -431,17 +394,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>IPFS people I need your help</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1u3gfcl/ipfs_people_i_need_your_help/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1u3gfcl/ipfs_people_i_need_your_help/</guid>
-      <pubDate>2026-06-12T00:36:21+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m having IPFS issues and I don’t know where to turn for help. &lt;/p&gt; &lt;p&gt;I am trying to help an elderly woman with long term storage for her NFT project. It’s a small project, around 1000 tokens and comes out to a whopping 290 MB of data. She doesn’t want to pay for a $20 a month Piñata subscription for such a small amount, for what is basically a passion project. &lt;/p&gt; &lt;p&gt;Because she is older, she needs help with tech stuff. I generally have a pretty good grasp o...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Optimistic Provide: How We Made IPFS Content Publishing 10x Faster</title>
       <link>https://blog.ipfs.tech/2026-05-optimistic-provide/</link>
       <guid>https://blog.ipfs.tech/2026-05-optimistic-provide/</guid>
@@ -627,6 +579,54 @@
       <guid>https://blog.ipfs.tech/2025-03-static-web-manifesto/</guid>
       <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
       <description>Building websites used to be fun. Let’s bring back the joy of putting your work online by using open protocols like IPFS.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Could IPFS Have Prevented the Bybit Hack?</title>
+      <link>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</link>
+      <guid>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <description>The Bybit hack revealed several security failures, this post examines whether IPFS could have helped prevent the hack and practical solutions for dapp developers.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The latest chapter for Ethereum &amp; highlights from Devcon SEA</title>
+      <link>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</link>
+      <guid>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</guid>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <description>Devcon has always been a living reflection of Ethereum’s growth, challenges, and community ambitions. It showcases the most pressing topics, the newest innovations, and the people building the future of decentralized technology. As Ethereum grows, so too does Devcon.  Two years ago, right before Devcon VI in Bogotá, the...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>IPFS on the Web in 2024: Update From Interplanetary Shipyard</title>
+      <link>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</link>
+      <guid>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</guid>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <description>Update from Interplanetary Shipyard on our efforts to make IPFS work on the Web.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Improved Debugging with IPFS Check</title>
+      <link>https://blog.ipfs.tech/ipfs-check/</link>
+      <guid>https://blog.ipfs.tech/ipfs-check/</guid>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <description>IPFS Check is a debugging tool for IPFS Mainnet. It helps you check if data is routable and retrievable by CID on IPFS Mainnet.</description>
       <category>IPFS</category>
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
