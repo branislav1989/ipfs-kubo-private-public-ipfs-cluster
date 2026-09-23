@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 05:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:02:15 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,42 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 22 Sep 2026 20:03:30 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Canada’s six largest banks explore tokenized Canadian dollar deposits</title>
+      <link>https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 22 Sep 2026 19:56:48 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Canada’s six largest banks explore tokenized Canadian dollar deposits&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M357GAH1CKA4TWB0W8FEC9YF/hi-how-central-banks-are-testing-blockchain-based-monetary-policy-bank-of-america.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The country’s largest financial institutions are exploring tokenized deposits for interbank payments, just weeks after regulators clarified how t...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins</title>
+      <link>https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 22 Sep 2026 15:37:17 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>How do you keep one stable IPFS link while publishing immutable artifact revisions?</title>
       <link>https://www.reddit.com/r/ipfs/comments/1wmykba/how_do_you_keep_one_stable_ipfs_link_while/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1wmykba/how_do_you_keep_one_stable_ipfs_link_while/</guid>
@@ -67,18 +103,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 21 Sep 2026 19:53:04 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -94,18 +118,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Hana Bank taps Euroclear blockchain for $100M bond issuance: Report</title>
-      <link>https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 21 Sep 2026 04:27:32 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Hana Bank taps Euroclear blockchain for $100M bond issuance: Report &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M310AVAYEMVP188717499P0H/sk-hana.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear’s blockchain infrastructure.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>File Orbit Alpha is live!</title>
       <link>https://www.reddit.com/r/ipfs/comments/1wln2u9/file_orbit_alpha_is_live/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1wln2u9/file_orbit_alpha_is_live/</guid>
@@ -114,18 +126,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report</title>
-      <link>https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 19 Sep 2026 07:52:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WA562VCY2PY1P3DW1N862B/hi-time-to-switch-license-hong-kong.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -162,11 +162,66 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>Where's the line between blockchain consulting and doing the actual dev?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wgh63l/wheres_the_line_between_blockchain_consulting_and/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wgh63l/wheres_the_line_between_blockchain_consulting_and/</guid>
+      <pubDate>2026-09-14T21:45:24+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know my way around Web3/blockchain and a former client wants me to consult for their team. I've never done this kind of work before. Usually I have a senior telling me what to do. If you've ever consulted before, where's the line between &amp;quot;consulting&amp;quot; and doing actual devving? I don't want to do devving if I won't get paid to do that, unless that's actually part of what consulting does. Or if you ever wanted to hire a blockchain consultant, what's the...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Major milestone reached on my decentralized zero trust networking project</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wf5tfu/major_milestone_reached_on_my_decentralized_zero/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wf5tfu/major_milestone_reached_on_my_decentralized_zero/</guid>
+      <pubDate>2026-09-13T12:02:04+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So for the last six months or so, I have been working on an architecture for a fully decentralized trust root, that works like a global zero trust network. If you dont know what that is, it basically reduces to give everything a certificate, and make sure all peers in a network only interact with known peers that prove themselves with mutual TLS. Obviously theres more to it than that, but thats the baseline, everything else is UX, reporting, management and polic...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>optimistic UI updates vs websocket confirmation lag in modern web3 apps?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wb6nml/optimistic_ui_updates_vs_websocket_confirmation/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wb6nml/optimistic_ui_updates_vs_websocket_confirmation/</guid>
+      <pubDate>2026-09-09T00:48:52+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;noticed a pretty consistent design dilemma across a lot of web3 interfaces lately.&lt;/p&gt; &lt;p&gt;some apps trigger optimistic UI changes immediately upon wallet signature, while others wait for a websocket event confirming the block inclusion. the former feels way smoother, but risks state desync if the tx drops or gets reorged.&lt;/p&gt; &lt;p&gt;from a purely technical standpoint, how are modern frontends handling state rollback gracefully without destroying the user experience ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>How reference numbers + IPFS hashes let you prove a filing existed before anyone gets a chance to dispute it</title>
       <link>https://www.reddit.com/r/ipfs/comments/1wb5nzv/how_reference_numbers_ipfs_hashes_let_you_prove_a/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1wb5nzv/how_reference_numbers_ipfs_hashes_let_you_prove_a/</guid>
       <pubDate>2026-09-09T00:05:52+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Following up on my last post about de jure filings disappearing into systems you don't control - here's the actual mechanics I've landed on.&lt;/p&gt; &lt;p&gt;Every record gets a reference number and a series number, tied to a file ID on IPFS. That hash never changes once it's set, so the filing date and content are locked in, no backend admin can quietly edit it later. On top of that I'm building out a CPT Trust structure for anything asset-backed - trust name, grantor, t...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Solving the cold-start problem for small chains: a node-swap experiment</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1waljrz/solving_the_coldstart_problem_for_small_chains_a/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1waljrz/solving_the_coldstart_problem_for_small_chains_a/</guid>
+      <pubDate>2026-09-08T11:18:22+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;My blockchain has almost no nodes. Here's my plan to fix that.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Small chains hit an obvious catch-22: nobody runs a node for a network nobody uses, nobody uses a network with no nodes. Posted my project (LapseCoin) in a few communities, got 1-2 actual node runners out of it.&lt;/p&gt; &lt;p&gt;LapseCoin swaps proof-of-work for a Verifiable Delay Function: block production races to finish a sequential computation tied to real elapsed time, not to a luc...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I built a proof-of-work blockchain from scratch in C++23, now running a multi-node network</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wagp63/i_built_a_proofofwork_blockchain_from_scratch_in/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wagp63/i_built_a_proofofwork_blockchain_from_scratch_in/</guid>
+      <pubDate>2026-09-08T06:39:39+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been building a blockchain from scratch in C++23 for a while, and I figured I'd finally post it here and see what other C++ developers think.&lt;/p&gt; &lt;p&gt;The project is called Amarian.&lt;/p&gt; &lt;p&gt;I started it because I wanted to understand what actually goes into building a blockchain at the implementation level. It started small and ended up becoming a much bigger systems project than I expected.&lt;/p&gt; &lt;p&gt;The node currently has:&lt;/p&gt; &lt;p&gt;C++23 with CMake/Ninja&lt;/p&gt; &lt;p&gt;S...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -430,6 +485,30 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!</title>
+      <link>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</link>
+      <guid>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</guid>
+      <pubDate>Fri, 23 Jan 2026 16:40:55 +0000</pubDate>
+      <description>Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) led top movers. Ledger is preparing for a $4B IPO, enlisting Goldman Sachs, Jefferies and Barclays for support. Ripple CEO Brad Garlinghouse predicted crypto could hit new highs in 2026, pointing to regulatory momentum and institutional participation as key drivers. President Trump sued JPMorgan for $5 billion,...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!</title>
+      <link>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</link>
+      <guid>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</guid>
+      <pubDate>Thu, 22 Jan 2026 16:14:50 +0000</pubDate>
+      <description>Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers. Crypto markets saw more than $1B in liquidations as Bitcoin rebounded sharply after President Trump signaled a retreat from proposed tariff measures. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, signaling continued protocol-level experimentation...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Content-Addressing: A Year In Review</title>
       <link>https://blog.ipfs.tech/2026-01-year-in-review/</link>
       <guid>https://blog.ipfs.tech/2026-01-year-in-review/</guid>
@@ -439,6 +518,56 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Pump &amp; Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed</title>
+      <link>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</link>
+      <guid>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</guid>
+      <pubDate>Wed, 14 Jan 2026 16:01:53 +0000</pubDate>
+      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink</title>
+      <link>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</link>
+      <guid>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</guid>
+      <pubDate>Tue, 13 Jan 2026 18:12:27 +0000</pubDate>
+      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!</title>
+      <link>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</link>
+      <guid>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</guid>
+      <pubDate>Tue, 06 Jan 2026 18:16:42 +0000</pubDate>
+      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
+RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear &amp; Greed back to Neutral!</title>
+      <link>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</link>
+      <guid>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</guid>
+      <pubDate>Tue, 06 Jan 2026 16:13:32 +0000</pubDate>
+      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
+RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -499,138 +628,6 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Debugging Superpowers With the New js-libp2p Developer Tools</title>
-      <link>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</link>
-      <guid>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</guid>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-      <description>Discover the new js-libp2p developer tools from Shipyard that provide real-time debugging capabilities for js-libp2p and Helia nodes in both browsers and Node.js.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Checkpoint #4: Berlinterop</title>
-      <link>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</link>
-      <guid>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</guid>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <description>Ethereum’s weekly All Core Developer calls are a lot to keep up with, so this &quot;Checkpoint&quot; series aims for high-level updates depending on what’s happening in core development. See the previous update here.  This is a special edition of the series!  Kicking off Berlin Blockchain Week, ethereum core...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>🌳 IPFS Newsletter 205: HTTP, P2P in browsers, Kubo speedup &amp; more</title>
-      <link>https://blog.ipfs.tech/newsletter-205/</link>
-      <guid>https://blog.ipfs.tech/newsletter-205/</guid>
-      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-      <description>The IPFS Newsletter is back, with many exciting updates to share: HTTP support across the IPFS stack, P2P in browsers, Kubo speedup, and more.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing the Trillion Dollar Security Initiative</title>
-      <link>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</link>
-      <guid>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</guid>
-      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-      <description>Ethereum is the most secure blockchain ecosystem. This is the result of 10 years of progress and iteration across every level of Ethereum’s technology stack, from wallet UX to developer tooling to consensus protocol security.  But being the most secure platform in the crypto ecosystem isn’t enough. Ethereum’s ambition...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Spring 2025 IPFS Utility Grantees</title>
-      <link>https://blog.ipfs.tech/2025-05-grants/</link>
-      <guid>https://blog.ipfs.tech/2025-05-grants/</guid>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <description>We're delighted to announce the grantees for the Spring 2025 round of IPFS Utility Grants.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum University Tour</title>
-      <link>https://blog.ethereum.org/en/2025/04/30/uni-tour</link>
-      <guid>https://blog.ethereum.org/en/2025/04/30/uni-tour</guid>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <description>Are you part of a university blockchain club eager to dive deeper into the world of Ethereum? We want to connect with you!  The Ethereum Foundation is sponsoring a global University Tour in partnership with BuidlGuidl, designed to activate student communities and grow the next generation of Ethereum builders....</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The Static Website Manifesto</title>
-      <link>https://blog.ipfs.tech/2025-03-static-web-manifesto/</link>
-      <guid>https://blog.ipfs.tech/2025-03-static-web-manifesto/</guid>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-      <description>Building websites used to be fun. Let’s bring back the joy of putting your work online by using open protocols like IPFS.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Could IPFS Have Prevented the Bybit Hack?</title>
-      <link>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</link>
-      <guid>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</guid>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-      <description>The Bybit hack revealed several security failures, this post examines whether IPFS could have helped prevent the hack and practical solutions for dapp developers.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The latest chapter for Ethereum &amp; highlights from Devcon SEA</title>
-      <link>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</link>
-      <guid>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</guid>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-      <description>Devcon has always been a living reflection of Ethereum’s growth, challenges, and community ambitions. It showcases the most pressing topics, the newest innovations, and the people building the future of decentralized technology. As Ethereum grows, so too does Devcon.  Two years ago, right before Devcon VI in Bogotá, the...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>IPFS on the Web in 2024: Update From Interplanetary Shipyard</title>
-      <link>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</link>
-      <guid>https://blog.ipfs.tech/2024-shipyard-improving-ipfs-on-the-web/</guid>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <description>Update from Interplanetary Shipyard on our efforts to make IPFS work on the Web.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Improved Debugging with IPFS Check</title>
-      <link>https://blog.ipfs.tech/ipfs-check/</link>
-      <guid>https://blog.ipfs.tech/ipfs-check/</guid>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <description>IPFS Check is a debugging tool for IPFS Mainnet. It helps you check if data is routable and retrievable by CID on IPFS Mainnet.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
   </channel>
