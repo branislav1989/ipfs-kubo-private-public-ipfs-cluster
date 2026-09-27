@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 05:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 05:36:31 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,40 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>I've built hog Registry Agent and trust‑architecture with @base44!</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1wr45w4/ive_built_hog_registry_agent_and/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1wr45w4/ive_built_hog_registry_agent_and/</guid>
+      <pubDate>2026-09-26T22:59:34+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1wr45w4/ive_built_hog_registry_agent_and/&quot;&gt; &lt;img alt=&quot;I've built hog Registry Agent and trust‑architecture with @base44!&quot; src=&quot;https://external-preview.redd.it/zJBMg6HCHwoNadchWIir4Vci_tHDt1As2ycPrcqUicY.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c346e5e5b67c19fb1754090c20bfb9efd0de2c4c&quot; title=&quot;I've built hog Registry Agent and trust‑architecture with @base44!&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;# COMMONS VEC...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Welcome to the Medical Clinic at the Interplanetary Relay Station</title>
+      <link>https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</link>
+      <guid>https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</guid>
+      <pubDate>Sat, 26 Sep 2026 20:08:50 +0000</pubDate>
+      <description>&lt;a href=&quot;https://news.ycombinator.com/item?id=49860074&quot;&gt;Comments&lt;/a&gt;</description>
+      <category>distributed systems</category>
+      <category>decentralization</category>
+      <category>cryptography</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sat, 26 Sep 2026 12:17:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails</title>
       <link>https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -76,18 +110,6 @@
       <guid>https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
       <pubDate>Fri, 25 Sep 2026 18:56:53 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Tether says it had ‘limited’ exposure to bank linked to $84M US seizure&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 25 Sep 2026 18:42:59 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -136,18 +158,6 @@
       <guid>https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
       <pubDate>Thu, 24 Sep 2026 20:32:16 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AGHD04QX5Q0GBBZ75P2EB6/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail</title>
-      <link>https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 24 Sep 2026 15:57:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3518SYSJ7A5FP4GPX8VM1S8/hi-what-is-the-significance-of-the-statement-that-cbdc-and-stablecoins-can-co-exist.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, wit...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -425,17 +435,6 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1ud22i1/how_to_ip_pull_without_getting_caught/</guid>
       <pubDate>2026-06-23T00:31:32+00:00</pubDate>
       <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Fit_Following703&quot;&gt; /u/Fit_Following703 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href=&quot;/r/u_Fit_Following703/comments/1ud1vtl/how_to_ip_pull_without_getting_caught/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ud22i1/how_to_ip_pull_without_getting_caught/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Semantic routing through RAG to create a P2P social network or marketplace</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1ucvu5e/semantic_routing_through_rag_to_create_a_p2p/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1ucvu5e/semantic_routing_through_rag_to_create_a_p2p/</guid>
-      <pubDate>2026-06-22T20:22:33+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ucvu5e/semantic_routing_through_rag_to_create_a_p2p/&quot;&gt; &lt;img alt=&quot;Semantic routing through RAG to create a P2P social network or marketplace&quot; src=&quot;https://external-preview.redd.it/ibdy6a3ZDnvs2wUHs-ZqPDCvyklwXLvau1EnjQw6ZbI.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1ea8421ecdb66f1bfaa7ccfa104a0d96df13ce60&quot; title=&quot;Semantic routing through RAG to create a P2P social network or marketplace&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
