@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 06:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:05:42 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,11 +59,11 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea</title>
-      <link>https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea</link>
-      <guid>https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea</guid>
-      <pubDate>Sat, 03 Oct 2026 17:01:03 +0000</pubDate>
-      <description>The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.</description>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 05 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -71,11 +71,23 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 03 Oct 2026 12:20:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <title>Russia’s Finance Ministry pays wages in digital rubles for first time</title>
+      <link>https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sun, 04 Oct 2026 07:18:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Russia’s Finance Ministry pays wages in digital rubles for first time&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance....</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea</title>
+      <link>https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea</link>
+      <guid>https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea</guid>
+      <pubDate>Sat, 03 Oct 2026 17:01:03 +0000</pubDate>
+      <description>The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -143,40 +155,25 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Zano exploiter minted more than a quadrillion fUSD before blockchain rollback</title>
-      <link>https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 02 Oct 2026 05:02:23 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Zano exploiter minted more than a quadrillion fUSD before blockchain rollback&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XFTC4Y1X9C4TEN43SCBMC8/coins.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain.
-&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>What actually makes a blockchain enterprise-grade?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wul34k/what_actually_makes_a_blockchain_enterprisegrade/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wul34k/what_actually_makes_a_blockchain_enterprisegrade/</guid>
+      <pubDate>2026-10-01T00:13:44+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I keep seeing chains and infrastructure providers describe themselves as enterprise-grade, but half the time it feels like the term just means they have institutional clients somewhere on the website.&lt;/p&gt; &lt;p&gt;What are the things that genuinely matter for enterprise adoption? Predictable fees, privacy, compliance tooling, custom execution environments, uptime, permissioning, support, interoperability?&lt;/p&gt; &lt;p&gt;Interested in what people here would consider the actual...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>China warns foreign spies about crypto, Singapore dominates Asia: Asia Express</title>
-      <link>https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 01 Oct 2026 23:17:47 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;China warns foreign spies about crypto, Singapore dominates Asia: Asia Express&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WVGY0BWCZXBWJ212RM1CMX/magazineasia-expresshighway.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Singapore’s crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it’s watching the blockchain.  &lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury</title>
-      <link>https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 01 Oct 2026 21:07:45 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WJGXZ9FFQTSYAEBHHG5A8X/hi-types-of-consensus-mechanisms-in-blockchain.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly $710 million at current prices.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Chipcoin Testnet successfully activated ML-DSA post-quantum transactions at block 20,000</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wtampd/chipcoin_testnet_successfully_activated_mldsa/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wtampd/chipcoin_testnet_successfully_activated_mldsa/</guid>
+      <pubDate>2026-09-29T13:49:29+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt; Chipcoin Testnet has successfully completed its post-quantum activation at block &lt;strong&gt;20,000&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt; The network crossed the activation height without an observed consensus split, unexpected reorganization or activation-related failure. All monitored nodes agreed on the activation block and continued following the same chain.&lt;/p&gt; &lt;p&gt; More importantly, we have now validated the complete post-quantum transaction lifecycle on the public testnet rather...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -251,6 +248,28 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1whxf6f/kubo_v0431/</guid>
       <pubDate>2026-09-16T13:34:45+00:00</pubDate>
       <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1whxf6f/kubo_v0431/&quot;&gt; &lt;img alt=&quot;Kubo v0.43.1&quot; src=&quot;https://external-preview.redd.it/Nznlbv4I6dro2phhu9NA7DSTw-AFllzT3hxXFY4EX3Q.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e8c17b7148c681cb6828c75e4206d25134099a0b&quot; title=&quot;Kubo v0.43.1&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is a bug fix release, updating is &lt;em&gt;highly&lt;/em&gt; recommended.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.redd...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Where's the line between blockchain consulting and doing the actual dev?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wgh63l/wheres_the_line_between_blockchain_consulting_and/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wgh63l/wheres_the_line_between_blockchain_consulting_and/</guid>
+      <pubDate>2026-09-14T21:45:24+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know my way around Web3/blockchain and a former client wants me to consult for their team. I've never done this kind of work before. Usually I have a senior telling me what to do. If you've ever consulted before, where's the line between &amp;quot;consulting&amp;quot; and doing actual devving? I don't want to do devving if I won't get paid to do that, unless that's actually part of what consulting does. Or if you ever wanted to hire a blockchain consultant, what's the...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Major milestone reached on my decentralized zero trust networking project</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wf5tfu/major_milestone_reached_on_my_decentralized_zero/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wf5tfu/major_milestone_reached_on_my_decentralized_zero/</guid>
+      <pubDate>2026-09-13T12:02:04+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So for the last six months or so, I have been working on an architecture for a fully decentralized trust root, that works like a global zero trust network. If you dont know what that is, it basically reduces to give everything a certificate, and make sure all peers in a network only interact with known peers that prove themselves with mutual TLS. Obviously theres more to it than that, but thats the baseline, everything else is UX, reporting, management and polic...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -604,30 +623,6 @@
       <guid>https://blog.ipfs.tech/newsletter-205/</guid>
       <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
       <description>The IPFS Newsletter is back, with many exciting updates to share: HTTP support across the IPFS stack, P2P in browsers, Kubo speedup, and more.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing the Trillion Dollar Security Initiative</title>
-      <link>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</link>
-      <guid>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</guid>
-      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-      <description>Ethereum is the most secure blockchain ecosystem. This is the result of 10 years of progress and iteration across every level of Ethereum’s technology stack, from wallet UX to developer tooling to consensus protocol security.  But being the most secure platform in the crypto ecosystem isn’t enough. Ethereum’s ambition...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Spring 2025 IPFS Utility Grantees</title>
-      <link>https://blog.ipfs.tech/2025-05-grants/</link>
-      <guid>https://blog.ipfs.tech/2025-05-grants/</guid>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <description>We're delighted to announce the grantees for the Spring 2025 round of IPFS Utility Grants.</description>
       <category>IPFS</category>
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
