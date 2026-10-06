@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:45:08 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,8 +62,32 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 05 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto</title>
+      <link>https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 06 Oct 2026 05:43:50 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47QJ5TB4Q35P193XFF67NQJ/better-markets-vs-cftc.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Better Markets said the CFTC’s proposed framework to bring certain cryptocurrency transactions and exchanges under its oversight will leave investors less protected than under the SEC. &lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis</title>
+      <link>https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 05 Oct 2026 13:00:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45C7SQN6DV5Z1GMPSEJ4CRN/china-ban-bitcoin.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Unique wallets sending P2P stablecoin transactions in China grew 43-fold between Q1 2024 and Q2 2026 as crypto activity increasingly shifted toward direct wallet-to-wallet transfers.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -92,88 +116,6 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter</title>
-      <link>https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sat, 03 Oct 2026 11:59:10 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40T1J9CWEBBB07G6QG02X27/hi-5-greatest-hacks-in-the-cryptocurrency-industry.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>71% of UK finance leaders expect tokenization to reshape financial services: Lloyds</title>
-      <link>https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 02 Oct 2026 16:20:24 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;71% of UK finance leaders expect tokenization to reshape financial services: Lloyds&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKMQ9ZKPKNFEAPV81NBPWJ/blockchainweek2020uk1.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Crypto’s billions are back, but the premiums aren’t</title>
-      <link>https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 02 Oct 2026 15:32:53 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Crypto’s billions are back, but the premiums aren’t&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKXXV4WP8TTTRPX217ZDQQ/bitcoin-investment-pump-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Furious debate about THORChain vs NEAR shows idealism has limits</title>
-      <link>https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 02 Oct 2026 13:30:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Furious debate about THORChain vs NEAR shows idealism has limits&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V8TZXTY569YW4G499PZ1BJ/magazine-bi-weekly-cybersecurity2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Porsche’s ‘long haul’ Web3 project ends in less than four years</title>
-      <link>https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 02 Oct 2026 09:18:52 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Porsche’s ‘long haul’ Web3 project ends in less than four years&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Porsche is winding down its Web3 project and Pioneers Circle community as trading activity in its 911 NFT collection falls sharply from early levels.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>What actually makes a blockchain enterprise-grade?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wul34k/what_actually_makes_a_blockchain_enterprisegrade/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wul34k/what_actually_makes_a_blockchain_enterprisegrade/</guid>
-      <pubDate>2026-10-01T00:13:44+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I keep seeing chains and infrastructure providers describe themselves as enterprise-grade, but half the time it feels like the term just means they have institutional clients somewhere on the website.&lt;/p&gt; &lt;p&gt;What are the things that genuinely matter for enterprise adoption? Predictable fees, privacy, compliance tooling, custom execution environments, uptime, permissioning, support, interoperability?&lt;/p&gt; &lt;p&gt;Interested in what people here would consider the actual...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Chipcoin Testnet successfully activated ML-DSA post-quantum transactions at block 20,000</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wtampd/chipcoin_testnet_successfully_activated_mldsa/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wtampd/chipcoin_testnet_successfully_activated_mldsa/</guid>
-      <pubDate>2026-09-29T13:49:29+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt; Chipcoin Testnet has successfully completed its post-quantum activation at block &lt;strong&gt;20,000&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt; The network crossed the activation height without an observed consensus split, unexpected reorganization or activation-related failure. All monitored nodes agreed on the activation block and continued following the same chain.&lt;/p&gt; &lt;p&gt; More importantly, we have now validated the complete post-quantum transaction lifecycle on the public testnet rather...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -248,28 +190,6 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1whxf6f/kubo_v0431/</guid>
       <pubDate>2026-09-16T13:34:45+00:00</pubDate>
       <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1whxf6f/kubo_v0431/&quot;&gt; &lt;img alt=&quot;Kubo v0.43.1&quot; src=&quot;https://external-preview.redd.it/Nznlbv4I6dro2phhu9NA7DSTw-AFllzT3hxXFY4EX3Q.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e8c17b7148c681cb6828c75e4206d25134099a0b&quot; title=&quot;Kubo v0.43.1&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is a bug fix release, updating is &lt;em&gt;highly&lt;/em&gt; recommended.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.redd...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Where's the line between blockchain consulting and doing the actual dev?</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wgh63l/wheres_the_line_between_blockchain_consulting_and/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wgh63l/wheres_the_line_between_blockchain_consulting_and/</guid>
-      <pubDate>2026-09-14T21:45:24+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know my way around Web3/blockchain and a former client wants me to consult for their team. I've never done this kind of work before. Usually I have a senior telling me what to do. If you've ever consulted before, where's the line between &amp;quot;consulting&amp;quot; and doing actual devving? I don't want to do devving if I won't get paid to do that, unless that's actually part of what consulting does. Or if you ever wanted to hire a blockchain consultant, what's the...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Major milestone reached on my decentralized zero trust networking project</title>
-      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wf5tfu/major_milestone_reached_on_my_decentralized_zero/</link>
-      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wf5tfu/major_milestone_reached_on_my_decentralized_zero/</guid>
-      <pubDate>2026-09-13T12:02:04+00:00</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So for the last six months or so, I have been working on an architecture for a fully decentralized trust root, that works like a global zero trust network. If you dont know what that is, it basically reduces to give everything a certificate, and make sure all peers in a network only interact with known peers that prove themselves with mutual TLS. Obviously theres more to it than that, but thats the baseline, everything else is UX, reporting, management and polic...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -522,6 +442,30 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!</title>
+      <link>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</link>
+      <guid>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</guid>
+      <pubDate>Fri, 23 Jan 2026 16:40:55 +0000</pubDate>
+      <description>Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) led top movers. Ledger is preparing for a $4B IPO, enlisting Goldman Sachs, Jefferies and Barclays for support. Ripple CEO Brad Garlinghouse predicted crypto could hit new highs in 2026, pointing to regulatory momentum and institutional participation as key drivers. President Trump sued JPMorgan for $5 billion,...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!</title>
+      <link>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</link>
+      <guid>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</guid>
+      <pubDate>Thu, 22 Jan 2026 16:14:50 +0000</pubDate>
+      <description>Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers. Crypto markets saw more than $1B in liquidations as Bitcoin rebounded sharply after President Trump signaled a retreat from proposed tariff measures. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, signaling continued protocol-level experimentation...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Content-Addressing: A Year In Review</title>
       <link>https://blog.ipfs.tech/2026-01-year-in-review/</link>
       <guid>https://blog.ipfs.tech/2026-01-year-in-review/</guid>
@@ -531,6 +475,56 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Pump &amp; Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed</title>
+      <link>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</link>
+      <guid>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</guid>
+      <pubDate>Wed, 14 Jan 2026 16:01:53 +0000</pubDate>
+      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink</title>
+      <link>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</link>
+      <guid>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</guid>
+      <pubDate>Tue, 13 Jan 2026 18:12:27 +0000</pubDate>
+      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!</title>
+      <link>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</link>
+      <guid>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</guid>
+      <pubDate>Tue, 06 Jan 2026 18:16:42 +0000</pubDate>
+      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
+RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear &amp; Greed back to Neutral!</title>
+      <link>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</link>
+      <guid>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</guid>
+      <pubDate>Tue, 06 Jan 2026 16:13:32 +0000</pubDate>
+      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
+RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -627,6 +621,18 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Announcing the Trillion Dollar Security Initiative</title>
+      <link>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</link>
+      <guid>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+      <description>Ethereum is the most secure blockchain ecosystem. This is the result of 10 years of progress and iteration across every level of Ethereum’s technology stack, from wallet UX to developer tooling to consensus protocol security.  But being the most secure platform in the crypto ecosystem isn’t enough. Ethereum’s ambition...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
   </channel>
