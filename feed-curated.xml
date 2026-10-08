@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:32:26 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,8 +62,80 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 07 Oct 2026 06:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Crypto must cement adoption to withstand US policy shifts: Canton CEO</title>
+      <link>https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 08 Oct 2026 04:28:27 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Crypto must cement adoption to withstand US policy shifts: Canton CEO&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CVE7EMKD65X1H85SA1XBYM/regulations-us-blockchain.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets</title>
+      <link>https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets</link>
+      <guid>https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets</guid>
+      <pubDate>Wed, 07 Oct 2026 19:46:04 +0000</pubDate>
+      <description>Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Sui tunnels hit 40.6M TPS in live AI agent test</title>
+      <link>https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Wed, 07 Oct 2026 17:46:59 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Sui tunnels hit 40.6M TPS in live AI agent test&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BPXB6KYBV02CEGGX5YB926/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill</title>
+      <link>https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Wed, 07 Oct 2026 16:06:03 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BDBYZXWRGYC55QX8JFFZ4N/hi-sec-cftc-and-clarity.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks</title>
+      <link>https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks</link>
+      <guid>https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks</guid>
+      <pubDate>Wed, 07 Oct 2026 10:49:16 +0000</pubDate>
+      <description>The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Bitcoin ETFs rebound with $119M inflow as Ether extends losses</title>
+      <link>https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Wed, 07 Oct 2026 09:03:38 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin ETFs rebound with $119M inflow as Ether extends losses&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Bitcoin ETFs returned to net inflows with $119 million on Tuesday despite falling prices, while Ether funds reached a six-session outflow streak totaling $408 milli...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -77,30 +149,6 @@
       <pubDate>Tue, 06 Oct 2026 18:19:35 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49574J2Y2HJE1HW5F7ZW209/russia-kremlin-moscow-red-square-cryptocurrency-coin-cbdc-winter.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The digital ruble’s early uptake comes as BRICS nations explore linking their digital currencies for cross-border trade and payments.
 &lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto</title>
-      <link>https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 06 Oct 2026 05:43:50 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47QJ5TB4Q35P193XFF67NQJ/better-markets-vs-cftc.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Better Markets said the CFTC’s proposed framework to bring certain cryptocurrency transactions and exchanges under its oversight will leave investors less protected than under the SEC. &lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea</title>
-      <link>https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea</link>
-      <guid>https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea</guid>
-      <pubDate>Sat, 03 Oct 2026 17:01:03 +0000</pubDate>
-      <description>The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -431,30 +479,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!</title>
-      <link>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</link>
-      <guid>https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc</guid>
-      <pubDate>Fri, 23 Jan 2026 16:40:55 +0000</pubDate>
-      <description>Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) led top movers. Ledger is preparing for a $4B IPO, enlisting Goldman Sachs, Jefferies and Barclays for support. Ripple CEO Brad Garlinghouse predicted crypto could hit new highs in 2026, pointing to regulatory momentum and institutional participation as key drivers. President Trump sued JPMorgan for $5 billion,...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!</title>
-      <link>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</link>
-      <guid>https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv</guid>
-      <pubDate>Thu, 22 Jan 2026 16:14:50 +0000</pubDate>
-      <description>Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers. Crypto markets saw more than $1B in liquidations as Bitcoin rebounded sharply after President Trump signaled a retreat from proposed tariff measures. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, signaling continued protocol-level experimentation...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Content-Addressing: A Year In Review</title>
       <link>https://blog.ipfs.tech/2026-01-year-in-review/</link>
       <guid>https://blog.ipfs.tech/2026-01-year-in-review/</guid>
@@ -464,56 +488,6 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Pump &amp; Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed</title>
-      <link>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</link>
-      <guid>https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed</guid>
-      <pubDate>Wed, 14 Jan 2026 16:01:53 +0000</pubDate>
-      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink</title>
-      <link>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</link>
-      <guid>https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink</guid>
-      <pubDate>Tue, 13 Jan 2026 18:12:27 +0000</pubDate>
-      <description>Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buter...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!</title>
-      <link>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</link>
-      <guid>https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions</guid>
-      <pubDate>Tue, 06 Jan 2026 18:16:42 +0000</pubDate>
-      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
-RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear &amp; Greed back to Neutral!</title>
-      <link>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</link>
-      <guid>https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral</guid>
-      <pubDate>Tue, 06 Jan 2026 16:13:32 +0000</pubDate>
-      <description>The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37
-RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s ...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -630,6 +604,30 @@ RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formall
       <guid>https://blog.ipfs.tech/2025-05-grants/</guid>
       <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
       <description>We're delighted to announce the grantees for the Spring 2025 round of IPFS Utility Grants.</description>
+      <category>IPFS</category>
+      <category>InterPlanetary File System</category>
+      <category>Content Addressed Storage</category>
+      <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum University Tour</title>
+      <link>https://blog.ethereum.org/en/2025/04/30/uni-tour</link>
+      <guid>https://blog.ethereum.org/en/2025/04/30/uni-tour</guid>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <description>Are you part of a university blockchain club eager to dive deeper into the world of Ethereum? We want to connect with you!  The Ethereum Foundation is sponsoring a global University Tour in partnership with BuidlGuidl, designed to activate student communities and grow the next generation of Ethereum builders....</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The Static Website Manifesto</title>
+      <link>https://blog.ipfs.tech/2025-03-static-web-manifesto/</link>
+      <guid>https://blog.ipfs.tech/2025-03-static-web-manifesto/</guid>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+      <description>Building websites used to be fun. Let’s bring back the joy of putting your work online by using open protocols like IPFS.</description>
       <category>IPFS</category>
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
