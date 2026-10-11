@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:15:40 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,11 +59,11 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
-      <title>New York permanently bars Celsius founder Mashinsky in $35M fraud settlement</title>
-      <link>https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 09 Oct 2026 20:14:02 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;New York permanently bars Celsius founder Mashinsky in $35M fraud settlement&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BAEH9JKD3WDH6MG84JNW/interviewalex-mashinsky2.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.&lt;/p&gt;</description>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sat, 10 Oct 2026 12:30:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -71,11 +71,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 09 Oct 2026 18:30:11 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <title>New York permanently bars Celsius founder Mashinsky in $35M fraud settlement</title>
+      <link>https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 09 Oct 2026 20:14:02 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;New York permanently bars Celsius founder Mashinsky in $35M fraud settlement&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BAEH9JKD3WDH6MG84JNW/interviewalex-mashinsky2.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -128,6 +128,17 @@
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
       <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Technical Discussion: Building a Public Layer 1 Blockchain With Native and EVM Execution</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x1fk67/technical_discussion_building_a_public_layer_1/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x1fk67/technical_discussion_building_a_public_layer_1/</guid>
+      <pubDate>2026-10-09T08:06:04+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I've spent the past four years developing a public Layer 1 blockchain that combines native blockchain functionality with EVM compatibility.&lt;/p&gt; &lt;p&gt;The network is now operational, and one of the biggest engineering challenges has been supporting both environments while maintaining consistent transaction processing, validator consensus and finality.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Current architecture:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Native execution:&lt;/strong&gt; A ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -191,15 +202,14 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>EU lawmakers push crypto onto anti-corruption agenda</title>
-      <link>https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 08 Oct 2026 12:54:21 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;EU lawmakers push crypto onto anti-corruption agenda&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DRPQDAKZJCFPBHT0CSH4QT/hi-international-association-of-trusted-blockchain-applications-eu.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>The quantum threat to crypto might be bigger than people think</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x0n4y9/the_quantum_threat_to_crypto_might_be_bigger_than/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x0n4y9/the_quantum_threat_to_crypto_might_be_bigger_than/</guid>
+      <pubDate>2026-10-08T10:11:27+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I don't think the quantum threat is something Bitcoin users should panic about today, but it's also not something we can just ignore.&lt;/p&gt; &lt;p&gt;A sufficiently powerful quantum computer could potentially break the public-key cryptography protecting exposed wallets. That could mean attackers deriving private keys and moving funds without the owner's permission.&lt;/p&gt; &lt;p&gt;The scary part isn't just one wallet getting compromised. If the cryptography isn't upgraded in time...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -215,15 +225,36 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets</title>
-      <link>https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets</link>
-      <guid>https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets</guid>
-      <pubDate>Wed, 07 Oct 2026 19:46:04 +0000</pubDate>
-      <description>Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>I'm building a Rust L1 where PoW, PoS and BFT domains settle into the same deterministic state. Looking for protocol-level criticism.</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x016mi/im_building_a_rust_l1_where_pow_pos_and_bft/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x016mi/im_building_a_rust_l1_where_pow_pos_and_bft/</guid>
+      <pubDate>2026-10-07T16:31:53+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been working on an experimental Layer-1 called &lt;strong&gt;Budlum&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;The question I'm exploring is:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Can independently finalized consensus domains converge into one deterministic global state without trusting a centralized coordinator?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Instead of forcing every domain into the same consensus mechanism, Budlum is designed around heterogeneous domains such as PoW, PoS and BFT that produce independently verifiable commitm...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>What actually makes a blockchain enterprise-grade?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wul34k/what_actually_makes_a_blockchain_enterprisegrade/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wul34k/what_actually_makes_a_blockchain_enterprisegrade/</guid>
+      <pubDate>2026-10-01T00:13:44+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I keep seeing chains and infrastructure providers describe themselves as enterprise-grade, but half the time it feels like the term just means they have institutional clients somewhere on the website.&lt;/p&gt; &lt;p&gt;What are the things that genuinely matter for enterprise adoption? Predictable fees, privacy, compliance tooling, custom execution environments, uptime, permissioning, support, interoperability?&lt;/p&gt; &lt;p&gt;Interested in what people here would consider the actual...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Chipcoin Testnet successfully activated ML-DSA post-quantum transactions at block 20,000</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1wtampd/chipcoin_testnet_successfully_activated_mldsa/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1wtampd/chipcoin_testnet_successfully_activated_mldsa/</guid>
+      <pubDate>2026-09-29T13:49:29+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt; Chipcoin Testnet has successfully completed its post-quantum activation at block &lt;strong&gt;20,000&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt; The network crossed the activation height without an observed consensus split, unexpected reorganization or activation-related failure. All monitored nodes agreed on the activation block and continued following the same chain.&lt;/p&gt; &lt;p&gt; More importantly, we have now validated the complete post-quantum transaction lifecycle on the public testnet rather...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -591,42 +622,6 @@
       <guid>https://ipshipyard.com/blog/2025-dht-provide-sweep/</guid>
       <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
       <description>Provide Sweep: Solving the DHT Bottleneck for Self-Hosting IPFS at Scale</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Faster Peer-to-Peer Retrieval in Browsers With Caching in the Delegated Routing HTTP Server</title>
-      <link>https://blog.ipfs.tech/2025-delegated-routing-caching/</link>
-      <guid>https://blog.ipfs.tech/2025-delegated-routing-caching/</guid>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <description>How caching and active peer probing in the Someguy, the Delegated Routing server accelerates peer-to-peer content retrieval in browsers and mobile applications.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Celebrating 10 Years of Ethereum</title>
-      <link>https://blog.ethereum.org/en/2025/07/30/ethereum-10-years</link>
-      <guid>https://blog.ethereum.org/en/2025/07/30/ethereum-10-years</guid>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <description>On July 30, 2025, the Ethereum community marked a major milestone: ten years since the Ethereum’s genesis block and mainnet launch.  What began as a whitepaper has evolved into a decentralized platform now powering thousands of applications, tools, and communities around the world....</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Debugging Superpowers With the New js-libp2p Developer Tools</title>
-      <link>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</link>
-      <guid>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</guid>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-      <description>Discover the new js-libp2p developer tools from Shipyard that provide real-time debugging capabilities for js-libp2p and Helia nodes in both browsers and Node.js.</description>
       <category>IPFS</category>
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
