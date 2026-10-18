@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 04:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:00:06 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,10 +59,21 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Eulogy (At least fo rnow.)</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1x8n6wu/eulogy_at_least_fo_rnow/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1x8n6wu/eulogy_at_least_fo_rnow/</guid>
+      <pubDate>2026-10-17T22:34:00+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I was optimistic that IPFS network would keep on working decentralized even with the loss of Shipyard services. But today, it broke. My node has fallen off 'mainnet' after two days uptime, even though it's still connected to over 80 peers. Yesterday, Sonar had no trouble finding me, and I would connect to hundreds of peers. Now, looks like network has fractured beyond being reliable.&lt;/p&gt; &lt;p&gt;Edit: re-starting found the what appears to be mainnet, but clearly, it'...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 16 Oct 2026 19:17:04 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 13:29:00 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -123,18 +134,6 @@
       <guid>https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
       <pubDate>Thu, 15 Oct 2026 14:22:43 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Russia to ban direct peer-to-peer crypto trades starting July 2027&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZXEK5DTKX65782NKWA8C3M/russia-p2p-ban-illustration-1.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Starknet opens vote on potential Ethereum L2 exit over quantum risks</title>
-      <link>https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 15 Oct 2026 10:22:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Starknet opens vote on potential Ethereum L2 exit over quantum risks&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZFWYVQRAM56PW1PG6VCAV4/starknet.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -397,17 +396,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>ce-net: a peer-to-peer device mesh in Rust (libp2p + capabilities + pluggable runtimes)</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1ui3g65/cenet_a_peertopeer_device_mesh_in_rust_libp2p/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1ui3g65/cenet_a_peertopeer_device_mesh_in_rust_libp2p/</guid>
-      <pubDate>2026-06-28T17:36:58+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ui3g65/cenet_a_peertopeer_device_mesh_in_rust_libp2p/&quot;&gt; &lt;img alt=&quot;ce-net: a peer-to-peer device mesh in Rust (libp2p + capabilities + pluggable runtimes)&quot; src=&quot;https://preview.redd.it/jjohpebd72ah1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=01109bf6f781a46c00835ecc39b8128dcceaddc1&quot; title=&quot;ce-net: a peer-to-peer device mesh in Rust (libp2p + capabilities + pluggable runtimes)&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a hr...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>FileOrbit - Private IPFS Swarm and AT Proto login giving a permissioned IPFS.</title>
       <link>https://www.reddit.com/r/ipfs/comments/1uexwch/fileorbit_private_ipfs_swarm_and_at_proto_login/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1uexwch/fileorbit_private_ipfs_swarm_and_at_proto_login/</guid>
@@ -631,6 +619,18 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The latest chapter for Ethereum &amp; highlights from Devcon SEA</title>
+      <link>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</link>
+      <guid>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</guid>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <description>Devcon has always been a living reflection of Ethereum’s growth, challenges, and community ambitions. It showcases the most pressing topics, the newest innovations, and the people building the future of decentralized technology. As Ethereum grows, so too does Devcon.  Two years ago, right before Devcon VI in Bogotá, the...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
   </channel>
