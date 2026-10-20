@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 05:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:09:09 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,11 +59,83 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>US bans DeepSeek from civilian agency IT systems</title>
+      <link>https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 20 Oct 2026 04:07:58 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;US bans DeepSeek from civilian agency IT systems&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BPZ4H9R43QB2KJ6EFY4RNJ/hi-can-a-blockchain-take-over-your-job-new.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The restrictions extend earlier bans within US defense and security agencies, amid concerns that DeepSeek could expose federal information to China.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sun, 18 Oct 2026 13:54:00 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 20:02:30 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments</title>
+      <link>https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments</link>
+      <guid>https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments</guid>
+      <pubDate>Mon, 19 Oct 2026 19:16:04 +0000</pubDate>
+      <description>Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Mastercard launches stablecoin risk screening for banks and payment providers</title>
+      <link>https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 19 Oct 2026 19:03:23 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Mastercard launches stablecoin risk screening for banks and payment providers &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APDAY3V814QCHNF8PWJB4F/hi-how-mastercard-plans-to-settle-card-payments-with-stablecoins.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.
+&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain</title>
+      <link>https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars</link>
+      <guid>https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars</guid>
+      <pubDate>Mon, 19 Oct 2026 17:31:04 +0000</pubDate>
+      <description>JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I vibe coded a Reticulum port for IPFS and it came out better than expected</title>
+      <link>https://www.reddit.com/r/ipfs/comments/1x9wt4y/i_vibe_coded_a_reticulum_port_for_ipfs_and_it/</link>
+      <guid>https://www.reddit.com/r/ipfs/comments/1x9wt4y/i_vibe_coded_a_reticulum_port_for_ipfs_and_it/</guid>
+      <pubDate>2026-10-19T13:24:29+00:00</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1x9wt4y/i_vibe_coded_a_reticulum_port_for_ipfs_and_it/&quot;&gt; &lt;img alt=&quot;I vibe coded a Reticulum port for IPFS and it came out better than expected&quot; src=&quot;https://external-preview.redd.it/8TDCF21gKSOn3dBai0cFDNrVaSThwk11bkTAA3yXuIA.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7da7f7bdfd012a535a62e00833457bee426a7a4b&quot; title=&quot;I vibe coded a Reticulum port for IPFS and it came out better than expected&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Public companies object to OKX-ICE’s tokenized stock plan</title>
+      <link>https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Mon, 19 Oct 2026 13:13:53 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Public companies object to OKX-ICE’s tokenized stock plan &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5A2J092W3F0S5WH6W7VXXAN/hi-evergreen-guide-about-wall-street-pepe-general-information-1280x853.webp&quot; /&gt;&lt;/p&gt;&lt;p&gt;Nine public companies objected to having their shares offered in tokenized form by OKX and ICE, testing whether platforms can create blockchain-based markets without ...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -91,42 +163,6 @@
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Stablecoin remittances cost 84% less than traditional transfers, report finds</title>
-      <link>https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 16 Oct 2026 17:21:45 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Stablecoin remittances cost 84% less than traditional transfers, report finds &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional internati...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Australia releases draft bill to adopt OECD crypto tax reporting framework</title>
-      <link>https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 15 Oct 2026 23:34:19 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Australia releases draft bill to adopt OECD crypto tax reporting framework &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50YHACZSJPAG8A0K041MKBV/hi-how-to-file-cryptocurrency-form-in-australia-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms</title>
-      <link>https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading</link>
-      <guid>https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading</guid>
-      <pubDate>Thu, 15 Oct 2026 20:31:04 +0000</pubDate>
-      <description>Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -407,17 +443,6 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>JFN-NODE-002 — Trust Stack + MariaDB + IPFS + Passphrase Gate</title>
-      <link>https://www.reddit.com/r/ipfs/comments/1ue7242/jfnnode002_trust_stack_mariadb_ipfs_passphrase/</link>
-      <guid>https://www.reddit.com/r/ipfs/comments/1ue7242/jfnnode002_trust_stack_mariadb_ipfs_passphrase/</guid>
-      <pubDate>2026-06-24T07:50:41+00:00</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1ue7242/jfnnode002_trust_stack_mariadb_ipfs_passphrase/&quot;&gt; &lt;img alt=&quot;JFN-NODE-002 — Trust Stack + MariaDB + IPFS + Passphrase Gate&quot; src=&quot;https://external-preview.redd.it/MkKRcnMORRu5PI7Mj9unaPzD4ng7aqSOt_2YW9zp6NQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7e1a73bacfcb3261f6d623c275848e2a40251c87&quot; title=&quot;JFN-NODE-002 — Trust Stack + MariaDB + IPFS + Passphrase Gate&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://w...</description>
-      <category>community discussion</category>
-      <category>developer forum</category>
-      <category>technical discussion</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
       <title>Optimistic Provide: How We Made IPFS Content Publishing 10x Faster</title>
       <link>https://blog.ipfs.tech/2026-05-optimistic-provide/</link>
       <guid>https://blog.ipfs.tech/2026-05-optimistic-provide/</guid>
@@ -475,6 +500,18 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Datahosting.company ipfs cryptocurency cloud storage ipfs kubo, ipfs cluster #ipfs #web3 #nft #p2p</title>
+      <link>https://www.youtube.com/shorts/B4XRhAT3wyw</link>
+      <guid>https://www.youtube.com/shorts/B4XRhAT3wyw</guid>
+      <pubDate>2026-01-02T17:06:21+00:00</pubDate>
+      <description/>
+      <category>DataHosting.Company</category>
+      <category>our content</category>
+      <category>original content</category>
+      <category>company updates</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -591,42 +628,6 @@
       <guid>https://blog.ethereum.org/en/2025/04/30/uni-tour</guid>
       <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
       <description>Are you part of a university blockchain club eager to dive deeper into the world of Ethereum? We want to connect with you!  The Ethereum Foundation is sponsoring a global University Tour in partnership with BuidlGuidl, designed to activate student communities and grow the next generation of Ethereum builders....</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The Static Website Manifesto</title>
-      <link>https://blog.ipfs.tech/2025-03-static-web-manifesto/</link>
-      <guid>https://blog.ipfs.tech/2025-03-static-web-manifesto/</guid>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-      <description>Building websites used to be fun. Let’s bring back the joy of putting your work online by using open protocols like IPFS.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Could IPFS Have Prevented the Bybit Hack?</title>
-      <link>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</link>
-      <guid>https://blog.ipfs.tech/2025-could-ipfs-prevent-bybit-hack/</guid>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-      <description>The Bybit hack revealed several security failures, this post examines whether IPFS could have helped prevent the hack and practical solutions for dapp developers.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The latest chapter for Ethereum &amp; highlights from Devcon SEA</title>
-      <link>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</link>
-      <guid>https://blog.ethereum.org/en/2024/12/04/devcon-sea-wrap</guid>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-      <description>Devcon has always been a living reflection of Ethereum’s growth, challenges, and community ambitions. It showcases the most pressing topics, the newest innovations, and the people building the future of decentralized technology. As Ethereum grows, so too does Devcon.  Two years ago, right before Devcon VI in Bogotá, the...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
