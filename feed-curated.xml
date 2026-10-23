@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:13:47 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,10 +59,22 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Dune launches real-time data feeds covering 200 onchain trading venues</title>
+      <link>https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 22 Oct 2026 20:36:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Dune launches real-time data feeds covering 200 onchain trading venues &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JGN1ZK06QVTDRZ4G9H7NNP/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 21 Oct 2026 20:10:47 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 20:09:59 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
@@ -71,11 +83,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules</title>
-      <link>https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 21 Oct 2026 16:09:26 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FH88750HFGGVZ9ZQN6BBTV/hi-token-burning-explained-sec.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.&lt;/p&gt;</description>
+      <title>Starknet voters back research into life beyond Ethereum</title>
+      <link>https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 22 Oct 2026 09:37:54 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Starknet voters back research into life beyond Ethereum&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2HS/quantum.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -83,11 +95,11 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Solana’s Alpenglow launches on mainnet, targets 99% faster finality</title>
-      <link>https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 21 Oct 2026 13:57:14 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Solana’s Alpenglow launches on mainnet, targets 99% faster finality &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F9M5QVFXDEA42YHSF756WB/hi-despite-the-markets-being-down-the-blockchain-industry-is-still-thriving-solana.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more...</description>
+      <title>Bitcoin ETFs bag another $528M, taking 3-day haul past $1B</title>
+      <link>https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Thu, 22 Oct 2026 07:37:32 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin ETFs bag another $528M, taking 3-day haul past $1B&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -95,63 +107,14 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Zcash rallies 12% as developers finalize NU7 activation height</title>
-      <link>https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Wed, 21 Oct 2026 10:15:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Zcash rallies 12% as developers finalize NU7 activation height&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EY9NGAQBRRNWG4WW84BF23/zcash-with-blockchain-elements.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 mainnet activation height, targeting Nov. 5, with node synchronization work still pending.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Qubic restarts blockchain, opens recovery claims after $1.4M hack</title>
-      <link>https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 20 Oct 2026 23:26:02 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Qubic restarts blockchain, opens recovery claims after $1.4M hack&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DSAH36P14HYENYBM6CHPAW/blockchain-network.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The network’s validators approved a recovery plan and opened claims until May 1, 2027.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?</title>
-      <link>https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 20 Oct 2026 19:59:39 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and ga...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments</title>
-      <link>https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments</link>
-      <guid>https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments</guid>
-      <pubDate>Mon, 19 Oct 2026 19:16:04 +0000</pubDate>
-      <description>Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain</title>
-      <link>https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars</link>
-      <guid>https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars</guid>
-      <pubDate>Mon, 19 Oct 2026 17:31:04 +0000</pubDate>
-      <description>JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>I built Gossip — an open-core Post-Quantum messenger that falls back to Offline Bluetooth Mesh during blackouts and includes Zero-Knowledge Proof of Solvency</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xauldy/i_built_gossip_an_opencore_postquantum_messenger/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xauldy/i_built_gossip_an_opencore_postquantum_messenger/</guid>
+      <pubDate>2026-10-20T15:06:18+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;For the last couple of years, I’ve been working on an open-core communication project to solve a gap that kept bugging me.&lt;/p&gt; &lt;p&gt;Most E2EE messengers (Signal, SimpleX, Briar) are great at what they do, but they usually hit three walls:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;They go completely dead the moment cell towers or ISPs go down.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Many still rely purely on classical elliptic-curve crypto, which is exposed to Harvest Now, Decrypt Later (HNDL)...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -160,6 +123,17 @@
       <guid>https://www.reddit.com/r/ipfs/comments/1x9wt4y/i_vibe_coded_a_reticulum_port_for_ipfs_and_it/</guid>
       <pubDate>2026-10-19T13:24:29+00:00</pubDate>
       <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/ipfs/comments/1x9wt4y/i_vibe_coded_a_reticulum_port_for_ipfs_and_it/&quot;&gt; &lt;img alt=&quot;I vibe coded a Reticulum port for IPFS and it came out better than expected&quot; src=&quot;https://external-preview.redd.it/8TDCF21gKSOn3dBai0cFDNrVaSThwk11bkTAA3yXuIA.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7da7f7bdfd012a535a62e00833457bee426a7a4b&quot; title=&quot;I vibe coded a Reticulum port for IPFS and it came out better than expected&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>[Open Source] FinalisCore – A UTXO Blockchain with Deterministic BFT Finality and Native Confidential Transactions</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x9ad5g/open_source_finaliscore_a_utxo_blockchain_with/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x9ad5g/open_source_finaliscore_a_utxo_blockchain_with/</guid>
+      <pubDate>2026-10-18T18:23:25+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I want to share an open-source Layer-1 protocol written in C++ called FinalisCore and get your architectural feedback. We recently launched our first public testnet (testnet-1).&lt;/p&gt; &lt;p&gt;Our goal is to combine a UTXO model with deterministic finality and privacy from the very first block.&lt;/p&gt; &lt;p&gt;Key Technical Features:&lt;/p&gt; &lt;p&gt;• Deterministic BFT Finality: Blocks are final once signed by a validator committee quorum. There are no chain reorgs and no waiting for mul...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -197,6 +171,72 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Can time, instead of money, secure a blockchain?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x55jx7/can_time_instead_of_money_secure_a_blockchain/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x55jx7/can_time_instead_of_money_secure_a_blockchain/</guid>
+      <pubDate>2026-10-13T19:03:00+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I'm building GrahamBell, a Layer 1 where new identities are issued at a fixed global rate: one every 30 s, ~1.05M a year, however much hardware shows up. Each participant gets 1 hash/second, enforced by groups of other participants.&lt;/p&gt; &lt;p&gt;The idea (Proof of Infrastructure Endurance / Proof of Time): influence can't be bought in a burst. It has to be built up over years.&lt;/p&gt; &lt;p&gt;That's a claim. So I'm testing it in public. First milestone results, exact math, not...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Gate.io Automated Support Rejecting Pi Network Deposits due to Sub-Address / Parent Address Misclassification (Case ID: 33104864)</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x39h7w/gateio_automated_support_rejecting_pi_network/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x39h7w/gateio_automated_support_rejecting_pi_network/</guid>
+      <pubDate>2026-10-11T14:23:11+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I’m posting this as a head-up to anyone depositing &lt;strong&gt;Pi Network&lt;/strong&gt; or other Stellar/parent-child architecture tokens into Gate.io.&lt;/p&gt; &lt;p&gt;I’m currently fighting an ongoing issue with Gate.io support (&lt;strong&gt;Case ID: 33104864&lt;/strong&gt;) where my deposit arrived on-chain in Gate’s custodial system, but their frontline support refuses to process or credit it due to a fundamental misunderstanding of how Pi Network on-chain addresses ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Can influence in a decentralized network be tied to time instead of money?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x33phd/can_influence_in_a_decentralized_network_be_tied/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x33phd/can_influence_in_a_decentralized_network_be_tied/</guid>
+      <pubDate>2026-10-11T09:20:44+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;For the past couple of years I've been designing &lt;a href=&quot;http://grahambell.io/&quot;&gt;http://grahambell.io&lt;/a&gt;, a Layer 1 blockchain built on one question: can influence in a decentralized network be tied to time instead of money? &lt;/p&gt; &lt;p&gt;In Proof of Work, capital buys hashpower. In Proof of Stake, capital buys stake. Either way, whoever has the most money can acquire control quickly. &lt;/p&gt; &lt;p&gt;GrahamBell takes a different approach. Every miner is capped at 1 hash per ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Technical Discussion: Building a Public Layer 1 Blockchain With Native and EVM Execution</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x1fk67/technical_discussion_building_a_public_layer_1/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x1fk67/technical_discussion_building_a_public_layer_1/</guid>
+      <pubDate>2026-10-09T08:06:04+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I've spent the past four years developing a public Layer 1 blockchain that combines native blockchain functionality with EVM compatibility.&lt;/p&gt; &lt;p&gt;The network is now operational, and one of the biggest engineering challenges has been supporting both environments while maintaining consistent transaction processing, validator consensus and finality.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Current architecture:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Native execution:&lt;/strong&gt; A ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>The quantum threat to crypto might be bigger than people think</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x0n4y9/the_quantum_threat_to_crypto_might_be_bigger_than/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x0n4y9/the_quantum_threat_to_crypto_might_be_bigger_than/</guid>
+      <pubDate>2026-10-08T10:11:27+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I don't think the quantum threat is something Bitcoin users should panic about today, but it's also not something we can just ignore.&lt;/p&gt; &lt;p&gt;A sufficiently powerful quantum computer could potentially break the public-key cryptography protecting exposed wallets. That could mean attackers deriving private keys and moving funds without the owner's permission.&lt;/p&gt; &lt;p&gt;The scary part isn't just one wallet getting compromised. If the cryptography isn't upgraded in time...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I'm building a Rust L1 where PoW, PoS and BFT domains settle into the same deterministic state. Looking for protocol-level criticism.</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1x016mi/im_building_a_rust_l1_where_pow_pos_and_bft/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1x016mi/im_building_a_rust_l1_where_pow_pos_and_bft/</guid>
+      <pubDate>2026-10-07T16:31:53+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been working on an experimental Layer-1 called &lt;strong&gt;Budlum&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;The question I'm exploring is:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Can independently finalized consensus domains converge into one deterministic global state without trusting a centralized coordinator?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Instead of forcing every domain into the same consensus mechanism, Budlum is designed around heterogeneous domains such as PoW, PoS and BFT that produce independently verifiable commitm...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -579,54 +619,6 @@
       <guid>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</guid>
       <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
       <description>Ethereum’s weekly All Core Developer calls are a lot to keep up with, so this &quot;Checkpoint&quot; series aims for high-level updates depending on what’s happening in core development. See the previous update here.  This is a special edition of the series!  Kicking off Berlin Blockchain Week, ethereum core...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>🌳 IPFS Newsletter 205: HTTP, P2P in browsers, Kubo speedup &amp; more</title>
-      <link>https://blog.ipfs.tech/newsletter-205/</link>
-      <guid>https://blog.ipfs.tech/newsletter-205/</guid>
-      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-      <description>The IPFS Newsletter is back, with many exciting updates to share: HTTP support across the IPFS stack, P2P in browsers, Kubo speedup, and more.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing the Trillion Dollar Security Initiative</title>
-      <link>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</link>
-      <guid>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</guid>
-      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-      <description>Ethereum is the most secure blockchain ecosystem. This is the result of 10 years of progress and iteration across every level of Ethereum’s technology stack, from wallet UX to developer tooling to consensus protocol security.  But being the most secure platform in the crypto ecosystem isn’t enough. Ethereum’s ambition...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Spring 2025 IPFS Utility Grantees</title>
-      <link>https://blog.ipfs.tech/2025-05-grants/</link>
-      <guid>https://blog.ipfs.tech/2025-05-grants/</guid>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <description>We're delighted to announce the grantees for the Spring 2025 round of IPFS Utility Grants.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum University Tour</title>
-      <link>https://blog.ethereum.org/en/2025/04/30/uni-tour</link>
-      <guid>https://blog.ethereum.org/en/2025/04/30/uni-tour</guid>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <description>Are you part of a university blockchain club eager to dive deeper into the world of Ethereum? We want to connect with you!  The Ethereum Foundation is sponsoring a global University Tour in partnership with BuidlGuidl, designed to activate student communities and grow the next generation of Ethereum builders....</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
