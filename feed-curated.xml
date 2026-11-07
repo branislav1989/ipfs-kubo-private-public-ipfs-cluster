@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:13:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:27:40 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -59,6 +59,89 @@
     <category>original content</category>
     <category>company updates</category>
     <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 06 Nov 2026 22:00:15 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>One human, one validator: how would you measure the cost of capturing the network?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xpnjw9/one_human_one_validator_how_would_you_measure_the/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xpnjw9/one_human_one_validator_how_would_you_measure_the/</guid>
+      <pubDate>2026-11-06T20:40:32+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A thousand validator keys can still belong to one person. That makes validator count a pretty incomplete measure of decentralization, especially if we're talking about PoS and PoW networks. &lt;/p&gt; &lt;p&gt;The recent Humanode's paper on Proof-of-Biometric-Uniqueness (PoBU) explores a different starting point: one eligible validator per verified human, with equal baseline weight. Holding more tokens doesn’t increase that weight - that's egalitarian consensus mechanism fo...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic</title>
+      <link>https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic</link>
+      <guid>https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic</guid>
+      <pubDate>Fri, 06 Nov 2026 14:04:18 +0000</pubDate>
+      <description>The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Greece approves 10% tax on crypto gains starting in 2027</title>
+      <link>https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 06 Nov 2026 11:05:36 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Greece approves 10% tax on crypto gains starting in 2027&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5Q2DQ5AGNG7X8S492C0S3/hi-how-to-use-the-greeks-in-options-trading.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Binance’s $6.3B hack leaves questions over hot wallet safeguards</title>
+      <link>https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 06 Nov 2026 10:40:57 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Binance’s $6.3B hack leaves questions over hot wallet safeguards&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Hyperliquid Strategies seeks futures registration for perps</title>
+      <link>https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 06 Nov 2026 08:42:54 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Hyperliquid Strategies seeks futures registration for perps &quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QXFT81EJZ5FY6966J6NXJE/hiblockchain-powered-prediction-platforms-hyperliquid-2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Bitcoin, Ether ETFs post $530M outflows as election gains evaporate</title>
+      <link>https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 06 Nov 2026 08:19:18 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin, Ether ETFs post $530M outflows as election gains evaporate&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>Chainalysis says breach exposed password hashes and live tokens</title>
       <link>https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -71,15 +154,14 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 06 Nov 2026 06:04:41 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Everyone talks about tokenizing real estate and gold, but what about mining projects?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xp0etc/everyone_talks_about_tokenizing_real_estate_and/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xp0etc/everyone_talks_about_tokenizing_real_estate_and/</guid>
+      <pubDate>2026-11-06T01:36:44+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been reading a lot about RWAs lately, and it feels like most of the conversation is around real estate, treasuries, and gold&lt;/p&gt; &lt;p&gt;But I'm curious why we don't hear much about actual mining projects.&lt;/p&gt; &lt;p&gt;I'm working with a team exploring this space, and the more I learn, the more I realize how complicated it is.&lt;/p&gt; &lt;p&gt;Mining projects have licenses, geological reports, ownership records, production data, etc. Putting that information on-chain sounds int...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -107,51 +189,36 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says</title>
-      <link>https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 05 Nov 2026 13:34:57 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NVZ81DDBWF6QP902GQ9K32/crypto-assets-management.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting agent-building platform VeWorld.ai.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>Are current blockchain consensus mechanisms actually ready for large-scale real-world applications?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xnh3tu/are_current_blockchain_consensus_mechanisms/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xnh3tu/are_current_blockchain_consensus_mechanisms/</guid>
+      <pubDate>2026-11-04T06:29:59+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most blockchains still face trade-offs between decentralisation, security, and scalability. Improving transaction throughput often means changes to validator requirements, hardware costs, or network design.&lt;/p&gt; &lt;p&gt;But here's what I'm curious about:&lt;/p&gt; &lt;p&gt;If a blockchain needs fewer validators, more powerful hardware, or additional layers to handle millions of transactions, at what point does scaling start weakening the decentralisation it was built to protect?&lt;...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Can decentralized phone networks power the AI revolution?</title>
-      <link>https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 05 Nov 2026 13:30:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Can decentralized phone networks power the AI revolution?&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Decentralized AI networks want to turn everyday phones into an alternative to centralized computing infrastructure  — but skeptics have their doubts.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>How long is a reasonable discovery phase for blockchain consulting?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xn2qf1/how_long_is_a_reasonable_discovery_phase_for/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xn2qf1/how_long_is_a_reasonable_discovery_phase_for/</guid>
+      <pubDate>2026-11-03T19:34:35+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Currently looking at some blockchain teams for consultancy and I'm just a bit confused why their &amp;quot;discovery phases&amp;quot; are at varying lengths, usually 2-3 weeks. For context, our team needs some help with cross-chain compatibility and smart contract architecture. We get the concepts on paper, but just need the guidance actually applying it to our product. I just don't want to pay for a team to learn how my system works first, then pay again so they can ge...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
-      <title>Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms</title>
-      <link>https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 05 Nov 2026 08:22:30 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N87QAZCRG7H93QMDFANP2Q/hi-blockchain-and-elections.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep</title>
-      <link>https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 05 Nov 2026 04:52:49 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N0Q7DG6MW0G7R7JK3YCJ78/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Democrats wasted little time after their midterm victory, warning tech CEOs to prepare for subpoenas and signaling fresh investigations into Trump’s business dealin...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
+      <title>What if the next major wave of blockchain adoption comes from people who don't care about crypto?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xmjput/what_if_the_next_major_wave_of_blockchain/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xmjput/what_if_the_next_major_wave_of_blockchain/</guid>
+      <pubDate>2026-11-03T04:41:46+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A lot of blockchain discussions still revolve around token prices, trading, decentralisation, and the crypto community itself.&lt;/p&gt; &lt;p&gt;But some of the most meaningful applications might emerge in industries where users don't particularly care whether blockchain is involved.&lt;/p&gt; &lt;p&gt;Think about asset settlement, supply chain verification, digital credentials, financial infrastructure, and ownership records.&lt;/p&gt; &lt;p&gt;In these situations, people are more interested in ...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
@@ -166,11 +233,99 @@
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
     <item>
+      <title>How can one build a bootstrap node for a blockchain without introducing centralization?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xlia72/how_can_one_build_a_bootstrap_node_for_a/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xlia72/how_can_one_build_a_bootstrap_node_for_a/</guid>
+      <pubDate>2026-11-01T23:53:49+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello Reddit! I’m currently in high school and working on a project alongside my schoolwork: I’m developing a blockchain and its associated token. The blockchain is designed to be ASIC-resistant (using Argon2id), secure (as all blockchains should be), and, most importantly, decentralized. Right now, the project exists only as files in a private GitHub repository, but I plan to deploy it soon—though it’s primarily an educational endeavor. As is often the case wit...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
       <title>IPFS is a bad idea.</title>
       <link>https://www.reddit.com/r/ipfs/comments/1xld8y2/ipfs_is_a_bad_idea/</link>
       <guid>https://www.reddit.com/r/ipfs/comments/1xld8y2/ipfs_is_a_bad_idea/</guid>
       <pubDate>2026-11-01T20:17:27+00:00</pubDate>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;IPFS doesn't solve any issue at all, i think someone just wanted to sell and dump their filecoins when they were 100 euros each in 2021.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Anonymous file sharing? No.&lt;/li&gt; &lt;li&gt;Faster file sharing than HTTP or BitTorrent (DHT)? No.&lt;/li&gt; &lt;li&gt;Do i pay less than a traditional cloud subscription for storage? Absolutely not.&lt;/li&gt; &lt;li&gt;Does it solve centralized architecture (SPOF)? No, a centralized service must keep existing or even being paid to keep the co...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Can a blockchain be truly decentralised if most applications depend on a handful of RPC providers?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xk8d4d/can_a_blockchain_be_truly_decentralised_if_most/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xk8d4d/can_a_blockchain_be_truly_decentralised_if_most/</guid>
+      <pubDate>2026-10-31T11:59:35+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Something I find interesting about blockchain infrastructure is the gap between decentralisation at the protocol level and decentralisation at the application level.&lt;/p&gt; &lt;p&gt;A network might have thousands of validators, but if most wallets, dApps, and developers rely on a small number of RPC providers, those providers could become practical bottlenecks. An outage or censorship decision at that layer could affect a large portion of the ecosystem without the blockc...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Are blockchain projects focusing too much on technology and not enough on real-world adoption?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xk100h/are_blockchain_projects_focusing_too_much_on/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xk100h/are_blockchain_projects_focusing_too_much_on/</guid>
+      <pubDate>2026-10-31T04:33:07+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been thinking about how much progress blockchain technology has made, from smart contracts and tokenisation to DeFi and real-world asset (RWA) platforms.&lt;/p&gt; &lt;p&gt;But one thing I keep noticing is that having a technically strong project doesn't necessarily mean people will actually use it.&lt;/p&gt; &lt;p&gt;A project can have solid infrastructure, innovative features and impressive tokenomics, but if it doesn't solve a genuine problem or offer a better experience than e...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Where does no-code automation make sense in Web3, and where does it become too risky?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xj7ki6/where_does_nocode_automation_make_sense_in_web3/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xj7ki6/where_does_nocode_automation_make_sense_in_web3/</guid>
+      <pubDate>2026-10-30T06:05:22+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I've been exploring no-code tools (n8n and similar) for Web3 tasks like wallet activity alerts, DAO proposal notifications and simple on-chain data logging.&lt;/p&gt; &lt;p&gt;Read-only stuff (alerts, dashboards, notifications) feels low risk to me. But once a workflow can sign or send transactions, I get nervous about private key handling, token approvals and a bug draining funds.&lt;/p&gt; &lt;p&gt;My current rule of thumb: never keep a main wallet's key inside an automation tool, us...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>I've been working on for a peer-to-peer (P2P) exchange model</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xinf03/ive_been_working_on_for_a_peertopeer_p2p_exchange/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xinf03/ive_been_working_on_for_a_peertopeer_p2p_exchange/</guid>
+      <pubDate>2026-10-29T15:39:50+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone. I wanted to share a system architecture challenge I've been working on for a peer-to-peer (P2P) exchange model and get your technical insights.&lt;/p&gt; &lt;p&gt;​The main goal was to design a strictly non-custodial flow where smart contracts act solely as execution arbiters—charging fees only upon successful completion without ever holding user funds at any point.&lt;/p&gt; &lt;p&gt;​Some key technical points of the current design:&lt;/p&gt; &lt;p&gt;​&lt;strong&gt;Contract-based executi...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>When a smart contract needs to be fixed, who should have the power to change it?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xihlzm/when_a_smart_contract_needs_to_be_fixed_who/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xihlzm/when_a_smart_contract_needs_to_be_fixed_who/</guid>
+      <pubDate>2026-10-29T11:40:47+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Smart contracts are often praised for executing predefined rules without requiring trust in a central authority. But the situation becomes more complicated when a contract contains a vulnerability, a business requirement changes, or an unexpected edge case puts users' funds at risk.&lt;/p&gt; &lt;p&gt;An immutable contract can preserve predictable rules, but it can also make correcting serious mistakes difficult. Upgradeable contracts offer more flexibility, yet they introd...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>WebQuid – A serverless system that runs in the browser</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xhsqqf/webquid_a_serverless_system_that_runs_in_the/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xhsqqf/webquid_a_serverless_system_that_runs_in_the/</guid>
+      <pubDate>2026-10-28T16:22:56+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I built an experiment I've been curious about for a while: what if a blockchain had literally zero infrastructure? No servers, no database, no company. Just browsers talking to each other.&lt;/p&gt; &lt;p&gt;Every tab that opens the page becomes a full node. Consensus is longest-chain PoW, but here's the twist: every device is hard-capped at 70k H/s in the mining worker. A phone and an H100 cluster have the exact same probability of finding a block. The winner is determined...</description>
+      <category>community discussion</category>
+      <category>developer forum</category>
+      <category>technical discussion</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>How to choose in between different wallet infra?</title>
+      <link>https://www.reddit.com/r/CryptoTechnology/comments/1xgk72z/how_to_choose_in_between_different_wallet_infra/</link>
+      <guid>https://www.reddit.com/r/CryptoTechnology/comments/1xgk72z/how_to_choose_in_between_different_wallet_infra/</guid>
+      <pubDate>2026-10-27T05:31:54+00:00</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone! I’m building a wallet that lets users delegate actions to an AI agent, and I’m researching wallet infrastructure providers to get started. I’m currently looking at Privy, Turnkey, Dynamic, and Web3Auth.&lt;/p&gt; &lt;p&gt;If you’ve built with any of these, what did you like most, and what limitations did you run into? I really appriciate any suggestions～&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sia9098&quot;&gt; /u/sia9098...</description>
       <category>community discussion</category>
       <category>developer forum</category>
       <category>technical discussion</category>
@@ -463,174 +618,6 @@
       <category>InterPlanetary File System</category>
       <category>Content Addressed Storage</category>
       <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>IPIP-0499: Updating IPFS Standards for Consistent, Reproducible CIDs</title>
-      <link>https://blog.ipfs.tech/2026-03-reproducible-cids/</link>
-      <guid>https://blog.ipfs.tech/2026-03-reproducible-cids/</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-      <description>IPIP-0499 makes IPFS CIDs deterministic and consistent across all implementations.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>This Is Fine (Until the Grant Runs Out)</title>
-      <link>https://blog.ethereum.org/en/2026/02/27/project-odin</link>
-      <guid>https://blog.ethereum.org/en/2026/02/27/project-odin</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-      <description>The commons called. It wants a runway.  Every so often, in the blockchain world’s usual cycle of funding scares, a team maintaining a widely used open source public good declares mayday. Libp2p is a core infrastructure stack that powers multiple Ethereum clients (among others) and a large part of...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Content-Addressing: A Year In Review</title>
-      <link>https://blog.ipfs.tech/2026-01-year-in-review/</link>
-      <guid>https://blog.ipfs.tech/2026-01-year-in-review/</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-      <description>Let's take a look at what happened in content addressing in 2025 — it's a lot!</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>How to Migrate IPFS Websites from Fleek to Modular Infrastructure</title>
-      <link>https://blog.ipfs.tech/2026-fleek-migration/</link>
-      <guid>https://blog.ipfs.tech/2026-fleek-migration/</guid>
-      <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-      <description>A how-to guide for future-proofing your content-addressed website hosting.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Shipyard 2025: IPFS Year in Review</title>
-      <link>https://ipshipyard.com/blog/2025-shipyard-ipfs-year-in-review/</link>
-      <guid>https://ipshipyard.com/blog/2025-shipyard-ipfs-year-in-review/</guid>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-      <description>Seven Kubo releases made self-hosted IPFS practical. Highlights: DHT Provide Sweep, AutoTLS, HTTP retrieval, and Helia for trustless browser retrieval.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Provide Sweep: Solving the DHT Bottleneck for Self-Hosting IPFS at Scale</title>
-      <link>https://ipshipyard.com/blog/2025-dht-provide-sweep/</link>
-      <guid>https://ipshipyard.com/blog/2025-dht-provide-sweep/</guid>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Provide Sweep: Solving the DHT Bottleneck for Self-Hosting IPFS at Scale</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Faster Peer-to-Peer Retrieval in Browsers With Caching in the Delegated Routing HTTP Server</title>
-      <link>https://blog.ipfs.tech/2025-delegated-routing-caching/</link>
-      <guid>https://blog.ipfs.tech/2025-delegated-routing-caching/</guid>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <description>How caching and active peer probing in the Someguy, the Delegated Routing server accelerates peer-to-peer content retrieval in browsers and mobile applications.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Celebrating 10 Years of Ethereum</title>
-      <link>https://blog.ethereum.org/en/2025/07/30/ethereum-10-years</link>
-      <guid>https://blog.ethereum.org/en/2025/07/30/ethereum-10-years</guid>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-      <description>On July 30, 2025, the Ethereum community marked a major milestone: ten years since the Ethereum’s genesis block and mainnet launch.  What began as a whitepaper has evolved into a decentralized platform now powering thousands of applications, tools, and communities around the world....</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Debugging Superpowers With the New js-libp2p Developer Tools</title>
-      <link>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</link>
-      <guid>https://blog.ipfs.tech/2025-js-libp2p-helia-devtools/</guid>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-      <description>Discover the new js-libp2p developer tools from Shipyard that provide real-time debugging capabilities for js-libp2p and Helia nodes in both browsers and Node.js.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Checkpoint #4: Berlinterop</title>
-      <link>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</link>
-      <guid>https://blog.ethereum.org/en/2025/06/19/checkpoint-4</guid>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-      <description>Ethereum’s weekly All Core Developer calls are a lot to keep up with, so this &quot;Checkpoint&quot; series aims for high-level updates depending on what’s happening in core development. See the previous update here.  This is a special edition of the series!  Kicking off Berlin Blockchain Week, ethereum core...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>🌳 IPFS Newsletter 205: HTTP, P2P in browsers, Kubo speedup &amp; more</title>
-      <link>https://blog.ipfs.tech/newsletter-205/</link>
-      <guid>https://blog.ipfs.tech/newsletter-205/</guid>
-      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-      <description>The IPFS Newsletter is back, with many exciting updates to share: HTTP support across the IPFS stack, P2P in browsers, Kubo speedup, and more.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Announcing the Trillion Dollar Security Initiative</title>
-      <link>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</link>
-      <guid>https://blog.ethereum.org/en/2025/05/14/trillion-dollar-security</guid>
-      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-      <description>Ethereum is the most secure blockchain ecosystem. This is the result of 10 years of progress and iteration across every level of Ethereum’s technology stack, from wallet UX to developer tooling to consensus protocol security.  But being the most secure platform in the crypto ecosystem isn’t enough. Ethereum’s ambition...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Spring 2025 IPFS Utility Grantees</title>
-      <link>https://blog.ipfs.tech/2025-05-grants/</link>
-      <guid>https://blog.ipfs.tech/2025-05-grants/</guid>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <description>We're delighted to announce the grantees for the Spring 2025 round of IPFS Utility Grants.</description>
-      <category>IPFS</category>
-      <category>InterPlanetary File System</category>
-      <category>Content Addressed Storage</category>
-      <category>distributed-p2p</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Ethereum University Tour</title>
-      <link>https://blog.ethereum.org/en/2025/04/30/uni-tour</link>
-      <guid>https://blog.ethereum.org/en/2025/04/30/uni-tour</guid>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-      <description>Are you part of a university blockchain club eager to dive deeper into the world of Ethereum? We want to connect with you!  The Ethereum Foundation is sponsoring a global University Tour in partnership with BuidlGuidl, designed to activate student communities and grow the next generation of Ethereum builders....</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
     </item>
   </channel>
